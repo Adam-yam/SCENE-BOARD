@@ -1,8 +1,6 @@
 name: 뉴스 자동 업데이트
 
 on:
-  schedule:
-    - cron: "23 */3 * * *"
   workflow_dispatch:
 
 permissions:
