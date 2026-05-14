@@ -30,7 +30,9 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          git stash
           git pull --rebase origin main
+          git stash pop
           git add youtube.json
           git diff --cached --quiet || git commit -m "chore: 유튜브 자동 업데이트 $(date +'%Y-%m-%d %H:%M')"
           git push
