@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-14T10:10:22Z",
+  "updated": "2026-05-14T11:10:22Z",
   "videos": [
     {
       "id": "v_lvcboab9w",
@@ -50,6 +50,14 @@
       "type": "long"
     },
     {
+      "id": "OQiuG_trYVQ",
+      "title": "조타~",
+      "url": "https://www.youtube.com/shorts/OQiuG_trYVQ",
+      "thumbnail": "https://i.ytimg.com/vi/OQiuG_trYVQ/mqdefault_live.jpg",
+      "date": "2026.05.14",
+      "type": "short"
+    },
+    {
       "id": "9LVR7BhD9-Q",
       "title": "REDRED 🚨",
       "url": "https://www.youtube.com/shorts/9LVR7BhD9-Q",
@@ -87,14 +95,6 @@
       "url": "https://www.youtube.com/shorts/3R7NPw_t2DY",
       "thumbnail": "https://i.ytimg.com/vi/3R7NPw_t2DY/mqdefault.jpg",
       "date": "2026.05.13",
-      "type": "short"
-    },
-    {
-      "id": "TQoNmPMAw-Y",
-      "title": "코코아의 효능",
-      "url": "https://www.youtube.com/shorts/TQoNmPMAw-Y",
-      "thumbnail": "https://i.ytimg.com/vi/TQoNmPMAw-Y/mqdefault.jpg",
-      "date": "2026.05.12",
       "type": "short"
     }
   ]
