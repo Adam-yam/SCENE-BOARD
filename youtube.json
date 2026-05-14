@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-14T06:33:02Z",
+  "updated": "2026-05-14T08:23:28Z",
   "videos": [
     {
       "id": "v_lvcboab9w",
@@ -50,6 +50,14 @@
       "type": "long"
     },
     {
+      "id": "9LVR7BhD9-Q",
+      "title": "REDRED 🚨",
+      "url": "https://www.youtube.com/shorts/9LVR7BhD9-Q",
+      "thumbnail": "https://i.ytimg.com/vi/9LVR7BhD9-Q/mqdefault.jpg",
+      "date": "2026.05.14",
+      "type": "short"
+    },
+    {
       "id": "C_H7fTdVqSw",
       "title": "06즈 대기실 사건(?) | ‘Runaway’ 음악방송 Behind #2 | RESCENE (리센느)",
       "url": "https://www.youtube.com/shorts/C_H7fTdVqSw",
@@ -86,14 +94,6 @@
       "title": "코코아의 효능",
       "url": "https://www.youtube.com/shorts/TQoNmPMAw-Y",
       "thumbnail": "https://i.ytimg.com/vi/TQoNmPMAw-Y/mqdefault.jpg",
-      "date": "2026.05.12",
-      "type": "short"
-    },
-    {
-      "id": "Sn4LxA0SfU4",
-      "title": "Why do you like RESCENE so much?",
-      "url": "https://www.youtube.com/shorts/Sn4LxA0SfU4",
-      "thumbnail": "https://i.ytimg.com/vi/Sn4LxA0SfU4/mqdefault.jpg",
       "date": "2026.05.12",
       "type": "short"
     }
