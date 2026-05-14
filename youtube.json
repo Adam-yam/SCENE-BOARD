@@ -1,6 +1,14 @@
 {
-  "updated": "2026-05-14T12:10:26Z",
+  "updated": "2026-05-14T13:10:32Z",
   "videos": [
+    {
+      "id": "OQiuG_trYVQ",
+      "title": "조타~",
+      "url": "https://www.youtube.com/watch?v=OQiuG_trYVQ",
+      "thumbnail": "https://i.ytimg.com/vi/OQiuG_trYVQ/mqdefault.jpg",
+      "date": "2026.05.14",
+      "type": "long"
+    },
     {
       "id": "v_lvcboab9w",
       "title": "추구미 실현👑 | RESCENE (리센느) ‘Runaway’ 음악방송 Behind #2",
@@ -42,22 +50,6 @@
       "type": "long"
     },
     {
-      "id": "h_hW4FoKadc",
-      "title": "[BASE NOTES] RESCENE (리센느) &#39;Runaway&#39; Recording Behind",
-      "url": "https://www.youtube.com/watch?v=h_hW4FoKadc",
-      "thumbnail": "https://i.ytimg.com/vi/h_hW4FoKadc/mqdefault.jpg",
-      "date": "2026.04.28",
-      "type": "long"
-    },
-    {
-      "id": "OQiuG_trYVQ",
-      "title": "조타~",
-      "url": "https://www.youtube.com/shorts/OQiuG_trYVQ",
-      "thumbnail": "https://i.ytimg.com/vi/OQiuG_trYVQ/mqdefault_live.jpg",
-      "date": "2026.05.14",
-      "type": "short"
-    },
-    {
       "id": "9LVR7BhD9-Q",
       "title": "REDRED 🚨",
       "url": "https://www.youtube.com/shorts/9LVR7BhD9-Q",
@@ -95,6 +87,14 @@
       "url": "https://www.youtube.com/shorts/3R7NPw_t2DY",
       "thumbnail": "https://i.ytimg.com/vi/3R7NPw_t2DY/mqdefault.jpg",
       "date": "2026.05.13",
+      "type": "short"
+    },
+    {
+      "id": "TQoNmPMAw-Y",
+      "title": "코코아의 효능",
+      "url": "https://www.youtube.com/shorts/TQoNmPMAw-Y",
+      "thumbnail": "https://i.ytimg.com/vi/TQoNmPMAw-Y/mqdefault.jpg",
+      "date": "2026.05.12",
       "type": "short"
     }
   ]
