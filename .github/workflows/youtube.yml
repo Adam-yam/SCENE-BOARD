@@ -1,8 +1,6 @@
 name: 유튜브 자동 업데이트
 
 on:
-  schedule:
-    - cron: "7 * * * *"
   workflow_dispatch:
 
 permissions:
