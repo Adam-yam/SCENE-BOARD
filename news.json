@@ -1,6 +1,13 @@
 {
-  "updated": "2026-05-14T04:16:49Z",
+  "updated": "2026-05-14T06:23:07Z",
   "articles": [
+    {
+      "title": "빅뱅, 스타트렌드 K-POP 그룹 1위...멤버 태양의 정규 앨범 화력 효과?",
+      "url": "https://www.thepublic.kr/news/articleView.html?idxno=304404",
+      "date": "2026.05.14",
+      "source": "thepublic.kr",
+      "thumbnail": "https://cdn.thepublic.kr/news/photo/202605/304404_306896_4616.png"
+    },
     {
       "title": "1위 방탄소년단, 2위 아이브, 3위 블랙핑크",
       "url": "https://www.starnewskorea.com/music/2026/05/14/2026051406432214996",
@@ -133,13 +140,6 @@
       "date": "2026.05.05",
       "source": "slist.kr",
       "thumbnail": "https://cdn.slist.kr/news/thumbnail/202605/737024_1131162_112_v150.jpg"
-    },
-    {
-      "title": "리센느 \"대형 회사라면 막았을 갸루도 허용…우리 소속사의 강점\"",
-      "url": "https://www.mydaily.co.kr/page/view/2026050608045702878",
-      "date": "2026.05.05",
-      "source": "mydaily.co.kr",
-      "thumbnail": null
     }
   ]
 }
