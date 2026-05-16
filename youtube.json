@@ -1,6 +1,14 @@
 {
-  "updated": "2026-05-16T17:10:24Z",
+  "updated": "2026-05-16T18:10:20Z",
   "videos": [
+    {
+      "id": "FBsPWusWoWY",
+      "title": "신라공주와 그냥리브 🕶️✨⭐️",
+      "url": "https://www.youtube.com/watch?v=FBsPWusWoWY",
+      "thumbnail": "https://i.ytimg.com/vi/FBsPWusWoWY/mqdefault.jpg",
+      "date": "2026.05.16",
+      "type": "long"
+    },
     {
       "id": "OQiuG_trYVQ",
       "title": "조타~",
@@ -42,22 +50,6 @@
       "type": "long"
     },
     {
-      "id": "4NvNGILmy0Y",
-      "title": "어서와~ 게릴라 콘서트는 처음이지?😎 | &#39;GIRL GROOVE&#39; GUERRILLA CONCERT | RESCENE (리센느)",
-      "url": "https://www.youtube.com/watch?v=4NvNGILmy0Y",
-      "thumbnail": "https://i.ytimg.com/vi/4NvNGILmy0Y/mqdefault.jpg",
-      "date": "2026.04.30",
-      "type": "long"
-    },
-    {
-      "id": "FBsPWusWoWY",
-      "title": "신라공주와 그냥리브 🕶️✨⭐️",
-      "url": "https://www.youtube.com/shorts/FBsPWusWoWY",
-      "thumbnail": "https://i.ytimg.com/vi/FBsPWusWoWY/mqdefault_live.jpg",
-      "date": "2026.05.16",
-      "type": "short"
-    },
-    {
       "id": "2fJxVNn0-tI",
       "title": "날 뒤흔드는 #NMIXX #설윤 님, now I run away🏃‍♀️🧭",
       "url": "https://www.youtube.com/shorts/2fJxVNn0-tI",
@@ -94,6 +86,14 @@
       "title": "왓츠 인 미나미 백 | ‘Runaway’ 음악방송 Behind #2 | RESCENE (리센느)",
       "url": "https://www.youtube.com/shorts/tNeTvsHBaeM",
       "thumbnail": "https://i.ytimg.com/vi/tNeTvsHBaeM/mqdefault.jpg",
+      "date": "2026.05.13",
+      "type": "short"
+    },
+    {
+      "id": "ymDN-fE7tEI",
+      "title": "날 뒤흔드는 IS:SUE #RIN 님, now I run away🏃‍♀️🧭",
+      "url": "https://www.youtube.com/shorts/ymDN-fE7tEI",
+      "thumbnail": "https://i.ytimg.com/vi/ymDN-fE7tEI/mqdefault.jpg",
       "date": "2026.05.13",
       "type": "short"
     }
