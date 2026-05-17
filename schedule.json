@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-16T15:05:21Z",
+  "updated": "2026-05-17T03:05:19Z",
   "events": [
     {
       "date": "2026-05-05",
@@ -51,8 +51,22 @@
       "source": "mnetplus"
     },
     {
+      "date": "2026-05-28",
+      "title": "유한대학교 축제",
+      "detail": "",
+      "type": "기타",
+      "source": "mnetplus"
+    },
+    {
+      "date": "2026-05-29",
+      "title": "[Runaway] 일일카페이벤트 by fairytree in TAIPEI",
+      "detail": "",
+      "type": "팬사인회",
+      "source": "mnetplus"
+    },
+    {
       "date": "2026-05-30",
-      "title": "[Runaway] 대면 팬사인회 & 포토회 by fairytree in TAIWAN",
+      "title": "[Runaway] 대면 팬사인회 & 포토회 by fairytree in TAIPEI",
       "detail": "",
       "type": "팬사인회",
       "source": "mnetplus"
