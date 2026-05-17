@@ -1,6 +1,13 @@
 {
-  "updated": "2026-05-17T03:00:37Z",
+  "updated": "2026-05-17T04:00:34Z",
   "articles": [
+    {
+      "title": "\"퍼스트 펭귄이 해냈다\"… 이선민, 어디까지 올라가는 거예요? [이슈&톡...",
+      "url": "http://www.tvdaily.co.kr/read.php3?aid=17789869941786749019",
+      "date": "2026.05.17",
+      "source": "tvdaily.co.kr",
+      "thumbnail": "http://image.tvdaily.co.kr/upimages/gisaimg/202605/1778986994_1786749.jpg"
+    },
     {
       "title": "3위가 블랙핑크…5월 아이돌그룹 브랜드평판 '1위'는 바로",
       "url": "https://www.wikitree.co.kr/articles/1136435",
@@ -104,7 +111,7 @@
       "url": "https://www.sportsseoul.com/news/read/1608362?ref=naver",
       "date": "2026.05.11",
       "source": "sportsseoul.com",
-      "thumbnail": null
+      "thumbnail": "https://file.sportsseoul.com/news/cms/2026/05/11/news-p.v1.20260511.1d013bb835bd4f45b6f64342148cc97c_P1.jpg"
     },
     {
       "title": "리센느, 'KCON JAPAN 2026'서 커버·자작 무대까지 팬심 공략",
@@ -133,13 +140,6 @@
       "date": "2026.05.07",
       "source": "press9.kr",
       "thumbnail": "http://www.press9.kr/news/thumbnail/202605/76064_88861_453_v150.jpg"
-    },
-    {
-      "title": "현대약품 헬씨올리고팝, 걸그룹 리센느와 앳스타일 6월호 화보 공개",
-      "url": "http://www.lawissue.co.kr/view.php?ud=202605061946061229204ead0791_12",
-      "date": "2026.05.06",
-      "source": "lawissue.co.kr",
-      "thumbnail": "https://cliimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=20260506201023020350204ead079118023320059.jpg&nmt=12"
     }
   ]
 }
