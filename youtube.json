@@ -1,6 +1,14 @@
 {
-  "updated": "2026-05-17T13:10:27Z",
+  "updated": "2026-05-17T14:10:23Z",
   "videos": [
+    {
+      "id": "Aapj6tR9TZ0",
+      "title": "메라디오얌🫪",
+      "url": "https://www.youtube.com/watch?v=Aapj6tR9TZ0",
+      "thumbnail": "https://i.ytimg.com/vi/Aapj6tR9TZ0/mqdefault.jpg",
+      "date": "2026.05.17",
+      "type": "long"
+    },
     {
       "id": "FBsPWusWoWY",
       "title": "신라공주와 그냥리브 🕶️✨⭐️",
@@ -42,22 +50,6 @@
       "type": "long"
     },
     {
-      "id": "pZ0ZM-2jvwg",
-      "title": "다들 많이 기다렸지?💃ㅣRESCENE (리센느) &#39;Runaway&#39; Dance Practice Behind",
-      "url": "https://www.youtube.com/watch?v=pZ0ZM-2jvwg",
-      "thumbnail": "https://i.ytimg.com/vi/pZ0ZM-2jvwg/mqdefault.jpg",
-      "date": "2026.05.05",
-      "type": "long"
-    },
-    {
-      "id": "Aapj6tR9TZ0",
-      "title": "메라디오얌🫪",
-      "url": "https://www.youtube.com/shorts/Aapj6tR9TZ0",
-      "thumbnail": "https://i.ytimg.com/vi/Aapj6tR9TZ0/mqdefault_live.jpg",
-      "date": "2026.05.17",
-      "type": "short"
-    },
-    {
       "id": "2fJxVNn0-tI",
       "title": "날 뒤흔드는 #NMIXX #설윤 님, now I run away🏃‍♀️🧭",
       "url": "https://www.youtube.com/shorts/2fJxVNn0-tI",
@@ -94,6 +86,14 @@
       "title": "왓츠 인 미나미 백 | ‘Runaway’ 음악방송 Behind #2 | RESCENE (리센느)",
       "url": "https://www.youtube.com/shorts/tNeTvsHBaeM",
       "thumbnail": "https://i.ytimg.com/vi/tNeTvsHBaeM/mqdefault.jpg",
+      "date": "2026.05.13",
+      "type": "short"
+    },
+    {
+      "id": "ymDN-fE7tEI",
+      "title": "날 뒤흔드는 IS:SUE #RIN 님, now I run away🏃‍♀️🧭",
+      "url": "https://www.youtube.com/shorts/ymDN-fE7tEI",
+      "thumbnail": "https://i.ytimg.com/vi/ymDN-fE7tEI/mqdefault.jpg",
       "date": "2026.05.13",
       "type": "short"
     }
