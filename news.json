@@ -1,12 +1,19 @@
 {
-  "updated": "2026-05-18T07:00:42Z",
+  "updated": "2026-05-18T08:00:35Z",
   "articles": [
+    {
+      "title": "빅뱅, 스타트렌드 K-POP 그룹 투표 1위…팬심으로 증명한 존재감",
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=520055",
+      "date": "2026.05.18",
+      "source": "joongangenews.com",
+      "thumbnail": "https://cdn.joongangenews.com/news/photo/202605/520055_324299_659.png"
+    },
     {
       "title": "에이비티아시아 잉가, KCON JAPAN 참가",
       "url": "https://www.vegannews.co.kr/news/article.html?no=382742",
       "date": "2026.05.18",
       "source": "vegannews.co.kr",
-      "thumbnail": null
+      "thumbnail": "https://www.vegannews.co.kr/data/photos/20260521/art_17790851710642_8769ed.png"
     },
     {
       "title": "앳하트, 코스모시, 언차일드 등 5세대 걸그룹의 비주얼 미학",
@@ -133,13 +140,6 @@
       "date": "2026.05.10",
       "source": "topstarnews.net",
       "thumbnail": "https://cdn.topstarnews.net/news/photo/202605/16056978_1918484_2316_crop.jpg"
-    },
-    {
-      "title": "'K-POP 열기 일본 달군다'…ZEROBASEONE 성한빈 등 'KCON JAPAN 2026' 이틀...",
-      "url": "https://www.mhns.co.kr/news/articleView.html?idxno=746994",
-      "date": "2026.05.10",
-      "source": "mhns.co.kr",
-      "thumbnail": "https://cdn.mhns.co.kr/news/thumbnail/202605/746994_878174_1010_v150.jpg"
     }
   ]
 }
