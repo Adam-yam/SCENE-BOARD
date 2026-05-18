@@ -1,6 +1,13 @@
 {
-  "updated": "2026-05-18T06:00:53Z",
+  "updated": "2026-05-18T07:00:42Z",
   "articles": [
+    {
+      "title": "에이비티아시아 잉가, KCON JAPAN 참가",
+      "url": "https://www.vegannews.co.kr/news/article.html?no=382742",
+      "date": "2026.05.18",
+      "source": "vegannews.co.kr",
+      "thumbnail": null
+    },
     {
       "title": "앳하트, 코스모시, 언차일드 등 5세대 걸그룹의 비주얼 미학",
       "url": "https://www.marieclairekorea.com/culture/music/2026/05/5thgirlgroup/?utm_source=naver&utm_medium=partnership",
@@ -111,7 +118,7 @@
       "url": "https://www.mhnse.com/news/articleView.html?idxno=540659",
       "date": "2026.05.11",
       "source": "mhnse.com",
-      "thumbnail": null
+      "thumbnail": "https://cdn.codeonenews.com/mhnsports/2026/05/15193829/thumbnail-37049659.jpg"
     },
     {
       "title": "리센느, ‘KCON JAPAN 2026’ 뜨겁게 달궜다…팬들과 활발한 소통 눈길",
@@ -133,13 +140,6 @@
       "date": "2026.05.10",
       "source": "mhns.co.kr",
       "thumbnail": "https://cdn.mhns.co.kr/news/thumbnail/202605/746994_878174_1010_v150.jpg"
-    },
-    {
-      "title": "현대약품 헬씨올리고팝, 아이돌 걸그룹 '리센느'와 화보 촬영 진행",
-      "url": "http://www.press9.kr/news/articleView.html?idxno=76064",
-      "date": "2026.05.07",
-      "source": "press9.kr",
-      "thumbnail": "http://www.press9.kr/news/thumbnail/202605/76064_88861_453_v150.jpg"
     }
   ]
 }
