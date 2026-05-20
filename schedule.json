@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-20T03:05:23Z",
+  "updated": "2026-05-20T15:05:27Z",
   "events": [
     {
       "date": "2026-05-05",
@@ -48,6 +48,20 @@
       "title": "[Runaway] 영상통화 팬사인회 by NY MUSIC",
       "detail": "",
       "type": "팬사인회",
+      "source": "mnetplus"
+    },
+    {
+      "date": "2026-05-26",
+      "title": "한국에너지공과대학교 축제",
+      "detail": "",
+      "type": "기타",
+      "source": "mnetplus"
+    },
+    {
+      "date": "2026-05-27",
+      "title": "강원대학교 축제",
+      "detail": "",
+      "type": "기타",
       "source": "mnetplus"
     },
     {
