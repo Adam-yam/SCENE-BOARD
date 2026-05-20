@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-20T12:10:26Z",
+  "updated": "2026-05-20T13:10:27Z",
   "videos": [
     {
       "id": "Aapj6tR9TZ0",
@@ -50,6 +50,14 @@
       "type": "long"
     },
     {
+      "id": "6lsqqcbtkCI",
+      "title": "불 뿜는 연습중",
+      "url": "https://www.youtube.com/shorts/6lsqqcbtkCI",
+      "thumbnail": "https://i.ytimg.com/vi/6lsqqcbtkCI/mqdefault_live.jpg",
+      "date": "2026.05.20",
+      "type": "short"
+    },
+    {
       "id": "O0BVlom5poY",
       "title": "리브 (LIV) &#39;내 남자 친구에게&#39; COVER (원곡: Fin.K.L) Photo Booth Ver.",
       "url": "https://www.youtube.com/watch?v=O0BVlom5poY",
@@ -87,14 +95,6 @@
       "url": "https://www.youtube.com/shorts/rc5oDgXSTPU",
       "thumbnail": "https://i.ytimg.com/vi/rc5oDgXSTPU/mqdefault.jpg",
       "date": "2026.05.15",
-      "type": "short"
-    },
-    {
-      "id": "9LVR7BhD9-Q",
-      "title": "REDRED 🚨",
-      "url": "https://www.youtube.com/shorts/9LVR7BhD9-Q",
-      "thumbnail": "https://i.ytimg.com/vi/9LVR7BhD9-Q/mqdefault.jpg",
-      "date": "2026.05.14",
       "type": "short"
     }
   ]
