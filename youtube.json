@@ -1,6 +1,14 @@
 {
-  "updated": "2026-05-20T14:10:35Z",
+  "updated": "2026-05-20T15:10:25Z",
   "videos": [
+    {
+      "id": "6lsqqcbtkCI",
+      "title": "불 뿜는 연습중",
+      "url": "https://www.youtube.com/watch?v=6lsqqcbtkCI",
+      "thumbnail": "https://i.ytimg.com/vi/6lsqqcbtkCI/mqdefault.jpg",
+      "date": "2026.05.20",
+      "type": "long"
+    },
     {
       "id": "Aapj6tR9TZ0",
       "title": "메라디오얌🫪",
@@ -42,22 +50,6 @@
       "type": "long"
     },
     {
-      "id": "h-gPZhMkvFo",
-      "title": "이어져 가서는 닿기를💓 | RESCENE (리센느) ‘Runaway’ 음악방송 Behind #1",
-      "url": "https://www.youtube.com/watch?v=h-gPZhMkvFo",
-      "thumbnail": "https://i.ytimg.com/vi/h-gPZhMkvFo/mqdefault.jpg",
-      "date": "2026.05.07",
-      "type": "long"
-    },
-    {
-      "id": "6lsqqcbtkCI",
-      "title": "불 뿜는 연습중",
-      "url": "https://www.youtube.com/shorts/6lsqqcbtkCI",
-      "thumbnail": "https://i.ytimg.com/vi/6lsqqcbtkCI/mqdefault_live.jpg",
-      "date": "2026.05.20",
-      "type": "short"
-    },
-    {
       "id": "O0BVlom5poY",
       "title": "리브 (LIV) &#39;내 남자 친구에게&#39; COVER (원곡: Fin.K.L) Photo Booth Ver.",
       "url": "https://www.youtube.com/watch?v=O0BVlom5poY",
@@ -95,6 +87,14 @@
       "url": "https://www.youtube.com/shorts/rc5oDgXSTPU",
       "thumbnail": "https://i.ytimg.com/vi/rc5oDgXSTPU/mqdefault.jpg",
       "date": "2026.05.15",
+      "type": "short"
+    },
+    {
+      "id": "9LVR7BhD9-Q",
+      "title": "REDRED 🚨",
+      "url": "https://www.youtube.com/shorts/9LVR7BhD9-Q",
+      "thumbnail": "https://i.ytimg.com/vi/9LVR7BhD9-Q/mqdefault.jpg",
+      "date": "2026.05.14",
       "type": "short"
     }
   ]
