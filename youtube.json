@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-20T05:10:26Z",
+  "updated": "2026-05-20T06:10:25Z",
   "videos": [
     {
       "id": "Aapj6tR9TZ0",
@@ -50,6 +50,14 @@
       "type": "long"
     },
     {
+      "id": "-VJv7jokj_c",
+      "title": "까엉 공주 🤫💜",
+      "url": "https://www.youtube.com/shorts/-VJv7jokj_c",
+      "thumbnail": "https://i.ytimg.com/vi/-VJv7jokj_c/mqdefault.jpg",
+      "date": "2026.05.20",
+      "type": "short"
+    },
+    {
       "id": "rsDGUsjekn0",
       "title": "👊✌️🤟",
       "url": "https://www.youtube.com/shorts/rsDGUsjekn0",
@@ -87,14 +95,6 @@
       "url": "https://www.youtube.com/shorts/C_H7fTdVqSw",
       "thumbnail": "https://i.ytimg.com/vi/C_H7fTdVqSw/mqdefault.jpg",
       "date": "2026.05.14",
-      "type": "short"
-    },
-    {
-      "id": "tNeTvsHBaeM",
-      "title": "왓츠 인 미나미 백 | ‘Runaway’ 음악방송 Behind #2 | RESCENE (리센느)",
-      "url": "https://www.youtube.com/shorts/tNeTvsHBaeM",
-      "thumbnail": "https://i.ytimg.com/vi/tNeTvsHBaeM/mqdefault.jpg",
-      "date": "2026.05.13",
       "type": "short"
     }
   ]
