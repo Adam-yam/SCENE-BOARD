@@ -1,14 +1,16 @@
 const CACHE_PREFIX = 'sceneboard-';
 const SHELL = [
-  './image/favicon.png',
-  './image/icon-192.png',
-  './image/icon-512.png',
+  '/SCENE-BOARD/',
+  '/SCENE-BOARD/index.html',
+  '/SCENE-BOARD/image/favicon.png',
+  '/SCENE-BOARD/image/icon-192.png',
+  '/SCENE-BOARD/image/icon-512.png',
   'https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;600;700;900&display=swap',
 ];
 
 async function getVersion() {
   try {
-    const res = await fetch('./index.html', { method: 'HEAD', cache: 'no-store' });
+    const res = await fetch('/SCENE-BOARD/index.html', { method: 'HEAD', cache: 'no-store' });
     return res.headers.get('etag') || res.headers.get('last-modified') || Date.now().toString();
   } catch {
     return Date.now().toString();
@@ -42,7 +44,7 @@ self.addEventListener('fetch', e => {
     return;
   }
 
-  if (url.pathname.endsWith('/') || url.pathname.endsWith('index.html')) {
+  if (url.pathname === '/SCENE-BOARD/' || url.pathname === '/SCENE-BOARD/index.html') {
     e.respondWith(
       fetch(e.request).then(res => {
         const clone = res.clone();

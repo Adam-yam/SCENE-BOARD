@@ -1,8 +1,9 @@
 {
   "name": "SCENE-BOARD",
   "short_name": "SCENE-BOARD",
-  "description": "SCENE-BOARD",
-  "start_url": "./",
+  "description": "리센느 일정 보드",
+  "start_url": "/SCENE-BOARD/",
+  "scope": "/SCENE-BOARD/",
   "display": "standalone",
   "background_color": "#e8e4df",
   "theme_color": "#e8e4df",
