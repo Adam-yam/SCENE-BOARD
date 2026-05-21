@@ -1,7 +1,5 @@
 const CACHE_PREFIX = 'sceneboard-';
 const SHELL = [
-  '/SCENE-BOARD/image/icon-192.png',
-  '/SCENE-BOARD/image/icon-512.png',
   'https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;600;700;900&display=swap',
 ];
 
