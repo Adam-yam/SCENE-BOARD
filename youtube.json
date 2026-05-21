@@ -1,6 +1,14 @@
 {
-  "updated": "2026-05-21T16:10:33Z",
+  "updated": "2026-05-21T17:10:30Z",
   "videos": [
+    {
+      "id": "7Xcg79neHng",
+      "title": "갸루귀신+신라공주+연습생 먹방🍴",
+      "url": "https://www.youtube.com/watch?v=7Xcg79neHng",
+      "thumbnail": "https://i.ytimg.com/vi/7Xcg79neHng/mqdefault.jpg",
+      "date": "2026.05.21",
+      "type": "long"
+    },
     {
       "id": "6lsqqcbtkCI",
       "title": "불 뿜는 연습중",
@@ -42,22 +50,6 @@
       "type": "long"
     },
     {
-      "id": "SG2K2YCh3uk",
-      "title": "리마인 바보",
-      "url": "https://www.youtube.com/watch?v=SG2K2YCh3uk",
-      "thumbnail": "https://i.ytimg.com/vi/SG2K2YCh3uk/mqdefault.jpg",
-      "date": "2026.05.08",
-      "type": "long"
-    },
-    {
-      "id": "7Xcg79neHng",
-      "title": "갸루귀신+신라공주+연습생 먹방🍴",
-      "url": "https://www.youtube.com/shorts/7Xcg79neHng",
-      "thumbnail": "https://i.ytimg.com/vi/7Xcg79neHng/mqdefault_live.jpg",
-      "date": "2026.05.21",
-      "type": "short"
-    },
-    {
       "id": "gMiMKNlykg4",
       "title": "Loading visual…",
       "url": "https://www.youtube.com/shorts/gMiMKNlykg4",
@@ -94,6 +86,14 @@
       "title": "날 뒤흔드는 #NMIXX #설윤 님, now I run away🏃‍♀️🧭",
       "url": "https://www.youtube.com/shorts/2fJxVNn0-tI",
       "thumbnail": "https://i.ytimg.com/vi/2fJxVNn0-tI/mqdefault.jpg",
+      "date": "2026.05.15",
+      "type": "short"
+    },
+    {
+      "id": "rc5oDgXSTPU",
+      "title": "06즈 💗",
+      "url": "https://www.youtube.com/shorts/rc5oDgXSTPU",
+      "thumbnail": "https://i.ytimg.com/vi/rc5oDgXSTPU/mqdefault.jpg",
       "date": "2026.05.15",
       "type": "short"
     }
