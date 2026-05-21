@@ -5,7 +5,13 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>SCENE-BOARD</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="icon" href="https://cdn.imweb.me/thumbnail/20250630/b0666a1e5ca4e.png">
+<link rel="icon" href="image/favicon.png">
+<link rel="manifest" href="manifest.json">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="apple-mobile-web-app-title" content="SCENE-BOARD">
+<link rel="apple-touch-icon" href="image/icon-192.png">
 <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;600;700;900&display=swap" rel="stylesheet">
 <style>
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
@@ -1054,6 +1060,13 @@ function renderBirthdays() {
   `).join("");
 }
 
+</script>
+<script>
+if ('serviceWorker' in navigator) {
+  window.addEventListener('load', () => {
+    navigator.serviceWorker.register('./service-worker.js');
+  });
+}
 </script>
 </body>
 </html>
