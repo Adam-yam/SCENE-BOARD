@@ -1,0 +1,24 @@
+{
+  "name": "SCENE-BOARD",
+  "short_name": "SCENE-BOARD",
+  "description": "SCENE-BOARD",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#e8e4df",
+  "theme_color": "#e8e4df",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "image/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "image/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
