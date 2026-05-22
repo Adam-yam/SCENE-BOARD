@@ -1,6 +1,13 @@
 {
-  "updated": "2026-05-22T00:00:43Z",
+  "updated": "2026-05-22T01:00:39Z",
   "articles": [
+    {
+      "title": "리센느, 7월 신곡 공개 예고…\"추억의 명곡 리메이크한다\"",
+      "url": "http://www.dispatch.co.kr/2343117",
+      "date": "2026.05.22",
+      "source": "dispatch.co.kr",
+      "thumbnail": "https://dispatch.cdnser.be/cms-content/uploads/2026/05/22/09981256-d60e-4a10-b1de-0385e3317325.jpg"
+    },
     {
       "title": "리센느 원이에 부적절 선물 전달돼…소속사 “팬 서포트 금지 결정” [...",
       "url": "https://isplus.com/article/view/isp202605220028",
@@ -44,18 +51,18 @@
       "thumbnail": "https://isplus.com/data/isp/image/2026/05/22/isp20260522000026.800x.0.jpg"
     },
     {
-      "title": "엔플라잉 새 디싱 '환절기'→리센느 리메이크 싱글…컴백 랠리",
-      "url": "https://www.slist.kr/news/articleView.html?idxno=740719",
-      "date": "2026.05.21",
-      "source": "slist.kr",
-      "thumbnail": "https://cdn.slist.kr/news/thumbnail/202605/740719_1136843_109_v150.jpg"
-    },
-    {
       "title": "리센느, 긴급 서포트 중단…\"부적절한 선물 전달 사건 발생\"",
       "url": "http://www.celuvmedia.com/article.php?aid=1779403883520893007",
       "date": "2026.05.21",
       "source": "celuvmedia.com",
       "thumbnail": "http://www.celuvmedia.com/upimages/gisaimg/202605/22520893.jpg"
+    },
+    {
+      "title": "엔플라잉 새 디싱 '환절기'→리센느 리메이크 싱글…컴백 랠리",
+      "url": "https://www.slist.kr/news/articleView.html?idxno=740719",
+      "date": "2026.05.21",
+      "source": "slist.kr",
+      "thumbnail": "https://cdn.slist.kr/news/thumbnail/202605/740719_1136843_109_v150.jpg"
     },
     {
       "title": "뭘 받았길래…리센느, 부적절한 선물에 팬 서포트 받지 않기로 [공식]",
@@ -69,7 +76,7 @@
       "url": "https://www.sportsseoul.com/news/read/1610783?ref=naver",
       "date": "2026.05.21",
       "source": "sportsseoul.com",
-      "thumbnail": "https://file.sportsseoul.com/news/cms/2026/05/22/news-p.v1.20260522.74aa8a5613b34d92887b9eb73a89c7cf_P1.png"
+      "thumbnail": null
     },
     {
       "title": "대체 뭘 보냈길래..\"리센느, 부적절한 팬 선물 전달된 사건 발생\" 소속사...",
@@ -114,6 +121,13 @@
       "thumbnail": "https://www.vegannews.co.kr/data/photos/20260521/art_17790851710642_8769ed.png"
     },
     {
+      "title": "[Grace Kao] The Swedish connection to K-pop",
+      "url": "https://www.koreaherald.com/article/10740328?ref=naver",
+      "date": "2026.05.18",
+      "source": "koreaherald.com",
+      "thumbnail": null
+    },
+    {
       "title": "앳하트, 코스모시, 언차일드 등 5세대 걸그룹의 비주얼 미학",
       "url": "https://www.marieclairekorea.com/culture/music/2026/05/5thgirlgroup/?utm_source=naver&utm_medium=partnership",
       "date": "2026.05.18",
@@ -121,25 +135,11 @@
       "thumbnail": "https://img.marieclairekorea.com/2026/04/mck_69f2d7c4b4d39.png"
     },
     {
-      "title": "[Grace Kao] The Swedish connection to K-pop",
-      "url": "https://www.koreaherald.com/article/10740328?ref=naver",
-      "date": "2026.05.18",
-      "source": "koreaherald.com",
-      "thumbnail": "https://wimg.heraldcorp.com/news/cms/2026/05/19/news-p.v1.20260518.df1b1ad71a984320a27c42f00a99a824_T1.jpg"
-    },
-    {
       "title": "요즘 뜨는 밈 \"거제 야호~!\"를 아시나요? 중소돌 리센느가 쓴 기적 [MD포...",
       "url": "https://www.mydaily.co.kr/page/view/2026051415463598388",
       "date": "2026.05.14",
       "source": "mydaily.co.kr",
       "thumbnail": "https://mydaily.co.kr/photos/2026/05/14/2026051415462465142_l.png"
-    },
-    {
-      "title": "K-뷰티·푸드, 일본에서 완판…KCON서 韓 제품, 250억원 규모 협약 체결",
-      "url": "https://www.mt.co.kr/economy/2026/05/12/2026051210281354155",
-      "date": "2026.05.12",
-      "source": "mt.co.kr",
-      "thumbnail": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/05/2026051210281354155_1.jpg"
     }
   ]
 }
