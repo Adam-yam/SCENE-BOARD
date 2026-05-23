@@ -1,6 +1,14 @@
 {
-  "updated": "2026-05-23T11:13:03Z",
+  "updated": "2026-05-23T12:10:24Z",
   "videos": [
+    {
+      "id": "bClA2Os6vpE",
+      "title": "신라공주를 빼고 거제를 갔다고라고라??? - 까엉이-",
+      "url": "https://www.youtube.com/watch?v=bClA2Os6vpE",
+      "thumbnail": "https://i.ytimg.com/vi/bClA2Os6vpE/mqdefault.jpg",
+      "date": "2026.05.23",
+      "type": "long"
+    },
     {
       "id": "7Xcg79neHng",
       "title": "갸루귀신+신라공주+연습생 먹방🍴",
@@ -42,22 +50,6 @@
       "type": "long"
     },
     {
-      "id": "v_lvcboab9w",
-      "title": "추구미 실현👑 | RESCENE (리센느) ‘Runaway’ 음악방송 Behind #2",
-      "url": "https://www.youtube.com/watch?v=v_lvcboab9w",
-      "thumbnail": "https://i.ytimg.com/vi/v_lvcboab9w/mqdefault.jpg",
-      "date": "2026.05.13",
-      "type": "long"
-    },
-    {
-      "id": "bClA2Os6vpE",
-      "title": "신라공주를 빼고 거제를 갔다고라고라??? - 까엉이-",
-      "url": "https://www.youtube.com/shorts/bClA2Os6vpE",
-      "thumbnail": "https://i.ytimg.com/vi/bClA2Os6vpE/mqdefault_live.jpg",
-      "date": "2026.05.23",
-      "type": "short"
-    },
-    {
       "id": "JG3DaNXLOgM",
       "title": "LOVE ATTACK in #경기과학기술대학교 🎇❤️",
       "url": "https://www.youtube.com/shorts/JG3DaNXLOgM",
@@ -95,6 +87,14 @@
       "url": "https://www.youtube.com/shorts/rsDGUsjekn0",
       "thumbnail": "https://i.ytimg.com/vi/rsDGUsjekn0/mqdefault.jpg",
       "date": "2026.05.19",
+      "type": "short"
+    },
+    {
+      "id": "2fJxVNn0-tI",
+      "title": "날 뒤흔드는 #NMIXX #설윤 님, now I run away🏃‍♀️🧭",
+      "url": "https://www.youtube.com/shorts/2fJxVNn0-tI",
+      "thumbnail": "https://i.ytimg.com/vi/2fJxVNn0-tI/mqdefault.jpg",
+      "date": "2026.05.15",
       "type": "short"
     }
   ]
