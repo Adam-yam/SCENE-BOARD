@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-24T09:00:36Z",
+  "updated": "2026-05-24T10:00:37Z",
   "articles": [
     {
       "title": "거제시, 그룹 리센느 홍보대사 위촉…'거제 야호~!' 홍보 숏폼 공개",
@@ -44,18 +44,18 @@
       "thumbnail": "https://cdnimage.dailian.co.kr/news/202605/news_1779503848_1647899_m_1.png"
     },
     {
-      "title": "거제시, 그룹 ‘리센느(RESCENE)’ 홍보대사 위촉",
-      "url": "https://www.viva100.com/article/20260523500039",
-      "date": "2026.05.23",
-      "source": "viva100.com",
-      "thumbnail": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/05/23/.cache/512/20260523500037.jpg?v=20260524180033"
-    },
-    {
       "title": "리센느, '거제 야호' 유행어 인연으로 거제시 홍보대사 위촉",
       "url": "https://www.stardailynews.co.kr/news/articleView.html?idxno=536827",
       "date": "2026.05.23",
       "source": "stardailynews.co.kr",
       "thumbnail": "https://cdn.stardailynews.co.kr/news/thumbnail/202605/536827_568309_1959_v150.jpg"
+    },
+    {
+      "title": "거제시, 그룹 ‘리센느(RESCENE)’ 홍보대사 위촉",
+      "url": "https://www.viva100.com/article/20260523500039",
+      "date": "2026.05.23",
+      "source": "viva100.com",
+      "thumbnail": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/05/23/.cache/512/20260523500037.jpg?v=20260524190035"
     },
     {
       "title": "\"거제 야호\"…리센느, 거제시 홍보대사 발탁",
@@ -139,7 +139,7 @@
       "url": "https://star.ytn.co.kr/_sn/0117_202605221028487379",
       "date": "2026.05.22",
       "source": "star.ytn.co.kr",
-      "thumbnail": "https://image.ytn.co.kr/general/jpg/2026/0522/202605221028487379_t.jpg"
+      "thumbnail": null
     }
   ]
 }
