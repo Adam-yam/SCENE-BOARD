@@ -1,6 +1,13 @@
 {
-  "updated": "2026-05-25T05:00:38Z",
+  "updated": "2026-05-25T06:00:42Z",
   "articles": [
+    {
+      "title": "거제시, 그룹 '리센느(RESCENE)'와 손잡고 도시 홍보 나선다",
+      "url": "https://www.newsgn.com/news/articleView.html?idxno=553768",
+      "date": "2026.05.25",
+      "source": "newsgn.com",
+      "thumbnail": "https://cdn.newsgn.com/news/thumbnail/202605/553768_360459_364_v150.jpg"
+    },
     {
       "title": "‘거제야호’ 밈 타고…거제시, 걸그룹 리센느 홍보대사 위촉",
       "url": "https://www.seoul.co.kr/news/publicnews/local_govern/2026/05/25/20260525500034?wlog_tag3=naver",
@@ -41,7 +48,7 @@
       "url": "https://www.yna.co.kr/view/AKR20260523034800052?input=1195m",
       "date": "2026.05.23",
       "source": "yna.co.kr",
-      "thumbnail": null
+      "thumbnail": "https://img6.yna.co.kr/etc/inner/KR/2026/05/23/AKR20260523034800052_01_i_P4.jpg"
     },
     {
       "title": "리센느, 거제시 홍보대사 발탁…‘거제 야호’ 인연 이어간다",
@@ -62,7 +69,7 @@
       "url": "https://www.viva100.com/article/20260523500039",
       "date": "2026.05.23",
       "source": "viva100.com",
-      "thumbnail": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/05/23/.cache/512/20260523500037.jpg?v=20260525140034"
+      "thumbnail": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/05/23/.cache/512/20260523500037.jpg?v=20260525150038"
     },
     {
       "title": "\"거제 야호\"…리센느, 거제시 홍보대사 발탁",
@@ -133,13 +140,6 @@
       "date": "2026.05.22",
       "source": "starnewskorea.com",
       "thumbnail": null
-    },
-    {
-      "title": "리센느, 7월 컴백 확정..역대급 리메이크 예고",
-      "url": "https://www.heraldmuse.com/article/10743508?ref=naver",
-      "date": "2026.05.22",
-      "source": "heraldmuse.com",
-      "thumbnail": "https://wimg.heraldcorp.com/news/cms/2026/05/22/news-p.v1.20260522.9801736bfa8a431b8a5825d36b25983b_T1.jpg"
     }
   ]
 }
