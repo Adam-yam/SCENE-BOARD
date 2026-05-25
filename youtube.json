@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-25T03:10:26Z",
+  "updated": "2026-05-25T04:10:23Z",
   "videos": [
     {
       "id": "3JHcXOBYERA",
@@ -50,6 +50,14 @@
       "type": "long"
     },
     {
+      "id": "aJSX-REu1TQ",
+      "title": "까엉 티비를 까먹은 채널 주인 | RESCENE (리센느) vlog",
+      "url": "https://www.youtube.com/shorts/aJSX-REu1TQ",
+      "thumbnail": "https://i.ytimg.com/vi/aJSX-REu1TQ/mqdefault.jpg",
+      "date": "2026.05.25",
+      "type": "short"
+    },
+    {
       "id": "JG3DaNXLOgM",
       "title": "LOVE ATTACK in #경기과학기술대학교 🎇❤️",
       "url": "https://www.youtube.com/shorts/JG3DaNXLOgM",
@@ -87,14 +95,6 @@
       "url": "https://www.youtube.com/shorts/rsDGUsjekn0",
       "thumbnail": "https://i.ytimg.com/vi/rsDGUsjekn0/mqdefault.jpg",
       "date": "2026.05.19",
-      "type": "short"
-    },
-    {
-      "id": "2fJxVNn0-tI",
-      "title": "날 뒤흔드는 #NMIXX #설윤 님, now I run away🏃‍♀️🧭",
-      "url": "https://www.youtube.com/shorts/2fJxVNn0-tI",
-      "thumbnail": "https://i.ytimg.com/vi/2fJxVNn0-tI/mqdefault.jpg",
-      "date": "2026.05.15",
       "type": "short"
     }
   ]
