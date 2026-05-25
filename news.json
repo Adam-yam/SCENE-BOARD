@@ -1,6 +1,13 @@
 {
-  "updated": "2026-05-25T15:00:37Z",
+  "updated": "2026-05-25T16:00:39Z",
   "articles": [
+    {
+      "title": "빅뱅, 태양 '더 시즌즈' 무대 열기 속 스타트렌드 K-POP 그룹 투표 1위",
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=521468",
+      "date": "2026.05.25",
+      "source": "joongangenews.com",
+      "thumbnail": "https://cdn.joongangenews.com/news/photo/202605/521468_325834_2447.png"
+    },
     {
       "title": "거제시, 걸그룹 '리센느' 홍보대사 위촉",
       "url": "https://www.gnnews.co.kr/news/articleView.html?idxno=637532",
@@ -69,7 +76,7 @@
       "url": "https://www.yna.co.kr/view/AKR20260523034800052?input=1195m",
       "date": "2026.05.23",
       "source": "yna.co.kr",
-      "thumbnail": "https://img6.yna.co.kr/etc/inner/KR/2026/05/23/AKR20260523034800052_01_i_P4.jpg"
+      "thumbnail": null
     },
     {
       "title": "리센느, 거제시 홍보대사 발탁…‘거제 야호’ 인연 이어간다",
@@ -90,7 +97,7 @@
       "url": "https://www.viva100.com/article/20260523500039",
       "date": "2026.05.23",
       "source": "viva100.com",
-      "thumbnail": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/05/23/.cache/512/20260523500037.jpg?v=20260526000035"
+      "thumbnail": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/05/23/.cache/512/20260523500037.jpg?v=20260526010037"
     },
     {
       "title": "\"거제 야호\"…리센느, 거제시 홍보대사 발탁",
@@ -104,7 +111,7 @@
       "url": "https://www.mydaily.co.kr/page/view/2026052308125259608",
       "date": "2026.05.22",
       "source": "mydaily.co.kr",
-      "thumbnail": null
+      "thumbnail": "https://mydaily.co.kr/photos/2026/05/23/2026052308140229901_l.jpg"
     },
     {
       "title": "리센느, \"거제 야호\"로 거제시 홍보대사 발탁됐다",
@@ -133,13 +140,6 @@
       "date": "2026.05.22",
       "source": "sports.khan.co.kr",
       "thumbnail": null
-    },
-    {
-      "title": "[스타트렌드] 빅뱅, K-POP 그룹 1위하며 베테랑 아이돌 파워 보여",
-      "url": "http://www.koreastocknews.com/news/articleView.html?idxno=118652",
-      "date": "2026.05.22",
-      "source": "koreastocknews.com",
-      "thumbnail": "https://cdn.koreastocknews.com/news/thumbnail/202605/118652_98958_1834_v150.jpg"
     }
   ]
 }
