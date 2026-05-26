@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-25T15:05:22Z",
+  "updated": "2026-05-26T03:05:21Z",
   "events": [
     {
       "date": "2026-05-05",
@@ -81,6 +81,20 @@
     {
       "date": "2026-05-30",
       "title": "[Runaway] 대면 팬사인회 & 포토회 by fairytree in TAIPEI",
+      "detail": "",
+      "type": "팬사인회",
+      "source": "mnetplus"
+    },
+    {
+      "date": "2026-06-04",
+      "title": "[Runaway] 영상통화 팬사인회 by million MUSIC",
+      "detail": "",
+      "type": "팬사인회",
+      "source": "mnetplus"
+    },
+    {
+      "date": "2026-06-07",
+      "title": "[Runaway] 대면/영상통화 팬사인회 by WITHMUU",
       "detail": "",
       "type": "팬사인회",
       "source": "mnetplus"
