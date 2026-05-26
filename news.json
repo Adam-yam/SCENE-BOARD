@@ -1,6 +1,13 @@
 {
-  "updated": "2026-05-26T04:00:38Z",
+  "updated": "2026-05-26T05:00:36Z",
   "articles": [
+    {
+      "title": "스타트렌드가 확인한 빅뱅 파워, K-POP 그룹 정상...주간 6관왕 등극",
+      "url": "https://www.thepublic.kr/news/articleView.html?idxno=305547",
+      "date": "2026.05.26",
+      "source": "thepublic.kr",
+      "thumbnail": "https://cdn.thepublic.kr/news/photo/202605/305547_308019_421.png"
+    },
     {
       "title": "유니스, 3주 연속 ‘최고의 루키’ 등극...글로벌 인기 뜨겁다",
       "url": "https://www.mk.co.kr/article/12057366",
@@ -121,25 +128,18 @@
       "thumbnail": "https://cdnimage.dailian.co.kr/news/202605/news_1779503848_1647899_m_1.png"
     },
     {
+      "title": "거제시, 그룹 ‘리센느(RESCENE)’ 홍보대사 위촉",
+      "url": "https://www.viva100.com/article/20260523500039",
+      "date": "2026.05.23",
+      "source": "viva100.com",
+      "thumbnail": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/05/23/.cache/512/20260523500037.jpg?v=20260526140035"
+    },
+    {
       "title": "리센느, '거제 야호' 유행어 인연으로 거제시 홍보대사 위촉",
       "url": "https://www.stardailynews.co.kr/news/articleView.html?idxno=536827",
       "date": "2026.05.23",
       "source": "stardailynews.co.kr",
       "thumbnail": "https://cdn.stardailynews.co.kr/news/thumbnail/202605/536827_568309_1959_v150.jpg"
-    },
-    {
-      "title": "거제시, 그룹 ‘리센느(RESCENE)’ 홍보대사 위촉",
-      "url": "https://www.viva100.com/article/20260523500039",
-      "date": "2026.05.23",
-      "source": "viva100.com",
-      "thumbnail": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/05/23/.cache/512/20260523500037.jpg?v=20260526130036"
-    },
-    {
-      "title": "\"거제 야호\"…리센느, 거제시 홍보대사 발탁",
-      "url": "https://www.etnews.com/20260523000004",
-      "date": "2026.05.22",
-      "source": "etnews.com",
-      "thumbnail": "https://img.etnews.com/news/article/2026/05/23/article_23082749850759.jpg"
     }
   ]
 }
