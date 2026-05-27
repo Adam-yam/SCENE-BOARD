@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-27T07:10:29Z",
+  "updated": "2026-05-27T08:10:27Z",
   "videos": [
     {
       "id": "i3BCs-IcIl4",
@@ -50,6 +50,14 @@
       "type": "long"
     },
     {
+      "id": "MlDBq3ml6BM",
+      "title": "Beat it 🎶🕺",
+      "url": "https://www.youtube.com/shorts/MlDBq3ml6BM",
+      "thumbnail": "https://i.ytimg.com/vi/MlDBq3ml6BM/mqdefault.jpg",
+      "date": "2026.05.27",
+      "type": "short"
+    },
+    {
       "id": "6UDDvu3pdjE",
       "title": "🖤🤍",
       "url": "https://www.youtube.com/shorts/6UDDvu3pdjE",
@@ -87,14 +95,6 @@
       "url": "https://www.youtube.com/shorts/gMiMKNlykg4",
       "thumbnail": "https://i.ytimg.com/vi/gMiMKNlykg4/mqdefault.jpg",
       "date": "2026.05.21",
-      "type": "short"
-    },
-    {
-      "id": "O0BVlom5poY",
-      "title": "리브 (LIV) &#39;내 남자 친구에게&#39; COVER (원곡: Fin.K.L) Photo Booth Ver.",
-      "url": "https://www.youtube.com/watch?v=O0BVlom5poY",
-      "thumbnail": "https://i.ytimg.com/vi/O0BVlom5poY/mqdefault.jpg",
-      "date": "2026.05.20",
       "type": "short"
     }
   ]
