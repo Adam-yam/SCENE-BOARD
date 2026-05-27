@@ -1,6 +1,13 @@
 {
-  "updated": "2026-05-26T23:00:38Z",
+  "updated": "2026-05-27T00:00:42Z",
   "articles": [
+    {
+      "title": "리센느 원이 유튜브, 심상찮은 떡상",
+      "url": "https://www.etoday.co.kr/news/view/2587998",
+      "date": "2026.05.26",
+      "source": "etoday.co.kr",
+      "thumbnail": "https://img.etoday.co.kr/pto_db/2026/05/20260527080611_2338329_1199_709.jpeg"
+    },
     {
       "title": "[뮤직100] 코르티스 'REDRED' 1위 탈환·아이오아이 '갑자기' 급등",
       "url": "https://www.topstarnews.net/news/articleView.html?idxno=16072371",
@@ -132,14 +139,7 @@
       "url": "https://www.viva100.com/article/20260523500039",
       "date": "2026.05.23",
       "source": "viva100.com",
-      "thumbnail": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/05/23/.cache/512/20260523500037.jpg?v=20260527080035"
-    },
-    {
-      "title": "\"거제 야호\"…리센느, 거제시 홍보대사 발탁",
-      "url": "https://www.etnews.com/20260523000004",
-      "date": "2026.05.22",
-      "source": "etnews.com",
-      "thumbnail": "https://img.etnews.com/news/article/2026/05/23/article_23082749850759.jpg"
+      "thumbnail": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/05/23/.cache/512/20260523500037.jpg?v=20260527090039"
     }
   ]
 }
