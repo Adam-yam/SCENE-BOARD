@@ -1,6 +1,13 @@
 {
-  "updated": "2026-05-27T04:00:39Z",
+  "updated": "2026-05-27T05:00:39Z",
   "articles": [
+    {
+      "title": "빅뱅 향한 응원은 계속된다, 스타트렌드 그룹 부문 선두",
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=521864",
+      "date": "2026.05.27",
+      "source": "joongangenews.com",
+      "thumbnail": "https://cdn.joongangenews.com/news/photo/202605/521864_326288_820.png"
+    },
     {
       "title": "츄·Xdinary Heroes 출연 '쇼 챔피언' 하이라이트 특집 27일 방송",
       "url": "https://www.topstarnews.net/news/articleView.html?idxno=16072743",
@@ -49,13 +56,6 @@
       "date": "2026.05.26",
       "source": "artinsight.co.kr",
       "thumbnail": null
-    },
-    {
-      "title": "빅뱅의 존재감 여전했다, 스타트렌드 투표서 팬심 집결",
-      "url": "https://www.joongangenews.com/news/articleView.html?idxno=521661",
-      "date": "2026.05.26",
-      "source": "joongangenews.com",
-      "thumbnail": "https://cdn.joongangenews.com/news/photo/202605/521661_326076_3826.png"
     },
     {
       "title": "스타트렌드가 확인한 빅뱅 파워, K-POP 그룹 정상...주간 6관왕 등극",
@@ -139,7 +139,7 @@
       "url": "https://www.viva100.com/article/20260523500039",
       "date": "2026.05.23",
       "source": "viva100.com",
-      "thumbnail": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/05/23/.cache/512/20260523500037.jpg?v=20260527130037"
+      "thumbnail": null
     }
   ]
 }
