@@ -1,6 +1,13 @@
 {
-  "updated": "2026-05-28T00:00:44Z",
+  "updated": "2026-05-28T01:00:43Z",
   "articles": [
+    {
+      "title": "'거제 야호'라는 유쾌한 균열…리센느, K-팝 '잃어버린 시간' 복원하나",
+      "url": "https://www.newsis.com/view/NISX20260528_0003646611",
+      "date": "2026.05.28",
+      "source": "newsis.com",
+      "thumbnail": "https://img1.newsis.com/2026/05/28/NISI20260528_0002146762_web.jpg"
+    },
     {
       "title": "[뮤직100] 르세라핌 'BOOMPALA'·알파드라이브원 'OMG!' 급등…팬덤 소비...",
       "url": "https://www.topstarnews.net/news/articleView.html?idxno=16073488",
@@ -16,11 +23,11 @@
       "thumbnail": "https://cdn.spotvnews.co.kr/news/thumbnail/202605/819229_1341275_4759_v150.jpg"
     },
     {
-      "title": "MZ 취향 저격한 ‘거제시+리센느’ 컬래버 제대로 통했다",
+      "title": "MZ 취향 저격한 ‘거제시+리센느’ 컬래버…닷새만에 200만 회 훌쩍",
       "url": "https://www.busan.com/view/busan/view.php?code=2026052711005509437",
       "date": "2026.05.27",
       "source": "busan.com",
-      "thumbnail": "https://www.busan.com/nas/wcms/wcms_data/photos/2026/05/27/2026052715255236187_l.jpg"
+      "thumbnail": null
     },
     {
       "title": "빅뱅 향한 응원은 계속된다, 스타트렌드 그룹 부문 선두",
@@ -97,7 +104,7 @@
       "url": "https://www.sedaily.com/article/20048090?ref=naver",
       "date": "2026.05.26",
       "source": "sedaily.com",
-      "thumbnail": "https://wimg.sedaily.com/news/cms/2026/05/26/news-p.v1.20260526.719861cd6347442bb45a7c7bb03a5dc4_R.jpg"
+      "thumbnail": null
     },
     {
       "title": "\"거제 야호\" 일냈다! 리센느, 거제시 홍보대사 발탁",
@@ -118,7 +125,7 @@
       "url": "https://www.newsgn.com/news/articleView.html?idxno=553768",
       "date": "2026.05.25",
       "source": "newsgn.com",
-      "thumbnail": "https://cdn.newsgn.com/news/thumbnail/202605/553768_360459_364_v150.jpg"
+      "thumbnail": null
     },
     {
       "title": "거제시, 그룹 리센느 홍보대사 위촉…'거제 야호~!' 홍보 숏폼 공개",
@@ -133,13 +140,6 @@
       "date": "2026.05.23",
       "source": "tenasia.co.kr",
       "thumbnail": "https://img.tenasia.co.kr/photo/202605/BF.44394912.1.jpg"
-    },
-    {
-      "title": "거제시, 그룹 ‘리센느(RESCENE)’ 홍보대사 위촉",
-      "url": "https://www.viva100.com/article/20260523500039",
-      "date": "2026.05.23",
-      "source": "viva100.com",
-      "thumbnail": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/05/23/.cache/512/20260523500037.jpg?v=20260528090041"
     }
   ]
 }
