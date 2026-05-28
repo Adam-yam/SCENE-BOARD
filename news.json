@@ -1,6 +1,13 @@
 {
-  "updated": "2026-05-28T10:00:46Z",
+  "updated": "2026-05-28T11:00:44Z",
   "articles": [
+    {
+      "title": "거제시·리센느 홍보영상 268만 조회…‘거제야호’ 밈 확산",
+      "url": "http://www.breaknews.com/1210559",
+      "date": "2026.05.28",
+      "source": "breaknews.com",
+      "thumbnail": "https://www.breaknewsgn.com/imgdata/breaknewsgn_com/202605/2026052858541706.jpg"
+    },
     {
       "title": "갸루 분장·사투리로 열일한 리센느, 재역주행까지…유튜브가 만들어낸...",
       "url": "https://www.xportsnews.com/article/2154220",
@@ -125,7 +132,7 @@
       "url": "https://www.sedaily.com/article/20048090?ref=naver",
       "date": "2026.05.26",
       "source": "sedaily.com",
-      "thumbnail": "https://wimg.sedaily.com/news/cms/2026/05/26/news-p.v1.20260526.719861cd6347442bb45a7c7bb03a5dc4_R.jpg"
+      "thumbnail": null
     },
     {
       "title": "\"거제 야호\" 일냈다! 리센느, 거제시 홍보대사 발탁",
@@ -133,13 +140,6 @@
       "date": "2026.05.25",
       "source": "starnewskorea.com",
       "thumbnail": null
-    },
-    {
-      "title": "거제시, 걸그룹 '리센느' 홍보대사 위촉",
-      "url": "https://www.gnnews.co.kr/news/articleView.html?idxno=637532",
-      "date": "2026.05.25",
-      "source": "gnnews.co.kr",
-      "thumbnail": "https://cdn.gnnews.co.kr/news/photo/202605/637532_438102_1534.jpg"
     }
   ]
 }
