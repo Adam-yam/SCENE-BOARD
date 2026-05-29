@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-29T09:10:24Z",
+  "updated": "2026-05-29T10:10:24Z",
   "videos": [
     {
       "id": "i3BCs-IcIl4",
@@ -7,6 +7,14 @@
       "url": "https://www.youtube.com/watch?v=i3BCs-IcIl4",
       "thumbnail": "https://i.ytimg.com/vi/i3BCs-IcIl4/mqdefault.jpg",
       "date": "2026.05.25",
+      "type": "long"
+    },
+    {
+      "id": "3JHcXOBYERA",
+      "title": "[Re-log] 까엉티비 🐹 | 우리 막내가 벌써 성인 준비를?! | RESCENE (리센느) vlog",
+      "url": "https://www.youtube.com/watch?v=3JHcXOBYERA",
+      "thumbnail": "https://i.ytimg.com/vi/3JHcXOBYERA/mqdefault.jpg",
+      "date": "2026.05.24",
       "type": "long"
     },
     {
@@ -39,14 +47,6 @@
       "url": "https://www.youtube.com/watch?v=Aapj6tR9TZ0",
       "thumbnail": "https://i.ytimg.com/vi/Aapj6tR9TZ0/mqdefault.jpg",
       "date": "2026.05.17",
-      "type": "long"
-    },
-    {
-      "id": "FBsPWusWoWY",
-      "title": "신라공주와 그냥리브 🕶️✨⭐️",
-      "url": "https://www.youtube.com/watch?v=FBsPWusWoWY",
-      "thumbnail": "https://i.ytimg.com/vi/FBsPWusWoWY/mqdefault.jpg",
-      "date": "2026.05.16",
       "type": "long"
     },
     {
