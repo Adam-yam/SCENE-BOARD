@@ -1,19 +1,19 @@
 {
-  "updated": "2026-05-29T15:00:42Z",
+  "updated": "2026-05-29T16:00:55Z",
   "articles": [
+    {
+      "title": "[TF초점] '거제 야호'로 터진 잠재력…리센느, 대중 속으로",
+      "url": "https://news.tf.co.kr/read/entertain/2327724.htm",
+      "date": "2026.05.29",
+      "source": "news.tf.co.kr",
+      "thumbnail": "https://img.tf.co.kr/article/home/2026/05/28/20263323178004693700.jpg"
+    },
     {
       "title": "[임명묵의 K맥짚기] 출발선부터 달랐다...리센느의 역주행 신화",
       "url": "https://www.pennmike.com/news/articleView.html?idxno=121293",
       "date": "2026.05.29",
       "source": "pennmike.com",
       "thumbnail": "https://cdn.pennmike.com/news/thumbnail/202605/121293_165523_5122_v150.jpg"
-    },
-    {
-      "title": "[영상] \"원이=거제 파이리\"...리센느, 떡상 배경은 'OO'",
-      "url": "https://www.ajunews.com/view/20260529162501329",
-      "date": "2026.05.29",
-      "source": "ajunews.com",
-      "thumbnail": "https://image.ajunews.com/content/image/2026/05/29/20260529162552840728.gif"
     },
     {
       "title": "“거제 야호”…아이돌 그룹 리센느, 거제 홍보대사 콘텐츠 268만명 ‘엄...",
@@ -23,6 +23,13 @@
       "thumbnail": null
     },
     {
+      "title": "[영상] \"원이=거제 파이리\"...리센느, 떡상 배경은 'OO'",
+      "url": "https://www.ajunews.com/view/20260529162501329",
+      "date": "2026.05.29",
+      "source": "ajunews.com",
+      "thumbnail": "https://image.ajunews.com/content/image/2026/05/29/20260529162552840728.gif"
+    },
+    {
       "title": "“거제 야호!”…리센느 원이X미나미 거제 갸루 영상 300만 조회수 수익...",
       "url": "https://isplus.com/article/view/isp202605290020",
       "date": "2026.05.29",
@@ -30,18 +37,18 @@
       "thumbnail": "https://isplus.com/data/isp/image/2026/05/26/isp20260526000030.800x.0.png"
     },
     {
-      "title": "[뮤지션100] 리센느 38계단 급등…방탄소년단 점유율 확대·아이오아이...",
-      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16074408",
+      "title": "[뮤직100] 리센느 'LOVE ATTACK' 급등…태양·BTS 팬덤 확산",
+      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16074412",
       "date": "2026.05.28",
       "source": "topstarnews.net",
-      "thumbnail": "https://cdn.topstarnews.net/news/photo/202605/16074408_1931946_4544_crop.jpg"
+      "thumbnail": "https://cdn.topstarnews.net/news/photo/202605/16074412_1931950_4727_crop.jpg"
     },
     {
       "title": "거제시·리센느 홍보영상 268만 조회…‘거제야호’ 밈 확산",
       "url": "http://www.breaknews.com/1210559",
       "date": "2026.05.28",
       "source": "breaknews.com",
-      "thumbnail": "https://www.breaknewsgn.com/imgdata/breaknewsgn_com/202605/2026052858541706.jpg"
+      "thumbnail": null
     },
     {
       "title": "갸루 분장·사투리로 열일한 리센느, 재역주행까지…유튜브가 만들어낸...",
@@ -133,13 +140,6 @@
       "date": "2026.05.27",
       "source": "enews.imbc.com",
       "thumbnail": "https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2026/05/27/ba118c11-73ab-44e0-9a46-3d2d40dcb4ed.jpg"
-    },
-    {
-      "title": "리센느 원이 유튜브, 심상찮은 떡상",
-      "url": "https://www.etoday.co.kr/news/view/2587998",
-      "date": "2026.05.26",
-      "source": "etoday.co.kr",
-      "thumbnail": "https://img.etoday.co.kr/pto_db/2026/05/20260527080611_2338329_1199_709.jpeg"
     }
   ]
 }
