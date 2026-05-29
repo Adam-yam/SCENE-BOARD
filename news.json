@@ -1,6 +1,13 @@
 {
-  "updated": "2026-05-29T20:00:36Z",
+  "updated": "2026-05-29T21:00:45Z",
   "articles": [
+    {
+      "title": "장항준만큼 막 던졌다가…리센느, '팔만대장경 읽기→국토대장정' 공약...",
+      "url": "https://www.mydaily.co.kr/page/view/2026053000321034867",
+      "date": "2026.05.29",
+      "source": "mydaily.co.kr",
+      "thumbnail": "https://mydaily.co.kr/photos/2026/05/30/2026053000301170576_l.jpg"
+    },
     {
       "title": "[TF초점] '거제 야호'로 터진 잠재력…리센느, 대중 속으로",
       "url": "https://news.tf.co.kr/read/entertain/2327724.htm",
@@ -27,7 +34,7 @@
       "url": "https://www.ajunews.com/view/20260529162501329",
       "date": "2026.05.29",
       "source": "ajunews.com",
-      "thumbnail": "https://image.ajunews.com/content/image/2026/05/29/20260529162552840728.gif"
+      "thumbnail": null
     },
     {
       "title": "“거제 야호!”…리센느 원이X미나미 거제 갸루 영상 300만 조회수 수익...",
@@ -48,7 +55,7 @@
       "url": "http://www.breaknews.com/1210559",
       "date": "2026.05.28",
       "source": "breaknews.com",
-      "thumbnail": "https://www.breaknewsgn.com/imgdata/breaknewsgn_com/202605/2026052858541706.jpg"
+      "thumbnail": null
     },
     {
       "title": "갸루 분장·사투리로 열일한 리센느, 재역주행까지…유튜브가 만들어낸...",
@@ -133,13 +140,6 @@
       "date": "2026.05.27",
       "source": "news1.kr",
       "thumbnail": null
-    },
-    {
-      "title": "알파드라이브원→하츠웨이브…'쇼! 챔피언' 하이라이트 방송",
-      "url": "http://enews.imbc.com/News/RetrieveNewsInfo/506293",
-      "date": "2026.05.27",
-      "source": "enews.imbc.com",
-      "thumbnail": "https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2026/05/27/ba118c11-73ab-44e0-9a46-3d2d40dcb4ed.jpg"
     }
   ]
 }
