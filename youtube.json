@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-30T12:10:23Z",
+  "updated": "2026-05-30T13:10:26Z",
   "videos": [
     {
       "id": "WvDMIvcUc2Q",
@@ -50,6 +50,14 @@
       "type": "long"
     },
     {
+      "id": "egyho1BVbhU",
+      "title": "빵 하나로 시작된 의심 | KCON JAPAN 2026 Behind | RESCENE (리센느)",
+      "url": "https://www.youtube.com/shorts/egyho1BVbhU",
+      "thumbnail": "https://i.ytimg.com/vi/egyho1BVbhU/mqdefault.jpg",
+      "date": "2026.05.30",
+      "type": "short"
+    },
+    {
       "id": "qnHKH05VqU4",
       "title": "오랜만에 막내즈 💞",
       "url": "https://www.youtube.com/shorts/qnHKH05VqU4",
@@ -87,14 +95,6 @@
       "url": "https://www.youtube.com/shorts/aJSX-REu1TQ",
       "thumbnail": "https://i.ytimg.com/vi/aJSX-REu1TQ/mqdefault.jpg",
       "date": "2026.05.25",
-      "type": "short"
-    },
-    {
-      "id": "JG3DaNXLOgM",
-      "title": "LOVE ATTACK in #경기과학기술대학교 🎇❤️",
-      "url": "https://www.youtube.com/shorts/JG3DaNXLOgM",
-      "thumbnail": "https://i.ytimg.com/vi/JG3DaNXLOgM/mqdefault.jpg",
-      "date": "2026.05.22",
       "type": "short"
     }
   ]
