@@ -1,6 +1,20 @@
 {
-  "updated": "2026-05-30T00:00:41Z",
+  "updated": "2026-05-30T01:00:49Z",
   "articles": [
+    {
+      "title": "[뮤직100] 순순희 '눈을 감아도' 급등, 아이브 'BANG BANG' 확산…TOP10 재...",
+      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16075548",
+      "date": "2026.05.30",
+      "source": "topstarnews.net",
+      "thumbnail": "https://cdn.topstarnews.net/news/photo/202605/16075548_1932892_4854_crop.jpg"
+    },
+    {
+      "title": "코르티스, 라이징스타 1위...변우석 2위",
+      "url": "https://www.mk.co.kr/article/12061832",
+      "date": "2026.05.30",
+      "source": "mk.co.kr",
+      "thumbnail": "https://pimg.mk.co.kr/news/cms/202605/30/news-p.v1.20260530.bc2c72d2b4914aeab95868ff27463aa2_R.jpeg"
+    },
     {
       "title": "변우석, 라이징 스타 2위…드라마 넘어 예능까지",
       "url": "https://www.bntnews.co.kr/article/view/bnt202605300056",
@@ -72,13 +86,6 @@
       "thumbnail": "https://isplus.com/data/isp/image/2026/05/26/isp20260526000030.800x.0.png"
     },
     {
-      "title": "[뮤직100] 리센느 'LOVE ATTACK' 급등…태양·BTS 팬덤 확산",
-      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16074412",
-      "date": "2026.05.28",
-      "source": "topstarnews.net",
-      "thumbnail": "https://cdn.topstarnews.net/news/photo/202605/16074412_1931950_4727_crop.jpg"
-    },
-    {
       "title": "거제시·리센느 홍보영상 268만 조회…‘거제야호’ 밈 확산",
       "url": "http://www.breaknews.com/1210559",
       "date": "2026.05.28",
@@ -114,32 +121,25 @@
       "thumbnail": "https://dimg.donga.com/wps/SPORTS/IMAGE/2026/05/28/134009957.1.jpg"
     },
     {
-      "title": "스타일 디로 보는 연예계 트랜드 ‘극장이 살아난다’[주간SD]",
-      "url": "https://sports.donga.com/ent/article/all/20260528/134008947/1",
-      "date": "2026.05.28",
-      "source": "sports.donga.com",
-      "thumbnail": "https://dimg.donga.com/wps/SPORTS/IMAGE/2026/05/28/134009202.1.jpeg"
-    },
-    {
-      "title": "'거제 야호'로 인기 얻은 리센느, 이번엔 포켓몬 OST로 역주행 시동",
-      "url": "https://www.insight.co.kr/news/555943",
-      "date": "2026.05.28",
-      "source": "insight.co.kr",
-      "thumbnail": "https://img.insight.co.kr/static/2026/05/28/1200/img_20260528141011_o8r5s2o8.jpg"
-    },
-    {
-      "title": "[트렌드 인사이트] \"300만, 야호~★\"…리센느로 본 아이돌 유튜브 흥행 ...",
-      "url": "https://www.banronbodo.com/news/articleView.html?idxno=32365",
-      "date": "2026.05.28",
-      "source": "banronbodo.com",
-      "thumbnail": "https://cdn.banronbodo.com/news/photo/202605/32365_46944_2930.png"
-    },
-    {
       "title": "\"거제 야호\" 한마디에 판 뒤집혔다...광고계 블루칩 리센느, 아이브·에...",
       "url": "http://www.newsworker.co.kr/news/articleView.html?idxno=428784",
       "date": "2026.05.28",
       "source": "newsworker.co.kr",
       "thumbnail": "https://cdn.newsworker.co.kr/news/thumbnail/202605/428784_468155_4622_v150.jpg"
+    },
+    {
+      "title": "'거제 야호'라는 유쾌한 균열…리센느, K-팝 '잃어버린 시간' 복원하나",
+      "url": "https://www.newsis.com/view/NISX20260528_0003646611",
+      "date": "2026.05.28",
+      "source": "newsis.com",
+      "thumbnail": "https://img1.newsis.com/2026/05/28/NISI20260528_0002146762_web.jpg"
+    },
+    {
+      "title": "MZ 취향 저격한 ‘거제시+리센느’ 컬래버…닷새만에 200만 회 훌쩍",
+      "url": "https://www.busan.com/view/busan/view.php?code=2026052711005509437",
+      "date": "2026.05.27",
+      "source": "busan.com",
+      "thumbnail": null
     }
   ]
 }
