@@ -1,11 +1,19 @@
 {
-  "updated": "2026-05-30T10:10:24Z",
+  "updated": "2026-05-30T11:10:22Z",
   "videos": [
     {
       "id": "WvDMIvcUc2Q",
       "title": "𝗥𝗘𝗦𝗖𝗘𝗡𝗘 𝗣𝗟𝗔𝗬𝗟𝗜𝗦𝗧 | 걸으면서 파라파라나 춰야지🏃🏻🏃🏻‍♀️ | 산책할 때 듣기 좋은 플레이리스트💿",
       "url": "https://www.youtube.com/watch?v=WvDMIvcUc2Q",
       "thumbnail": "https://i.ytimg.com/vi/WvDMIvcUc2Q/mqdefault.jpg",
+      "date": "2026.05.30",
+      "type": "long"
+    },
+    {
+      "id": "3sFoaAhh6GM",
+      "title": "[BASE NOTES] RESCENE (리센느) KCON JAPAN 2026 Behind",
+      "url": "https://www.youtube.com/watch?v=3sFoaAhh6GM",
+      "thumbnail": "https://i.ytimg.com/vi/3sFoaAhh6GM/mqdefault.jpg",
       "date": "2026.05.30",
       "type": "long"
     },
@@ -39,14 +47,6 @@
       "url": "https://www.youtube.com/watch?v=7Xcg79neHng",
       "thumbnail": "https://i.ytimg.com/vi/7Xcg79neHng/mqdefault.jpg",
       "date": "2026.05.21",
-      "type": "long"
-    },
-    {
-      "id": "6lsqqcbtkCI",
-      "title": "불 뿜는 연습중",
-      "url": "https://www.youtube.com/watch?v=6lsqqcbtkCI",
-      "thumbnail": "https://i.ytimg.com/vi/6lsqqcbtkCI/mqdefault.jpg",
-      "date": "2026.05.20",
       "type": "long"
     },
     {
