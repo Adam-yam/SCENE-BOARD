@@ -1,6 +1,13 @@
 {
-  "updated": "2026-05-31T12:00:40Z",
+  "updated": "2026-05-31T13:00:42Z",
   "articles": [
+    {
+      "title": "“거제 야호” 걸그룹 밈 타고 홍보 효과 톡톡",
+      "url": "http://www.knnews.co.kr/news/articleView.php?idxno=1542811",
+      "date": "2026.05.31",
+      "source": "knnews.co.kr",
+      "thumbnail": "https://cdn.knnews.co.kr/edb/thumbnail/2026/05/1542811_520_images.jpg"
+    },
     {
       "title": "[Opinion] 거제 야호 뒤에는 이들이 있었다 [문화 전반]",
       "url": "https://www.artinsight.co.kr/news/view.php?no=81055",
@@ -72,18 +79,18 @@
       "thumbnail": "https://pimg.mk.co.kr/news/cms/202605/30/news-p.v1.20260530.bc2c72d2b4914aeab95868ff27463aa2_R.jpeg"
     },
     {
-      "title": "1위 코르티스, 2위 변우석, 3위 리센느",
-      "url": "https://www.starnewskorea.com/star/2026/05/30/2026053008380820768",
-      "date": "2026.05.29",
-      "source": "starnewskorea.com",
-      "thumbnail": null
-    },
-    {
       "title": "변우석, 라이징 스타 2위…드라마 넘어 예능까지",
       "url": "https://www.bntnews.co.kr/article/view/bnt202605300056",
       "date": "2026.05.29",
       "source": "bntnews.co.kr",
       "thumbnail": "https://www.bntnews.co.kr/data/bnt/image/2026/05/30/bnt202605300104.jpg"
+    },
+    {
+      "title": "1위 코르티스, 2위 변우석, 3위 리센느",
+      "url": "https://www.starnewskorea.com/star/2026/05/30/2026053008380820768",
+      "date": "2026.05.29",
+      "source": "starnewskorea.com",
+      "thumbnail": null
     },
     {
       "title": "코르티스·리센느, 밈타고 브랜드평판 TOP3 등극…변우석 2위",
@@ -133,13 +140,6 @@
       "date": "2026.05.28",
       "source": "newsis.com",
       "thumbnail": "https://img1.newsis.com/2026/05/28/NISI20260528_0002146762_web.jpg"
-    },
-    {
-      "title": "MZ 취향 저격한 ‘거제시+리센느’ 컬래버…닷새만에 200만 회 훌쩍",
-      "url": "https://www.busan.com/view/busan/view.php?code=2026052711005509437",
-      "date": "2026.05.27",
-      "source": "busan.com",
-      "thumbnail": "https://www.busan.com/nas/wcms/wcms_data/photos/2026/05/27/2026052715255236187_l.jpg"
     }
   ]
 }
