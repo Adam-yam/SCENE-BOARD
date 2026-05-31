@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-31T01:00:37Z",
+  "updated": "2026-05-31T02:00:41Z",
   "articles": [
     {
       "title": "[뮤직100] 에스파 'LEMONADE' 급등, 카더가든 '그대 작은 나의 세상이 되...",
@@ -51,18 +51,18 @@
       "thumbnail": "https://pimg.mk.co.kr/news/cms/202605/30/news-p.v1.20260530.bc2c72d2b4914aeab95868ff27463aa2_R.jpeg"
     },
     {
-      "title": "변우석, 라이징 스타 2위…드라마 넘어 예능까지",
-      "url": "https://www.bntnews.co.kr/article/view/bnt202605300056",
-      "date": "2026.05.29",
-      "source": "bntnews.co.kr",
-      "thumbnail": "https://www.bntnews.co.kr/data/bnt/image/2026/05/30/bnt202605300104.jpg"
-    },
-    {
       "title": "1위 코르티스, 2위 변우석, 3위 리센느",
       "url": "https://www.starnewskorea.com/star/2026/05/30/2026053008380820768",
       "date": "2026.05.29",
       "source": "starnewskorea.com",
       "thumbnail": null
+    },
+    {
+      "title": "변우석, 라이징 스타 2위…드라마 넘어 예능까지",
+      "url": "https://www.bntnews.co.kr/article/view/bnt202605300056",
+      "date": "2026.05.29",
+      "source": "bntnews.co.kr",
+      "thumbnail": "https://www.bntnews.co.kr/data/bnt/image/2026/05/30/bnt202605300104.jpg"
     },
     {
       "title": "코르티스·리센느, 밈타고 브랜드평판 TOP3 등극…변우석 2위",
@@ -83,7 +83,7 @@
       "url": "https://www.mydaily.co.kr/page/view/2026053000321034867",
       "date": "2026.05.29",
       "source": "mydaily.co.kr",
-      "thumbnail": null
+      "thumbnail": "https://mydaily.co.kr/photos/2026/05/30/2026053000301170576_l.jpg"
     },
     {
       "title": "[TF초점] '거제 야호'로 터진 잠재력…리센느, 대중 속으로",
@@ -100,18 +100,18 @@
       "thumbnail": "https://cdn.pennmike.com/news/thumbnail/202605/121293_165523_5122_v150.jpg"
     },
     {
-      "title": "[영상] \"원이=거제 파이리\"...리센느, 떡상 배경은 'OO'",
-      "url": "https://www.ajunews.com/view/20260529162501329",
-      "date": "2026.05.29",
-      "source": "ajunews.com",
-      "thumbnail": "https://image.ajunews.com/content/image/2026/05/29/20260529162552840728.gif"
-    },
-    {
       "title": "“거제 야호”…아이돌 그룹 리센느, 거제 홍보대사 콘텐츠 268만명 ‘엄...",
       "url": "https://www.kukinews.com/article/view/kuk202605290144",
       "date": "2026.05.29",
       "source": "kukinews.com",
       "thumbnail": null
+    },
+    {
+      "title": "[영상] \"원이=거제 파이리\"...리센느, 떡상 배경은 'OO'",
+      "url": "https://www.ajunews.com/view/20260529162501329",
+      "date": "2026.05.29",
+      "source": "ajunews.com",
+      "thumbnail": "https://image.ajunews.com/content/image/2026/05/29/20260529162552840728.gif"
     },
     {
       "title": "“거제 야호!”…리센느 원이X미나미 거제 갸루 영상 300만 조회수 수익...",
