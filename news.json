@@ -1,19 +1,19 @@
 {
-  "updated": "2026-05-31T09:00:36Z",
+  "updated": "2026-05-31T10:00:39Z",
   "articles": [
+    {
+      "title": "거제시, 리센느 홍보대사 콘텐츠 268만 조회 돌파",
+      "url": "http://www.gndomin.com/news/articleView.html?idxno=477259",
+      "date": "2026.05.31",
+      "source": "gndomin.com",
+      "thumbnail": "http://www.gndomin.com/news/thumbnail/202605/477259_465021_5725_v150.jpg"
+    },
     {
       "title": "코르티스 1위, 5월 라이징 스타 브랜드평판 정상..2위 변우석·3위 리센...",
       "url": "http://www.breaknews.com/1211014",
       "date": "2026.05.31",
       "source": "breaknews.com",
       "thumbnail": "https://www.breaknews.com/imgdata/breaknews_com/202605/2026050556435249.jpg"
-    },
-    {
-      "title": "거제시, 리센느 홍보대사 콘텐츠 268만 조회 돌파",
-      "url": "https://www.newsgn.com/news/articleView.html?idxno=554633",
-      "date": "2026.05.31",
-      "source": "newsgn.com",
-      "thumbnail": "https://cdn.newsgn.com/news/thumbnail/202605/554633_361413_4326_v150.jpg"
     },
     {
       "title": "[뮤직100] 에스파 'LEMONADE' 급등, 카더가든 '그대 작은 나의 세상이 되...",
@@ -97,7 +97,7 @@
       "url": "https://www.mydaily.co.kr/page/view/2026053000321034867",
       "date": "2026.05.29",
       "source": "mydaily.co.kr",
-      "thumbnail": "https://mydaily.co.kr/photos/2026/05/30/2026053000301170576_l.jpg"
+      "thumbnail": null
     },
     {
       "title": "[TF초점] '거제 야호'로 터진 잠재력…리센느, 대중 속으로",
@@ -121,13 +121,6 @@
       "thumbnail": null
     },
     {
-      "title": "[영상] \"원이=거제 파이리\"...리센느, 떡상 배경은 'OO'",
-      "url": "https://www.ajunews.com/view/20260529162501329",
-      "date": "2026.05.29",
-      "source": "ajunews.com",
-      "thumbnail": "https://image.ajunews.com/content/image/2026/05/29/20260529162552840728.gif"
-    },
-    {
       "title": "\"거제 야호\" 한마디에 판 뒤집혔다...광고계 블루칩 리센느, 아이브·에...",
       "url": "http://www.newsworker.co.kr/news/articleView.html?idxno=428784",
       "date": "2026.05.28",
@@ -140,6 +133,13 @@
       "date": "2026.05.28",
       "source": "newsis.com",
       "thumbnail": "https://img1.newsis.com/2026/05/28/NISI20260528_0002146762_web.jpg"
+    },
+    {
+      "title": "MZ 취향 저격한 ‘거제시+리센느’ 컬래버…닷새만에 200만 회 훌쩍",
+      "url": "https://www.busan.com/view/busan/view.php?code=2026052711005509437",
+      "date": "2026.05.27",
+      "source": "busan.com",
+      "thumbnail": "https://www.busan.com/nas/wcms/wcms_data/photos/2026/05/27/2026052715255236187_l.jpg"
     }
   ]
 }
