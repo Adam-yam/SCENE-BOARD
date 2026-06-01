@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-01T06:10:25Z",
+  "updated": "2026-06-01T07:10:29Z",
   "videos": [
     {
       "id": "WvDMIvcUc2Q",
@@ -50,6 +50,14 @@
       "type": "long"
     },
     {
+      "id": "J-DnBjTAgMA",
+      "title": "BOOMPALA intro MINAMI ver. 야-호 ⭐",
+      "url": "https://www.youtube.com/shorts/J-DnBjTAgMA",
+      "thumbnail": "https://i.ytimg.com/vi/J-DnBjTAgMA/mqdefault.jpg",
+      "date": "2026.06.01",
+      "type": "short"
+    },
+    {
       "id": "_EFwePY0ElY",
       "title": "미치겠어 널 놓치기 싫어 🫶",
       "url": "https://www.youtube.com/shorts/_EFwePY0ElY",
@@ -87,14 +95,6 @@
       "url": "https://www.youtube.com/shorts/MlDBq3ml6BM",
       "thumbnail": "https://i.ytimg.com/vi/MlDBq3ml6BM/mqdefault.jpg",
       "date": "2026.05.27",
-      "type": "short"
-    },
-    {
-      "id": "6UDDvu3pdjE",
-      "title": "🖤🤍",
-      "url": "https://www.youtube.com/shorts/6UDDvu3pdjE",
-      "thumbnail": "https://i.ytimg.com/vi/6UDDvu3pdjE/mqdefault.jpg",
-      "date": "2026.05.26",
       "type": "short"
     }
   ]
