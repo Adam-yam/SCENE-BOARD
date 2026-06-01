@@ -1,6 +1,13 @@
 {
-  "updated": "2026-06-01T13:00:49Z",
+  "updated": "2026-06-01T14:00:44Z",
   "articles": [
+    {
+      "title": "리센느 ‘LOVE ATTACK’, 기적의 역주행!",
+      "url": "https://sports.khan.co.kr/article/202606012204003?pt=nv",
+      "date": "2026.06.01",
+      "source": "sports.khan.co.kr",
+      "thumbnail": null
+    },
     {
       "title": "‘라이즈 소희 친누나’ 이지민, ‘넌 내꺼 넌 내 남자’ 챌린지 2천만...",
       "url": "https://www.mk.co.kr/article/12063421",
@@ -90,7 +97,7 @@
       "url": "https://biz.heraldcorp.com/article/10760792?ref=naver",
       "date": "2026.06.01",
       "source": "biz.heraldcorp.com",
-      "thumbnail": "https://wimg.heraldcorp.com/news/cms/2026/06/01/news-p.v1.20260601.c4a5f5853c3c49fb8f72c437c89c5524_T1.jpg"
+      "thumbnail": null
     },
     {
       "title": "“거제 야호!” 터졌다…리센느, 2년 만에 음원 차트 폭풍 역주행",
@@ -128,18 +135,11 @@
       "thumbnail": "https://www.swtvnews.com/news/data/20260601/p1065574571171806_438_thum.jpg"
     },
     {
-      "title": "리센느, 2년전 노래로 '523위' 역주행…\"거제 야호\"가 살린 보석함",
-      "url": "https://www.mydaily.co.kr/page/view/2026060110164991078",
-      "date": "2026.06.01",
-      "source": "mydaily.co.kr",
-      "thumbnail": "https://mydaily.co.kr/photos/2026/06/01/2026060110401324987_l.jpg"
-    },
-    {
       "title": "Rescene rides YouTube buzz to chart resurgence",
       "url": "https://www.koreaherald.com/article/10761273?ref=naver",
       "date": "2026.06.01",
       "source": "koreaherald.com",
-      "thumbnail": null
+      "thumbnail": "https://wimg.heraldcorp.com/news/cms/2026/06/01/news-p.v1.20260601.ce411c0101f64842b10933346877a9f4_T1.jpg"
     }
   ]
 }
