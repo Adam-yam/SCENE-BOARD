@@ -1,6 +1,20 @@
 {
-  "updated": "2026-06-01T03:00:38Z",
+  "updated": "2026-06-01T04:00:37Z",
   "articles": [
+    {
+      "title": "빅뱅, 스타트렌드 K-POP 그룹 투표 1위…굳건한 팬심 입증",
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=522933",
+      "date": "2026.06.01",
+      "source": "joongangenews.com",
+      "thumbnail": "https://cdn.joongangenews.com/news/photo/202606/522933_327456_1538.png"
+    },
+    {
+      "title": "흙바닥 운동장서 행사 뛰던 리센느, '중소돌 기적' 새 주자로",
+      "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=03444006645477456",
+      "date": "2026.06.01",
+      "source": "edaily.co.kr",
+      "thumbnail": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/06/PS26060100715.jpg"
+    },
     {
       "title": "리센느, '러브어택' 기적의 차트인…'거제의 딸' 쏘아올린 돌풍",
       "url": "https://www.nc.press/news/articleView.html?idxno=616975",
@@ -27,7 +41,7 @@
       "url": "https://www.sportsseoul.com/news/read/1612715?ref=naver",
       "date": "2026.06.01",
       "source": "sportsseoul.com",
-      "thumbnail": null
+      "thumbnail": "https://file.sportsseoul.com/news/cms/2026/06/01/news-p.v1.20260601.c228b4f44c3e494fa010c71baf8a2486_P1.jpg"
     },
     {
       "title": "'거제 야호' 리센느 이유있는 떡상…'중소돌' 대표 길거리 홍보 화제",
@@ -118,7 +132,7 @@
       "url": "https://www.mydaily.co.kr/page/view/2026060109382461148",
       "date": "2026.06.01",
       "source": "mydaily.co.kr",
-      "thumbnail": "https://mydaily.co.kr/photos/2026/06/01/2026060109374480684_l.jpg"
+      "thumbnail": null
     },
     {
       "title": "리센느, 기적의 역주행 신화 썼다..‘LOVE ATTACK’ 음원 차트 강타",
@@ -126,20 +140,6 @@
       "date": "2026.06.01",
       "source": "heraldmuse.com",
       "thumbnail": "https://wimg.heraldcorp.com/news/cms/2026/06/01/news-p.v1.20260601.7bc37914ff4749488bbf78192c66cd1a_T1.jpg"
-    },
-    {
-      "title": "[이문원의 쇼비즈워치]“거제 야호” 리센느, 자체콘텐츠의 기적",
-      "url": "https://www.sportsworldi.com/newsView/20260601502651",
-      "date": "2026.06.01",
-      "source": "sportsworldi.com",
-      "thumbnail": "https://www.sportsworldi.com/content/image/2026/06/01/20260601504458.jpg"
-    },
-    {
-      "title": "‘거제 야호’ 리센느, ‘LOVE ATTACK’ 역주행까지 흥행 연타",
-      "url": "https://sports.donga.com/ent/article/all/20260601/134026924/1",
-      "date": "2026.06.01",
-      "source": "sports.donga.com",
-      "thumbnail": "https://dimg.donga.com/wps/SPORTS/IMAGE/2026/06/01/134026916.1.jpg"
     }
   ]
 }
