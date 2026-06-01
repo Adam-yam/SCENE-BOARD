@@ -1,6 +1,34 @@
 {
-  "updated": "2026-06-01T07:00:42Z",
+  "updated": "2026-06-01T08:00:45Z",
   "articles": [
+    {
+      "title": "'역주행' 리센느, 돌연 中 팬 이벤트 취소 \"불가항력적 사유\"[공식]",
+      "url": "http://www.celuvmedia.com/article.php?aid=1780297002521439007",
+      "date": "2026.06.01",
+      "source": "celuvmedia.com",
+      "thumbnail": "http://www.celuvmedia.com/upimages/gisaimg/202606/01521439.jpg"
+    },
+    {
+      "title": "'거제 야호' 밈이 통했다... 리센느, '러브 어택' 역주행",
+      "url": "https://www.insight.co.kr/news/556431",
+      "date": "2026.06.01",
+      "source": "insight.co.kr",
+      "thumbnail": "https://img.insight.co.kr/static/2026/06/01/1200/img_20260601140151_qfo8v5e5.jpg"
+    },
+    {
+      "title": "[TOP초점] '거제 야호'로 리센느 알린 원이-미나미, 신라 공주까지 터지...",
+      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16077209",
+      "date": "2026.06.01",
+      "source": "topstarnews.net",
+      "thumbnail": "https://cdn.topstarnews.net/news/photo/202606/16077209_1934066_530_crop.jpg"
+    },
+    {
+      "title": "리센느, 중국 팬 이벤트 돌연 취소… \"현지 불가항력적 사유\"",
+      "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=04323046645477456",
+      "date": "2026.06.01",
+      "source": "edaily.co.kr",
+      "thumbnail": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/06/PS26060101034.jpg"
+    },
     {
       "title": "[공식] '역주행' 리센느, 중국 행사 취소됐다 \"불가항력적 사유\"",
       "url": "https://www.xportsnews.com/article/2155551",
@@ -21,13 +49,6 @@
       "date": "2026.06.01",
       "source": "joongangenews.com",
       "thumbnail": "https://cdn.joongangenews.com/news/photo/202606/522933_327456_1538.png"
-    },
-    {
-      "title": "흙바닥 운동장서 행사 뛰던 리센느, '중소돌 기적' 새 주자로",
-      "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=03444006645477456",
-      "date": "2026.06.01",
-      "source": "edaily.co.kr",
-      "thumbnail": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/06/PS26060100715.jpg"
     },
     {
       "title": "리센느, '러브어택' 기적의 차트인…'거제의 딸' 쏘아올린 돌풍",
@@ -111,35 +132,14 @@
       "url": "https://www.tenasia.co.kr/article/2026060100364",
       "date": "2026.06.01",
       "source": "tenasia.co.kr",
-      "thumbnail": "https://img.tenasia.co.kr/photo/202606/BF.44488216.1.jpg"
+      "thumbnail": null
     },
     {
-      "title": "리센느, ‘러브 어택’ 역주행 신화..전례 없는 ‘리센느 붐’",
-      "url": "http://www.breaknews.com/1211099",
+      "title": "Rescene rides YouTube buzz to chart resurgence",
+      "url": "https://www.koreaherald.com/article/10761273?ref=naver",
       "date": "2026.06.01",
-      "source": "breaknews.com",
-      "thumbnail": "https://www.breaknews.com/imgdata/breaknews_com/202606/2026060113111812.jpg"
-    },
-    {
-      "title": "[공식] ‘역주행’ 리센느 측 “중국 팬 이벤트 취소, 불가항력 사유”",
-      "url": "https://isplus.com/article/view/isp202606010060",
-      "date": "2026.06.01",
-      "source": "isplus.com",
-      "thumbnail": "https://isplus.com/data/isp/image/2026/05/22/isp20260522000041.800x.0.jpg"
-    },
-    {
-      "title": "\"거제 야호!\" 리센느, '러브 어택' 역주행 신화 썼다…멜론 '톱100' 23위",
-      "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=819906",
-      "date": "2026.06.01",
-      "source": "spotvnews.co.kr",
-      "thumbnail": "https://cdn.spotvnews.co.kr/news/thumbnail/202606/819906_1342795_5210_v150.jpg"
-    },
-    {
-      "title": "'거제 야호' 리센느, 2년 전 노래 역주행…기적의 흥행 연타",
-      "url": "https://www.mediapen.com/news/view/1101931",
-      "date": "2026.06.01",
-      "source": "mediapen.com",
-      "thumbnail": "https://image.mediapen.com/news/202606/news_1101931_1780273318_m.jpg"
+      "source": "koreaherald.com",
+      "thumbnail": "https://wimg.heraldcorp.com/news/cms/2026/06/01/news-p.v1.20260601.ce411c0101f64842b10933346877a9f4_T1.jpg"
     }
   ]
 }
