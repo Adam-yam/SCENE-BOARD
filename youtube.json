@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-02T05:10:28Z",
+  "updated": "2026-06-02T06:10:28Z",
   "videos": [
     {
       "id": "WvDMIvcUc2Q",
@@ -50,6 +50,14 @@
       "type": "long"
     },
     {
+      "id": "VCPENoQOiLA",
+      "title": "료이키텐카이",
+      "url": "https://www.youtube.com/shorts/VCPENoQOiLA",
+      "thumbnail": "https://i.ytimg.com/vi/VCPENoQOiLA/mqdefault.jpg",
+      "date": "2026.06.02",
+      "type": "short"
+    },
+    {
       "id": "J-DnBjTAgMA",
       "title": "BOOMPALA intro MINAMI ver. 야-호 ⭐",
       "url": "https://www.youtube.com/shorts/J-DnBjTAgMA",
@@ -87,14 +95,6 @@
       "url": "https://www.youtube.com/shorts/qnHKH05VqU4",
       "thumbnail": "https://i.ytimg.com/vi/qnHKH05VqU4/mqdefault.jpg",
       "date": "2026.05.28",
-      "type": "short"
-    },
-    {
-      "id": "MlDBq3ml6BM",
-      "title": "Beat it 🎶🕺",
-      "url": "https://www.youtube.com/shorts/MlDBq3ml6BM",
-      "thumbnail": "https://i.ytimg.com/vi/MlDBq3ml6BM/mqdefault.jpg",
-      "date": "2026.05.27",
       "type": "short"
     }
   ]
