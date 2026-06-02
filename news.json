@@ -1,12 +1,19 @@
 {
-  "updated": "2026-06-01T23:00:39Z",
+  "updated": "2026-06-02T00:00:41Z",
   "articles": [
     {
-      "title": "[뮤직100] 정승환 '눈사람' 급등, 에스파 'Whiplash'·순순희 '눈을 감아...",
-      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16077850",
+      "title": "코르티스, 신인 아이돌 브랜드평판 1위…아일릿·리센느 급상승",
+      "url": "https://www.gpkorea.com/news/articleView.html?idxno=143347",
+      "date": "2026.06.01",
+      "source": "gpkorea.com",
+      "thumbnail": "https://cdn.gpkorea.com/news/photo/202606/143347_304103_3944.jpg"
+    },
+    {
+      "title": "[뮤지션100] 에스파 1계단 상승 3위…정승환 90계단 급등",
+      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16077847",
       "date": "2026.06.01",
       "source": "topstarnews.net",
-      "thumbnail": "https://cdn.topstarnews.net/news/photo/202606/16077850_1934511_2533_crop.jpg"
+      "thumbnail": "https://cdn.topstarnews.net/news/photo/202606/16077847_1934505_2352_crop.jpg"
     },
     {
       "title": "1위 코르티스, 2위 아일릿, 3위 리센느",
@@ -114,18 +121,18 @@
       "thumbnail": "https://cdn.joongangenews.com/news/photo/202606/522933_327456_1538.png"
     },
     {
-      "title": "리센느, '러브어택' 기적의 차트인…'거제의 딸' 쏘아올린 돌풍",
-      "url": "https://www.nc.press/news/articleView.html?idxno=616975",
-      "date": "2026.06.01",
-      "source": "nc.press",
-      "thumbnail": "https://cdn.nc.press/news/photo/202606/616975_835558_4151.png"
-    },
-    {
       "title": "Rescene rides YouTube buzz to chart resurgence",
       "url": "https://www.koreaherald.com/article/10761273?ref=naver",
       "date": "2026.06.01",
       "source": "koreaherald.com",
-      "thumbnail": "https://wimg.heraldcorp.com/news/cms/2026/06/01/news-p.v1.20260601.ce411c0101f64842b10933346877a9f4_T1.jpg"
+      "thumbnail": null
+    },
+    {
+      "title": "RESCENE、『LOVE ATTACK』が2年越しのチャート逆襲 ショートフォーム発ヒ...",
+      "url": "https://www.nc.press/news/articleView.html?idxno=616994",
+      "date": "2026.06.01",
+      "source": "nc.press",
+      "thumbnail": "https://cdn.nc.press/news/photo/202606/616994_835597_5124.jpg"
     },
     {
       "title": "“거제 야호” 밈으로 점령하더니…리센느, 2년 전 곡으로 역주행 질주",
@@ -133,13 +140,6 @@
       "date": "2026.06.01",
       "source": "biz.heraldcorp.com",
       "thumbnail": "https://wimg.heraldcorp.com/news/cms/2026/06/01/news-p.v1.20260601.c4a5f5853c3c49fb8f72c437c89c5524_T1.jpg"
-    },
-    {
-      "title": "“역주행 야호!”…리센느가 마침내 해냈습니다 [SS뮤직]",
-      "url": "https://www.sportsseoul.com/news/read/1612715?ref=naver",
-      "date": "2026.06.01",
-      "source": "sportsseoul.com",
-      "thumbnail": "https://file.sportsseoul.com/news/cms/2026/06/01/news-p.v1.20260601.c228b4f44c3e494fa010c71baf8a2486_P1.jpg"
     }
   ]
 }
