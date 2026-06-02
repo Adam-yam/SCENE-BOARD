@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-02T06:10:28Z",
+  "updated": "2026-06-02T07:10:26Z",
   "videos": [
     {
       "id": "WvDMIvcUc2Q",
@@ -50,6 +50,14 @@
       "type": "long"
     },
     {
+      "id": "I_C6jACrTSI",
+      "title": "파라파라 춰야겠다",
+      "url": "https://www.youtube.com/shorts/I_C6jACrTSI",
+      "thumbnail": "https://i.ytimg.com/vi/I_C6jACrTSI/mqdefault.jpg",
+      "date": "2026.06.02",
+      "type": "short"
+    },
+    {
       "id": "VCPENoQOiLA",
       "title": "료이키텐카이",
       "url": "https://www.youtube.com/shorts/VCPENoQOiLA",
@@ -87,14 +95,6 @@
       "url": "https://www.youtube.com/shorts/egyho1BVbhU",
       "thumbnail": "https://i.ytimg.com/vi/egyho1BVbhU/mqdefault.jpg",
       "date": "2026.05.30",
-      "type": "short"
-    },
-    {
-      "id": "qnHKH05VqU4",
-      "title": "오랜만에 막내즈 💞",
-      "url": "https://www.youtube.com/shorts/qnHKH05VqU4",
-      "thumbnail": "https://i.ytimg.com/vi/qnHKH05VqU4/mqdefault.jpg",
-      "date": "2026.05.28",
       "type": "short"
     }
   ]
