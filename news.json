@@ -1,6 +1,13 @@
 {
-  "updated": "2026-06-02T03:00:40Z",
+  "updated": "2026-06-02T04:00:42Z",
   "articles": [
+    {
+      "title": "\"거제 야~호~\" 밈과 웰메이드 곡, 리센느의 재발견",
+      "url": "http://www.sportsq.co.kr/news/articleView.html?idxno=495020",
+      "date": "2026.06.02",
+      "source": "sportsq.co.kr",
+      "thumbnail": "http://www.sportsq.co.kr/news/thumbnail/202606/495020_570181_3733_v150.jpg"
+    },
     {
       "title": "[피플] 자콘·웰메이드곡 시너지 폭발‥'역주행돌' 리센느",
       "url": "https://news.jtbc.co.kr/article/NB12301010?influxDiv=NAVER",
@@ -114,13 +121,6 @@
       "thumbnail": "https://img.insight.co.kr/static/2026/06/01/1200/img_20260601140151_qfo8v5e5.jpg"
     },
     {
-      "title": "리센느, 중국 팬 이벤트 돌연 취소… \"현지 불가항력적 사유\"",
-      "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=04323046645477456",
-      "date": "2026.06.01",
-      "source": "edaily.co.kr",
-      "thumbnail": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/06/PS26060101034.jpg"
-    },
-    {
       "title": "Rescene rides YouTube buzz to chart resurgence",
       "url": "https://www.koreaherald.com/article/10761273?ref=naver",
       "date": "2026.06.01",
@@ -128,18 +128,18 @@
       "thumbnail": "https://wimg.heraldcorp.com/news/cms/2026/06/01/news-p.v1.20260601.ce411c0101f64842b10933346877a9f4_T1.jpg"
     },
     {
+      "title": "리센느, 중국 팬 이벤트 돌연 취소… \"현지 불가항력적 사유\"",
+      "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=04323046645477456",
+      "date": "2026.06.01",
+      "source": "edaily.co.kr",
+      "thumbnail": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/06/PS26060101034.jpg"
+    },
+    {
       "title": "[공식] '역주행' 리센느, 중국 행사 취소됐다 \"불가항력적 사유\"",
       "url": "https://www.xportsnews.com/article/2155551",
       "date": "2026.06.01",
       "source": "xportsnews.com",
       "thumbnail": "https://image.xportsnews.com/contents/images/upload/article/2026/0601/1780296563287326.webp"
-    },
-    {
-      "title": "RESCENE、『LOVE ATTACK』が2年越しのチャート逆襲 ショートフォーム発ヒ...",
-      "url": "https://www.nc.press/news/articleView.html?idxno=616994",
-      "date": "2026.06.01",
-      "source": "nc.press",
-      "thumbnail": "https://cdn.nc.press/news/photo/202606/616994_835597_5124.jpg"
     }
   ]
 }
