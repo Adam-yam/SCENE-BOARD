@@ -1,6 +1,13 @@
 {
-  "updated": "2026-06-02T02:00:39Z",
+  "updated": "2026-06-02T03:00:40Z",
   "articles": [
+    {
+      "title": "[피플] 자콘·웰메이드곡 시너지 폭발‥'역주행돌' 리센느",
+      "url": "https://news.jtbc.co.kr/article/NB12301010?influxDiv=NAVER",
+      "date": "2026.06.02",
+      "source": "news.jtbc.co.kr",
+      "thumbnail": null
+    },
     {
       "title": "리센느, “거제 야호” 통했다…‘러브 어택’ 역주행 돌풍 기적 [셀럽...",
       "url": "http://www.celuvmedia.com/article.php?aid=1780362425521500007",
@@ -30,11 +37,11 @@
       "thumbnail": "https://cdn.gpkorea.com/news/photo/202606/143347_304103_3944.jpg"
     },
     {
-      "title": "[뮤직100] 정승환 '눈사람' 급등, 에스파 'Whiplash'·순순희 '눈을 감아...",
-      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16077850",
+      "title": "[뮤지션100] 에스파 1계단 상승 3위…정승환 90계단 급등",
+      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16077847",
       "date": "2026.06.01",
       "source": "topstarnews.net",
-      "thumbnail": "https://cdn.topstarnews.net/news/photo/202606/16077850_1934511_2533_crop.jpg"
+      "thumbnail": "https://cdn.topstarnews.net/news/photo/202606/16077847_1934505_2352_crop.jpg"
     },
     {
       "title": "1위 코르티스, 2위 아일릿, 3위 리센느",
@@ -114,13 +121,6 @@
       "thumbnail": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/06/PS26060101034.jpg"
     },
     {
-      "title": "[공식] '역주행' 리센느, 중국 행사 취소됐다 \"불가항력적 사유\"",
-      "url": "https://www.xportsnews.com/article/2155551",
-      "date": "2026.06.01",
-      "source": "xportsnews.com",
-      "thumbnail": "https://image.xportsnews.com/contents/images/upload/article/2026/0601/1780296563287326.webp"
-    },
-    {
       "title": "Rescene rides YouTube buzz to chart resurgence",
       "url": "https://www.koreaherald.com/article/10761273?ref=naver",
       "date": "2026.06.01",
@@ -128,18 +128,18 @@
       "thumbnail": "https://wimg.heraldcorp.com/news/cms/2026/06/01/news-p.v1.20260601.ce411c0101f64842b10933346877a9f4_T1.jpg"
     },
     {
+      "title": "[공식] '역주행' 리센느, 중국 행사 취소됐다 \"불가항력적 사유\"",
+      "url": "https://www.xportsnews.com/article/2155551",
+      "date": "2026.06.01",
+      "source": "xportsnews.com",
+      "thumbnail": "https://image.xportsnews.com/contents/images/upload/article/2026/0601/1780296563287326.webp"
+    },
+    {
       "title": "RESCENE、『LOVE ATTACK』が2年越しのチャート逆襲 ショートフォーム発ヒ...",
       "url": "https://www.nc.press/news/articleView.html?idxno=616994",
       "date": "2026.06.01",
       "source": "nc.press",
       "thumbnail": "https://cdn.nc.press/news/photo/202606/616994_835597_5124.jpg"
-    },
-    {
-      "title": "“거제 야호” 밈으로 점령하더니…리센느, 2년 전 곡으로 역주행 질주",
-      "url": "https://biz.heraldcorp.com/article/10760792?ref=naver",
-      "date": "2026.06.01",
-      "source": "biz.heraldcorp.com",
-      "thumbnail": null
     }
   ]
 }
