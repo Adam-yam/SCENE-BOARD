@@ -1,6 +1,27 @@
 {
-  "updated": "2026-06-02T23:00:43Z",
+  "updated": "2026-06-03T00:00:44Z",
   "articles": [
+    {
+      "title": "코리티스 건호, 원희·원이 이어 신인 아이돌 개인파워 3위",
+      "url": "https://www.slist.kr/news/articleView.html?idxno=743022",
+      "date": "2026.06.02",
+      "source": "slist.kr",
+      "thumbnail": "https://cdn.slist.kr/news/thumbnail/202606/743022_1140418_3817_v150.jpg"
+    },
+    {
+      "title": "1위 아일릿 원희, 2위 리센느 원이, 3위 코르티스 건호",
+      "url": "https://www.starnewskorea.com/music/2026/06/03/2026060308260810962",
+      "date": "2026.06.02",
+      "source": "starnewskorea.com",
+      "thumbnail": null
+    },
+    {
+      "title": "아일릿 원희, 6월 신인 아이돌 평판 1위",
+      "url": "https://www.bntnews.co.kr/article/view/bnt202606030058",
+      "date": "2026.06.02",
+      "source": "bntnews.co.kr",
+      "thumbnail": "https://www.bntnews.co.kr/data/bnt/image/2026/06/03/bnt202606030094.jpg"
+    },
     {
       "title": "[뮤지션100] 샤이니·트레저·트리플에스 급등…방탄소년단 점유율 확대",
       "url": "https://www.topstarnews.net/news/articleView.html?idxno=16078827",
@@ -100,27 +121,6 @@
       "thumbnail": "https://cdn.gpkorea.com/news/photo/202606/143347_304103_3944.jpg"
     },
     {
-      "title": "1위 코르티스, 2위 아일릿, 3위 리센느",
-      "url": "https://www.starnewskorea.com/music/2026/06/02/2026060206530851016",
-      "date": "2026.06.01",
-      "source": "starnewskorea.com",
-      "thumbnail": null
-    },
-    {
-      "title": "코르티스, 6월 신인 아이돌 평판 1위",
-      "url": "https://www.bntnews.co.kr/article/view/bnt202606020011",
-      "date": "2026.06.01",
-      "source": "bntnews.co.kr",
-      "thumbnail": "https://www.bntnews.co.kr/data/bnt/image/2026/06/02/bnt202606020015.jpg"
-    },
-    {
-      "title": "코르티스 브랜드평판 373% 급등…신인 아이돌 시장 판도 변화",
-      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=456978",
-      "date": "2026.06.01",
-      "source": "pinpointnews.co.kr",
-      "thumbnail": "https://cdn.pinpointnews.co.kr/news/thumbnail/202606/456978_446428_5653_v150.jpg"
-    },
-    {
       "title": "리센느 ‘LOVE ATTACK’, 기적의 역주행!",
       "url": "https://sports.khan.co.kr/article/202606012204003?pt=nv",
       "date": "2026.06.01",
@@ -132,7 +132,7 @@
       "url": "https://www.mydaily.co.kr/page/view/2026060115103236092",
       "date": "2026.06.01",
       "source": "mydaily.co.kr",
-      "thumbnail": "https://mydaily.co.kr/photos/2026/06/01/2026060115100768479_l.png"
+      "thumbnail": null
     },
     {
       "title": "Rescene rides YouTube buzz to chart resurgence",
