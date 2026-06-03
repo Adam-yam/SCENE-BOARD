@@ -1,6 +1,20 @@
 {
-  "updated": "2026-06-03T15:00:55Z",
+  "updated": "2026-06-03T16:01:01Z",
   "articles": [
+    {
+      "title": "[TF초점]정주행보다 더 눈에 띄는 역주행...음악 소비 패턴의 다변화",
+      "url": "https://news.tf.co.kr/read/entertain/2328890.htm",
+      "date": "2026.06.03",
+      "source": "news.tf.co.kr",
+      "thumbnail": "https://img.tf.co.kr/article/home/2026/06/01/20268440178039418800.jpg"
+    },
+    {
+      "title": "[성산칼럼] ‘거제유자 야호’- 신용욱(경상국립대학교 6차산업학과 주...",
+      "url": "http://www.knnews.co.kr/news/articleView.php?idxno=1543127",
+      "date": "2026.06.03",
+      "source": "knnews.co.kr",
+      "thumbnail": "https://cdn.knnews.co.kr/edb/thumbnail/2026/06/1543127_520_images.jpg"
+    },
     {
       "title": "아일릿 원희, 신인 아이돌 개인 브랜드평판 1위…리센느 원이 2위",
       "url": "http://www.celuvmedia.com/article.php?aid=1780458427521574007",
@@ -62,7 +76,7 @@
       "url": "https://www.mydaily.co.kr/page/view/2026060208431894652",
       "date": "2026.06.02",
       "source": "mydaily.co.kr",
-      "thumbnail": "https://mydaily.co.kr/photos/2026/06/02/2026060208510510547_l.png"
+      "thumbnail": null
     },
     {
       "title": "리센느, 하필 빨간 옷을 사전투표일에···연예인 정치색 논쟁 확산",
@@ -107,13 +121,6 @@
       "thumbnail": null
     },
     {
-      "title": "코르티스, 6월 신인 아이돌그룹 브랜드평판 1위…아일릿·리센느 뒤이어",
-      "url": "https://www.cbci.co.kr/news/articleView.html?idxno=578929",
-      "date": "2026.06.02",
-      "source": "cbci.co.kr",
-      "thumbnail": "https://www.cbci.co.kr/news/thumbnail/202606/578929_393112_4514_v150.jpg"
-    },
-    {
       "title": "Rapper Lee Young-ji becomes latest idol to be accused of swaying voters d...",
       "url": "https://koreajoongangdaily.joins.com/news/2026-06-02/national/socialAffairs/Rapper-Lee-Youngji-becomes-latest-idol-to-be-accused-of-swaying-voters-during-election-season/2606849",
       "date": "2026.06.02",
@@ -133,13 +140,6 @@
       "date": "2026.06.01",
       "source": "mydaily.co.kr",
       "thumbnail": "https://mydaily.co.kr/photos/2026/06/01/2026060115100768479_l.png"
-    },
-    {
-      "title": "Rescene rides YouTube buzz to chart resurgence",
-      "url": "https://www.koreaherald.com/article/10761273?ref=naver",
-      "date": "2026.06.01",
-      "source": "koreaherald.com",
-      "thumbnail": "https://wimg.heraldcorp.com/news/cms/2026/06/01/news-p.v1.20260601.ce411c0101f64842b10933346877a9f4_T1.jpg"
     }
   ]
 }
