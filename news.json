@@ -1,6 +1,13 @@
 {
-  "updated": "2026-06-03T22:00:45Z",
+  "updated": "2026-06-03T23:00:41Z",
   "articles": [
+    {
+      "title": "[뮤직100] 에스파 'LEMONADE' 급등, 잔나비 '주저하는 연인들을 위해' 역...",
+      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16079369",
+      "date": "2026.06.03",
+      "source": "topstarnews.net",
+      "thumbnail": "https://cdn.topstarnews.net/news/photo/202606/16079369_1935755_4828_crop.jpg"
+    },
     {
       "title": "자연스럽게 자유분방하게 개성 있게… 걸그룹도 이젠 웃겨야 산다",
       "url": "https://www.hankookilbo.com/news/article/A2026060318120005925?did=NA",
@@ -65,13 +72,6 @@
       "thumbnail": "https://www.bntnews.co.kr/data/bnt/image/2026/06/03/bnt202606030094.jpg"
     },
     {
-      "title": "[뮤지션100] 샤이니·트레저·트리플에스 급등…방탄소년단 점유율 확대",
-      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16078827",
-      "date": "2026.06.02",
-      "source": "topstarnews.net",
-      "thumbnail": "https://cdn.topstarnews.net/news/photo/202606/16078827_1935298_355_crop.jpg"
-    },
-    {
       "title": "“거제 야호!” 증권가 덮친 걸그룹 밈…K핵잠 수혜주 찍힌 ‘이곳’",
       "url": "https://biz.heraldcorp.com/article/10762564?ref=naver",
       "date": "2026.06.02",
@@ -114,20 +114,6 @@
       "thumbnail": "https://cdn.news.lghellovision.net/news/thumbnail/202606/544493_179298_2311_v150.jpg"
     },
     {
-      "title": "\"거제 야~호~\" 밈과 웰메이드 곡, 리센느의 재발견",
-      "url": "http://www.sportsq.co.kr/news/articleView.html?idxno=495020",
-      "date": "2026.06.02",
-      "source": "sportsq.co.kr",
-      "thumbnail": "http://www.sportsq.co.kr/news/thumbnail/202606/495020_570181_3733_v150.jpg"
-    },
-    {
-      "title": "[피플] 자콘·웰메이드곡 시너지 폭발‥'역주행돌' 리센느",
-      "url": "https://news.jtbc.co.kr/article/NB12301010?influxDiv=NAVER",
-      "date": "2026.06.02",
-      "source": "news.jtbc.co.kr",
-      "thumbnail": null
-    },
-    {
       "title": "Rapper Lee Young-ji becomes latest idol to be accused of swaying voters d...",
       "url": "https://koreajoongangdaily.joins.com/news/2026-06-02/national/socialAffairs/Rapper-Lee-Youngji-becomes-latest-idol-to-be-accused-of-swaying-voters-during-election-season/2606849",
       "date": "2026.06.02",
@@ -140,6 +126,20 @@
       "date": "2026.06.01",
       "source": "sports.khan.co.kr",
       "thumbnail": null
+    },
+    {
+      "title": "'거제 야호'도 못 해…선거철 '정치색' 검문, 언제까지 이럴 거야? [이승...",
+      "url": "https://www.mydaily.co.kr/page/view/2026060115103236092",
+      "date": "2026.06.01",
+      "source": "mydaily.co.kr",
+      "thumbnail": "https://mydaily.co.kr/photos/2026/06/01/2026060115100768479_l.png"
+    },
+    {
+      "title": "Rescene rides YouTube buzz to chart resurgence",
+      "url": "https://www.koreaherald.com/article/10761273?ref=naver",
+      "date": "2026.06.01",
+      "source": "koreaherald.com",
+      "thumbnail": "https://wimg.heraldcorp.com/news/cms/2026/06/01/news-p.v1.20260601.ce411c0101f64842b10933346877a9f4_T1.jpg"
     }
   ]
 }
