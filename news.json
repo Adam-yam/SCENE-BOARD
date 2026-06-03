@@ -1,6 +1,13 @@
 {
-  "updated": "2026-06-03T19:01:00Z",
+  "updated": "2026-06-03T20:00:57Z",
   "articles": [
+    {
+      "title": "자연스럽게 자유분방하게 개성 있게… 걸그룹도 이젠 웃겨야 산다",
+      "url": "https://www.hankookilbo.com/news/article/A2026060318120005925?did=NA",
+      "date": "2026.06.03",
+      "source": "hankookilbo.com",
+      "thumbnail": "https://newsimg.hankookilbo.com/2026/06/03/d80f40ba-34d4-408a-a765-4d610a5366cc.jpg"
+    },
     {
       "title": "[TF초점]정주행보다 더 눈에 띄는 역주행...음악 소비 패턴의 다변화",
       "url": "https://news.tf.co.kr/read/entertain/2328890.htm",
@@ -69,14 +76,14 @@
       "url": "https://biz.heraldcorp.com/article/10762564?ref=naver",
       "date": "2026.06.02",
       "source": "biz.heraldcorp.com",
-      "thumbnail": "https://wimg.heraldcorp.com/news/cms/2026/06/03/news-p.v1.20260602.94f805e1390a4a68871469fe63a83488_T1.jpg"
+      "thumbnail": null
     },
     {
       "title": "\"김치 없인 못 살아\"…'거제 야호' 미나미, 한국인 다 됐다 ('배텐')",
       "url": "https://www.mydaily.co.kr/page/view/2026060208431894652",
       "date": "2026.06.02",
       "source": "mydaily.co.kr",
-      "thumbnail": "https://mydaily.co.kr/photos/2026/06/02/2026060208510510547_l.png"
+      "thumbnail": null
     },
     {
       "title": "리센느, 하필 빨간 옷을 사전투표일에···연예인 정치색 논쟁 확산",
@@ -125,7 +132,7 @@
       "url": "https://koreajoongangdaily.joins.com/news/2026-06-02/national/socialAffairs/Rapper-Lee-Youngji-becomes-latest-idol-to-be-accused-of-swaying-voters-during-election-season/2606849",
       "date": "2026.06.02",
       "source": "koreajoongangdaily.joins.com",
-      "thumbnail": null
+      "thumbnail": "https://koreajoongangdaily.joins.com/data/photo/2026/06/02/65bf2b16-f651-458c-bce7-802832560ead.jpg"
     },
     {
       "title": "리센느 ‘LOVE ATTACK’, 기적의 역주행!",
@@ -133,13 +140,6 @@
       "date": "2026.06.01",
       "source": "sports.khan.co.kr",
       "thumbnail": null
-    },
-    {
-      "title": "'거제 야호'도 못 해…선거철 '정치색' 검문, 언제까지 이럴 거야? [이승...",
-      "url": "https://www.mydaily.co.kr/page/view/2026060115103236092",
-      "date": "2026.06.01",
-      "source": "mydaily.co.kr",
-      "thumbnail": "https://mydaily.co.kr/photos/2026/06/01/2026060115100768479_l.png"
     }
   ]
 }
