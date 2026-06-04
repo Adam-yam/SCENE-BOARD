@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-04T10:10:27Z",
+  "updated": "2026-06-04T11:10:28Z",
   "videos": [
     {
       "id": "ZZRcStcyalM",
@@ -50,6 +50,14 @@
       "type": "long"
     },
     {
+      "id": "sC1CMLFiarU",
+      "title": "갸루들의 러브어택",
+      "url": "https://www.youtube.com/shorts/sC1CMLFiarU",
+      "thumbnail": "https://i.ytimg.com/vi/sC1CMLFiarU/mqdefault.jpg",
+      "date": "2026.06.04",
+      "type": "short"
+    },
+    {
       "id": "_H20LR_qC9c",
       "title": "다들 준비하자 ~⭐",
       "url": "https://www.youtube.com/shorts/_H20LR_qC9c",
@@ -86,14 +94,6 @@
       "title": "미치겠어 널 놓치기 싫어 🫶",
       "url": "https://www.youtube.com/shorts/_EFwePY0ElY",
       "thumbnail": "https://i.ytimg.com/vi/_EFwePY0ElY/mqdefault.jpg",
-      "date": "2026.05.31",
-      "type": "short"
-    },
-    {
-      "id": "_sZJ61dmz8Y",
-      "title": "원이의 조타 스타일링 시간 | KCON JAPAN 2026 Behind | RESCENE (리센느)",
-      "url": "https://www.youtube.com/shorts/_sZJ61dmz8Y",
-      "thumbnail": "https://i.ytimg.com/vi/_sZJ61dmz8Y/mqdefault.jpg",
       "date": "2026.05.31",
       "type": "short"
     }
