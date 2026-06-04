@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-04T09:10:27Z",
+  "updated": "2026-06-04T10:10:27Z",
   "videos": [
     {
       "id": "ZZRcStcyalM",
@@ -50,6 +50,14 @@
       "type": "long"
     },
     {
+      "id": "_H20LR_qC9c",
+      "title": "다들 준비하자 ~⭐",
+      "url": "https://www.youtube.com/shorts/_H20LR_qC9c",
+      "thumbnail": "https://i.ytimg.com/vi/_H20LR_qC9c/mqdefault.jpg",
+      "date": "2026.06.04",
+      "type": "short"
+    },
+    {
       "id": "I_C6jACrTSI",
       "title": "파라파라 춰야겠다",
       "url": "https://www.youtube.com/shorts/I_C6jACrTSI",
@@ -87,14 +95,6 @@
       "url": "https://www.youtube.com/shorts/_sZJ61dmz8Y",
       "thumbnail": "https://i.ytimg.com/vi/_sZJ61dmz8Y/mqdefault.jpg",
       "date": "2026.05.31",
-      "type": "short"
-    },
-    {
-      "id": "egyho1BVbhU",
-      "title": "빵 하나로 시작된 의심 | KCON JAPAN 2026 Behind | RESCENE (리센느)",
-      "url": "https://www.youtube.com/shorts/egyho1BVbhU",
-      "thumbnail": "https://i.ytimg.com/vi/egyho1BVbhU/mqdefault.jpg",
-      "date": "2026.05.30",
       "type": "short"
     }
   ]
