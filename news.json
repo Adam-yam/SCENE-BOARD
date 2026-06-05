@@ -1,6 +1,13 @@
 {
-  "updated": "2026-06-05T12:00:54Z",
+  "updated": "2026-06-05T13:00:56Z",
   "articles": [
+    {
+      "title": "거제의 딸 리센느 원이, 장원급제급 금의환향",
+      "url": "https://news.knn.co.kr/news/article_sns/1379",
+      "date": "2026.06.05",
+      "source": "news.knn.co.kr",
+      "thumbnail": "https://v.knn.co.kr/"
+    },
     {
       "title": "인터넷 달군 '거제 야호!' 거제시 마케팅 나섰다",
       "url": "https://news.knn.co.kr/news/article/188557",
@@ -121,18 +128,11 @@
       "thumbnail": "https://image.xportsnews.com/contents/images/upload/article/2026/0604/1780550768702646.webp"
     },
     {
-      "title": "'아는 형님' 리센느X브아걸 뭉친다, 세대 초월 토크",
-      "url": "https://www.stardailynews.co.kr/news/articleView.html?idxno=538428",
-      "date": "2026.06.04",
-      "source": "stardailynews.co.kr",
-      "thumbnail": "https://cdn.stardailynews.co.kr/news/thumbnail/202606/538428_569974_1034_v150.jpg"
-    },
-    {
       "title": "“거제 야호!” 증권가 덮친 걸그룹 밈…K핵잠 수혜주 찍힌 ‘이곳’",
       "url": "https://biz.heraldcorp.com/article/10762564?ref=naver",
       "date": "2026.06.02",
       "source": "biz.heraldcorp.com",
-      "thumbnail": "https://wimg.heraldcorp.com/news/cms/2026/06/03/news-p.v1.20260602.94f805e1390a4a68871469fe63a83488_T1.jpg"
+      "thumbnail": null
     },
     {
       "title": "Rapper Lee Young-ji becomes latest idol to be accused of swaying voters d...",
