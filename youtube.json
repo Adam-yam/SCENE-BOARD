@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-05T07:10:25Z",
+  "updated": "2026-06-05T08:10:26Z",
   "videos": [
     {
       "id": "ZZRcStcyalM",
@@ -50,6 +50,14 @@
       "type": "long"
     },
     {
+      "id": "LD2KRbqFyU4",
+      "title": "Bad girl",
+      "url": "https://www.youtube.com/shorts/LD2KRbqFyU4",
+      "thumbnail": "https://i.ytimg.com/vi/LD2KRbqFyU4/mqdefault.jpg",
+      "date": "2026.06.05",
+      "type": "short"
+    },
+    {
       "id": "sC1CMLFiarU",
       "title": "갸루들의 러브어택",
       "url": "https://www.youtube.com/shorts/sC1CMLFiarU",
@@ -87,14 +95,6 @@
       "url": "https://www.youtube.com/shorts/J-DnBjTAgMA",
       "thumbnail": "https://i.ytimg.com/vi/J-DnBjTAgMA/mqdefault.jpg",
       "date": "2026.06.01",
-      "type": "short"
-    },
-    {
-      "id": "_EFwePY0ElY",
-      "title": "미치겠어 널 놓치기 싫어 🫶",
-      "url": "https://www.youtube.com/shorts/_EFwePY0ElY",
-      "thumbnail": "https://i.ytimg.com/vi/_EFwePY0ElY/mqdefault.jpg",
-      "date": "2026.05.31",
       "type": "short"
     }
   ]
