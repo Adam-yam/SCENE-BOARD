@@ -1,6 +1,13 @@
 {
-  "updated": "2026-06-06T01:00:54Z",
+  "updated": "2026-06-06T02:00:50Z",
   "articles": [
+    {
+      "title": "[뮤지션100] 아일릿·아이오아이 상승, 악뮤 2위 반등",
+      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16081668",
+      "date": "2026.06.06",
+      "source": "topstarnews.net",
+      "thumbnail": "https://cdn.topstarnews.net/news/photo/202606/16081668_1937389_4118_crop.jpg"
+    },
     {
       "title": "거제 소녀 ‘진정성’에 쏟아진 환호…우린그저 공감하고 싶은 게 아닐...",
       "url": "https://www.khan.co.kr/article/202606060800001",
@@ -16,11 +23,11 @@
       "thumbnail": null
     },
     {
-      "title": "거제 홍보대사가 된 갸루, 리센느 미나미의 소감은?",
-      "url": "http://www.knnews.co.kr/news/articleView.php?idxno=1543329",
+      "title": "거제 홍보대사, 리센느 원이 ‘모든 국민이 거제 여행할 때까지‘",
+      "url": "http://www.knnews.co.kr/news/articleView.php?idxno=1543327",
       "date": "2026.06.05",
       "source": "knnews.co.kr",
-      "thumbnail": "https://cdn.knnews.co.kr/edb/thumbnail/2026/06/1543329_520_images.jpg"
+      "thumbnail": "https://cdn.knnews.co.kr/edb/thumbnail/2026/06/1543327_520_images.jpg"
     },
     {
       "title": "리센느 원이, ‘거제의 딸’다운 인지도 “다시 태어나도 거제에서”",
@@ -76,7 +83,7 @@
       "url": "http://www.stoo.com/article.php?aid=107000043817",
       "date": "2026.06.05",
       "source": "stoo.com",
-      "thumbnail": null
+      "thumbnail": "https://www.stoo.com/upimages/gisaimg/202606/05_1070000_43817.jpg"
     },
     {
       "title": "'거제 야호' 밈으로 역주행하더니... 리센느 원이·미나미, '아는 형님'...",
@@ -107,25 +114,11 @@
       "thumbnail": "https://img.tenasia.co.kr/photo/202606/BF.44541132.1.jpg"
     },
     {
-      "title": "르세라핌, 'BOOMPALA'로 '엠카운트다운' 1위…\"뜻밖의 선물 감사\"",
-      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16080329",
-      "date": "2026.06.05",
-      "source": "topstarnews.net",
-      "thumbnail": "https://cdn.topstarnews.net/news/photo/202606/16080329_1936636_3413_crop.jpg"
-    },
-    {
       "title": "[WHY] Not too cool for school: How K-pop stars took over university festi...",
       "url": "https://koreajoongangdaily.joins.com/news/2026-06-06/why/WHY-Not-too-cool-for-school-How-Kpop-stars-took-over-university-festivals/2606434",
       "date": "2026.06.05",
       "source": "koreajoongangdaily.joins.com",
       "thumbnail": null
-    },
-    {
-      "title": "[김민서의 AI가-중계] 뜻 몰라도 입에 붙는다…‘거제 야호’·‘영크크...",
-      "url": "https://www.mediapen.com/news/view/1102699",
-      "date": "2026.06.04",
-      "source": "mediapen.com",
-      "thumbnail": "https://image.mediapen.com/news/202606/news_1102699_1780564153_m.jpg"
     },
     {
       "title": "“거제 야호!” 증권가 덮친 걸그룹 밈…K핵잠 수혜주 찍힌 ‘이곳’",
@@ -140,6 +133,13 @@
       "date": "2026.06.02",
       "source": "koreajoongangdaily.joins.com",
       "thumbnail": null
+    },
+    {
+      "title": "리센느, 하필 빨간 옷을 사전투표일에···연예인 정치색 논쟁 확산",
+      "url": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=254630",
+      "date": "2026.06.02",
+      "source": "womaneconomy.co.kr",
+      "thumbnail": "https://cdn.womaneconomy.co.kr/news/thumbnail/202606/254630_459137_5551_v150.jpg"
     }
   ]
 }
