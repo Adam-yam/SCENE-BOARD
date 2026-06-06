@@ -1,6 +1,13 @@
 {
-  "updated": "2026-06-05T23:00:44Z",
+  "updated": "2026-06-06T00:00:50Z",
   "articles": [
+    {
+      "title": "거제 소녀 ‘진정성’에 쏟아진 환호…우린그저 공감하고 싶은 게 아닐...",
+      "url": "https://www.khan.co.kr/article/202606060800001",
+      "date": "2026.06.05",
+      "source": "khan.co.kr",
+      "thumbnail": "https://img.khan.co.kr/news/2026/06/06/news-p.v1.20260602.2917e0747aa34ac0a4ef9423f19e1f01_P1.png"
+    },
     {
       "title": "'갸루' 리센느부터 '양의지 소환' 아이오아이…밈 타고 나는 K팝 [N초점...",
       "url": "https://www.news1.kr/entertain/music/6188780",
@@ -9,11 +16,11 @@
       "thumbnail": null
     },
     {
-      "title": "거제 홍보대사가 된 갸루, 리센느 미나미의 소감은?",
-      "url": "http://www.knnews.co.kr/news/articleView.php?idxno=1543329",
+      "title": "거제 홍보대사, 리센느 원이 ‘모든 국민이 거제 여행할 때까지‘",
+      "url": "http://www.knnews.co.kr/news/articleView.php?idxno=1543327",
       "date": "2026.06.05",
       "source": "knnews.co.kr",
-      "thumbnail": "https://cdn.knnews.co.kr/edb/thumbnail/2026/06/1543329_520_images.jpg"
+      "thumbnail": "https://cdn.knnews.co.kr/edb/thumbnail/2026/06/1543327_520_images.jpg"
     },
     {
       "title": "리센느 원이, ‘거제의 딸’다운 인지도 “다시 태어나도 거제에서”",
@@ -69,7 +76,7 @@
       "url": "http://www.stoo.com/article.php?aid=107000043817",
       "date": "2026.06.05",
       "source": "stoo.com",
-      "thumbnail": "https://www.stoo.com/upimages/gisaimg/202606/05_1070000_43817.jpg"
+      "thumbnail": null
     },
     {
       "title": "'거제 야호' 밈으로 역주행하더니... 리센느 원이·미나미, '아는 형님'...",
@@ -133,13 +140,6 @@
       "date": "2026.06.02",
       "source": "koreajoongangdaily.joins.com",
       "thumbnail": null
-    },
-    {
-      "title": "리센느, 하필 빨간 옷을 사전투표일에···연예인 정치색 논쟁 확산",
-      "url": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=254630",
-      "date": "2026.06.02",
-      "source": "womaneconomy.co.kr",
-      "thumbnail": "https://cdn.womaneconomy.co.kr/news/thumbnail/202606/254630_459137_5551_v150.jpg"
     }
   ]
 }
