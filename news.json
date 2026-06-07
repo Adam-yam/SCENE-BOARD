@@ -1,6 +1,13 @@
 {
-  "updated": "2026-06-07T03:00:52Z",
+  "updated": "2026-06-07T04:00:44Z",
   "articles": [
+    {
+      "title": "[TF프리즘] 솔직함을 무기로…유튜브는 걸그룹 반전 매력 창구",
+      "url": "https://news.tf.co.kr/read/entertain/2330027.htm",
+      "date": "2026.06.07",
+      "source": "news.tf.co.kr",
+      "thumbnail": "https://img.tf.co.kr/article/home/2026/05/29/2026894178065367800.jpg"
+    },
     {
       "title": "[뮤직100] 에스파 'WDA' 급증·미야오 'DDI RO RI' 급등, 우즈 'Drowning' 재...",
       "url": "https://www.topstarnews.net/news/articleView.html?idxno=16082242",
@@ -100,13 +107,6 @@
       "thumbnail": "https://kcms.knn.co.kr/mam/data/CI2016123000000000006/CI2017072513315301673/2026/06/05/26060554885/catalog/4.jpg"
     },
     {
-      "title": "리센느, '거제 야호~' 하더니 홍보대사 됐다",
-      "url": "https://www.ggilbo.com/news/articleView.html?idxno=1162021",
-      "date": "2026.06.05",
-      "source": "ggilbo.com",
-      "thumbnail": "https://cdn.ggilbo.com/news/photo/202606/1162021_1014244_3138.png"
-    },
-    {
       "title": "[WHY] Not too cool for school: How K-pop stars took over university festi...",
       "url": "https://koreajoongangdaily.joins.com/news/2026-06-06/why/WHY-Not-too-cool-for-school-How-Kpop-stars-took-over-university-festivals/2606434",
       "date": "2026.06.05",
@@ -125,7 +125,7 @@
       "url": "http://www.stoo.com/article.php?aid=107000043817",
       "date": "2026.06.05",
       "source": "stoo.com",
-      "thumbnail": "https://www.stoo.com/upimages/gisaimg/202606/05_1070000_43817.jpg"
+      "thumbnail": null
     },
     {
       "title": "\"서울 사람 차가워\" 리센느 원이, 목욕탕서 샴푸 빌리려다 거절당한 사...",
