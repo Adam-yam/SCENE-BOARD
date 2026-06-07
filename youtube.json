@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-07T11:10:34Z",
+  "updated": "2026-06-07T12:10:26Z",
   "videos": [
     {
       "id": "jyQnpPFQ2PA",
@@ -50,6 +50,14 @@
       "type": "long"
     },
     {
+      "id": "1H2E9xTxCW0",
+      "title": "슈가슈가룬 💞💘",
+      "url": "https://www.youtube.com/shorts/1H2E9xTxCW0",
+      "thumbnail": "https://i.ytimg.com/vi/1H2E9xTxCW0/mqdefault.jpg",
+      "date": "2026.06.07",
+      "type": "short"
+    },
+    {
       "id": "LD2KRbqFyU4",
       "title": "Bad girl",
       "url": "https://www.youtube.com/shorts/LD2KRbqFyU4",
@@ -87,14 +95,6 @@
       "url": "https://www.youtube.com/shorts/VCPENoQOiLA",
       "thumbnail": "https://i.ytimg.com/vi/VCPENoQOiLA/mqdefault.jpg",
       "date": "2026.06.02",
-      "type": "short"
-    },
-    {
-      "id": "J-DnBjTAgMA",
-      "title": "BOOMPALA intro MINAMI ver. 야-호 ⭐",
-      "url": "https://www.youtube.com/shorts/J-DnBjTAgMA",
-      "thumbnail": "https://i.ytimg.com/vi/J-DnBjTAgMA/mqdefault.jpg",
-      "date": "2026.06.01",
       "type": "short"
     }
   ]
