@@ -1,6 +1,14 @@
 {
-  "updated": "2026-06-07T18:10:29Z",
+  "updated": "2026-06-07T19:10:25Z",
   "videos": [
+    {
+      "id": "O_QATiHzjK4",
+      "title": "리모와 아이들🤫",
+      "url": "https://www.youtube.com/watch?v=O_QATiHzjK4",
+      "thumbnail": "https://i.ytimg.com/vi/O_QATiHzjK4/mqdefault.jpg",
+      "date": "2026.06.07",
+      "type": "long"
+    },
     {
       "id": "jyQnpPFQ2PA",
       "title": "💗리마인의 하트를 픽업~💗 | Re:Creation 센느 센느 룬 | RESCENE (리센느)",
@@ -42,22 +50,6 @@
       "type": "long"
     },
     {
-      "id": "3JHcXOBYERA",
-      "title": "[Re-log] 까엉티비 🐹 | 우리 막내가 벌써 성인 준비를?! | RESCENE (리센느) vlog",
-      "url": "https://www.youtube.com/watch?v=3JHcXOBYERA",
-      "thumbnail": "https://i.ytimg.com/vi/3JHcXOBYERA/mqdefault.jpg",
-      "date": "2026.05.24",
-      "type": "long"
-    },
-    {
-      "id": "O_QATiHzjK4",
-      "title": "리모와 아이들🤫",
-      "url": "https://www.youtube.com/shorts/O_QATiHzjK4",
-      "thumbnail": "https://i.ytimg.com/vi/O_QATiHzjK4/mqdefault_live.jpg",
-      "date": "2026.06.07",
-      "type": "short"
-    },
-    {
       "id": "1H2E9xTxCW0",
       "title": "슈가슈가룬 💞💘",
       "url": "https://www.youtube.com/shorts/1H2E9xTxCW0",
@@ -94,6 +86,14 @@
       "title": "파라파라 춰야겠다",
       "url": "https://www.youtube.com/shorts/I_C6jACrTSI",
       "thumbnail": "https://i.ytimg.com/vi/I_C6jACrTSI/mqdefault.jpg",
+      "date": "2026.06.02",
+      "type": "short"
+    },
+    {
+      "id": "VCPENoQOiLA",
+      "title": "료이키텐카이",
+      "url": "https://www.youtube.com/shorts/VCPENoQOiLA",
+      "thumbnail": "https://i.ytimg.com/vi/VCPENoQOiLA/mqdefault.jpg",
       "date": "2026.06.02",
       "type": "short"
     }
