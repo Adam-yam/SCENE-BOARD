@@ -1,6 +1,13 @@
 {
-  "updated": "2026-06-08T04:00:50Z",
+  "updated": "2026-06-08T05:00:42Z",
   "articles": [
+    {
+      "title": "‘영크크’·‘거제 야호’·‘양의지’…가요계 흥행 공식 바꾼 예측불...",
+      "url": "https://www.sportsseoul.com/news/read/1614199?ref=naver",
+      "date": "2026.06.08",
+      "source": "sportsseoul.com",
+      "thumbnail": "https://file.sportsseoul.com/news/cms/2026/06/08/news-p.v1.20260608.a7663133ab464816ab1a87fd1de7b449_P1.jpg"
+    },
     {
       "title": "\"거제 야호\", 걸그룹 말장난에 대박 터진 거제시",
       "url": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5198391",
@@ -69,7 +76,7 @@
       "url": "https://www.yna.co.kr/view/AKR20260529131200011?input=1195m",
       "date": "2026.06.06",
       "source": "yna.co.kr",
-      "thumbnail": "https://img1.yna.co.kr/etc/inner/KR/2026/05/29/AKR20260529131200011_16_i_P4.jpg"
+      "thumbnail": null
     },
     {
       "title": "리센느 \"라방 자신 있어, 멤버 전원 갸루 분장 하고 음방 나가보고파\" [...",
@@ -133,13 +140,6 @@
       "date": "2026.06.05",
       "source": "newsworker.co.kr",
       "thumbnail": "https://cdn.newsworker.co.kr/news/thumbnail/202606/429977_469647_3544_v150.jpg"
-    },
-    {
-      "title": "\"거제 야호\"가 만든 기적…신인 리센느, 밈에서 역주행까지 [ST포커스]",
-      "url": "http://www.stoo.com/article.php?aid=107000043817",
-      "date": "2026.06.05",
-      "source": "stoo.com",
-      "thumbnail": "https://www.stoo.com/upimages/gisaimg/202606/05_1070000_43817.jpg"
     }
   ]
 }
