@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-08T06:10:31Z",
+  "updated": "2026-06-08T07:10:29Z",
   "videos": [
     {
       "id": "O_QATiHzjK4",
@@ -50,6 +50,14 @@
       "type": "long"
     },
     {
+      "id": "U9hyyNNVqho",
+      "title": "메이입니당 👋💛",
+      "url": "https://www.youtube.com/shorts/U9hyyNNVqho",
+      "thumbnail": "https://i.ytimg.com/vi/U9hyyNNVqho/mqdefault.jpg",
+      "date": "2026.06.08",
+      "type": "short"
+    },
+    {
       "id": "1H2E9xTxCW0",
       "title": "슈가슈가룬 💞💘",
       "url": "https://www.youtube.com/shorts/1H2E9xTxCW0",
@@ -86,14 +94,6 @@
       "title": "파라파라 춰야겠다",
       "url": "https://www.youtube.com/shorts/I_C6jACrTSI",
       "thumbnail": "https://i.ytimg.com/vi/I_C6jACrTSI/mqdefault.jpg",
-      "date": "2026.06.02",
-      "type": "short"
-    },
-    {
-      "id": "VCPENoQOiLA",
-      "title": "료이키텐카이",
-      "url": "https://www.youtube.com/shorts/VCPENoQOiLA",
-      "thumbnail": "https://i.ytimg.com/vi/VCPENoQOiLA/mqdefault.jpg",
       "date": "2026.06.02",
       "type": "short"
     }
