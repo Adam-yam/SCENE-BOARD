@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-08T14:10:36Z",
+  "updated": "2026-06-08T15:10:29Z",
   "videos": [
     {
       "id": "O_QATiHzjK4",
@@ -50,6 +50,14 @@
       "type": "long"
     },
     {
+      "id": "EXFdsa8y8os",
+      "title": "그냥리브왔따리",
+      "url": "https://www.youtube.com/shorts/EXFdsa8y8os",
+      "thumbnail": "https://i.ytimg.com/vi/EXFdsa8y8os/mqdefault_live.jpg",
+      "date": "2026.06.08",
+      "type": "short"
+    },
+    {
       "id": "RPBxKQm1x38",
       "title": "생각보다 버터가 많은 버터떡🧈 | Re:Creation 센느 센느 룬 | RESCENE (리센느)",
       "url": "https://www.youtube.com/shorts/RPBxKQm1x38",
@@ -86,14 +94,6 @@
       "title": "갸루들의 러브어택",
       "url": "https://www.youtube.com/shorts/sC1CMLFiarU",
       "thumbnail": "https://i.ytimg.com/vi/sC1CMLFiarU/mqdefault.jpg",
-      "date": "2026.06.04",
-      "type": "short"
-    },
-    {
-      "id": "_H20LR_qC9c",
-      "title": "다들 준비하자 ~⭐",
-      "url": "https://www.youtube.com/shorts/_H20LR_qC9c",
-      "thumbnail": "https://i.ytimg.com/vi/_H20LR_qC9c/mqdefault.jpg",
       "date": "2026.06.04",
       "type": "short"
     }
