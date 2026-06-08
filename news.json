@@ -1,6 +1,13 @@
 {
-  "updated": "2026-06-08T05:00:42Z",
+  "updated": "2026-06-08T06:00:44Z",
   "articles": [
+    {
+      "title": "요즘도 빅뱅이었다, 스타트렌드 K-POP 그룹 투표 1위",
+      "url": "https://www.stardailynews.co.kr/news/articleView.html?idxno=538713",
+      "date": "2026.06.08",
+      "source": "stardailynews.co.kr",
+      "thumbnail": "https://cdn.stardailynews.co.kr/news/thumbnail/202606/538713_570303_3544_v150.jpg"
+    },
     {
       "title": "‘영크크’·‘거제 야호’·‘양의지’…가요계 흥행 공식 바꾼 예측불...",
       "url": "https://www.sportsseoul.com/news/read/1614199?ref=naver",
@@ -133,13 +140,6 @@
       "date": "2026.06.05",
       "source": "sports.donga.com",
       "thumbnail": "https://dimg.donga.com/wps/SPORTS/IMAGE/2026/06/05/134060181.1.jpg"
-    },
-    {
-      "title": "리센느 돌풍에 재조명 받는 중소돌의 기적…대형 기획사의 벽, 저마다 ...",
-      "url": "http://www.newsworker.co.kr/news/articleView.html?idxno=429977",
-      "date": "2026.06.05",
-      "source": "newsworker.co.kr",
-      "thumbnail": "https://cdn.newsworker.co.kr/news/thumbnail/202606/429977_469647_3544_v150.jpg"
     }
   ]
 }
