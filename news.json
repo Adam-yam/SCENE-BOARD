@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-08T06:00:44Z",
+  "updated": "2026-06-08T07:00:47Z",
   "articles": [
     {
       "title": "요즘도 빅뱅이었다, 스타트렌드 K-POP 그룹 투표 1위",
@@ -16,11 +16,18 @@
       "thumbnail": "https://file.sportsseoul.com/news/cms/2026/06/08/news-p.v1.20260608.a7663133ab464816ab1a87fd1de7b449_P1.jpg"
     },
     {
+      "title": "거제시, 아이돌 걸그룹 ‘리센느’ 홍보대사 위촉",
+      "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8580301&ref=A",
+      "date": "2026.06.08",
+      "source": "news.kbs.co.kr",
+      "thumbnail": "http://news.kbs.co.kr/data/news/title_image/newsmp4/changwon/news930/2026/06/08/71_8580301.jpg"
+    },
+    {
       "title": "\"거제 야호\", 걸그룹 말장난에 대박 터진 거제시",
       "url": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5198391",
       "date": "2026.06.08",
       "source": "mbn.co.kr",
-      "thumbnail": "http://img.vod.mbn.co.kr/vod2/689/2026/06/08/20260608095757_20_689_1420883_1080_7.jpg"
+      "thumbnail": null
     },
     {
       "title": "[자막뉴스] 뜬금없이 뱉은 말이 전국 휩쓸었다...\"거제 야호\"를 아시나...",
@@ -76,14 +83,14 @@
       "url": "https://www.segye.com/newsView/20260605512012?OutUrl=naver",
       "date": "2026.06.06",
       "source": "segye.com",
-      "thumbnail": "https://www.segye.com/content/image/2026/06/07/20260607506502.jpg"
+      "thumbnail": null
     },
     {
       "title": "[샷!] 그녀의 파격 변신은 무죄",
       "url": "https://www.yna.co.kr/view/AKR20260529131200011?input=1195m",
       "date": "2026.06.06",
       "source": "yna.co.kr",
-      "thumbnail": null
+      "thumbnail": "https://img1.yna.co.kr/etc/inner/KR/2026/05/29/AKR20260529131200011_16_i_P4.jpg"
     },
     {
       "title": "리센느 \"라방 자신 있어, 멤버 전원 갸루 분장 하고 음방 나가보고파\" [...",
@@ -112,13 +119,6 @@
       "date": "2026.06.06",
       "source": "imaeil.com",
       "thumbnail": "https://www.imaeil.com/photos/2026/05/28/2026052818090457739_l.jpg"
-    },
-    {
-      "title": "SNS 달군 '거제 야호'…지역 홍보 효과 기대",
-      "url": "http://www.yonhapnewstv.co.kr/news/MYH20260606131513aRi",
-      "date": "2026.06.06",
-      "source": "yonhapnewstv.co.kr",
-      "thumbnail": "https://media.yonhapnewstv.co.kr/article/MYH/20260606/MYH20260606131513aRi.jpg"
     },
     {
       "title": "거제 소녀 ‘진정성’에 쏟아진 환호…우린그저 공감하고 싶은 게 아닐...",
