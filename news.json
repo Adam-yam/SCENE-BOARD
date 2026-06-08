@@ -1,6 +1,13 @@
 {
-  "updated": "2026-06-08T08:00:47Z",
+  "updated": "2026-06-08T09:00:49Z",
   "articles": [
+    {
+      "title": "최예나, ‘쇼츠·챌린지로 화제성 챙긴 스타’ 1위..2위 리센느 미나미...",
+      "url": "http://www.breaknews.com/1212741",
+      "date": "2026.06.08",
+      "source": "breaknews.com",
+      "thumbnail": "https://www.breaknews.com/imgdata/breaknews_com/202603/2026031101091485.jpg"
+    },
     {
       "title": "빅뱅, 스타트렌드 K-POP 그룹 투표 1위…굳건한 팬심 입증",
       "url": "https://www.stardailynews.co.kr/news/articleView.html?idxno=538765",
@@ -13,7 +20,7 @@
       "url": "https://www.sportsseoul.com/news/read/1614199?ref=naver",
       "date": "2026.06.08",
       "source": "sportsseoul.com",
-      "thumbnail": null
+      "thumbnail": "https://file.sportsseoul.com/news/cms/2026/06/08/news-p.v1.20260608.a7663133ab464816ab1a87fd1de7b449_P1.jpg"
     },
     {
       "title": "거제시, 아이돌 걸그룹 ‘리센느’ 홍보대사 위촉",
@@ -69,7 +76,7 @@
       "url": "https://www.ggilbo.com/news/articleView.html?idxno=1161995",
       "date": "2026.06.07",
       "source": "ggilbo.com",
-      "thumbnail": "https://www.ggilbo.com/news/photo/202606/1161995_1014202_2954.jpg"
+      "thumbnail": "https://cdn.ggilbo.com/news/photo/202606/1161995_1014202_2954.jpg"
     },
     {
       "title": "[TF프리즘] 솔직함을 무기로…유튜브는 걸그룹 반전 매력 창구",
@@ -90,7 +97,7 @@
       "url": "https://www.yna.co.kr/view/AKR20260529131200011?input=1195m",
       "date": "2026.06.06",
       "source": "yna.co.kr",
-      "thumbnail": "https://img1.yna.co.kr/etc/inner/KR/2026/05/29/AKR20260529131200011_16_i_P4.jpg"
+      "thumbnail": null
     },
     {
       "title": "리센느 \"라방 자신 있어, 멤버 전원 갸루 분장 하고 음방 나가보고파\" [...",
@@ -105,13 +112,6 @@
       "date": "2026.06.06",
       "source": "ytn.co.kr",
       "thumbnail": "https://image.ytn.co.kr/general/jpg/2026/0607/202606070329413210_t.jpg"
-    },
-    {
-      "title": "\"1%대 시청률에도 건재\"…여전한 화제성 지키며 세대 통합 나선 韓 예능...",
-      "url": "https://www.tvreport.co.kr/breaking/article/1051390/",
-      "date": "2026.06.06",
-      "source": "tvreport.co.kr",
-      "thumbnail": "https://img.tvreportcdn.de/cms-content/uploads/2026/06/04/eb8606df-4be4-48db-9c70-172153647709.jpg"
     },
     {
       "title": "거제 소녀 ‘진정성’에 쏟아진 환호…우린그저 공감하고 싶은 게 아닐...",
