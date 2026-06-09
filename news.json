@@ -1,6 +1,13 @@
 {
-  "updated": "2026-06-09T22:00:42Z",
+  "updated": "2026-06-09T23:00:42Z",
   "articles": [
+    {
+      "title": "[뮤직100] 보이넥스트도어 'VIRAL' 급등, 잔나비 '주저하는 연인들을 위...",
+      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16085724",
+      "date": "2026.06.09",
+      "source": "topstarnews.net",
+      "thumbnail": "https://cdn.topstarnews.net/news/photo/202606/16085724_1939669_3450_crop.jpg"
+    },
     {
       "title": "응원을 부르는 ‘리센느’ 신드롬",
       "url": "https://www.donga.com/news/Culture/article/all/20260610/134081002/2",
@@ -62,7 +69,7 @@
       "url": "https://www.dt.co.kr/article/12066631?ref=naver",
       "date": "2026.06.09",
       "source": "dt.co.kr",
-      "thumbnail": "https://wimg.dt.co.kr/news/cms/2026/06/09/news-p.v1.20260609.b7cbc8ade3db48f0837c03a510453f05_R.png"
+      "thumbnail": null
     },
     {
       "title": "'거제, 야호!' 리센느, '중소의 기적'은 어떻게 만들어지나",
@@ -93,13 +100,6 @@
       "thumbnail": "https://img1.newsis.com/2026/06/09/NISI20260609_0002155822_web.jpg"
     },
     {
-      "title": "[뮤직100] 미야오 'DDI RO RI' 급등, 임영웅 '우리들의 블루스' 확산",
-      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16084284",
-      "date": "2026.06.08",
-      "source": "topstarnews.net",
-      "thumbnail": "https://cdn.topstarnews.net/news/photo/202606/16084284_1938871_3954_crop.jpg"
-    },
-    {
       "title": "“거제 야~호” 리센느 역주행 돌풍… 소속사, 투자유치 조기 종료",
       "url": "https://biz.chosun.com/stock/market_trend/2026/06/09/2BWEL2FKOVH4NIAYM4GGNKYDJA/?utm_source=naver&utm_medium=original&utm_campaign=biz",
       "date": "2026.06.08",
@@ -121,25 +121,25 @@
       "thumbnail": "https://www.chosun.com/resizer/v2/2YAQEUAR7NBFVC6RANBGZS22PY.jpg?auth=0445ec848e915be362da65e9312e066beffe26ed98b389ccafddbf85311f6fa7&amp;width=1200&amp;height=630&amp;focal=796,452"
     },
     {
-      "title": "\"거제 야호\" 미나미, 갸루 변신에 母 깜짝…\"이러려고 韓 보낸 건 아닌데...",
-      "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=821229",
-      "date": "2026.06.08",
-      "source": "spotvnews.co.kr",
-      "thumbnail": "https://cdn.spotvnews.co.kr/news/thumbnail/202606/821229_1345505_4046_v150.jpg"
-    },
-    {
-      "title": "우리가 거제소녀 원이를 사랑하게 된 이유[플랫한 정주행]",
-      "url": "https://www.khan.co.kr/article/202606081805011",
-      "date": "2026.06.08",
-      "source": "khan.co.kr",
-      "thumbnail": "https://img.khan.co.kr/news/2026/06/08/news-p.v1.20260608.48ca3860c6f749f1810b6fe6a89ea52c_P1.jpg"
-    },
-    {
       "title": "[TF프리즘] 솔직함을 무기로…유튜브는 걸그룹 반전 매력 창구",
       "url": "https://news.tf.co.kr/read/entertain/2330027.htm",
       "date": "2026.06.07",
       "source": "news.tf.co.kr",
       "thumbnail": "https://img.tf.co.kr/article/home/2026/05/29/2026894178065367800.jpg"
+    },
+    {
+      "title": "거제 소녀 ‘진정성’에 쏟아진 환호…우린그저 공감하고 싶은 게 아닐...",
+      "url": "https://www.khan.co.kr/article/202606060800001",
+      "date": "2026.06.05",
+      "source": "khan.co.kr",
+      "thumbnail": "https://img.khan.co.kr/news/2026/06/06/news-p.v1.20260602.2917e0747aa34ac0a4ef9423f19e1f01_P1.png"
+    },
+    {
+      "title": "[WHY] Not too cool for school: How K-pop stars took over university festi...",
+      "url": "https://koreajoongangdaily.joins.com/news/2026-06-06/why/WHY-Not-too-cool-for-school-How-Kpop-stars-took-over-university-festivals/2606434",
+      "date": "2026.06.05",
+      "source": "koreajoongangdaily.joins.com",
+      "thumbnail": "https://image.koreajoongangdaily.com/12511583.jpg?imageId=12511583&x=0&y=9.36&cropw=100&croph=63.55&panox=0&panoy=9.36&panow=100&panoh=63.55&width=1200&height=683"
     }
   ]
 }
