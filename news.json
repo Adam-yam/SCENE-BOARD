@@ -1,6 +1,13 @@
 {
-  "updated": "2026-06-08T23:00:41Z",
+  "updated": "2026-06-09T00:00:43Z",
   "articles": [
+    {
+      "title": "[인터뷰] '거제, 야호!' 리센느 \"저희 음악에 대한 자부심이 커요\"",
+      "url": "https://www.newsis.com/view/NISX20260609_0003661222",
+      "date": "2026.06.08",
+      "source": "newsis.com",
+      "thumbnail": "https://img1.newsis.com/2026/06/09/NISI20260609_0002155822_web.jpg"
+    },
     {
       "title": "[뮤직100] 미야오 'DDI RO RI' 급등, 임영웅 '우리들의 블루스' 확산",
       "url": "https://www.topstarnews.net/news/articleView.html?idxno=16084284",
@@ -62,7 +69,7 @@
       "url": "https://www.sportsseoul.com/news/read/1614199?ref=naver",
       "date": "2026.06.08",
       "source": "sportsseoul.com",
-      "thumbnail": "https://file.sportsseoul.com/news/cms/2026/06/08/news-p.v1.20260608.a7663133ab464816ab1a87fd1de7b449_P1.jpg"
+      "thumbnail": null
     },
     {
       "title": "거제시, 아이돌 걸그룹 ‘리센느’ 홍보대사 위촉",
@@ -133,13 +140,6 @@
       "date": "2026.06.05",
       "source": "sports.donga.com",
       "thumbnail": "https://dimg.donga.com/wps/SPORTS/IMAGE/2026/06/05/134060181.1.jpg"
-    },
-    {
-      "title": "리센느 돌풍에 재조명 받는 중소돌의 기적…대형 기획사의 벽, 저마다 ...",
-      "url": "http://www.newsworker.co.kr/news/articleView.html?idxno=429977",
-      "date": "2026.06.05",
-      "source": "newsworker.co.kr",
-      "thumbnail": "https://cdn.newsworker.co.kr/news/thumbnail/202606/429977_469647_3544_v150.jpg"
     }
   ]
 }
