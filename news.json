@@ -1,6 +1,20 @@
 {
-  "updated": "2026-06-10T06:00:50Z",
+  "updated": "2026-06-10T07:00:48Z",
   "articles": [
+    {
+      "title": "[Car & Now] 현대차 박민우 \"AI·자율주행 경쟁, 결국 실행력\"·케이카 실...",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1711982",
+      "date": "2026.06.10",
+      "source": "ebn.co.kr",
+      "thumbnail": "https://cdn.ebn.co.kr/news/thumbnail/202606/1711982_739462_4256_v150.jpg"
+    },
+    {
+      "title": "에스파, 아이돌차트 6월 1주차 아차랭킹 1위..2위 코르티스·3위 아일릿",
+      "url": "http://www.breaknews.com/1213236",
+      "date": "2026.06.10",
+      "source": "breaknews.com",
+      "thumbnail": "https://www.breaknews.com/imgdata/breaknews_com/202605/2026052847407438.jpg"
+    },
     {
       "title": "케이카, 유튜브 실버 버튼 획득…\"중고차 업계서 가장 빨라\"",
       "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=843470",
@@ -27,14 +41,14 @@
       "url": "http://www.queen.co.kr/news/articleView.html?idxno=458348",
       "date": "2026.06.10",
       "source": "queen.co.kr",
-      "thumbnail": "http://www.queen.co.kr/news/thumbnail/202606/458348_203874_551_v150.jpg"
+      "thumbnail": "http://cdn.queen.co.kr/news/thumbnail/202606/458348_203874_551_v150.jpg"
     },
     {
       "title": "'거제 야-호!' 열풍, 리센느 원이가 뜬 이유",
       "url": "https://www.harpersbazaar.co.kr/article/1904188",
       "date": "2026.06.10",
       "source": "harpersbazaar.co.kr",
-      "thumbnail": null
+      "thumbnail": "https://www.harpersbazaar.co.kr/resources/online/thumbnail/hf/2026/06/10/ebfe06f5-1cbe-4c34-bbe6-82a713cc66b1.jpg"
     },
     {
       "title": "남지현 & 리센느 원이, 축제 이끈다! '2026 KGMA' MC 출격",
@@ -126,20 +140,6 @@
       "date": "2026.06.10",
       "source": "edaily.co.kr",
       "thumbnail": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/06/PS26061000332.jpg"
-    },
-    {
-      "title": "남지현·리센느 원이, '2026 KGMA' 첫날 MC…'안방마님X대세' 잇는다",
-      "url": "https://www.nc.press/news/articleView.html?idxno=617648",
-      "date": "2026.06.10",
-      "source": "nc.press",
-      "thumbnail": "https://cdn.nc.press/news/photo/202606/617648_837108_39.jpg"
-    },
-    {
-      "title": "남지현·리센느 원이, 11월 ‘2026 KGMA’ 첫째날 MC 확정",
-      "url": "https://www.newsen.com/news_view.php?uid=202606100902042410",
-      "date": "2026.06.10",
-      "source": "newsen.com",
-      "thumbnail": "https://photo.newsen.com/news_photo/2026/06/10/202606100902042410_1.jpg"
     }
   ]
 }
