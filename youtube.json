@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-10T10:10:27Z",
+  "updated": "2026-06-10T11:10:34Z",
   "videos": [
     {
       "id": "EXFdsa8y8os",
@@ -50,6 +50,14 @@
       "type": "long"
     },
     {
+      "id": "CewxNEXIDII",
+      "title": "I think I need REMINE",
+      "url": "https://www.youtube.com/shorts/CewxNEXIDII",
+      "thumbnail": "https://i.ytimg.com/vi/CewxNEXIDII/mqdefault.jpg",
+      "date": "2026.06.10",
+      "type": "short"
+    },
+    {
       "id": "n6PnxXjgjJo",
       "title": "센둥이들 🫶",
       "url": "https://www.youtube.com/shorts/n6PnxXjgjJo",
@@ -87,14 +95,6 @@
       "url": "https://www.youtube.com/shorts/1H2E9xTxCW0",
       "thumbnail": "https://i.ytimg.com/vi/1H2E9xTxCW0/mqdefault.jpg",
       "date": "2026.06.07",
-      "type": "short"
-    },
-    {
-      "id": "LD2KRbqFyU4",
-      "title": "Bad girl",
-      "url": "https://www.youtube.com/shorts/LD2KRbqFyU4",
-      "thumbnail": "https://i.ytimg.com/vi/LD2KRbqFyU4/mqdefault.jpg",
-      "date": "2026.06.05",
       "type": "short"
     }
   ]
