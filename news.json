@@ -1,6 +1,13 @@
 {
-  "updated": "2026-06-10T05:00:50Z",
+  "updated": "2026-06-10T06:00:50Z",
   "articles": [
+    {
+      "title": "케이카, 유튜브 실버 버튼 획득…\"중고차 업계서 가장 빨라\"",
+      "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=843470",
+      "date": "2026.06.10",
+      "source": "newsworks.co.kr",
+      "thumbnail": "https://cdn.newsworks.co.kr/news/thumbnail/202606/843470_799971_3257_v150.jpg"
+    },
     {
       "title": "케이카 유튜브 '스튜디오ㅋㅇㅋ', 구독자 10만명 돌파",
       "url": "https://www.cstimes.com/news/articleView.html?idxno=709202",
@@ -20,7 +27,7 @@
       "url": "http://www.queen.co.kr/news/articleView.html?idxno=458348",
       "date": "2026.06.10",
       "source": "queen.co.kr",
-      "thumbnail": "http://cdn.queen.co.kr/news/thumbnail/202606/458348_203874_551_v150.jpg"
+      "thumbnail": "http://www.queen.co.kr/news/thumbnail/202606/458348_203874_551_v150.jpg"
     },
     {
       "title": "'거제 야-호!' 열풍, 리센느 원이가 뜬 이유",
@@ -76,7 +83,7 @@
       "url": "https://star.ytn.co.kr/_sn/0117_202606101017411894",
       "date": "2026.06.10",
       "source": "star.ytn.co.kr",
-      "thumbnail": null
+      "thumbnail": "https://image.ytn.co.kr/general/jpg/2026/0610/202606101017411894_t.jpg"
     },
     {
       "title": "남지현·리센느 원이, ‘2026 KGMA’ 1일차 MC",
@@ -133,13 +140,6 @@
       "date": "2026.06.10",
       "source": "newsen.com",
       "thumbnail": "https://photo.newsen.com/news_photo/2026/06/10/202606100902042410_1.jpg"
-    },
-    {
-      "title": "남지현·원이, 11월 일간스포츠 '2026 KGMA' 첫째날 MC",
-      "url": "https://www.newsis.com/view/NISX20260610_0003663150",
-      "date": "2026.06.10",
-      "source": "newsis.com",
-      "thumbnail": "https://img1.newsis.com/2026/06/10/NISI20260610_0002157040_web.jpg"
     }
   ]
 }
