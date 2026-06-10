@@ -1,6 +1,27 @@
 {
-  "updated": "2026-06-10T04:00:44Z",
+  "updated": "2026-06-10T05:00:50Z",
   "articles": [
+    {
+      "title": "케이카 유튜브 '스튜디오ㅋㅇㅋ', 구독자 10만명 돌파",
+      "url": "https://www.cstimes.com/news/articleView.html?idxno=709202",
+      "date": "2026.06.10",
+      "source": "cstimes.com",
+      "thumbnail": "https://www.cstimes.com/news/photo/202606/709202_628999_4216.jpg"
+    },
+    {
+      "title": "\"거제 야호!\" 한마디로 초대박…리센느, 밈 타고 본업까지 떡상 [K-POP 리...",
+      "url": "https://www.ize.co.kr/news/articleView.html?idxno=77705",
+      "date": "2026.06.10",
+      "source": "ize.co.kr",
+      "thumbnail": "https://cdn.ize.co.kr/news/thumbnail/202606/77705_118362_4554_v150.jpg"
+    },
+    {
+      "title": "'곤듀' 열풍 어디까지?…오정세 '최성곤', 스크린 넘어 신드롬",
+      "url": "http://www.queen.co.kr/news/articleView.html?idxno=458348",
+      "date": "2026.06.10",
+      "source": "queen.co.kr",
+      "thumbnail": "http://cdn.queen.co.kr/news/thumbnail/202606/458348_203874_551_v150.jpg"
+    },
     {
       "title": "'거제 야-호!' 열풍, 리센느 원이가 뜬 이유",
       "url": "https://www.harpersbazaar.co.kr/article/1904188",
@@ -55,7 +76,7 @@
       "url": "https://star.ytn.co.kr/_sn/0117_202606101017411894",
       "date": "2026.06.10",
       "source": "star.ytn.co.kr",
-      "thumbnail": "https://image.ytn.co.kr/general/jpg/2026/0610/202606101017411894_t.jpg"
+      "thumbnail": null
     },
     {
       "title": "남지현·리센느 원이, ‘2026 KGMA’ 1일차 MC",
@@ -119,27 +140,6 @@
       "date": "2026.06.10",
       "source": "newsis.com",
       "thumbnail": "https://img1.newsis.com/2026/06/10/NISI20260610_0002157040_web.jpg"
-    },
-    {
-      "title": "리센느 원이, 시상식 MC 된 거제 소녀…남지현과 '2026 KGMA' 호흡",
-      "url": "http://www.osen.co.kr/article/G1112817925",
-      "date": "2026.06.09",
-      "source": "osen.co.kr",
-      "thumbnail": "http://file.osen.co.kr/article_thumb/2026/06/10/202606100851774770_6a28a83e36400_300x.jpg"
-    },
-    {
-      "title": "‘리센느 원이 출연’ 케이카 유튜브 채널, 구독자 10만명 돌파",
-      "url": "https://www.viva100.com/article/20260610500162",
-      "date": "2026.06.09",
-      "source": "viva100.com",
-      "thumbnail": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/06/10/.cache/512/20260610500157.jpg?v=20260610130040"
-    },
-    {
-      "title": "[아티스트 돋보기] 리센느가 피는 시간",
-      "url": "https://www.ajunews.com/view/20260610081012929",
-      "date": "2026.06.09",
-      "source": "ajunews.com",
-      "thumbnail": "https://image.ajunews.com/content/image/2026/06/10/20260610083012566697.jpg"
     }
   ]
 }
