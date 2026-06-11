@@ -1,6 +1,20 @@
 {
-  "updated": "2026-06-11T14:00:57Z",
+  "updated": "2026-06-11T15:00:59Z",
   "articles": [
+    {
+      "title": "‘여자친구’처럼... ‘중소돌의 기적’이 시작된 소녀들",
+      "url": "https://www.chosun.com/opinion/cafe_2040/2026/06/11/AVCI2HNASBHBDL5WLGJJPUZMAE/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+      "date": "2026.06.11",
+      "source": "chosun.com",
+      "thumbnail": "https://www.chosun.com/resizer/v2/MVQTKNZUMY2TENBXGI2DGOJSMU.jpg?auth=a3305fd3bbaccb55a28ae6675179a40985ccb60fc7149f69fb7b417c7ffa57e0&amp;width=719&amp;height=377&amp;smart=true"
+    },
+    {
+      "title": "[영상] 르센느 아니고 '리센느'가 알려주는 FC 모바일 업데이트",
+      "url": "https://www.inven.co.kr/webzine/news/?news=317398",
+      "date": "2026.06.11",
+      "source": "inven.co.kr",
+      "thumbnail": "https://static.inven.co.kr/column/2026/06/11/news/i1173937804.jpg"
+    },
     {
       "title": "'엪모 야호!'…리센느, 'FC 모바일' 월드 게임 업데이트 소개 나섰다",
       "url": "https://www.xportsnews.com/article/2159294",
@@ -126,20 +140,6 @@
       "date": "2026.06.10",
       "source": "edaily.co.kr",
       "thumbnail": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/06/PS26061100227.jpg"
-    },
-    {
-      "title": "트라이앵글 꺾은 '만년 2위' 최성곤..'와일드 씽' '니가 좋아' 신드롬, ...",
-      "url": "https://www.sportschosun.com/entertainment/2026-06-11/202606110100070000004344",
-      "date": "2026.06.10",
-      "source": "sportschosun.com",
-      "thumbnail": "https://www.sportschosun.com/article/html/2026/06/11/2026061101000700000043441_w.jpg"
-    },
-    {
-      "title": "김재원·아이브 리즈, '제3회 코리아 그랜드 뮤직 어워즈' 둘째 날 MC 발...",
-      "url": "https://www.cbci.co.kr/news/articleView.html?idxno=581163",
-      "date": "2026.06.10",
-      "source": "cbci.co.kr",
-      "thumbnail": "https://www.cbci.co.kr/news/thumbnail/202606/581163_394721_3348_v150.jpg"
     }
   ]
 }
