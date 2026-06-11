@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-11T05:10:26Z",
+  "updated": "2026-06-11T06:10:31Z",
   "videos": [
     {
       "id": "EXFdsa8y8os",
@@ -50,6 +50,14 @@
       "type": "long"
     },
     {
+      "id": "Z7T7jqMh7M0",
+      "title": "Hallo! Hallo!",
+      "url": "https://www.youtube.com/shorts/Z7T7jqMh7M0",
+      "thumbnail": "https://i.ytimg.com/vi/Z7T7jqMh7M0/mqdefault.jpg",
+      "date": "2026.06.11",
+      "type": "short"
+    },
+    {
       "id": "CewxNEXIDII",
       "title": "I think I need REMINE",
       "url": "https://www.youtube.com/shorts/CewxNEXIDII",
@@ -87,14 +95,6 @@
       "url": "https://www.youtube.com/shorts/U9hyyNNVqho",
       "thumbnail": "https://i.ytimg.com/vi/U9hyyNNVqho/mqdefault.jpg",
       "date": "2026.06.08",
-      "type": "short"
-    },
-    {
-      "id": "1H2E9xTxCW0",
-      "title": "슈가슈가룬 💞💘",
-      "url": "https://www.youtube.com/shorts/1H2E9xTxCW0",
-      "thumbnail": "https://i.ytimg.com/vi/1H2E9xTxCW0/mqdefault.jpg",
-      "date": "2026.06.07",
       "type": "short"
     }
   ]
