@@ -1,6 +1,13 @@
 {
-  "updated": "2026-06-12T08:00:51Z",
+  "updated": "2026-06-12T09:00:50Z",
   "articles": [
+    {
+      "title": "[필동정담] 중소돌의 기적",
+      "url": "https://www.mk.co.kr/article/12072908",
+      "date": "2026.06.12",
+      "source": "mk.co.kr",
+      "thumbnail": null
+    },
     {
       "title": "숏폼에서 뜨면 음원 순위도 오른다…밈이 바꾼 K팝 흥행공식",
       "url": "https://www.imaeil.com/page/view/2026061216022070999",
@@ -13,7 +20,7 @@
       "url": "https://www.techm.kr/news/articleView.html?idxno=152583",
       "date": "2026.06.12",
       "source": "techm.kr",
-      "thumbnail": "https://cdn.techm.kr/news/thumbnail/202606/152583_214338_573_v150.jpg"
+      "thumbnail": "https://www.techm.kr/news/thumbnail/202606/152583_214341_2611_v150.jpg"
     },
     {
       "title": "돌아온 월드컵! ‘레드’ 코디로 만끽하기",
@@ -125,14 +132,7 @@
       "url": "https://www.sportsseoul.com/news/read/1615454?ref=naver",
       "date": "2026.06.11",
       "source": "sportsseoul.com",
-      "thumbnail": null
-    },
-    {
-      "title": "‘갸루와 왕홍’, 연예계는 왜 인접국 ‘서브컬처’에 열광하나?",
-      "url": "https://sports.donga.com/ent/article/all/20260611/134092916/1",
-      "date": "2026.06.11",
-      "source": "sports.donga.com",
-      "thumbnail": "https://dimg.donga.com/wps/SPORTS/IMAGE/2026/06/11/134084758.1.png"
+      "thumbnail": "https://file.sportsseoul.com/news/cms/2026/06/11/news-p.v1.20260611.d2a9f9040fb84d30b7feb8791b1e64c9_P1.jpg"
     },
     {
       "title": "김재원·리즈, '2026 KGMA' 이끈다… 둘째날 MC 낙점",
