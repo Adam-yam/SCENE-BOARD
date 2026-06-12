@@ -1,6 +1,13 @@
 {
-  "updated": "2026-06-12T22:00:55Z",
+  "updated": "2026-06-12T23:00:49Z",
   "articles": [
+    {
+      "title": "“거제 야호”…리센느 원이의 사람 냄새나는 ‘손민수템’[누구템]",
+      "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=02368166645481392",
+      "date": "2026.06.12",
+      "source": "edaily.co.kr",
+      "thumbnail": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/06/PS26061300155.jpg"
+    },
     {
       "title": "[단독]'최우수산' PD의 선전포고 \"'1박 2일'·'런닝맨' 시청률, 한 번쯤 ...",
       "url": "https://www.starnewskorea.com/star/2026/06/13/2026061118524870117",
@@ -20,7 +27,7 @@
       "url": "https://www.mk.co.kr/article/12072908",
       "date": "2026.06.12",
       "source": "mk.co.kr",
-      "thumbnail": null
+      "thumbnail": "https://static.mk.co.kr/facebook_mknews.jpg"
     },
     {
       "title": "숏폼에서 뜨면 음원 순위도 오른다…밈이 바꾼 K팝 흥행공식",
@@ -34,7 +41,7 @@
       "url": "https://www.techm.kr/news/articleView.html?idxno=152583",
       "date": "2026.06.12",
       "source": "techm.kr",
-      "thumbnail": "https://cdn.techm.kr/news/thumbnail/202606/152583_214341_2611_v150.jpg"
+      "thumbnail": "https://www.techm.kr/news/thumbnail/202606/152583_214341_2611_v150.jpg"
     },
     {
       "title": "돌아온 월드컵! ‘레드’ 코디로 만끽하기",
@@ -128,18 +135,11 @@
       "thumbnail": "https://www.chosun.com/resizer/v2/ONOYODTQV5ETHEEZODFWPDEAIM.png?auth=436c9e1c003176f2d43229d173fd8dd47923c6b0c100bafe590d698e08738109&amp;width=500&amp;height=262&amp;focal=237,252"
     },
     {
-      "title": "[영상] 르센느 아니고 '리센느'가 알려주는 FC 모바일 업데이트",
-      "url": "https://www.inven.co.kr/webzine/news/?news=317398",
-      "date": "2026.06.11",
-      "source": "inven.co.kr",
-      "thumbnail": "https://static.inven.co.kr/column/2026/06/11/news/i1173937804.jpg"
-    },
-    {
-      "title": "김재원·리즈, '2026 KGMA' 이끈다… 둘째날 MC 낙점",
-      "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=02830646645480736",
+      "title": "'거제 야호' 리센느, FC 모바일에서 뛴다",
+      "url": "https://www.gameple.co.kr/news/articleView.html?idxno=215810",
       "date": "2026.06.10",
-      "source": "edaily.co.kr",
-      "thumbnail": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/06/PS26061100227.jpg"
+      "source": "gameple.co.kr",
+      "thumbnail": "https://cdn.gameple.co.kr/news/photo/202606/215810_245843_522.png"
     }
   ]
 }
