@@ -1,12 +1,12 @@
 {
-  "updated": "2026-06-12T09:00:50Z",
+  "updated": "2026-06-12T10:00:45Z",
   "articles": [
     {
       "title": "[필동정담] 중소돌의 기적",
       "url": "https://www.mk.co.kr/article/12072908",
       "date": "2026.06.12",
       "source": "mk.co.kr",
-      "thumbnail": null
+      "thumbnail": "https://static.mk.co.kr/facebook_mknews.jpg"
     },
     {
       "title": "숏폼에서 뜨면 음원 순위도 오른다…밈이 바꾼 K팝 흥행공식",
@@ -76,7 +76,7 @@
       "url": "https://www.heraldmuse.com/article/10770207?ref=naver",
       "date": "2026.06.12",
       "source": "heraldmuse.com",
-      "thumbnail": "https://wimg.heraldcorp.com/news/cms/2026/06/12/news-p.v1.20260612.e175d0594b774ec4ad0195791d2912bb_T1.jpg"
+      "thumbnail": null
     },
     {
       "title": "남지현·원이·김재원·리즈, 11월 7·8일 ‘2026 KGMA’ MC 확정…K팝 축...",
