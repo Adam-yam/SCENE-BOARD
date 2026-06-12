@@ -1,12 +1,19 @@
 {
-  "updated": "2026-06-12T01:00:41Z",
+  "updated": "2026-06-12T02:00:45Z",
   "articles": [
+    {
+      "title": "[뮤직100] 에스파 'WDA'·정국 'Standing Next to You' 급등, 팬덤 확산 본...",
+      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16089497",
+      "date": "2026.06.12",
+      "source": "topstarnews.net",
+      "thumbnail": "https://cdn.topstarnews.net/news/photo/202606/16089497_1941408_643_crop.jpg"
+    },
     {
       "title": "‘거제 야호’ 르센느 미나미 ‘팅글룸’ 출격..7월 6일 공개",
       "url": "https://www.heraldmuse.com/article/10770207?ref=naver",
       "date": "2026.06.12",
       "source": "heraldmuse.com",
-      "thumbnail": "https://wimg.heraldcorp.com/news/cms/2026/06/12/news-p.v1.20260612.e175d0594b774ec4ad0195791d2912bb_T1.jpg"
+      "thumbnail": null
     },
     {
       "title": "남지현·원이·김재원·리즈, 11월 7·8일 ‘2026 KGMA’ MC 확정…K팝 축...",
@@ -14,13 +21,6 @@
       "date": "2026.06.12",
       "source": "isplus.com",
       "thumbnail": "https://isplus.com/data/isp/image/2026/06/10/isp20260610000161.800x.0.jpg"
-    },
-    {
-      "title": "리센느 미나미, ASMR 예능 '팅글룸' 여섯 번째 룸메이트 합류",
-      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16089271",
-      "date": "2026.06.11",
-      "source": "topstarnews.net",
-      "thumbnail": "https://cdn.topstarnews.net/news/photo/202606/16089271_1941297_2233_crop.jpg"
     },
     {
       "title": "리센느 미나미, 오늘(12일) 엠넷플러스 '팅글룸' 룸메이트 출격",
@@ -69,7 +69,7 @@
       "url": "https://www.sportsseoul.com/news/read/1615454?ref=naver",
       "date": "2026.06.11",
       "source": "sportsseoul.com",
-      "thumbnail": null
+      "thumbnail": "https://file.sportsseoul.com/news/cms/2026/06/11/news-p.v1.20260611.d2a9f9040fb84d30b7feb8791b1e64c9_P1.jpg"
     },
     {
       "title": "‘갸루와 왕홍’, 연예계는 왜 인접국 ‘서브컬처’에 열광하나?",
@@ -135,11 +135,11 @@
       "thumbnail": "https://img.etnews.com/news/article/2026/06/11/article_11101634361154.jpg"
     },
     {
-      "title": "남지현·원이 이어 김재원·리즈까지…KGMA MC 라인업 완성",
-      "url": "https://star.ytn.co.kr/_sn/0117_202606110928429317",
-      "date": "2026.06.11",
-      "source": "star.ytn.co.kr",
-      "thumbnail": "https://image.ytn.co.kr/general/jpg/2026/0611/202606110928429317_t.jpg"
+      "title": "김재원·리즈, '2026 KGMA' 이끈다… 둘째날 MC 낙점",
+      "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=02830646645480736",
+      "date": "2026.06.10",
+      "source": "edaily.co.kr",
+      "thumbnail": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/06/PS26061100227.jpg"
     }
   ]
 }
