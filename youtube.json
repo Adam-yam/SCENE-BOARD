@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-12T05:10:31Z",
+  "updated": "2026-06-12T06:10:38Z",
   "videos": [
     {
       "id": "EXFdsa8y8os",
@@ -50,6 +50,14 @@
       "type": "long"
     },
     {
+      "id": "kplvaO1v0E0",
+      "title": "아이코 🫢",
+      "url": "https://www.youtube.com/shorts/kplvaO1v0E0",
+      "thumbnail": "https://i.ytimg.com/vi/kplvaO1v0E0/mqdefault.jpg",
+      "date": "2026.06.12",
+      "type": "short"
+    },
+    {
       "id": "Z7T7jqMh7M0",
       "title": "Hallo! Hallo!",
       "url": "https://www.youtube.com/shorts/Z7T7jqMh7M0",
@@ -86,14 +94,6 @@
       "title": "생각보다 버터가 많은 버터떡🧈 | Re:Creation 센느 센느 룬 | RESCENE (리센느)",
       "url": "https://www.youtube.com/shorts/RPBxKQm1x38",
       "thumbnail": "https://i.ytimg.com/vi/RPBxKQm1x38/mqdefault.jpg",
-      "date": "2026.06.08",
-      "type": "short"
-    },
-    {
-      "id": "U9hyyNNVqho",
-      "title": "메이입니당 👋💛",
-      "url": "https://www.youtube.com/shorts/U9hyyNNVqho",
-      "thumbnail": "https://i.ytimg.com/vi/U9hyyNNVqho/mqdefault.jpg",
       "date": "2026.06.08",
       "type": "short"
     }
