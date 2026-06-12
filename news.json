@@ -1,6 +1,34 @@
 {
-  "updated": "2026-06-12T04:00:41Z",
+  "updated": "2026-06-12T05:00:48Z",
   "articles": [
+    {
+      "title": "돌아온 월드컵! ‘레드’ 코디로 만끽하기",
+      "url": "https://www.bntnews.co.kr/article/view/bnt202606110215",
+      "date": "2026.06.12",
+      "source": "bntnews.co.kr",
+      "thumbnail": "https://www.bntnews.co.kr/data/bnt/image/2026/06/11/bnt202606110558.jpg"
+    },
+    {
+      "title": "'거제 야호!' 리센느부터 엑소·트와이스까지..한중일 팬심 어디로 향했...",
+      "url": "http://www.osen.co.kr/article/G1112819635",
+      "date": "2026.06.12",
+      "source": "osen.co.kr",
+      "thumbnail": "http://file.osen.co.kr/article_thumb/2026/06/12/202606121117776737_6a2b73192fe13_300x.jpg"
+    },
+    {
+      "title": "스타트렌드 1위 빅뱅, K-POP 그룹 부문 팬심 집중",
+      "url": "https://www.stardailynews.co.kr/news/articleView.html?idxno=539307",
+      "date": "2026.06.12",
+      "source": "stardailynews.co.kr",
+      "thumbnail": "https://cdn.stardailynews.co.kr/news/thumbnail/202606/539307_570956_1527_v150.jpg"
+    },
+    {
+      "title": "리센느, 온 세상을 물들여~(출국)[뉴스엔TV]",
+      "url": "https://www.newsen.com/news_view.php?uid=202606121306281310",
+      "date": "2026.06.12",
+      "source": "newsen.com",
+      "thumbnail": "https://photo.newsen.com/news_photo/2026/06/12/202606121306281310_1.jpg"
+    },
     {
       "title": "차트인+챌린지 열풍, 만년 2위 설움 씻은 '니가 좋아' 신드롬",
       "url": "http://www.sportsq.co.kr/news/articleView.html?idxno=495300",
@@ -27,7 +55,7 @@
       "url": "https://www.heraldmuse.com/article/10770207?ref=naver",
       "date": "2026.06.12",
       "source": "heraldmuse.com",
-      "thumbnail": null
+      "thumbnail": "https://wimg.heraldcorp.com/news/cms/2026/06/12/news-p.v1.20260612.e175d0594b774ec4ad0195791d2912bb_T1.jpg"
     },
     {
       "title": "남지현·원이·김재원·리즈, 11월 7·8일 ‘2026 KGMA’ MC 확정…K팝 축...",
@@ -69,7 +97,7 @@
       "url": "https://www.inven.co.kr/webzine/news/?news=317398",
       "date": "2026.06.11",
       "source": "inven.co.kr",
-      "thumbnail": "https://static.inven.co.kr/column/2026/06/11/news/i1173937804.jpg"
+      "thumbnail": null
     },
     {
       "title": "'엪모 야호!'…리센느, 'FC 모바일' 월드 게임 업데이트 소개 나섰다",
@@ -105,34 +133,6 @@
       "date": "2026.06.11",
       "source": "insight.co.kr",
       "thumbnail": "https://img.insight.co.kr/static/2026/06/11/1200/img_20260611112210_a8493j89.jpg"
-    },
-    {
-      "title": "20주년 투어 예고한 빅뱅, 스타트렌드 투표 1위로 저력 확인",
-      "url": "https://www.joongangenews.com/news/articleView.html?idxno=525245",
-      "date": "2026.06.11",
-      "source": "joongangenews.com",
-      "thumbnail": "https://cdn.joongangenews.com/news/photo/202606/525245_329987_1016.jpg"
-    },
-    {
-      "title": "아이브 리즈·김재원, ‘2026 KGMA’ MC 발탁",
-      "url": "https://www.bntnews.co.kr/article/view/bnt202606110116",
-      "date": "2026.06.11",
-      "source": "bntnews.co.kr",
-      "thumbnail": "https://www.bntnews.co.kr/data/bnt/image/2026/06/11/bnt202606110231.jpg"
-    },
-    {
-      "title": "'와일드 씽' 오정세, 전국 '곤이앓이' 인증…챌린지 유행에 무대인사 매...",
-      "url": "https://www.news1.kr/entertain/movie/6194124",
-      "date": "2026.06.11",
-      "source": "news1.kr",
-      "thumbnail": null
-    },
-    {
-      "title": "김재원·아이브 리즈, ‘KGMA’ MC로 호흡 맞춘다",
-      "url": "https://www.munhwa.com/article/11594802?ref=naver",
-      "date": "2026.06.11",
-      "source": "munhwa.com",
-      "thumbnail": "https://wimg.munhwa.com/news/cms/2026/06/11/news-p.v1.20260611.0c877347923744399ae59ce47e62ed84_R.jpg"
     },
     {
       "title": "김재원·리즈, '2026 KGMA' 이끈다… 둘째날 MC 낙점",
