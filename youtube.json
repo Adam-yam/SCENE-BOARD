@@ -1,6 +1,14 @@
 {
-  "updated": "2026-06-12T12:10:29Z",
+  "updated": "2026-06-12T13:10:29Z",
   "videos": [
+    {
+      "id": "aEaCLkOJdG8",
+      "title": "연습생 2명 데뷔 완전체 리센느",
+      "url": "https://www.youtube.com/watch?v=aEaCLkOJdG8",
+      "thumbnail": "https://i.ytimg.com/vi/aEaCLkOJdG8/mqdefault.jpg",
+      "date": "2026.06.12",
+      "type": "long"
+    },
     {
       "id": "EXFdsa8y8os",
       "title": "그냥리브왔따리",
@@ -38,14 +46,6 @@
       "title": "𝗥𝗘𝗦𝗖𝗘𝗡𝗘 𝗣𝗟𝗔𝗬𝗟𝗜𝗦𝗧 | 걸으면서 파라파라나 춰야지🏃🏻🏃🏻‍♀️ | 산책할 때 듣기 좋은 플레이리스트💿",
       "url": "https://www.youtube.com/watch?v=WvDMIvcUc2Q",
       "thumbnail": "https://i.ytimg.com/vi/WvDMIvcUc2Q/mqdefault.jpg",
-      "date": "2026.05.30",
-      "type": "long"
-    },
-    {
-      "id": "3sFoaAhh6GM",
-      "title": "[BASE NOTES] RESCENE (리센느) KCON JAPAN 2026 Behind",
-      "url": "https://www.youtube.com/watch?v=3sFoaAhh6GM",
-      "thumbnail": "https://i.ytimg.com/vi/3sFoaAhh6GM/mqdefault.jpg",
       "date": "2026.05.30",
       "type": "long"
     },
