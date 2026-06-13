@@ -1,6 +1,13 @@
 {
-  "updated": "2026-06-13T07:00:49Z",
+  "updated": "2026-06-13T08:00:53Z",
   "articles": [
+    {
+      "title": "'13주년' 방탄소년단 뷔, 리센느 샤라웃 \"부산 야호\"",
+      "url": "https://www.starnewskorea.com/music/2026/06/13/2026061316115295714",
+      "date": "2026.06.13",
+      "source": "starnewskorea.com",
+      "thumbnail": null
+    },
     {
       "title": "거제는 “거제야호~” 김천은 ‘김밥천국’…젊어진 지자체의 생존법",
       "url": "https://www.donga.com/news/Society/article/all/20260612/134072351/2",
@@ -76,7 +83,7 @@
       "url": "https://www.mk.co.kr/article/12072908",
       "date": "2026.06.12",
       "source": "mk.co.kr",
-      "thumbnail": "https://static.mk.co.kr/facebook_mknews.jpg"
+      "thumbnail": null
     },
     {
       "title": "숏폼에서 뜨면 음원 순위도 오른다…밈이 바꾼 K팝 흥행공식",
@@ -90,7 +97,7 @@
       "url": "https://www.techm.kr/news/articleView.html?idxno=152583",
       "date": "2026.06.12",
       "source": "techm.kr",
-      "thumbnail": "https://www.techm.kr/news/thumbnail/202606/152583_214341_2611_v150.jpg"
+      "thumbnail": "https://cdn.techm.kr/news/thumbnail/202606/152583_214341_2611_v150.jpg"
     },
     {
       "title": "돌아온 월드컵! ‘레드’ 코디로 만끽하기",
@@ -128,18 +135,11 @@
       "thumbnail": "http://www.sportsq.co.kr/news/thumbnail/202606/495300_570791_5858_v150.jpg"
     },
     {
-      "title": "\"거제 야호!\" 한마디에 차트도 역주행…리센느가 만든 반전 흥행",
-      "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000041856",
-      "date": "2026.06.12",
-      "source": "jnilbo.com",
-      "thumbnail": "https://cdn.jnilbo.com/news/photo/202606/90000041856_548946_2310.jpg"
-    },
-    {
       "title": "‘거제 야호’ 르센느 미나미 ‘팅글룸’ 출격..7월 6일 공개",
       "url": "https://www.heraldmuse.com/article/10770207?ref=naver",
       "date": "2026.06.12",
       "source": "heraldmuse.com",
-      "thumbnail": "https://wimg.heraldcorp.com/news/cms/2026/06/12/news-p.v1.20260612.e175d0594b774ec4ad0195791d2912bb_T1.jpg"
+      "thumbnail": null
     }
   ]
 }
