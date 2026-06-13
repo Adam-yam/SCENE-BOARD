@@ -1,6 +1,13 @@
 {
-  "updated": "2026-06-13T03:00:56Z",
+  "updated": "2026-06-13T04:00:53Z",
   "articles": [
+    {
+      "title": "거제는 “거제야호~” 김천은 ‘김밥천국’…젊어진 지자체의 생존법",
+      "url": "https://www.donga.com/news/Society/article/all/20260612/134072351/2",
+      "date": "2026.06.13",
+      "source": "donga.com",
+      "thumbnail": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/12/134075485.3.jpg"
+    },
     {
       "title": "공식보다 ‘부계’가 뜬다…중소 아이돌의 유튜브 알고리즘 공략법 [D:가...",
       "url": "https://www.dailian.co.kr/news/view/1654989/?sc=Naver",
@@ -83,7 +90,7 @@
       "url": "https://www.techm.kr/news/articleView.html?idxno=152583",
       "date": "2026.06.12",
       "source": "techm.kr",
-      "thumbnail": "https://cdn.techm.kr/news/thumbnail/202606/152583_214341_2611_v150.jpg"
+      "thumbnail": "https://www.techm.kr/news/thumbnail/202606/152583_214341_2611_v150.jpg"
     },
     {
       "title": "돌아온 월드컵! ‘레드’ 코디로 만끽하기",
@@ -132,14 +139,7 @@
       "url": "https://www.heraldmuse.com/article/10770207?ref=naver",
       "date": "2026.06.12",
       "source": "heraldmuse.com",
-      "thumbnail": "https://wimg.heraldcorp.com/news/cms/2026/06/12/news-p.v1.20260612.e175d0594b774ec4ad0195791d2912bb_T1.jpg"
-    },
-    {
-      "title": "리센느 미나미, 오늘(12일) 엠넷플러스 '팅글룸' 룸메이트 출격",
-      "url": "https://www.slist.kr/news/articleView.html?idxno=744837",
-      "date": "2026.06.11",
-      "source": "slist.kr",
-      "thumbnail": "https://cdn.slist.kr/news/thumbnail/202606/744837_1143156_1350_v150.jpg"
+      "thumbnail": null
     }
   ]
 }
