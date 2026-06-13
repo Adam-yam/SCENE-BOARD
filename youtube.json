@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-13T12:10:28Z",
+  "updated": "2026-06-13T13:10:34Z",
   "videos": [
     {
       "id": "V-Tz0gvDiG4",
@@ -50,6 +50,14 @@
       "type": "long"
     },
     {
+      "id": "0q-MA4Am5Yw",
+      "title": "메이의 이루어질 수 없는(?) 꿈 | RESCENE (리센느) vlog",
+      "url": "https://www.youtube.com/shorts/0q-MA4Am5Yw",
+      "thumbnail": "https://i.ytimg.com/vi/0q-MA4Am5Yw/mqdefault.jpg",
+      "date": "2026.06.13",
+      "type": "short"
+    },
+    {
       "id": "kplvaO1v0E0",
       "title": "아이코 🫢",
       "url": "https://www.youtube.com/shorts/kplvaO1v0E0",
@@ -87,14 +95,6 @@
       "url": "https://www.youtube.com/shorts/1cJ6-r8PDoE",
       "thumbnail": "https://i.ytimg.com/vi/1cJ6-r8PDoE/mqdefault.jpg",
       "date": "2026.06.09",
-      "type": "short"
-    },
-    {
-      "id": "RPBxKQm1x38",
-      "title": "생각보다 버터가 많은 버터떡🧈 | Re:Creation 센느 센느 룬 | RESCENE (리센느)",
-      "url": "https://www.youtube.com/shorts/RPBxKQm1x38",
-      "thumbnail": "https://i.ytimg.com/vi/RPBxKQm1x38/mqdefault.jpg",
-      "date": "2026.06.08",
       "type": "short"
     }
   ]
