@@ -1,6 +1,13 @@
 {
-  "updated": "2026-06-14T22:00:53Z",
+  "updated": "2026-06-14T23:00:59Z",
   "articles": [
+    {
+      "title": "[뮤직100] 보이넥스트도어 'ADIOS!'·범진 '인사' 급등, 중위권 소비 확산",
+      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16093765",
+      "date": "2026.06.14",
+      "source": "topstarnews.net",
+      "thumbnail": "https://cdn.topstarnews.net/news/photo/202606/16093765_1942642_3118_crop.jpg"
+    },
     {
       "title": "걸그룹 브랜드평판 6월 빅데이터 분석... 1위 아이브, 2위 블랙핑크, 3위...",
       "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=459962",
@@ -58,13 +65,6 @@
       "thumbnail": null
     },
     {
-      "title": "'13주년' BTS, 11만 아미 함께한 부산 콘서트 성료... \"한국 공연이 제일...",
-      "url": "https://www.insight.co.kr/news/558474",
-      "date": "2026.06.14",
-      "source": "insight.co.kr",
-      "thumbnail": "https://img.insight.co.kr/static/2026/06/14/1200/img_20260614105355_aryp4hln.jpg"
-    },
-    {
       "title": "'거제 야호'가 쏘아올린 작은 공…리센느, 가요계 강력한 《러브 어택》",
       "url": "https://www.sisajournal.com/news/articleView.html?idxno=375862",
       "date": "2026.06.14",
@@ -72,11 +72,18 @@
       "thumbnail": "https://cdn.sisajournal.com/news/thumbnail/202606/375862_383825_2517_v150.jpg"
     },
     {
+      "title": "'13주년' BTS, 11만 아미 함께한 부산 콘서트 성료... \"한국 공연이 제일...",
+      "url": "https://www.insight.co.kr/news/558474",
+      "date": "2026.06.14",
+      "source": "insight.co.kr",
+      "thumbnail": "https://img.insight.co.kr/static/2026/06/14/1200/img_20260614105355_aryp4hln.jpg"
+    },
+    {
       "title": "쇠붙이 소리에 실린 ‘조선 EDM’…BTS, 13년의 ‘화양연화’",
       "url": "https://www.mediapen.com/news/view/1104354",
       "date": "2026.06.14",
       "source": "mediapen.com",
-      "thumbnail": "https://image.mediapen.com/news/202606/news_1104354_1781402055_m.jpg"
+      "thumbnail": null
     },
     {
       "title": "걸그룹 브랜드평판 6월 1위 아이브… 블랙핑크·아일릿 뒤이어",
@@ -133,13 +140,6 @@
       "date": "2026.06.13",
       "source": "yna.co.kr",
       "thumbnail": "https://img2.yna.co.kr/etc/inner/KR/2026/06/13/AKR20260613041200005_01_i_P4.jpg"
-    },
-    {
-      "title": "아이돌이 사투리를 숨기지 않았을 때",
-      "url": "https://www.mediatoday.co.kr/news/articleView.html?idxno=335147",
-      "date": "2026.06.13",
-      "source": "mediatoday.co.kr",
-      "thumbnail": "https://cdn.mediatoday.co.kr/news/thumbnail/202606/335147_479862_4959_v150.jpg"
     }
   ]
 }
