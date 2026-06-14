@@ -1,6 +1,20 @@
 {
-  "updated": "2026-06-14T04:00:49Z",
+  "updated": "2026-06-14T05:00:56Z",
   "articles": [
+    {
+      "title": "‘러블리하다’ 아이브, 걸그룹 브랜드평판 1위",
+      "url": "https://www.mk.co.kr/article/12073583",
+      "date": "2026.06.14",
+      "source": "mk.co.kr",
+      "thumbnail": "https://pimg.mk.co.kr/news/cms/202606/14/news-p.v1.20260614.4b1378666bd6409f978648ade2b778b7_R.jpeg"
+    },
+    {
+      "title": "걸그룹 브랜드평판 3위 아일릿, 2위 블랙핑크...1위는 '이 그룹'이 차지",
+      "url": "https://mhnse.com/news/articleView.html?idxno=1430611",
+      "date": "2026.06.14",
+      "source": "mhnse.com",
+      "thumbnail": "https://contents-cdn.viewus.co.kr/creator-cms/image/2026/06/8411b183-188b-4c81-97e6-6d1bd4e5cfd8.jpg"
+    },
     {
       "title": "존박, '야호' 리센느와 기우제 지냈다 \"영혼 갈아넣어\"",
       "url": "https://www.starnewskorea.com/star/2026/06/14/2026061411283932831",
@@ -9,18 +23,18 @@
       "thumbnail": null
     },
     {
-      "title": "'13주년' BTS, 11만 아미 함께한 부산 콘서트 성료... \"한국 공연이 제일...",
-      "url": "https://www.insight.co.kr/news/558474",
-      "date": "2026.06.14",
-      "source": "insight.co.kr",
-      "thumbnail": "https://img.insight.co.kr/static/2026/06/14/1200/img_20260614105355_aryp4hln.jpg"
-    },
-    {
       "title": "'거제 야호'가 쏘아올린 작은 공…리센느, 가요계 강력한 《러브 어택》",
       "url": "https://www.sisajournal.com/news/articleView.html?idxno=375862",
       "date": "2026.06.14",
       "source": "sisajournal.com",
       "thumbnail": "https://cdn.sisajournal.com/news/thumbnail/202606/375862_383825_2517_v150.jpg"
+    },
+    {
+      "title": "'13주년' BTS, 11만 아미 함께한 부산 콘서트 성료... \"한국 공연이 제일...",
+      "url": "https://www.insight.co.kr/news/558474",
+      "date": "2026.06.14",
+      "source": "insight.co.kr",
+      "thumbnail": "https://img.insight.co.kr/static/2026/06/14/1200/img_20260614105355_aryp4hln.jpg"
     },
     {
       "title": "쇠붙이 소리에 실린 ‘조선 EDM’…BTS, 13년의 ‘화양연화’",
@@ -126,20 +140,6 @@
       "date": "2026.06.13",
       "source": "topstarnews.net",
       "thumbnail": "https://cdn.topstarnews.net/news/photo/202606/16092305_1942186_1711_crop.jpg"
-    },
-    {
-      "title": "“거제 야호~” 외치러 떠나볼까…남해바다 인생샷부터 해금강 절경까지",
-      "url": "https://kormedi.com/?p=2824350",
-      "date": "2026.06.13",
-      "source": "kormedi.com",
-      "thumbnail": null
-    },
-    {
-      "title": "'13주년' 방탄소년단 뷔, 리센느 샤라웃 \"부산 야호\"",
-      "url": "https://www.starnewskorea.com/music/2026/06/13/2026061316115295714",
-      "date": "2026.06.13",
-      "source": "starnewskorea.com",
-      "thumbnail": null
     }
   ]
 }
