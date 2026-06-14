@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-14T05:10:30Z",
+  "updated": "2026-06-14T06:10:34Z",
   "videos": [
     {
       "id": "V-Tz0gvDiG4",
@@ -50,6 +50,14 @@
       "type": "long"
     },
     {
+      "id": "uZ6hacZyDoE",
+      "title": "할때만",
+      "url": "https://www.youtube.com/shorts/uZ6hacZyDoE",
+      "thumbnail": "https://i.ytimg.com/vi/uZ6hacZyDoE/mqdefault.jpg",
+      "date": "2026.06.14",
+      "type": "short"
+    },
+    {
       "id": "0q-MA4Am5Yw",
       "title": "메이의 이루어질 수 없는(?) 꿈 | RESCENE (리센느) vlog",
       "url": "https://www.youtube.com/shorts/0q-MA4Am5Yw",
@@ -86,14 +94,6 @@
       "title": "센둥이들 🫶",
       "url": "https://www.youtube.com/shorts/n6PnxXjgjJo",
       "thumbnail": "https://i.ytimg.com/vi/n6PnxXjgjJo/mqdefault.jpg",
-      "date": "2026.06.09",
-      "type": "short"
-    },
-    {
-      "id": "1cJ6-r8PDoE",
-      "title": "뱃속에 들어가면 다 똑같아요~😘 | Re:Creation 센느 센느 룬 | RESCENE (리센느)",
-      "url": "https://www.youtube.com/shorts/1cJ6-r8PDoE",
-      "thumbnail": "https://i.ytimg.com/vi/1cJ6-r8PDoE/mqdefault.jpg",
       "date": "2026.06.09",
       "type": "short"
     }
