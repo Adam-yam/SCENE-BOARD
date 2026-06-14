@@ -1,6 +1,13 @@
 {
-  "updated": "2026-06-14T05:00:56Z",
+  "updated": "2026-06-14T06:00:57Z",
   "articles": [
+    {
+      "title": "\"부산 야~호~!\" 부산 물들인 BTS…아미와 13주년 생일",
+      "url": "https://www.busan.com/view/busan/view.php?code=2026061410135540667",
+      "date": "2026.06.14",
+      "source": "busan.com",
+      "thumbnail": "https://www.busan.com/nas/wcms/wcms_data/photos/2026/06/13/2026061322390330568_l.jpg"
+    },
     {
       "title": "‘러블리하다’ 아이브, 걸그룹 브랜드평판 1위",
       "url": "https://www.mk.co.kr/article/12073583",
@@ -13,7 +20,7 @@
       "url": "https://mhnse.com/news/articleView.html?idxno=1430611",
       "date": "2026.06.14",
       "source": "mhnse.com",
-      "thumbnail": "https://contents-cdn.viewus.co.kr/creator-cms/image/2026/06/8411b183-188b-4c81-97e6-6d1bd4e5cfd8.jpg"
+      "thumbnail": null
     },
     {
       "title": "존박, '야호' 리센느와 기우제 지냈다 \"영혼 갈아넣어\"",
@@ -133,13 +140,6 @@
       "date": "2026.06.13",
       "source": "mediatoday.co.kr",
       "thumbnail": "https://cdn.mediatoday.co.kr/news/thumbnail/202606/335147_479862_4959_v150.jpg"
-    },
-    {
-      "title": "존박, '리센느' 1위 기원 단체 기도…역주행 응원 현장",
-      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16092305",
-      "date": "2026.06.13",
-      "source": "topstarnews.net",
-      "thumbnail": "https://cdn.topstarnews.net/news/photo/202606/16092305_1942186_1711_crop.jpg"
     }
   ]
 }
