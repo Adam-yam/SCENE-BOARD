@@ -1,6 +1,13 @@
 {
-  "updated": "2026-06-15T10:01:07Z",
+  "updated": "2026-06-15T11:01:02Z",
   "articles": [
+    {
+      "title": "리센느 미나미, 역주행 열풍 이어 'ASMR 예능 도전'",
+      "url": "https://www.ggilbo.com/news/articleView.html?idxno=1163770",
+      "date": "2026.06.15",
+      "source": "ggilbo.com",
+      "thumbnail": "https://cdn.ggilbo.com/news/photo/202606/1163770_1015986_5010.png"
+    },
     {
       "title": "\"이 정도면 진짜 빚진 거\" … '최성곤앓이' 류승룡, 천사 이어 '털보 포...",
       "url": "https://www.newdaily.co.kr/site/data/html/2026/06/15/2026061500289.html",
@@ -48,7 +55,7 @@
       "url": "https://www.hani.co.kr/arti/culture/music/1263599.html",
       "date": "2026.06.15",
       "source": "hani.co.kr",
-      "thumbnail": "https://flexible.img.hani.co.kr/flexible/normal/970/531/imgdb/original/2026/0615/20260615502449.webp"
+      "thumbnail": null
     },
     {
       "title": "빅뱅, 스타트렌드 투표 1위로 입증한 2세대 대표 그룹의 저력",
@@ -133,13 +140,6 @@
       "date": "2026.06.13",
       "source": "dailian.co.kr",
       "thumbnail": "https://cdnimage.dailian.co.kr/news/202606/news_1781158986_1654989_m_1.png"
-    },
-    {
-      "title": "[퍼스널리티] 완벽한 우상이 아닌 일상 속 친근함..원이, 뉴타입 아이돌",
-      "url": "https://www.ize.co.kr/news/articleView.html?idxno=77801",
-      "date": "2026.06.13",
-      "source": "ize.co.kr",
-      "thumbnail": "https://cdn.ize.co.kr/news/thumbnail/202606/77801_118549_182_v150.jpg"
     }
   ]
 }
