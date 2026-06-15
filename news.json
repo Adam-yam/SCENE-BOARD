@@ -1,6 +1,13 @@
 {
-  "updated": "2026-06-15T22:01:01Z",
+  "updated": "2026-06-15T23:00:55Z",
   "articles": [
+    {
+      "title": "[뮤직100] 미야오 '띠로리' 급등·르세라핌 'BOOMPALA' 확산",
+      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16096123",
+      "date": "2026.06.15",
+      "source": "topstarnews.net",
+      "thumbnail": "https://cdn.topstarnews.net/news/photo/202606/16096123_1943422_3839_crop.jpg"
+    },
     {
       "title": "리센느, 인기 심상찮더니 역주행 시작…'LOVE ATTACK' 대박난 이유",
       "url": "https://www.tenasia.co.kr/article/2026061573704",
@@ -44,13 +51,6 @@
       "thumbnail": "https://image.ajunews.com/content/image/2026/06/15/20260615121227238120.jpg"
     },
     {
-      "title": "리센느 원이 유튜브, 갸루→사투리 이어 연습생까지 성공적 데뷔…구독...",
-      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16094589",
-      "date": "2026.06.15",
-      "source": "topstarnews.net",
-      "thumbnail": "https://cdn.topstarnews.net/news/photo/202606/16094589_1943044_5920_crop.jpg"
-    },
-    {
       "title": "상반기 최고의 밈…‘거제 야호~!’ 커지는 메아리",
       "url": "https://kookbang.dema.mil.kr/newsWeb/20260616/1/ATCE_CTGR_0020020035/view.do",
       "date": "2026.06.15",
@@ -62,7 +62,7 @@
       "url": "https://www.hani.co.kr/arti/culture/music/1263599.html",
       "date": "2026.06.15",
       "source": "hani.co.kr",
-      "thumbnail": "https://flexible.img.hani.co.kr/flexible/normal/970/531/imgdb/original/2026/0615/20260615502449.webp"
+      "thumbnail": null
     },
     {
       "title": "빅뱅, 스타트렌드 투표 1위로 입증한 2세대 대표 그룹의 저력",
