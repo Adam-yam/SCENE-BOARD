@@ -1,6 +1,13 @@
 {
-  "updated": "2026-06-15T00:00:56Z",
+  "updated": "2026-06-15T01:00:57Z",
   "articles": [
+    {
+      "title": "[기획] “욕봤다, 거제소녀”…리센느 원이가 쏘아 올린 중소돌의 기적",
+      "url": "https://www.wikitree.co.kr/articles/1140732",
+      "date": "2026.06.15",
+      "source": "wikitree.co.kr",
+      "thumbnail": "https://cdnweb01.wikitree.co.kr/webdata/editor/202606/10/202606101454081693.jpg"
+    },
     {
       "title": "[뮤직100] 보이넥스트도어 'ADIOS!'·범진 '인사' 급등, 중위권 소비 확산",
       "url": "https://www.topstarnews.net/news/articleView.html?idxno=16093765",
@@ -133,13 +140,6 @@
       "date": "2026.06.13",
       "source": "starnewskorea.com",
       "thumbnail": null
-    },
-    {
-      "title": "BTS, 부산서 11만 아미와 13주년…\"여러분이 가장 큰 생일 선물\"",
-      "url": "https://www.yna.co.kr/view/AKR20260613041200005?input=1195m",
-      "date": "2026.06.13",
-      "source": "yna.co.kr",
-      "thumbnail": "https://img2.yna.co.kr/etc/inner/KR/2026/06/13/AKR20260613041200005_01_i_P4.jpg"
     }
   ]
 }
