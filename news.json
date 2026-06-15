@@ -1,6 +1,13 @@
 {
-  "updated": "2026-06-15T07:00:57Z",
+  "updated": "2026-06-15T08:01:00Z",
   "articles": [
+    {
+      "title": "리센느 원이 유튜브, 갸루→사투리 이어 연습생까지 성공적 데뷔…구독...",
+      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16094589",
+      "date": "2026.06.15",
+      "source": "topstarnews.net",
+      "thumbnail": "https://cdn.topstarnews.net/news/photo/202606/16094589_1943044_5920_crop.jpg"
+    },
     {
       "title": "상반기 최고의 밈…‘거제 야호~!’ 커지는 메아리",
       "url": "https://kookbang.dema.mil.kr/newsWeb/20260616/1/ATCE_CTGR_0020020035/view.do",
@@ -13,7 +20,7 @@
       "url": "https://www.hani.co.kr/arti/culture/music/1263599.html",
       "date": "2026.06.15",
       "source": "hani.co.kr",
-      "thumbnail": null
+      "thumbnail": "https://flexible.img.hani.co.kr/flexible/normal/970/531/imgdb/original/2026/0615/20260615502449.webp"
     },
     {
       "title": "빅뱅, 스타트렌드 투표 1위로 입증한 2세대 대표 그룹의 저력",
@@ -72,18 +79,11 @@
       "thumbnail": "https://cdnweb01.wikitree.co.kr/webdata/editor/202606/10/202606101454081693.jpg"
     },
     {
-      "title": "[뮤직100] 보이넥스트도어 'ADIOS!'·범진 '인사' 급등, 중위권 소비 확산",
-      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16093765",
-      "date": "2026.06.14",
-      "source": "topstarnews.net",
-      "thumbnail": "https://cdn.topstarnews.net/news/photo/202606/16093765_1942642_3118_crop.jpg"
-    },
-    {
       "title": "걸그룹 브랜드평판 6월 빅데이터 분석... 1위 아이브, 2위 블랙핑크, 3위...",
       "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=459962",
       "date": "2026.06.14",
       "source": "pinpointnews.co.kr",
-      "thumbnail": "https://cdn.pinpointnews.co.kr/news/thumbnail/202606/459962_449171_5325_v150.jpg"
+      "thumbnail": null
     },
     {
       "title": "팬덤 넘어 대중까지 잡는다…아이돌→배우 '자컨'이 필수 전략 된 이유...",
@@ -128,18 +128,18 @@
       "thumbnail": null
     },
     {
-      "title": "'13주년' BTS, 11만 아미 함께한 부산 콘서트 성료... \"한국 공연이 제일...",
-      "url": "https://www.insight.co.kr/news/558474",
-      "date": "2026.06.14",
-      "source": "insight.co.kr",
-      "thumbnail": "https://img.insight.co.kr/static/2026/06/14/1200/img_20260614105355_aryp4hln.jpg"
-    },
-    {
       "title": "아이돌이 사투리를 숨기지 않았을 때",
       "url": "https://www.mediatoday.co.kr/news/articleView.html?idxno=335147",
       "date": "2026.06.13",
       "source": "mediatoday.co.kr",
       "thumbnail": "https://cdn.mediatoday.co.kr/news/thumbnail/202606/335147_479862_4959_v150.jpg"
+    },
+    {
+      "title": "공식보다 ‘부계’가 뜬다…중소 아이돌의 유튜브 알고리즘 공략법 [D:가...",
+      "url": "https://www.dailian.co.kr/news/view/1654989/?sc=Naver",
+      "date": "2026.06.13",
+      "source": "dailian.co.kr",
+      "thumbnail": "https://cdnimage.dailian.co.kr/news/202606/news_1781158986_1654989_m_1.png"
     }
   ]
 }
