@@ -1,19 +1,26 @@
 {
-  "updated": "2026-06-15T09:00:54Z",
+  "updated": "2026-06-15T10:01:07Z",
   "articles": [
+    {
+      "title": "\"이 정도면 진짜 빚진 거\" … '최성곤앓이' 류승룡, 천사 이어 '털보 포...",
+      "url": "https://www.newdaily.co.kr/site/data/html/2026/06/15/2026061500289.html",
+      "date": "2026.06.15",
+      "source": "newdaily.co.kr",
+      "thumbnail": "https://image.newdaily.co.kr/site/data/img/2026/06/15/2026061500289_0.jpg"
+    },
+    {
+      "title": "빅뱅, 스타트렌드 K-POP 그룹 투표 1위…29만 표 팬심 집중",
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=526097",
+      "date": "2026.06.15",
+      "source": "joongangenews.com",
+      "thumbnail": "https://cdn.joongangenews.com/news/photo/202606/526097_330905_5432.png"
+    },
     {
       "title": "[문화 속 산업이야기] ‘거제 야호’ 열풍에 주목해야 할 이유",
       "url": "https://kidd.co.kr/news/246336",
       "date": "2026.06.15",
       "source": "kidd.co.kr",
       "thumbnail": "https://pimg3.daara.co.kr/kidd/photo/2026/06/15/1781509544_95.jpg"
-    },
-    {
-      "title": "빅뱅, 스타트렌드 K-POP 그룹 투표 1위…34만 표 팬심 집중",
-      "url": "https://www.joongangenews.com/news/articleView.html?idxno=526068",
-      "date": "2026.06.15",
-      "source": "joongangenews.com",
-      "thumbnail": "https://cdn.joongangenews.com/news/photo/202606/526068_330866_51.png"
     },
     {
       "title": "[AJU 초점] 스크린 밖으로…'와일드 씽' 과몰입이 부른 최성곤 신드롬",
@@ -114,20 +121,6 @@
       "thumbnail": "http://www.celuvmedia.com/upimages/gisaimg/202606/1781159661_522053.jpg"
     },
     {
-      "title": "\"우리 모두 한국인\" 부산 채운 아리랑 떼창… BTS 13주년 생일파티",
-      "url": "https://www.hankookilbo.com/news/article/A2026061412390004270?did=NA",
-      "date": "2026.06.14",
-      "source": "hankookilbo.com",
-      "thumbnail": "https://newsimg.hankookilbo.com/2026/06/14/953cbc7b-57ff-4a65-a48d-1f58bb27dbbe.jpg"
-    },
-    {
-      "title": "\"부산 야~호~!\" 부산 물들인 BTS…아미와 13주년 생일",
-      "url": "https://www.busan.com/view/busan/view.php?code=2026061410135540667",
-      "date": "2026.06.14",
-      "source": "busan.com",
-      "thumbnail": "https://www.busan.com/nas/wcms/wcms_data/photos/2026/06/13/2026061322390330568_l.jpg"
-    },
-    {
       "title": "아이돌이 사투리를 숨기지 않았을 때",
       "url": "https://www.mediatoday.co.kr/news/articleView.html?idxno=335147",
       "date": "2026.06.13",
@@ -140,6 +133,13 @@
       "date": "2026.06.13",
       "source": "dailian.co.kr",
       "thumbnail": "https://cdnimage.dailian.co.kr/news/202606/news_1781158986_1654989_m_1.png"
+    },
+    {
+      "title": "[퍼스널리티] 완벽한 우상이 아닌 일상 속 친근함..원이, 뉴타입 아이돌",
+      "url": "https://www.ize.co.kr/news/articleView.html?idxno=77801",
+      "date": "2026.06.13",
+      "source": "ize.co.kr",
+      "thumbnail": "https://cdn.ize.co.kr/news/thumbnail/202606/77801_118549_182_v150.jpg"
     }
   ]
 }
