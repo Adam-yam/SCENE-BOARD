@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-15T07:10:35Z",
+  "updated": "2026-06-15T08:10:36Z",
   "videos": [
     {
       "id": "V-Tz0gvDiG4",
@@ -50,6 +50,14 @@
       "type": "long"
     },
     {
+      "id": "a90mff6yEVE",
+      "title": "캡컷프로 기간 얼마 안 남아서 해봤는데요",
+      "url": "https://www.youtube.com/shorts/a90mff6yEVE",
+      "thumbnail": "https://i.ytimg.com/vi/a90mff6yEVE/mqdefault.jpg",
+      "date": "2026.06.15",
+      "type": "short"
+    },
+    {
       "id": "uZ6hacZyDoE",
       "title": "할때만",
       "url": "https://www.youtube.com/shorts/uZ6hacZyDoE",
@@ -87,14 +95,6 @@
       "url": "https://www.youtube.com/shorts/CewxNEXIDII",
       "thumbnail": "https://i.ytimg.com/vi/CewxNEXIDII/mqdefault.jpg",
       "date": "2026.06.10",
-      "type": "short"
-    },
-    {
-      "id": "n6PnxXjgjJo",
-      "title": "센둥이들 🫶",
-      "url": "https://www.youtube.com/shorts/n6PnxXjgjJo",
-      "thumbnail": "https://i.ytimg.com/vi/n6PnxXjgjJo/mqdefault.jpg",
-      "date": "2026.06.09",
       "type": "short"
     }
   ]
