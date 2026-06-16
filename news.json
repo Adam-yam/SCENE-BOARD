@@ -1,6 +1,20 @@
 {
-  "updated": "2026-06-16T09:01:06Z",
+  "updated": "2026-06-16T10:01:07Z",
   "articles": [
+    {
+      "title": "‘올해의 신인 조짐’ 웨이프 보이즈, 데뷔 전 팔로워 73만 대이변",
+      "url": "https://sports.donga.com/ent/article/all/20260616/134123957/1",
+      "date": "2026.06.16",
+      "source": "sports.donga.com",
+      "thumbnail": "https://dimg.donga.com/wps/SPORTS/IMAGE/2026/06/16/134122055.1.jpeg"
+    },
+    {
+      "title": "오정세 ‘니가 좋아’ 작곡가 “‘잠결에 썼냐’는 반응? 즐기는 중”[...",
+      "url": "https://www.newsen.com/news_view.php?uid=202606161517186710",
+      "date": "2026.06.16",
+      "source": "newsen.com",
+      "thumbnail": "https://photo.newsen.com/news_photo/2026/06/16/202606161517186710_1.jpg"
+    },
     {
       "title": "'거제 야호' 리센느, 문체부 지원 최대 3억 받는다",
       "url": "https://magazine.hankyung.com/business/article/202606169839b",
@@ -55,7 +69,7 @@
       "url": "https://news.mtn.co.kr/news-detail/2026061611534060173",
       "date": "2026.06.16",
       "source": "news.mtn.co.kr",
-      "thumbnail": null
+      "thumbnail": "https://menu.mtn.co.kr/upload/article/2026/06/16/2026061611534060173_00_999.jpg"
     },
     {
       "title": "대형 기획사 '쏠림' 막는다…리센느 등 중소돌 10팀에 정부 지원",
@@ -126,20 +140,6 @@
       "date": "2026.06.16",
       "source": "thepublic.kr",
       "thumbnail": "https://cdn.thepublic.kr/news/photo/202606/307835_310468_1935.png"
-    },
-    {
-      "title": "K팝 '허리' 강화한다…중소기획사 10곳에 최대 3억 원 지원",
-      "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148966592&call_from=naver_news",
-      "date": "2026.06.16",
-      "source": "korea.kr",
-      "thumbnail": null
-    },
-    {
-      "title": "K팝 중소기획사 해외 진출 지원…문체부, 10개 그룹 선정",
-      "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260616010005472",
-      "date": "2026.06.16",
-      "source": "asiatoday.co.kr",
-      "thumbnail": "https://img.asiatoday.co.kr/file/2026y/06m/16d/2026061601001007000054721.jpg"
     }
   ]
 }
