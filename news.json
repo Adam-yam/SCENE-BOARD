@@ -1,19 +1,19 @@
 {
-  "updated": "2026-06-16T15:01:19Z",
+  "updated": "2026-06-16T16:01:20Z",
   "articles": [
+    {
+      "title": "‘거제 야호’ 중소돌 리센느 역주행…문체부도 “해외진출 야호”",
+      "url": "https://www.joongang.co.kr/article/25437328",
+      "date": "2026.06.16",
+      "source": "joongang.co.kr",
+      "thumbnail": null
+    },
     {
       "title": "‘거제 야호!’ 리센느, 해외 진출 지원 받는다",
       "url": "https://www.segye.com/newsView/20260616515196?OutUrl=naver",
       "date": "2026.06.16",
       "source": "segye.com",
-      "thumbnail": "https://www.segye.com/content/image/2026/06/16/20260616517463.jpg"
-    },
-    {
-      "title": "‘올해의 신인 조짐’ 웨이프 보이즈, 데뷔 전 팔로워 73만 대이변",
-      "url": "https://sports.donga.com/ent/article/all/20260616/134123957/1",
-      "date": "2026.06.16",
-      "source": "sports.donga.com",
-      "thumbnail": "https://dimg.donga.com/wps/SPORTS/IMAGE/2026/06/16/134122055.1.jpeg"
+      "thumbnail": null
     },
     {
       "title": "오정세 ‘니가 좋아’ 작곡가 “‘잠결에 썼냐’는 반응? 즐기는 중”[...",
@@ -21,6 +21,13 @@
       "date": "2026.06.16",
       "source": "newsen.com",
       "thumbnail": "https://photo.newsen.com/news_photo/2026/06/16/202606161517186710_1.jpg"
+    },
+    {
+      "title": "‘올해의 신인 조짐’ 웨이프 보이즈, 데뷔 전 팔로워 73만 대이변",
+      "url": "https://sports.donga.com/ent/article/all/20260616/134123957/1",
+      "date": "2026.06.16",
+      "source": "sports.donga.com",
+      "thumbnail": "https://dimg.donga.com/wps/SPORTS/IMAGE/2026/06/16/134122055.1.jpeg"
     },
     {
       "title": "'거제 야호' 리센느, 문체부 지원 최대 3억 받는다",
@@ -76,7 +83,7 @@
       "url": "https://news.mtn.co.kr/news-detail/2026061611534060173",
       "date": "2026.06.16",
       "source": "news.mtn.co.kr",
-      "thumbnail": "https://menu.mtn.co.kr/upload/article/2026/06/16/2026061611534060173_00_999.jpg"
+      "thumbnail": null
     },
     {
       "title": "대형 기획사 '쏠림' 막는다…리센느 등 중소돌 10팀에 정부 지원",
@@ -133,13 +140,6 @@
       "date": "2026.06.16",
       "source": "nongmin.com",
       "thumbnail": "https://www.nongmin.com/-/raw/srv-nongmin/data2/content/image/2026/06/16/.cache/512/20260616500127.png"
-    },
-    {
-      "title": "존박 \"리센느 1위 봐야겠다\"... 기우제 콘셉트로 역주행 응원",
-      "url": "https://www.insight.co.kr/news/558777",
-      "date": "2026.06.16",
-      "source": "insight.co.kr",
-      "thumbnail": "https://img.insight.co.kr/static/2026/06/16/1200/img_20260616132355_7ks7219s.jpg"
     }
   ]
 }
