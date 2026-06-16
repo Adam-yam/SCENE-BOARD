@@ -1,6 +1,13 @@
 {
-  "updated": "2026-06-16T11:01:03Z",
+  "updated": "2026-06-16T12:01:05Z",
   "articles": [
+    {
+      "title": "‘거제 야호!’ 리센느, 해외 진출 지원 받는다",
+      "url": "https://www.segye.com/newsView/20260616515196?OutUrl=naver",
+      "date": "2026.06.16",
+      "source": "segye.com",
+      "thumbnail": "https://www.segye.com/content/image/2026/06/16/20260616517463.jpg"
+    },
     {
       "title": "오정세 ‘니가 좋아’ 작곡가 “‘잠결에 썼냐’는 반응? 즐기는 중”[...",
       "url": "https://www.newsen.com/news_view.php?uid=202606161517186710",
@@ -133,13 +140,6 @@
       "date": "2026.06.16",
       "source": "insight.co.kr",
       "thumbnail": "https://img.insight.co.kr/static/2026/06/16/1200/img_20260616132355_7ks7219s.jpg"
-    },
-    {
-      "title": "빅뱅, 스타트렌드 K-POP 그룹 투표 1위…월드투어 기대감 고조",
-      "url": "https://www.thepublic.kr/news/articleView.html?idxno=307835",
-      "date": "2026.06.16",
-      "source": "thepublic.kr",
-      "thumbnail": "https://cdn.thepublic.kr/news/photo/202606/307835_310468_1935.png"
     }
   ]
 }
