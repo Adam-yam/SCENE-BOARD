@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-17T06:10:33Z",
+  "updated": "2026-06-17T07:10:33Z",
   "videos": [
     {
       "id": "V-Tz0gvDiG4",
@@ -50,6 +50,14 @@
       "type": "long"
     },
     {
+      "id": "fouOLwaSRWQ",
+      "title": "👍👍",
+      "url": "https://www.youtube.com/shorts/fouOLwaSRWQ",
+      "thumbnail": "https://i.ytimg.com/vi/fouOLwaSRWQ/mqdefault.jpg",
+      "date": "2026.06.17",
+      "type": "short"
+    },
+    {
       "id": "a90mff6yEVE",
       "title": "캡컷프로 기간 얼마 안 남아서 해봤는데요",
       "url": "https://www.youtube.com/shorts/a90mff6yEVE",
@@ -87,14 +95,6 @@
       "url": "https://www.youtube.com/shorts/Z7T7jqMh7M0",
       "thumbnail": "https://i.ytimg.com/vi/Z7T7jqMh7M0/mqdefault.jpg",
       "date": "2026.06.11",
-      "type": "short"
-    },
-    {
-      "id": "CewxNEXIDII",
-      "title": "I think I need REMINE",
-      "url": "https://www.youtube.com/shorts/CewxNEXIDII",
-      "thumbnail": "https://i.ytimg.com/vi/CewxNEXIDII/mqdefault.jpg",
-      "date": "2026.06.10",
       "type": "short"
     }
   ]
