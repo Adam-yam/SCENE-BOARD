@@ -1,6 +1,27 @@
 {
-  "updated": "2026-06-17T02:00:58Z",
+  "updated": "2026-06-17T03:00:53Z",
   "articles": [
+    {
+      "title": "'거제 야호' 리센느, 역주행 속 '엠카운트다운' 재출격",
+      "url": "http://www.joynews24.com/view/1977239",
+      "date": "2026.06.17",
+      "source": "joynews24.com",
+      "thumbnail": "https://image.inews24.com/v1/6ad094f3871f49.jpg"
+    },
+    {
+      "title": "아이돌그룹 브랜드평판 6월, 방탄소년단 1위…코르티스·아이브 뒤이어",
+      "url": "https://www.cbci.co.kr/news/articleView.html?idxno=582597",
+      "date": "2026.06.17",
+      "source": "cbci.co.kr",
+      "thumbnail": "https://www.cbci.co.kr/news/thumbnail/202606/582597_395794_1618_v150.jpg"
+    },
+    {
+      "title": "방탄소년단(BTS) 1위, 6월 아이돌 브랜드평판 정상..2위 코르티스·3위 아...",
+      "url": "http://www.breaknews.com/1214725",
+      "date": "2026.06.17",
+      "source": "breaknews.com",
+      "thumbnail": "https://www.breaknews.com/imgdata/breaknews_com/202606/202606100233515.jpg"
+    },
     {
       "title": "대세 코르티스, 아이브 다 아니었다…아이돌그룹 브랜드평판 1위 차지한...",
       "url": "https://www.wikitree.co.kr/articles/1141761",
@@ -90,14 +111,7 @@
       "url": "https://www.segye.com/newsView/20260616515196?OutUrl=naver",
       "date": "2026.06.16",
       "source": "segye.com",
-      "thumbnail": null
-    },
-    {
-      "title": "‘올해의 신인 조짐’ 웨이프 보이즈, 데뷔 전 팔로워 73만 대이변",
-      "url": "https://sports.donga.com/ent/article/all/20260616/134123957/1",
-      "date": "2026.06.16",
-      "source": "sports.donga.com",
-      "thumbnail": "https://dimg.donga.com/wps/SPORTS/IMAGE/2026/06/16/134122055.1.jpeg"
+      "thumbnail": "https://www.segye.com/content/image/2026/06/16/20260616517463.jpg"
     },
     {
       "title": "오정세 ‘니가 좋아’ 작곡가 “‘잠결에 썼냐’는 반응? 즐기는 중”[...",
@@ -105,20 +119,6 @@
       "date": "2026.06.16",
       "source": "newsen.com",
       "thumbnail": "https://photo.newsen.com/news_photo/2026/06/16/202606161517186710_1.jpg"
-    },
-    {
-      "title": "'거제 야호' 리센느, 문체부 지원 최대 3억 받는다",
-      "url": "https://magazine.hankyung.com/business/article/202606169839b",
-      "date": "2026.06.16",
-      "source": "magazine.hankyung.com",
-      "thumbnail": "https://static.hankyung.com/photo/202606/AD.44673855.1.jpg"
-    },
-    {
-      "title": "뮤뱅 1위·차트 돌풍…중소돌 트리플에스·리센느 약진 비결은[스타in 포...",
-      "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=04542806645482376",
-      "date": "2026.06.16",
-      "source": "edaily.co.kr",
-      "thumbnail": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/06/PS26061600825.jpg"
     },
     {
       "title": "\"K-Pop's Next Global Players Get a Government-Backed Launchpad\"",
@@ -135,11 +135,11 @@
       "thumbnail": null
     },
     {
-      "title": "Smaller K-pop agencies get a helping hand with overseas expansion",
-      "url": "https://www.koreajoongangdaily.com/entertainment/smaller-kpop-agencies-get-a-helping-hand-with-overseas-expansion/12725955",
+      "title": "뮤뱅 1위·차트 돌풍…중소돌 트리플에스·리센느 약진 비결은[스타in 포...",
+      "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=04542806645482376",
       "date": "2026.06.16",
-      "source": "koreajoongangdaily.com",
-      "thumbnail": "https://image.koreajoongangdaily.com/12725991.jpg?imageId=12725991&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+      "source": "edaily.co.kr",
+      "thumbnail": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/06/PS26061600825.jpg"
     }
   ]
 }
