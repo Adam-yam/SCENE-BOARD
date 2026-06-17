@@ -1,6 +1,27 @@
 {
-  "updated": "2026-06-17T04:00:59Z",
+  "updated": "2026-06-17T05:00:53Z",
   "articles": [
+    {
+      "title": "문체부, 중소기획사 전폭 지원…'리센느'도 선정",
+      "url": "https://www.busan.com/view/busan/view.php?code=2026061613082566946",
+      "date": "2026.06.17",
+      "source": "busan.com",
+      "thumbnail": "https://www.busan.com/nas/wcms/wcms_data/photos/2026/06/16/2026061613095511187_l.jpg"
+    },
+    {
+      "title": "빅뱅, 스타트렌드 K-POP 그룹 투표 1위…플레이브와 상위권 경쟁",
+      "url": "https://www.stardailynews.co.kr/news/articleView.html?idxno=539713",
+      "date": "2026.06.17",
+      "source": "stardailynews.co.kr",
+      "thumbnail": "https://cdn.stardailynews.co.kr/news/thumbnail/202606/539713_571380_1313_v150.jpg"
+    },
+    {
+      "title": "에스파, 아이돌차트 6월 2주차 아차랭킹 1위…총점 1만6215점",
+      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16098148",
+      "date": "2026.06.17",
+      "source": "topstarnews.net",
+      "thumbnail": "https://cdn.topstarnews.net/news/photo/202606/16098148_1944389_5846_crop.jpg"
+    },
     {
       "title": "'거제 야호' 리센느, 역주행 속 '엠카운트다운' 재출격",
       "url": "http://www.joynews24.com/view/1977239",
@@ -35,13 +56,6 @@
       "date": "2026.06.16",
       "source": "news.sbs.co.kr",
       "thumbnail": null
-    },
-    {
-      "title": "라이즈·유스피어, '엠카운트다운'서 신곡 무대 음악방송 첫 선",
-      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16097748",
-      "date": "2026.06.16",
-      "source": "topstarnews.net",
-      "thumbnail": "https://cdn.topstarnews.net/news/photo/202606/16097748_1944142_2336_crop.jpg"
     },
     {
       "title": "리센느, 18일 '엠카' 스페셜 스테이지 출격…대세 입증",
@@ -100,27 +114,6 @@
       "thumbnail": "https://mydaily.co.kr/photos/2026/06/17/2026061700313646717_l.jpg"
     },
     {
-      "title": "‘거제 야호’ 중소돌 리센느 역주행…문체부도 “해외진출 야호”",
-      "url": "https://www.joongang.co.kr/article/25437328",
-      "date": "2026.06.16",
-      "source": "joongang.co.kr",
-      "thumbnail": null
-    },
-    {
-      "title": "‘거제 야호!’ 리센느, 해외 진출 지원 받는다",
-      "url": "https://www.segye.com/newsView/20260616515196?OutUrl=naver",
-      "date": "2026.06.16",
-      "source": "segye.com",
-      "thumbnail": "https://www.segye.com/content/image/2026/06/16/20260616517463.jpg"
-    },
-    {
-      "title": "‘올해의 신인 조짐’ 웨이프 보이즈, 데뷔 전 팔로워 73만 대이변",
-      "url": "https://sports.donga.com/ent/article/all/20260616/134123957/1",
-      "date": "2026.06.16",
-      "source": "sports.donga.com",
-      "thumbnail": "https://dimg.donga.com/wps/SPORTS/IMAGE/2026/06/16/134122055.1.jpeg"
-    },
-    {
       "title": "\"K-Pop's Next Global Players Get a Government-Backed Launchpad\"",
       "url": "https://www.nc.press/news/articleView.html?idxno=618246",
       "date": "2026.06.16",
@@ -140,6 +133,13 @@
       "date": "2026.06.16",
       "source": "edaily.co.kr",
       "thumbnail": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/06/PS26061600825.jpg"
+    },
+    {
+      "title": "Smaller K-pop agencies get a helping hand with overseas expansion",
+      "url": "https://www.koreajoongangdaily.com/entertainment/smaller-kpop-agencies-get-a-helping-hand-with-overseas-expansion/12725955",
+      "date": "2026.06.16",
+      "source": "koreajoongangdaily.com",
+      "thumbnail": "https://image.koreajoongangdaily.com/12725991.jpg?imageId=12725991&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
     }
   ]
 }
