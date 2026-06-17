@@ -1,12 +1,26 @@
 {
-  "updated": "2026-06-17T06:00:50Z",
+  "updated": "2026-06-17T07:01:00Z",
   "articles": [
+    {
+      "title": "[SW현장]“대들보 될래요” 유스피어, 1년 공백 딛고 힘찬 출사표",
+      "url": "https://www.sportsworldi.com/newsView/20260617513291",
+      "date": "2026.06.17",
+      "source": "sportsworldi.com",
+      "thumbnail": "https://www.sportsworldi.com/content/image/2026/06/17/20260617513288.jpg"
+    },
+    {
+      "title": "뉴시스 한류엑스포 팬투표, 3위권 추격전 본격화…\"해외 반응도 뜨겁다...",
+      "url": "https://www.newsis.com/view/NISX20260617_0003672808",
+      "date": "2026.06.17",
+      "source": "newsis.com",
+      "thumbnail": "https://img1.newsis.com/2026/06/17/NISI20260617_0002163382_web.jpg"
+    },
     {
       "title": "에스파, 아이돌차트 6월 2주차 아차랭킹 1위..2위 코르티스·3위 리센느",
       "url": "http://www.breaknews.com/1214838",
       "date": "2026.06.17",
       "source": "breaknews.com",
-      "thumbnail": "https://www.breaknews.com/imgdata/breaknews_com/202605/2026052956041734.jpg"
+      "thumbnail": null
     },
     {
       "title": "문체부, 중소기획사 전폭 지원…'리센느'도 선정",
@@ -48,7 +62,7 @@
       "url": "http://www.breaknews.com/1214725",
       "date": "2026.06.17",
       "source": "breaknews.com",
-      "thumbnail": "https://www.breaknews.com/imgdata/breaknews_com/202606/202606100233515.jpg"
+      "thumbnail": null
     },
     {
       "title": "대세 코르티스, 아이브 다 아니었다…아이돌그룹 브랜드평판 1위 차지한...",
@@ -100,6 +114,13 @@
       "thumbnail": "https://www.bntnews.co.kr/data/bnt/image/2026/06/17/bnt202606170009.jpg"
     },
     {
+      "title": "\"K-Pop's Next Global Players Get a Government-Backed Launchpad\"",
+      "url": "https://www.nc.press/news/articleView.html?idxno=618246",
+      "date": "2026.06.16",
+      "source": "nc.press",
+      "thumbnail": "https://cdn.nc.press/news/photo/202606/618246_838636_4736.jpg"
+    },
+    {
       "title": "\"장르라기보다는 전 세계적인 창작의 틀\"…K팝은 더 많은 기회 열까[EN:...",
       "url": "https://www.nocutnews.co.kr/news/6534010?utm_source=naver&utm_medium=article&utm_campaign=20260617050011",
       "date": "2026.06.16",
@@ -114,32 +135,11 @@
       "thumbnail": "https://image.xportsnews.com/contents/images/upload/article/2026/0617/1781631731136567.webp"
     },
     {
-      "title": "\"K-Pop's Next Global Players Get a Government-Backed Launchpad\"",
-      "url": "https://www.nc.press/news/articleView.html?idxno=618246",
-      "date": "2026.06.16",
-      "source": "nc.press",
-      "thumbnail": "https://cdn.nc.press/news/photo/202606/618246_838636_4736.jpg"
-    },
-    {
       "title": "Smaller K-pop agencies to get government support for global expansion",
       "url": "https://www.arirang.com/news/view?id=297304",
       "date": "2026.06.16",
       "source": "arirang.com",
       "thumbnail": null
-    },
-    {
-      "title": "뮤뱅 1위·차트 돌풍…중소돌 트리플에스·리센느 약진 비결은[스타in 포...",
-      "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=04542806645482376",
-      "date": "2026.06.16",
-      "source": "edaily.co.kr",
-      "thumbnail": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/06/PS26061600825.jpg"
-    },
-    {
-      "title": "Smaller K-pop agencies get a helping hand with overseas expansion",
-      "url": "https://www.koreajoongangdaily.com/entertainment/smaller-kpop-agencies-get-a-helping-hand-with-overseas-expansion/12725955",
-      "date": "2026.06.16",
-      "source": "koreajoongangdaily.com",
-      "thumbnail": "https://image.koreajoongangdaily.com/12725991.jpg?imageId=12725991&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
     }
   ]
 }
