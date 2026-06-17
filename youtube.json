@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-17T12:10:33Z",
+  "updated": "2026-06-17T13:10:34Z",
   "videos": [
     {
       "id": "Gdez_IKDK-I",
@@ -50,6 +50,14 @@
       "type": "long"
     },
     {
+      "id": "jvIClammRHs",
+      "title": "거제 오이데~ | 리센느의 방방곡곡 in 거제 | RESCENE (리센느)",
+      "url": "https://www.youtube.com/shorts/jvIClammRHs",
+      "thumbnail": "https://i.ytimg.com/vi/jvIClammRHs/mqdefault.jpg",
+      "date": "2026.06.17",
+      "type": "short"
+    },
+    {
       "id": "ay3raShIOXo",
       "title": "💛메이💛",
       "url": "https://www.youtube.com/shorts/ay3raShIOXo",
@@ -87,14 +95,6 @@
       "url": "https://www.youtube.com/shorts/0q-MA4Am5Yw",
       "thumbnail": "https://i.ytimg.com/vi/0q-MA4Am5Yw/mqdefault.jpg",
       "date": "2026.06.13",
-      "type": "short"
-    },
-    {
-      "id": "kplvaO1v0E0",
-      "title": "아이코 🫢",
-      "url": "https://www.youtube.com/shorts/kplvaO1v0E0",
-      "thumbnail": "https://i.ytimg.com/vi/kplvaO1v0E0/mqdefault.jpg",
-      "date": "2026.06.12",
       "type": "short"
     }
   ]
