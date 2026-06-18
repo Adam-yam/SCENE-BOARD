@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-18T05:10:36Z",
+  "updated": "2026-06-18T06:10:36Z",
   "videos": [
     {
       "id": "Gdez_IKDK-I",
@@ -50,6 +50,14 @@
       "type": "long"
     },
     {
+      "id": "MMqS2VdRZ50",
+      "title": "우리의 소원은 리센느 대박 🎊 | 리센느의 방방곡곡 in 거제 | RESCENE (리센느)",
+      "url": "https://www.youtube.com/shorts/MMqS2VdRZ50",
+      "thumbnail": "https://i.ytimg.com/vi/MMqS2VdRZ50/mqdefault.jpg",
+      "date": "2026.06.18",
+      "type": "short"
+    },
+    {
       "id": "j4n469BGYGw",
       "title": "귀가 먹먹해~ ??? : 멍멍~! | 리센느의 방방곡곡 in 거제 | RESCENE (리센느)",
       "url": "https://www.youtube.com/shorts/j4n469BGYGw",
@@ -87,14 +95,6 @@
       "url": "https://www.youtube.com/shorts/a90mff6yEVE",
       "thumbnail": "https://i.ytimg.com/vi/a90mff6yEVE/mqdefault.jpg",
       "date": "2026.06.15",
-      "type": "short"
-    },
-    {
-      "id": "uZ6hacZyDoE",
-      "title": "할때만",
-      "url": "https://www.youtube.com/shorts/uZ6hacZyDoE",
-      "thumbnail": "https://i.ytimg.com/vi/uZ6hacZyDoE/mqdefault.jpg",
-      "date": "2026.06.14",
       "type": "short"
     }
   ]
