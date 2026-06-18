@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-18T07:10:34Z",
+  "updated": "2026-06-18T08:10:35Z",
   "videos": [
     {
       "id": "Gdez_IKDK-I",
@@ -50,6 +50,14 @@
       "type": "long"
     },
     {
+      "id": "qzTPqeSJx3Q",
+      "title": "달콤하게 tok tok 💖",
+      "url": "https://www.youtube.com/shorts/qzTPqeSJx3Q",
+      "thumbnail": "https://i.ytimg.com/vi/qzTPqeSJx3Q/mqdefault.jpg",
+      "date": "2026.06.18",
+      "type": "short"
+    },
+    {
       "id": "MMqS2VdRZ50",
       "title": "우리의 소원은 리센느 대박 🎊 | 리센느의 방방곡곡 in 거제 | RESCENE (리센느)",
       "url": "https://www.youtube.com/shorts/MMqS2VdRZ50",
@@ -87,14 +95,6 @@
       "url": "https://www.youtube.com/shorts/fouOLwaSRWQ",
       "thumbnail": "https://i.ytimg.com/vi/fouOLwaSRWQ/mqdefault.jpg",
       "date": "2026.06.17",
-      "type": "short"
-    },
-    {
-      "id": "a90mff6yEVE",
-      "title": "캡컷프로 기간 얼마 안 남아서 해봤는데요",
-      "url": "https://www.youtube.com/shorts/a90mff6yEVE",
-      "thumbnail": "https://i.ytimg.com/vi/a90mff6yEVE/mqdefault.jpg",
-      "date": "2026.06.15",
       "type": "short"
     }
   ]
