@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-18T03:10:34Z",
+  "updated": "2026-06-18T04:10:32Z",
   "videos": [
     {
       "id": "Gdez_IKDK-I",
@@ -50,6 +50,14 @@
       "type": "long"
     },
     {
+      "id": "j4n469BGYGw",
+      "title": "귀가 먹먹해~ ??? : 멍멍~! | 리센느의 방방곡곡 in 거제 | RESCENE (리센느)",
+      "url": "https://www.youtube.com/shorts/j4n469BGYGw",
+      "thumbnail": "https://i.ytimg.com/vi/j4n469BGYGw/mqdefault.jpg",
+      "date": "2026.06.18",
+      "type": "short"
+    },
+    {
       "id": "jvIClammRHs",
       "title": "거제 오이데~ | 리센느의 방방곡곡 in 거제 | RESCENE (리센느)",
       "url": "https://www.youtube.com/shorts/jvIClammRHs",
@@ -87,14 +95,6 @@
       "url": "https://www.youtube.com/shorts/uZ6hacZyDoE",
       "thumbnail": "https://i.ytimg.com/vi/uZ6hacZyDoE/mqdefault.jpg",
       "date": "2026.06.14",
-      "type": "short"
-    },
-    {
-      "id": "0q-MA4Am5Yw",
-      "title": "메이의 이루어질 수 없는(?) 꿈 | RESCENE (리센느) vlog",
-      "url": "https://www.youtube.com/shorts/0q-MA4Am5Yw",
-      "thumbnail": "https://i.ytimg.com/vi/0q-MA4Am5Yw/mqdefault.jpg",
-      "date": "2026.06.13",
       "type": "short"
     }
   ]
