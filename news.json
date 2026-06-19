@@ -1,6 +1,20 @@
 {
-  "updated": "2026-06-19T05:00:55Z",
+  "updated": "2026-06-19T06:00:58Z",
   "articles": [
+    {
+      "title": "[주말 떠나기 좋은 경남] 아이돌 뜬 거제서 추억 담고",
+      "url": "http://www.knnews.co.kr/news/articleView.php?idxno=1544450",
+      "date": "2026.06.19",
+      "source": "knnews.co.kr",
+      "thumbnail": "https://cdn.knnews.co.kr/edb/thumbnail/2026/06/1544450_520_images.jpg"
+    },
+    {
+      "title": "월드컵 멕시코전 시청자 478만명...네이버 치지직 웃었다",
+      "url": "https://www.mk.co.kr/article/12078451",
+      "date": "2026.06.19",
+      "source": "mk.co.kr",
+      "thumbnail": "https://pimg.mk.co.kr/news/cms/202606/19/news-p.v1.20260619.fd091945ca18417e8a509d83c1969c59_R.png"
+    },
     {
       "title": "'거제 야호' 미나미, 밈 탄생 비화 밝혔다…\"일본에선 안녕 같은 말\" ('아...",
       "url": "https://www.tvreport.co.kr/broadcast/article/1055191/",
@@ -58,13 +72,6 @@
       "thumbnail": "https://wimg.mk.co.kr/news/cms/202606/19/news-p.v1.20260619.ee257b9ea8124cd59851dc5df9ce24cd_P1.jpg"
     },
     {
-      "title": "거제 덕포해수욕장에 뜬 ‘리센느 팬‘ 윌리엄 프랭ᄏ",
-      "url": "http://www.knnews.co.kr/news/articleView.php?idxno=1544446",
-      "date": "2026.06.19",
-      "source": "knnews.co.kr",
-      "thumbnail": "https://cdn.knnews.co.kr/edb/thumbnail/2026/06/1544446_520_images.jpg"
-    },
-    {
       "title": "'거제 야호'로 만든 역주행...리센느 '러브어택' 엠카 재소환",
       "url": "https://www.nc.press/news/articleView.html?idxno=618481",
       "date": "2026.06.19",
@@ -93,25 +100,11 @@
       "thumbnail": null
     },
     {
-      "title": "'아는 형님' 브아걸부터 베이비돈크라이까지… 걸그룹 세대 초월 수련회",
-      "url": "https://www.newscj.com/news/articleView.html?idxno=3410488",
-      "date": "2026.06.19",
-      "source": "newscj.com",
-      "thumbnail": "https://cdn.newscj.com/news/thumbnail/202606/3410488_3514793_2011_v150.jpg"
-    },
-    {
-      "title": "'거제 야호' 리센느 미나미 \"母 진짜 갸루였다\"…직접 배운 포즈 공개('...",
-      "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=823545",
-      "date": "2026.06.19",
-      "source": "spotvnews.co.kr",
-      "thumbnail": "https://cdn.spotvnews.co.kr/news/thumbnail/202606/823545_1350277_1436_v150.jpg"
-    },
-    {
       "title": "리센느 ‘LOVE ATTACK’ 스페셜 무대 공개..‘갸루’ 변신 화제",
       "url": "https://www.heraldmuse.com/article/10781635?ref=naver",
       "date": "2026.06.19",
       "source": "heraldmuse.com",
-      "thumbnail": null
+      "thumbnail": "https://wimg.heraldcorp.com/news/cms/2026/06/19/news-p.v1.20260619.1e9dd3ce26b74d2eb5986729e31d6d54_T1.jpg"
     },
     {
       "title": "'역주행, 야호'…'자컨' 흥한 리센느, 인지도 얻고 음방 재소환",
@@ -140,6 +133,13 @@
       "date": "2026.06.19",
       "source": "tenasia.co.kr",
       "thumbnail": "https://img.tenasia.co.kr/photo/202606/BF.44712246.1.png"
+    },
+    {
+      "title": "리센느, '러브 어택' 역주행… '엠카'서 2년 만 스페셜 무대 성료",
+      "url": "http://www.tvdaily.co.kr/read.php3?aid=17818273941790718010",
+      "date": "2026.06.19",
+      "source": "tvdaily.co.kr",
+      "thumbnail": "http://image.tvdaily.co.kr/upimages/gisaimg/202606/191790718.jpg"
     }
   ]
 }
