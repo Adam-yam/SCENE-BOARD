@@ -1,6 +1,13 @@
 {
-  "updated": "2026-06-19T10:01:05Z",
+  "updated": "2026-06-19T11:01:03Z",
   "articles": [
+    {
+      "title": "브아걸부터 리센느까지 '아는형님' 세대 초월 걸그룹 수련회",
+      "url": "https://news.jtbc.co.kr/article/NB12304132?influxDiv=NAVER",
+      "date": "2026.06.19",
+      "source": "news.jtbc.co.kr",
+      "thumbnail": null
+    },
     {
       "title": "리센느 미나미, '아는 형님'서 모친 갸루 출신 고백…'거제 야호' 비화 ...",
       "url": "https://www.stardailynews.co.kr/news/articleView.html?idxno=540057",
@@ -27,7 +34,7 @@
       "url": "https://www.techm.kr/news/articleView.html?idxno=152757",
       "date": "2026.06.19",
       "source": "techm.kr",
-      "thumbnail": "https://www.techm.kr/news/thumbnail/202606/152757_214883_4431_v150.jpg"
+      "thumbnail": "https://cdn.techm.kr/news/thumbnail/202606/152757_214883_4431_v150.jpg"
     },
     {
       "title": "'원'자 돌림 전성시대?…리센느 원이·아일릿 원희, 5세대 입덕 요정 맹...",
@@ -90,7 +97,7 @@
       "url": "https://www.etnews.com/20260619000165",
       "date": "2026.06.19",
       "source": "etnews.com",
-      "thumbnail": null
+      "thumbnail": "https://img.etnews.com/news/article/2026/06/19/news-p.v1.20260619.82ef03398fce46d6859a57b71374b46f_P1.png"
     },
     {
       "title": "'거제 야호' 금발 갸루 미나미만 아는 사람 집중…리센느 데뷔 초 청초...",
@@ -125,7 +132,7 @@
       "url": "https://www.heraldmuse.com/article/10781635?ref=naver",
       "date": "2026.06.19",
       "source": "heraldmuse.com",
-      "thumbnail": null
+      "thumbnail": "https://wimg.heraldcorp.com/news/cms/2026/06/19/news-p.v1.20260619.1e9dd3ce26b74d2eb5986729e31d6d54_T1.jpg"
     },
     {
       "title": "'역주행, 야호'…'자컨' 흥한 리센느, 인지도 얻고 음방 재소환",
@@ -133,13 +140,6 @@
       "date": "2026.06.19",
       "source": "news1.kr",
       "thumbnail": null
-    },
-    {
-      "title": "‘역주행’ 리센느, ‘러브 어택’ 스페셜 무대 선사",
-      "url": "https://www.bntnews.co.kr/article/view/bnt202606190098",
-      "date": "2026.06.19",
-      "source": "bntnews.co.kr",
-      "thumbnail": "https://www.bntnews.co.kr/data/bnt/image/2026/06/19/bnt202606190167.jpg"
     }
   ]
 }
