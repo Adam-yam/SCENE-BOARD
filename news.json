@@ -1,6 +1,20 @@
 {
-  "updated": "2026-06-19T21:00:56Z",
+  "updated": "2026-06-19T22:01:01Z",
   "articles": [
+    {
+      "title": "‘거제 야호’ 리센느부터 싸이커스까지… 정부 손 ‘중소의 기적’ 일...",
+      "url": "https://www.newsen.com/news_view.php?uid=202606191736532610",
+      "date": "2026.06.19",
+      "source": "newsen.com",
+      "thumbnail": "https://photo.newsen.com/news_photo/2026/06/19/202606191736532610_51.jpg"
+    },
+    {
+      "title": "'아는 형님' 리센느→프로미스나인 '아는 수련회'",
+      "url": "https://enter.etoday.co.kr/news/view/298751",
+      "date": "2026.06.19",
+      "source": "enter.etoday.co.kr",
+      "thumbnail": "https://img.etoday.co.kr/pto_db/2026/06/600/20260620022940_2348674_1200_434.jpg"
+    },
     {
       "title": "리센느(RESCENE), 음원 차트 역주행 힘입어 ‘LOVE ATTACK’ 스페셜 무대...",
       "url": "https://sports.khan.co.kr/article/202606200257003?pt=nv",
@@ -9,7 +23,7 @@
       "thumbnail": null
     },
     {
-      "title": "아는형님, 리센느 미나미의 '거제 야호' 밈 비화",
+      "title": "'아는형님' 리센느, '거제 야호' 밈 비화",
       "url": "https://www.bntnews.co.kr/article/view/bnt202606190114",
       "date": "2026.06.19",
       "source": "bntnews.co.kr",
@@ -126,20 +140,6 @@
       "date": "2026.06.19",
       "source": "tvreport.co.kr",
       "thumbnail": "https://d3h3k01ny8mjr.cloudfront.net/tv-report/2026/06/19134624/CP-2022-0227-37886315-thumb.jpg"
-    },
-    {
-      "title": "오전부터 478만명 몰렸다…월드컵 사랑방 된 '치지직'",
-      "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=04021286645483360",
-      "date": "2026.06.19",
-      "source": "edaily.co.kr",
-      "thumbnail": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/06/PS26061901747.jpg"
-    },
-    {
-      "title": "치지직, 멕시코전도 478만명 몰렸다…남아공전서 500만 재도전",
-      "url": "https://www.newsis.com/view/NISX20260619_0003675856",
-      "date": "2026.06.19",
-      "source": "newsis.com",
-      "thumbnail": "https://img1.newsis.com/2026/06/19/NISI20260619_0021327215_web.jpg"
     }
   ]
 }
