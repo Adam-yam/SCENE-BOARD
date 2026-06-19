@@ -1,6 +1,13 @@
 {
-  "updated": "2026-06-19T14:00:59Z",
+  "updated": "2026-06-19T15:00:58Z",
   "articles": [
+    {
+      "title": "리센느 미나미, '갸루'X'지뢰계' 친하냐? 질문에 \"사이 멀어\"",
+      "url": "https://www.starnewskorea.com/broadcast-show/2026/06/19/2026061923022162874",
+      "date": "2026.06.19",
+      "source": "starnewskorea.com",
+      "thumbnail": null
+    },
     {
       "title": "브아걸, 20년간 해체 안 한 이유 있었다…\"서로 과하게 터치 NO, 치아 관...",
       "url": "https://www.tenasia.co.kr/article/2026061960984",
@@ -27,7 +34,7 @@
       "url": "https://mhnse.com/news/articleView.html?idxno=1435363",
       "date": "2026.06.19",
       "source": "mhnse.com",
-      "thumbnail": null
+      "thumbnail": "https://contents-cdn.viewus.co.kr/creator-cms/image/2026/06/6e9f9608-5ab5-4636-a5d5-2a87bc2d4cf9.jpg"
     },
     {
       "title": "브아걸부터 리센느까지 '아는형님' 세대 초월 걸그룹 수련회",
@@ -100,11 +107,11 @@
       "thumbnail": "https://d3h3k01ny8mjr.cloudfront.net/tv-report/2026/06/19134624/CP-2022-0227-37886315-thumb.jpg"
     },
     {
-      "title": "네이버 치지직, 멕시코전 478만명 몰렸다…월드컵 흥행에 기술력 시험대",
+      "title": "오전부터 478만명 몰렸다…월드컵 사랑방 된 '치지직'",
       "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=04021286645483360",
       "date": "2026.06.19",
       "source": "edaily.co.kr",
-      "thumbnail": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/06/PS26061900785.jpg"
+      "thumbnail": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/06/PS26061901747.jpg"
     },
     {
       "title": "치지직, 멕시코전도 478만명 몰렸다…남아공전서 500만 재도전",
@@ -133,13 +140,6 @@
       "date": "2026.06.19",
       "source": "starnewsk.com",
       "thumbnail": "https://cdn.starnewsk.com/news/thumbnail/202606/56612_83008_2438_v150.jpg"
-    },
-    {
-      "title": "'거제 야호'로 만든 역주행...리센느 '러브어택' 엠카 재소환",
-      "url": "https://www.nc.press/news/articleView.html?idxno=618481",
-      "date": "2026.06.19",
-      "source": "nc.press",
-      "thumbnail": "https://cdn.nc.press/news/photo/202606/618481_839252_519.jpg"
     }
   ]
 }
