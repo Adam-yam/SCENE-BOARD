@@ -1,6 +1,13 @@
 {
-  "updated": "2026-06-20T10:00:58Z",
+  "updated": "2026-06-20T11:00:56Z",
   "articles": [
+    {
+      "title": "\"거제 야호\" 터지더니…리센느 원이, 유튜브 구독자 100만 돌파 [MD이슈...",
+      "url": "https://www.mydaily.co.kr/page/view/2026062019240199886",
+      "date": "2026.06.20",
+      "source": "mydaily.co.kr",
+      "thumbnail": null
+    },
     {
       "title": "‘거제 야호’ 효과..리센느 원이 유튜브 ‘안원잘부’ 100만 구독자 돌...",
       "url": "http://www.osen.co.kr/article/G1112825472",
@@ -41,7 +48,7 @@
       "url": "https://www.heraldmuse.com/article/10782559?ref=naver",
       "date": "2026.06.20",
       "source": "heraldmuse.com",
-      "thumbnail": null
+      "thumbnail": "https://wimg.heraldcorp.com/news/cms/2026/06/20/news-p.v1.20260620.b0d0e94ebfea4ff9b55d5b8bd8292144_T1.jpg"
     },
     {
       "title": "대세 리센느, 컴백 야호!…카라 '프리티 걸' 리메이크",
@@ -133,13 +140,6 @@
       "date": "2026.06.20",
       "source": "sports.khan.co.kr",
       "thumbnail": null
-    },
-    {
-      "title": "리센느, 너무 핑크핑크한 'Pretty Girl'",
-      "url": "http://www.atstar1.com/news/articleView.html?idxno=6035926",
-      "date": "2026.06.19",
-      "source": "atstar1.com",
-      "thumbnail": "https://cdn.atstar1.com/news/thumbnail/202606/6035926_112351_2456_v150.jpg"
     }
   ]
 }
