@@ -1,12 +1,19 @@
 {
-  "updated": "2026-06-20T11:00:56Z",
+  "updated": "2026-06-20T12:01:00Z",
   "articles": [
+    {
+      "title": "'거제 야호' 제대로 터졌다…리센느 원이 유튜브 구독자 100만명 돌파",
+      "url": "http://www.stoo.com/article.php?aid=107261288632",
+      "date": "2026.06.20",
+      "source": "stoo.com",
+      "thumbnail": "https://www.stoo.com/upimages/gisaimg/202606/1781953276_20251125153336-7769.jpg"
+    },
     {
       "title": "\"거제 야호\" 터지더니…리센느 원이, 유튜브 구독자 100만 돌파 [MD이슈...",
       "url": "https://www.mydaily.co.kr/page/view/2026062019240199886",
       "date": "2026.06.20",
       "source": "mydaily.co.kr",
-      "thumbnail": null
+      "thumbnail": "https://mydaily.co.kr/photos/2026/06/20/2026062019474169793_l.png"
     },
     {
       "title": "‘거제 야호’ 효과..리센느 원이 유튜브 ‘안원잘부’ 100만 구독자 돌...",
@@ -133,13 +140,6 @@
       "date": "2026.06.20",
       "source": "joynews24.com",
       "thumbnail": "https://image.inews24.com/v1/d220d1a2da1a8a.jpg"
-    },
-    {
-      "title": "리센느, 결국 카라도 ‘갸루’로 삼키나",
-      "url": "https://sports.khan.co.kr/article/202606200903003?pt=nv",
-      "date": "2026.06.20",
-      "source": "sports.khan.co.kr",
-      "thumbnail": null
     }
   ]
 }
