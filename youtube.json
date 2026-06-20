@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-20T12:10:37Z",
+  "updated": "2026-06-20T13:10:32Z",
   "videos": [
     {
       "id": "mD2pNO7mbbg",
@@ -50,6 +50,14 @@
       "type": "long"
     },
     {
+      "id": "7nfFgywnKYw",
+      "title": "끝나지 않는 물수제비 |  메이의 걸어서 거제 속으로 | RESCENE (리센느)",
+      "url": "https://www.youtube.com/shorts/7nfFgywnKYw",
+      "thumbnail": "https://i.ytimg.com/vi/7nfFgywnKYw/mqdefault.jpg",
+      "date": "2026.06.20",
+      "type": "short"
+    },
+    {
       "id": "d2iKC1tUvyc",
       "title": "Supa Dupa Diva ✌️",
       "url": "https://www.youtube.com/shorts/d2iKC1tUvyc",
@@ -87,14 +95,6 @@
       "url": "https://www.youtube.com/shorts/j4n469BGYGw",
       "thumbnail": "https://i.ytimg.com/vi/j4n469BGYGw/mqdefault.jpg",
       "date": "2026.06.18",
-      "type": "short"
-    },
-    {
-      "id": "jvIClammRHs",
-      "title": "거제 오이데~ | 리센느의 방방곡곡 in 거제 | RESCENE (리센느)",
-      "url": "https://www.youtube.com/shorts/jvIClammRHs",
-      "thumbnail": "https://i.ytimg.com/vi/jvIClammRHs/mqdefault.jpg",
-      "date": "2026.06.17",
       "type": "short"
     }
   ]
