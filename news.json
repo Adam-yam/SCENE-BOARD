@@ -1,6 +1,62 @@
 {
-  "updated": "2026-06-21T01:00:54Z",
+  "updated": "2026-06-21T02:00:56Z",
   "articles": [
+    {
+      "title": "‘메이즈러너’ 해냈다…리센느 메이, ‘러브 어택’ 역주행에 3.62㎞ 완...",
+      "url": "https://www.sportsseoul.com/news/read/1617747?ref=naver",
+      "date": "2026.06.21",
+      "source": "sportsseoul.com",
+      "thumbnail": "https://file.sportsseoul.com/news/cms/2026/06/21/news-p.v1.20260621.f412e6e08e5c4c5b8d6d1e593a025692_P1.jpg"
+    },
+    {
+      "title": "아이브 장원영, 6월 걸그룹 개인 브랜드 평판 '1위'",
+      "url": "http://www.osen.co.kr/article/G1112825865",
+      "date": "2026.06.21",
+      "source": "osen.co.kr",
+      "thumbnail": "http://file.osen.co.kr/article_thumb/2026/06/21/202606211035777755_6a37429db75a6_300x.jpg"
+    },
+    {
+      "title": "6월 걸그룹 서열 정리 완료...카리나·제니 제치고 1위 차지한 '이 사람...",
+      "url": "https://www.insight.co.kr/news/559467",
+      "date": "2026.06.21",
+      "source": "insight.co.kr",
+      "thumbnail": "https://img.insight.co.kr/static/2026/06/21/1200/img_20260621094823_16mll60z.jpg"
+    },
+    {
+      "title": "아이브 장원영, 걸그룹 개인 브랜드평판 6월 1위",
+      "url": "https://news.jtbc.co.kr/article/NB12304234?influxDiv=NAVER",
+      "date": "2026.06.21",
+      "source": "news.jtbc.co.kr",
+      "thumbnail": null
+    },
+    {
+      "title": "아이브 장원영, 6월 걸그룹 개인 브랜드평판 1위… 2위 제니·3위 카리나",
+      "url": "https://mhnse.com/news/articleView.html?idxno=1436999",
+      "date": "2026.06.21",
+      "source": "mhnse.com",
+      "thumbnail": "https://contents-cdn.viewus.co.kr/creator-cms/image/2026/06/f4038ef8-e6a2-40f3-9e55-967fbc504835.jpg"
+    },
+    {
+      "title": "'걸어서 거제 속으로' 리센느 메이, 거제 완주+기부 행보",
+      "url": "https://www.etnews.com/20260621000037",
+      "date": "2026.06.21",
+      "source": "etnews.com",
+      "thumbnail": "https://img.etnews.com/news/article/2026/06/21/article_21102223654373.jpg"
+    },
+    {
+      "title": "프로미스나인 \"회사 옥상이 숙소…완강기 탈출 고민해\"",
+      "url": "https://www.newsis.com/view/NISX20260621_0003677058",
+      "date": "2026.06.21",
+      "source": "newsis.com",
+      "thumbnail": "https://img1.newsis.com/2026/06/21/NISI20260621_0002165981_web.jpg"
+    },
+    {
+      "title": "역주행이 이뤄낸 공약…리센느 메이, 3.26km 걸어 '거제 속으로'",
+      "url": "http://www.osen.co.kr/article/G1112825852",
+      "date": "2026.06.21",
+      "source": "osen.co.kr",
+      "thumbnail": "http://file.osen.co.kr/article_thumb/2026/06/21/202606210950777501_6a3738fb709b4_300x.jpg"
+    },
     {
       "title": "리센느 日 ‘어깨빵 테러’ 당했다…미나미 향해 돌진한 男 ‘아찔’ [...",
       "url": "https://sports.khan.co.kr/article/202606210956013?pt=nv",
@@ -72,13 +128,6 @@
       "thumbnail": null
     },
     {
-      "title": "리센느 메이, ‘러브어택’ 역주행 공약 지켰다…거제 완주+기부까지",
-      "url": "https://sports.donga.com/ent/article/all/20260621/134149511/1",
-      "date": "2026.06.20",
-      "source": "sports.donga.com",
-      "thumbnail": "https://dimg.donga.com/wps/SPORTS/IMAGE/2026/06/21/134149502.1.jpg"
-    },
-    {
       "title": "리센느 메이, 걸어서 거제 갔다",
       "url": "https://www.starnewskorea.com/music/2026/06/21/2026062108134186348",
       "date": "2026.06.20",
@@ -86,60 +135,11 @@
       "thumbnail": null
     },
     {
-      "title": "브아걸 나르샤 \"'성인돌' 타이틀 얻은 이유? 계속 음담패설 해서\"",
-      "url": "https://www.newsis.com/view/NISX20260621_0003676961",
-      "date": "2026.06.20",
-      "source": "newsis.com",
-      "thumbnail": "https://img1.newsis.com/2026/06/21/NISI20260621_0002165905_web.jpg"
-    },
-    {
-      "title": "프로미스나인 \"회사 옥상이 숙소…겨울엔 수도 얼고 여름엔 에어컨 물 ...",
-      "url": "https://www.mydaily.co.kr/page/view/2026062106370832540",
-      "date": "2026.06.20",
-      "source": "mydaily.co.kr",
-      "thumbnail": "https://mydaily.co.kr/photos/2026/06/21/2026062106413011159_l.png"
-    },
-    {
-      "title": "리센느 ‘거제 야호’ 역주행 효과?…“화장실 3개 숙소 입성” (아는 형...",
-      "url": "https://sports.donga.com/ent/article/all/20260621/134149467/1",
+      "title": "리센느 메이, ‘러브어택’ 역주행 공약 지켰다…거제 완주+기부까지",
+      "url": "https://sports.donga.com/ent/article/all/20260621/134149511/1",
       "date": "2026.06.20",
       "source": "sports.donga.com",
-      "thumbnail": "https://dimg.donga.com/wps/SPORTS/IMAGE/2026/06/21/134149479.1.png"
-    },
-    {
-      "title": "리센느 메이, 거제 3.26km 완주·기부로 멜론 공약 이행",
-      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16104610",
-      "date": "2026.06.20",
-      "source": "topstarnews.net",
-      "thumbnail": "https://cdn.topstarnews.net/news/photo/202606/16104610_1946353_734_crop.jpg"
-    },
-    {
-      "title": "\"TOP 100 진입하면 거제까지 걷겠다\"던 리센느 메이, 약속 지켰다",
-      "url": "https://www.mydaily.co.kr/page/view/2026062108022019354",
-      "date": "2026.06.20",
-      "source": "mydaily.co.kr",
-      "thumbnail": "https://mydaily.co.kr/photos/2026/06/21/2026062108052978026_l.jpg"
-    },
-    {
-      "title": "싸이, 첫 걸그룹에 빌딩 통째로 선물…베돈크 이현 \"지하부터 5층까지 ...",
-      "url": "https://www.xportsnews.com/article/2162855",
-      "date": "2026.06.20",
-      "source": "xportsnews.com",
-      "thumbnail": "https://image.xportsnews.com/contents/images/upload/article/2026/0621/1781970603451464.webp"
-    },
-    {
-      "title": "싸이, 신인 걸그룹에 건물 통째 내줬다…“연습실만 지하~5층” (아는 형...",
-      "url": "https://sports.donga.com/ent/article/all/20260621/134149373/1",
-      "date": "2026.06.20",
-      "source": "sports.donga.com",
-      "thumbnail": "https://dimg.donga.com/wps/SPORTS/IMAGE/2026/06/21/134149374.1.png"
-    },
-    {
-      "title": "‘중소돌의 기적’ 리센느, ‘거제 야호’ 열풍에…원이 유튜브 100만 돌...",
-      "url": "https://sports.khan.co.kr/article/202606201725003?pt=nv",
-      "date": "2026.06.20",
-      "source": "sports.khan.co.kr",
-      "thumbnail": null
+      "thumbnail": "https://dimg.donga.com/wps/SPORTS/IMAGE/2026/06/21/134149502.1.jpg"
     }
   ]
 }
