@@ -1,6 +1,13 @@
 {
-  "updated": "2026-06-21T13:00:57Z",
+  "updated": "2026-06-21T14:00:55Z",
   "articles": [
+    {
+      "title": "[현장] 데뷔 11주년 세븐틴, 당분간 마지막일 완전체…'CARAT LAND'에서 전...",
+      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16105275",
+      "date": "2026.06.21",
+      "source": "topstarnews.net",
+      "thumbnail": "https://cdn.topstarnews.net/news/photo/202606/16105275_1946609_849_crop.jpg"
+    },
     {
       "title": "올해 거제 관광객 찔끔 감소… 활성화 논의",
       "url": "http://www.gnmaeil.com/news/articleView.html?idxno=589104",
@@ -14,13 +21,6 @@
       "date": "2026.06.21",
       "source": "mydaily.co.kr",
       "thumbnail": "https://mydaily.co.kr/photos/2026/06/21/2026062120450081361_l.png"
-    },
-    {
-      "title": "'야호'로 리센느 알린 미나미, 갸루 뇌절은 없다…\"이제 진짜 나의 모습...",
-      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16105205",
-      "date": "2026.06.21",
-      "source": "topstarnews.net",
-      "thumbnail": "https://cdn.topstarnews.net/news/photo/202606/16105205_1946548_2433_crop.jpg"
     },
     {
       "title": "리센느 미나미도 日 시부야서 어깨빵 당할 뻔…가까스로 피해",
@@ -55,7 +55,7 @@
       "url": "https://www.sportsseoul.com/news/read/1617784?ref=naver",
       "date": "2026.06.21",
       "source": "sportsseoul.com",
-      "thumbnail": "https://file.sportsseoul.com/news/cms/2026/06/21/news-p.v1.20260621.5a080982edcd40c5a9238493153e71a4_P1.jpg"
+      "thumbnail": null
     },
     {
       "title": "'거제 야호' 초대박, 속내..리센느 미나미, '뇌절'은 없다 \"이제 바이바...",
@@ -76,7 +76,7 @@
       "url": "https://mhnse.com/news/articleView.html?idxno=1437560",
       "date": "2026.06.21",
       "source": "mhnse.com",
-      "thumbnail": "https://contents-cdn.viewus.co.kr/creator-cms/image/2026/06/4339b9ab-04dd-47eb-8463-0d89616ded17.jpg"
+      "thumbnail": null
     },
     {
       "title": "‘요즘 대세’ 리센느 미나미도 일본서 ‘어깨빵’ 당할 뻔…방향 바꿔...",
@@ -128,18 +128,18 @@
       "thumbnail": "http://file.osen.co.kr/article_thumb/2026/06/21/202606211332775953_6a376b85e122b_300x.jpg"
     },
     {
-      "title": "[뮤즈★] 고윤정X허남준X김도훈, 대세 세 명도 “거제 야호”…이 조합...",
-      "url": "https://www.heraldmuse.com/article/10782849?ref=naver",
-      "date": "2026.06.21",
-      "source": "heraldmuse.com",
-      "thumbnail": "https://wimg.heraldcorp.com/news/cms/2026/06/21/news-p.v1.20260621.927100bba8ef4951b7e5582f2d776cf6_T1.png"
-    },
-    {
       "title": "리센느 메이, 멜론 'TOP100' 진입 공약 실천…3.26km 완주+기부까지",
       "url": "https://www.ize.co.kr/news/articleView.html?idxno=78038",
       "date": "2026.06.21",
       "source": "ize.co.kr",
       "thumbnail": "https://cdn.ize.co.kr/news/thumbnail/202606/78038_119065_5048_v150.jpg"
+    },
+    {
+      "title": "리센느 메이, 역주행 맞아 '거제 야호' 3.26km 완주…기부까지 '갓벽'",
+      "url": "https://www.nc.press/news/articleView.html?idxno=618588",
+      "date": "2026.06.21",
+      "source": "nc.press",
+      "thumbnail": "https://cdn.nc.press/news/photo/202606/618588_839503_1541.jpg"
     }
   ]
 }
