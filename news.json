@@ -1,6 +1,20 @@
 {
-  "updated": "2026-06-21T22:00:58Z",
+  "updated": "2026-06-21T23:00:53Z",
   "articles": [
+    {
+      "title": "[뮤직100] 아이들 'Crow'·너드커넥션 '좋은 밤 좋은 꿈' 급등, 하츠투하...",
+      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16105720",
+      "date": "2026.06.21",
+      "source": "topstarnews.net",
+      "thumbnail": "https://cdn.topstarnews.net/news/photo/202606/16105720_1946730_3048_crop.jpg"
+    },
+    {
+      "title": "日서 '어깨빵' 위협 당한 리센느 미나미, 갸루 은퇴 선언 \"다른 사람들 ...",
+      "url": "https://www.sportschosun.com/entertainment/2026-06-22/202606220100147870009709",
+      "date": "2026.06.21",
+      "source": "sportschosun.com",
+      "thumbnail": "https://www.sportschosun.com/article/html/2026/06/22/2026062201001478700097092_w.jpg"
+    },
     {
       "title": "장원영의 시대 계속된다…1억1960만 건 분석 결과 제니·카리나 제치고...",
       "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=461844",
@@ -14,13 +28,6 @@
       "date": "2026.06.21",
       "source": "osen.co.kr",
       "thumbnail": "http://file.osen.co.kr/article_thumb/2026/06/22/202606220038777237_6a380911ea1f0_300x.png"
-    },
-    {
-      "title": "[현장] 데뷔 11주년 세븐틴, 당분간 마지막일 완전체…'CARAT LAND'에서 전...",
-      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16105275",
-      "date": "2026.06.21",
-      "source": "topstarnews.net",
-      "thumbnail": "https://cdn.topstarnews.net/news/photo/202606/16105275_1946609_849_crop.jpg"
     },
     {
       "title": "올해 거제 관광객 찔끔 감소… 활성화 논의",
@@ -90,7 +97,7 @@
       "url": "https://mhnse.com/news/articleView.html?idxno=1437560",
       "date": "2026.06.21",
       "source": "mhnse.com",
-      "thumbnail": "https://contents-cdn.viewus.co.kr/creator-cms/image/2026/06/4339b9ab-04dd-47eb-8463-0d89616ded17.jpg"
+      "thumbnail": null
     },
     {
       "title": "‘요즘 대세’ 리센느 미나미도 일본서 ‘어깨빵’ 당할 뻔…방향 바꿔...",
@@ -121,25 +128,18 @@
       "thumbnail": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/06/PS26062100299.jpg"
     },
     {
-      "title": "리센느 미나미, 일본서 '어깨빵' 위협당했나…방향 바꿔 돌진한 남성에...",
-      "url": "https://www.xportsnews.com/article/2162939",
-      "date": "2026.06.21",
-      "source": "xportsnews.com",
-      "thumbnail": "https://image.xportsnews.com/contents/images/upload/article/2026/0621/1782018631935016.webp"
-    },
-    {
-      "title": "허남준 고윤정 김도훈, 슈트+드레스 입고 거제 야호…선남선녀 그 자체",
-      "url": "https://www.newsen.com/news_view.php?uid=202606211344260310",
-      "date": "2026.06.21",
-      "source": "newsen.com",
-      "thumbnail": "https://photo.newsen.com/news_photo/2026/06/21/202606211344260310_1.jpg"
-    },
-    {
       "title": "리센느 메이, 멜론 'TOP100' 진입 공약 실천…3.26km 완주+기부까지",
       "url": "https://www.ize.co.kr/news/articleView.html?idxno=78038",
       "date": "2026.06.21",
       "source": "ize.co.kr",
       "thumbnail": "https://cdn.ize.co.kr/news/thumbnail/202606/78038_119065_5048_v150.jpg"
+    },
+    {
+      "title": "리센느 메이, 역주행 맞아 '거제 야호' 3.26km 완주…기부까지 '갓벽'",
+      "url": "https://www.nc.press/news/articleView.html?idxno=618588",
+      "date": "2026.06.21",
+      "source": "nc.press",
+      "thumbnail": "https://cdn.nc.press/news/photo/202606/618588_839503_1541.jpg"
     }
   ]
 }
