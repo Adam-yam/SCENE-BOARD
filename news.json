@@ -1,12 +1,19 @@
 {
-  "updated": "2026-06-21T06:00:54Z",
+  "updated": "2026-06-21T07:00:53Z",
   "articles": [
+    {
+      "title": "고윤정·허남준·김도훈 화기애애 셀카, 무슨 조합?...'서울가요대상' 시...",
+      "url": "https://mhnse.com/news/articleView.html?idxno=1437560",
+      "date": "2026.06.21",
+      "source": "mhnse.com",
+      "thumbnail": "https://contents-cdn.viewus.co.kr/creator-cms/image/2026/06/4339b9ab-04dd-47eb-8463-0d89616ded17.jpg"
+    },
     {
       "title": "‘요즘 대세’ 리센느 미나미도 일본서 ‘어깨빵’ 당할 뻔…방향 바꿔...",
       "url": "https://www.seoul.co.kr/news/life/2026/06/21/20260621500058?wlog_tag3=naver",
       "date": "2026.06.21",
       "source": "seoul.co.kr",
-      "thumbnail": "https://img.seoul.co.kr//img/upload/2026/06/21/SSC_20260621144530_O2.jpg"
+      "thumbnail": null
     },
     {
       "title": "“와 어깨빵 열받네” 리센느 미나미, 일본서 남성 기습 접근에 봉변 당...",
@@ -55,7 +62,7 @@
       "url": "https://www.heraldmuse.com/article/10782849?ref=naver",
       "date": "2026.06.21",
       "source": "heraldmuse.com",
-      "thumbnail": "https://wimg.heraldcorp.com/news/cms/2026/06/21/news-p.v1.20260621.9296ce09cedd452fbbbdcdfa6dba2b3c_T1.png"
+      "thumbnail": "https://wimg.heraldcorp.com/news/cms/2026/06/21/news-p.v1.20260621.b0664f5179324498b8a5ad984bcdcf4e_T1.png"
     },
     {
       "title": "리센느 메이, 멜론 'TOP100' 진입 공약 실천…3.26km 완주+기부까지",
@@ -86,18 +93,11 @@
       "thumbnail": "https://cdn.nc.press/news/photo/202606/618588_839503_1541.jpg"
     },
     {
-      "title": "리센느 메이, 멜론 차트 공약 실천…기부까지 훈훈",
-      "url": "https://www.gpkorea.com/news/articleView.html?idxno=143925",
+      "title": "걸그룹 개인 브랜드평판 1위 아이브 장원영...제니, 카리나 뒤이어",
+      "url": "https://www.gpkorea.com/news/articleView.html?idxno=143926",
       "date": "2026.06.21",
       "source": "gpkorea.com",
-      "thumbnail": "https://cdn.gpkorea.com/news/photo/202606/143925_305443_84.jpg"
-    },
-    {
-      "title": "\"2년 만의 역주행 기적\"… 리센느 메이, 멜론 'TOP100' 진입에 거제 달렸...",
-      "url": "https://mhnse.com/news/articleView.html?idxno=1437007",
-      "date": "2026.06.21",
-      "source": "mhnse.com",
-      "thumbnail": "https://contents-cdn.viewus.co.kr/creator-cms/image/2026/06/ed664b22-9f08-4edc-afb6-a73c7c629350.jpg"
+      "thumbnail": "https://cdn.gpkorea.com/news/photo/202606/143926_305444_854.jpg"
     },
     {
       "title": "‘메이즈러너’ 해냈다…리센느 메이, ‘러브 어택’ 역주행에 3.62㎞ 완...",
@@ -121,13 +121,6 @@
       "thumbnail": "https://img.insight.co.kr/static/2026/06/21/1200/img_20260621094823_16mll60z.jpg"
     },
     {
-      "title": "아이브 장원영, 걸그룹 개인 브랜드평판 6월 1위",
-      "url": "https://news.jtbc.co.kr/article/NB12304234?influxDiv=NAVER",
-      "date": "2026.06.21",
-      "source": "news.jtbc.co.kr",
-      "thumbnail": null
-    },
-    {
       "title": "'걸어서 거제 속으로' 리센느 메이, 거제 완주+기부 행보",
       "url": "https://www.etnews.com/20260621000037",
       "date": "2026.06.21",
@@ -140,6 +133,13 @@
       "date": "2026.06.21",
       "source": "osen.co.kr",
       "thumbnail": "http://file.osen.co.kr/article_thumb/2026/06/21/202606210950777501_6a3738fb709b4_300x.jpg"
+    },
+    {
+      "title": "리센느 메이, 걸어서 거제 갔다",
+      "url": "https://www.starnewskorea.com/music/2026/06/21/2026062108134186348",
+      "date": "2026.06.20",
+      "source": "starnewskorea.com",
+      "thumbnail": null
     }
   ]
 }
