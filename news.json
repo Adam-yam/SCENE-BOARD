@@ -1,6 +1,13 @@
 {
-  "updated": "2026-06-21T12:00:53Z",
+  "updated": "2026-06-21T13:00:57Z",
   "articles": [
+    {
+      "title": "올해 거제 관광객 찔끔 감소… 활성화 논의",
+      "url": "http://www.gnmaeil.com/news/articleView.html?idxno=589104",
+      "date": "2026.06.21",
+      "source": "gnmaeil.com",
+      "thumbnail": "http://www.gnmaeil.com/news/thumbnail/202606/589104_592251_4228_v150.jpg"
+    },
     {
       "title": "[종합] \"도전 멈추지 않았던 2609일\"...'낙상 사고' 허영만, '백반기행' ...",
       "url": "https://www.mydaily.co.kr/page/view/2026062120582561463",
@@ -76,7 +83,7 @@
       "url": "https://www.seoul.co.kr/news/life/2026/06/21/20260621500058?wlog_tag3=naver",
       "date": "2026.06.21",
       "source": "seoul.co.kr",
-      "thumbnail": "https://img.seoul.co.kr//img/upload/2026/06/21/SSC_20260621144530_O2.jpg"
+      "thumbnail": null
     },
     {
       "title": "“와 어깨빵 열받네” 리센느 미나미, 일본서 남성 기습 접근에 봉변 당...",
@@ -133,13 +140,6 @@
       "date": "2026.06.21",
       "source": "ize.co.kr",
       "thumbnail": "https://cdn.ize.co.kr/news/thumbnail/202606/78038_119065_5048_v150.jpg"
-    },
-    {
-      "title": "리센느 메이, 역주행 맞아 '거제 야호' 3.26km 완주…기부까지 '갓벽'",
-      "url": "https://www.nc.press/news/articleView.html?idxno=618588",
-      "date": "2026.06.21",
-      "source": "nc.press",
-      "thumbnail": "https://cdn.nc.press/news/photo/202606/618588_839503_1541.jpg"
     }
   ]
 }
