@@ -1,6 +1,20 @@
 {
-  "updated": "2026-06-22T23:00:54Z",
+  "updated": "2026-06-23T00:00:54Z",
   "articles": [
+    {
+      "title": "\"K-POP의 역사와 현재, 그리고 미래를 연결하는 축제\"",
+      "url": "https://news.tvchosun.com/site/data/html_dir/2026/06/23/2026062390060.html",
+      "date": "2026.06.22",
+      "source": "news.tvchosun.com",
+      "thumbnail": "https://img.tvchosun.com/sitedata/image/202606/23/2026062390060_0.jpg"
+    },
+    {
+      "title": "클라씨 홍혜주 \"핫한 리센느 미나미, 잘될 친구가 잘된 것\" [인터뷰 맛보...",
+      "url": "http://www.tvdaily.co.kr/read.php3?aid=17821698001791046010",
+      "date": "2026.06.22",
+      "source": "tvdaily.co.kr",
+      "thumbnail": "http://image.tvdaily.co.kr/upimages/gisaimg/202606/1782127905_1791046.png"
+    },
     {
       "title": "[굿모닝월드] 오리 마사지 받아보신 분?",
       "url": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5201320",
@@ -34,7 +48,7 @@
       "url": "https://www.mydaily.co.kr/page/view/2026062222064557918",
       "date": "2026.06.22",
       "source": "mydaily.co.kr",
-      "thumbnail": null
+      "thumbnail": "https://mydaily.co.kr/photos/2026/06/22/2026062222234562494_l.png"
     },
     {
       "title": "K-POP 페스티벌 ‘OKF 2026’, 1차 라인업 공개…이민우·비투비 등 출연",
@@ -58,18 +72,18 @@
       "thumbnail": "https://cdn.knnews.co.kr/edb/thumbnail/2026/06/1544583_520_images.jpg"
     },
     {
-      "title": "'거제 야호' 리센느 미나미, 갸루와 결별?… \"진짜 내 모습 어필할 때\"",
-      "url": "https://www.hankookilbo.com/news/article/A2026062217320000197?did=NA",
-      "date": "2026.06.22",
-      "source": "hankookilbo.com",
-      "thumbnail": "https://newsimg.hankookilbo.com/2026/06/22/c214d316-b37b-475e-a067-9ed77ddd0318.png"
-    },
-    {
       "title": "다이어트 야호…홍현희, 11kg 감량하더니 '갸루' 메이크업→농촌 나들이...",
       "url": "https://www.tvreport.co.kr/entertainment/article/1055938/",
       "date": "2026.06.22",
       "source": "tvreport.co.kr",
       "thumbnail": "https://img.tvreportcdn.de/cms-content/uploads/2026/06/22/c29f497f-4e77-4714-b08b-dd0ec7dcfdbb.jpg"
+    },
+    {
+      "title": "'거제 야호' 리센느 미나미, 갸루와 결별?… \"진짜 내 모습 어필할 때\"",
+      "url": "https://www.hankookilbo.com/news/article/A2026062217320000197?did=NA",
+      "date": "2026.06.22",
+      "source": "hankookilbo.com",
+      "thumbnail": "https://newsimg.hankookilbo.com/2026/06/22/c214d316-b37b-475e-a067-9ed77ddd0318.png"
     },
     {
       "title": "보컬이 추고 댄서가 질렀다…세븐틴 ‘캐럿랜드’ 솔로 리버스에 5세대...",
@@ -121,25 +135,11 @@
       "thumbnail": "https://cdn.starnewsk.com/news/thumbnail/202606/56674_83074_5527_v150.jpg"
     },
     {
-      "title": "\"남자 리센느 되고파\" 윤형빈의 야심..안타레스, '중소돌의 기적' 서사 ...",
-      "url": "https://www.starnewskorea.com/music/2026/06/22/2026062215495854694",
-      "date": "2026.06.22",
-      "source": "starnewskorea.com",
-      "thumbnail": null
-    },
-    {
       "title": "\"우린 여전히 시작\"…안타레스, 'TRIGGER'로 섹시 도전(종합)",
       "url": "https://news.tf.co.kr/read/entertain/2335243.htm",
       "date": "2026.06.22",
       "source": "news.tf.co.kr",
       "thumbnail": "https://img.tf.co.kr/article/home/2026/06/22/202640411782114606.jpg"
-    },
-    {
-      "title": "'거제야호' 리센느 앞세운 거제 관광 홍보, 수도권 젊은층 발길 붙잡아",
-      "url": "https://www.idomin.com/news/articleView.html?idxno=2008451",
-      "date": "2026.06.22",
-      "source": "idomin.com",
-      "thumbnail": "https://cdn.idomin.com/news/photo/202606/2008451_712748_5007.jpg"
     }
   ]
 }
