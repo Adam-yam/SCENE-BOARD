@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23T08:10:40Z",
+  "updated": "2026-06-23T09:10:39Z",
   "videos": [
     {
       "id": "mD2pNO7mbbg",
@@ -50,6 +50,14 @@
       "type": "long"
     },
     {
+      "id": "j8dkkFeaq4Q",
+      "title": "Level ❷ 프리티 걸 안무를 예언해보겠습니다",
+      "url": "https://www.youtube.com/shorts/j8dkkFeaq4Q",
+      "thumbnail": "https://i.ytimg.com/vi/j8dkkFeaq4Q/mqdefault.jpg",
+      "date": "2026.06.23",
+      "type": "short"
+    },
+    {
       "id": "SnFp8P7kWZs",
       "title": "Level ❶ 거울에게 물어봤습니다",
       "url": "https://www.youtube.com/shorts/SnFp8P7kWZs",
@@ -87,14 +95,6 @@
       "url": "https://www.youtube.com/shorts/d2iKC1tUvyc",
       "thumbnail": "https://i.ytimg.com/vi/d2iKC1tUvyc/mqdefault.jpg",
       "date": "2026.06.20",
-      "type": "short"
-    },
-    {
-      "id": "Ax10wKRN10Q",
-      "title": "갸루어택 엠카운트다운 야-호 ⭐",
-      "url": "https://www.youtube.com/shorts/Ax10wKRN10Q",
-      "thumbnail": "https://i.ytimg.com/vi/Ax10wKRN10Q/mqdefault.jpg",
-      "date": "2026.06.18",
       "type": "short"
     }
   ]
