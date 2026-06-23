@@ -1,6 +1,13 @@
 {
-  "updated": "2026-06-23T09:01:00Z",
+  "updated": "2026-06-23T10:01:03Z",
   "articles": [
+    {
+      "title": "장면이 먼저 팔렸다",
+      "url": "https://platum.kr/archives/289673",
+      "date": "2026.06.23",
+      "source": "platum.kr",
+      "thumbnail": "https://cdn.platum.kr/wp-content/uploads/2026/06/won-597x1024.jpg"
+    },
     {
       "title": "리센느, 모든 멤버 원이 유튜브 출연→조회수 대박…구독자 100만 돌파",
       "url": "https://www.topstarnews.net/news/articleView.html?idxno=16108237",
@@ -41,7 +48,7 @@
       "url": "http://www.queen.co.kr/news/articleView.html?idxno=459102",
       "date": "2026.06.23",
       "source": "queen.co.kr",
-      "thumbnail": "http://www.queen.co.kr/news/thumbnail/202606/459102_204736_1352_v150.jpg"
+      "thumbnail": "http://cdn.queen.co.kr/news/thumbnail/202606/459102_204736_1352_v150.jpg"
     },
     {
       "title": "올스타 투표, 유세 경쟁 '폭소' [프로야구]",
@@ -83,7 +90,7 @@
       "url": "https://www.etnews.com/20260623000157",
       "date": "2026.06.23",
       "source": "etnews.com",
-      "thumbnail": "https://img.etnews.com/news/article/2026/06/23/news-p.v1.20260623.cd5eb80f6588432c8af6309499b988ab_P1.png"
+      "thumbnail": null
     },
     {
       "title": "올스타 투표 오늘 마감인데⋯순위 수직상승 중인 ‘이 선수’",
@@ -133,13 +140,6 @@
       "date": "2026.06.22",
       "source": "newsen.com",
       "thumbnail": "https://photo.newsen.com/news_photo/2026/06/22/202606221725272610_1.jpg"
-    },
-    {
-      "title": "리센느 앞세워 월드컵 열기 더하는 FC 모바일",
-      "url": "https://game.donga.com/123068/",
-      "date": "2026.06.22",
-      "source": "game.donga.com",
-      "thumbnail": null
     }
   ]
 }
