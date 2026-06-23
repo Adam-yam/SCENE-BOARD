@@ -1,15 +1,22 @@
 {
-  "updated": "2026-06-23T11:01:02Z",
+  "updated": "2026-06-23T12:01:03Z",
   "articles": [
+    {
+      "title": "'대세' 허남준, 고윤정 만났다…오작교는 김도훈 \"나의 최애 둘\" 뜻밖의...",
+      "url": "https://www.tenasia.co.kr/article/2026062186644",
+      "date": "2026.06.23",
+      "source": "tenasia.co.kr",
+      "thumbnail": "https://img.tenasia.co.kr/photo/202606/BF.44734451.1.jpg"
+    },
     {
       "title": "'대세'가 된 리센느, 급기야 '사건반장'도 진출[MD이슈]",
       "url": "https://www.mydaily.co.kr/page/view/2026062319395996322",
       "date": "2026.06.23",
       "source": "mydaily.co.kr",
-      "thumbnail": null
+      "thumbnail": "https://mydaily.co.kr/photos/2026/06/23/2026062319395792849_l.jpg"
     },
     {
-      "title": "거제관광 마케팅, 걸그룹 '리센느' 효과 톡톡",
+      "title": "'거제 야호' 걸그룹 리센느, 관광 마케팅 효과 '톡톡'",
       "url": "https://www.gnnews.co.kr/news/articleView.html?idxno=639604",
       "date": "2026.06.23",
       "source": "gnnews.co.kr",
@@ -133,13 +140,6 @@
       "date": "2026.06.22",
       "source": "news.tvchosun.com",
       "thumbnail": "https://img.tvchosun.com/sitedata/image/202606/23/2026062390060_0.jpg"
-    },
-    {
-      "title": "리센느, KBS 재난안전 콘텐츠도 역주행시킬까?",
-      "url": "https://www.econovill.com/news/articleView.html?idxno=743109",
-      "date": "2026.06.22",
-      "source": "econovill.com",
-      "thumbnail": "https://cdn.econovill.com/news/thumbnail/202606/743109_715867_5236_v150.jpg"
     }
   ]
 }
