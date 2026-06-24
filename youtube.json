@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24T12:10:39Z",
+  "updated": "2026-06-24T13:10:40Z",
   "videos": [
     {
       "id": "xclVi9zCFdY",
@@ -50,6 +50,14 @@
       "type": "long"
     },
     {
+      "id": "E6wwikUvO34",
+      "title": "리센느 내 에겐 VS 테토 | RESCENE (리센느) vlog",
+      "url": "https://www.youtube.com/shorts/E6wwikUvO34",
+      "thumbnail": "https://i.ytimg.com/vi/E6wwikUvO34/mqdefault.jpg",
+      "date": "2026.06.24",
+      "type": "short"
+    },
+    {
       "id": "BuzlsXSnNkE",
       "title": "Level ❸ Get ready with Pretty Girl",
       "url": "https://www.youtube.com/shorts/BuzlsXSnNkE",
@@ -87,14 +95,6 @@
       "url": "https://www.youtube.com/shorts/Ogk3-rX0fXM",
       "thumbnail": "https://i.ytimg.com/vi/Ogk3-rX0fXM/mqdefault.jpg",
       "date": "2026.06.21",
-      "type": "short"
-    },
-    {
-      "id": "7nfFgywnKYw",
-      "title": "끝나지 않는 물수제비 |  메이의 걸어서 거제 속으로 | RESCENE (리센느)",
-      "url": "https://www.youtube.com/shorts/7nfFgywnKYw",
-      "thumbnail": "https://i.ytimg.com/vi/7nfFgywnKYw/mqdefault.jpg",
-      "date": "2026.06.20",
       "type": "short"
     }
   ]
