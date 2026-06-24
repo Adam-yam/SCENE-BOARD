@@ -1,12 +1,19 @@
 {
-  "updated": "2026-06-24T12:01:05Z",
+  "updated": "2026-06-24T13:00:59Z",
   "articles": [
+    {
+      "title": "걸그룹 리센느, 수원시 홍보대사 위촉",
+      "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8594336&ref=A",
+      "date": "2026.06.24",
+      "source": "news.kbs.co.kr",
+      "thumbnail": "http://news.kbs.co.kr/data/news/title_image/newsmp4/news9_gyeongin/2026/06/24/90_8594336.jpg"
+    },
     {
       "title": "‘수원 야호’ 리센느, 수원시 홍보대사 위촉…수원 출신 리브와 함께 ...",
       "url": "https://www.sportsseoul.com/news/read/1618637?ref=naver",
       "date": "2026.06.24",
       "source": "sportsseoul.com",
-      "thumbnail": "https://file.sportsseoul.com/news/cms/2026/06/24/news-p.v1.20260624.9876176c2bc64cbbad0098d3914d3e0c_P1.jpg"
+      "thumbnail": null
     },
     {
       "title": "“거제 이어 수원까지”…리센느, 두 번째 지자체 홍보대사 됐다",
@@ -79,13 +86,6 @@
       "thumbnail": null
     },
     {
-      "title": "걸그룹 ‘리센느’, 수원시 홍보대사 위촉…“역사·문화 알린다”",
-      "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8593943&ref=A",
-      "date": "2026.06.24",
-      "source": "news.kbs.co.kr",
-      "thumbnail": "http://news.kbs.co.kr/data/news/2026/06/24/20260624_EGQabZ.png"
-    },
-    {
       "title": "걸그룹 ‘리센느’, 수원시 홍보대사 위촉…‘수원 방문의 해’ 알린다",
       "url": "https://www.segye.com/newsView/20260624515106?OutUrl=naver",
       "date": "2026.06.24",
@@ -118,7 +118,7 @@
       "url": "https://www.yna.co.kr/view/AKR20260624115300061?input=1195m",
       "date": "2026.06.24",
       "source": "yna.co.kr",
-      "thumbnail": "https://img5.yna.co.kr/etc/inner/KR/2026/06/24/AKR20260624115300061_01_i_P4.jpg"
+      "thumbnail": null
     },
     {
       "title": "수원 출신 멤버 리브 소속 걸그룹 '리센느' 수원시 홍보대사 됐다",
@@ -135,11 +135,11 @@
       "thumbnail": "https://img.khan.co.kr/news/2026/06/24/202606241141438142210_0.jpg"
     },
     {
-      "title": "리센느, 수원 홍보대사 위촉→원이 유튜브 100만 돌파 '겹경사'[셀럽이...",
-      "url": "http://www.celuvmedia.com/article.php?aid=1782276046522809007",
+      "title": "Girl group Rescene to frame Suwon as destination city as ambassadors",
+      "url": "https://www.koreajoongangdaily.com/entertainment/girl-group-rescene-to-frame-suwon-as-destination-city-as-ambassadors/12738541",
       "date": "2026.06.24",
-      "source": "celuvmedia.com",
-      "thumbnail": "http://www.celuvmedia.com/upimages/gisaimg/202606/24522809.jpg"
+      "source": "koreajoongangdaily.com",
+      "thumbnail": "https://image.koreajoongangdaily.com/12738576.jpg?imageId=12738576&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
     }
   ]
 }
