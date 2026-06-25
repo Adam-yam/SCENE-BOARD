@@ -1,6 +1,13 @@
 {
-  "updated": "2026-06-25T10:00:56Z",
+  "updated": "2026-06-25T11:00:59Z",
   "articles": [
+    {
+      "title": "거제, 리센느 그리고 소통 [옴부즈맨 이야기]",
+      "url": "https://www.idomin.com/news/articleView.html?idxno=2008716",
+      "date": "2026.06.25",
+      "source": "idomin.com",
+      "thumbnail": "https://cdn.idomin.com/news/photo/202606/2008716_713122_2006.jpg"
+    },
     {
       "title": "“올스타 야호~” 외치더니 진짜 터졌다⋯두산, 4연패 끊고 19안타 폭발",
       "url": "https://www.etoday.co.kr/news/view/2597352",
@@ -48,7 +55,7 @@
       "url": "http://www.newsprime.co.kr/news/article.html?no=738020",
       "date": "2026.06.25",
       "source": "newsprime.co.kr",
-      "thumbnail": "https://www.newsprime.co.kr/data/photos/cdn/20260626/art_738020_1782371327.jpg"
+      "thumbnail": null
     },
     {
       "title": "\"평일 아침 500만명 폭발했다\"…네이버 치지직, 월드컵 중계 역대급 대...",
@@ -133,13 +140,6 @@
       "date": "2026.06.25",
       "source": "elle.co.kr",
       "thumbnail": null
-    },
-    {
-      "title": "남아공전 패배 아쉬움 속 '네이버 치지직' 동시 시청자 494만 명... 역대...",
-      "url": "https://www.insight.co.kr/news/560136",
-      "date": "2026.06.25",
-      "source": "insight.co.kr",
-      "thumbnail": "https://img.insight.co.kr/static/2026/06/25/1200/img_20260625134028_z530jhih.jpg"
     }
   ]
 }
