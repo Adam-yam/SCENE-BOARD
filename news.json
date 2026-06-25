@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-25T15:01:12Z",
+  "updated": "2026-06-25T16:00:57Z",
   "articles": [
     {
       "title": "거제, 리센느 그리고 소통 [옴부즈맨 이야기]",
@@ -55,7 +55,7 @@
       "url": "http://www.newsprime.co.kr/news/article.html?no=738020",
       "date": "2026.06.25",
       "source": "newsprime.co.kr",
-      "thumbnail": null
+      "thumbnail": "https://www.newsprime.co.kr/data/photos/cdn/20260626/art_738020_1782371327.jpg"
     },
     {
       "title": "\"평일 아침 500만명 폭발했다\"…네이버 치지직, 월드컵 중계 역대급 대...",
@@ -139,7 +139,7 @@
       "url": "https://www.elle.co.kr/article/1905059",
       "date": "2026.06.25",
       "source": "elle.co.kr",
-      "thumbnail": "https://www.elle.co.kr/resources/online/thumbnail/hf/2026/06/25/1dc6a38f-ed1f-47ac-8e9c-295fb9ef34a0.jpg"
+      "thumbnail": null
     }
   ]
 }
