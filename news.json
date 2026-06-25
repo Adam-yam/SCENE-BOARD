@@ -1,6 +1,13 @@
 {
-  "updated": "2026-06-25T08:00:53Z",
+  "updated": "2026-06-25T09:00:57Z",
   "articles": [
+    {
+      "title": "“올스타 야호~” 외치더니 진짜 터졌다⋯두산, 4연패 끊고 19안타 폭발",
+      "url": "https://www.etoday.co.kr/news/view/2597352",
+      "date": "2026.06.25",
+      "source": "etoday.co.kr",
+      "thumbnail": "https://img.etoday.co.kr/pto_db/2026/06/20260625163452_2351072_1199_740.png"
+    },
     {
       "title": "[포토] 최대훈 소지섭 윤경호, 온세상이 리센느 '야~호~'",
       "url": "http://enews.imbc.com/News/RetrieveNewsInfo/509443",
@@ -34,14 +41,14 @@
       "url": "https://www.insight.co.kr/news/560128",
       "date": "2026.06.25",
       "source": "insight.co.kr",
-      "thumbnail": "https://img.insight.co.kr/static/2026/06/25/1200/img_20260625132526_8xi42cmx.jpg"
+      "thumbnail": null
     },
     {
       "title": "네이버 치지직, 월드컵 생중계 흥행 지속…변수는 32강 진출",
       "url": "http://www.newsprime.co.kr/news/article.html?no=738020",
       "date": "2026.06.25",
       "source": "newsprime.co.kr",
-      "thumbnail": "https://www.newsprime.co.kr/data/photos/cdn/20260626/art_738020_1782371327.jpg"
+      "thumbnail": null
     },
     {
       "title": "\"평일 아침 500만명 폭발했다\"…네이버 치지직, 월드컵 중계 역대급 대...",
@@ -132,14 +139,7 @@
       "url": "https://www.insight.co.kr/news/560136",
       "date": "2026.06.25",
       "source": "insight.co.kr",
-      "thumbnail": "https://img.insight.co.kr/static/2026/06/25/1200/img_20260625134028_z530jhih.jpg"
-    },
-    {
-      "title": "태연, J팝 리메이크곡 ‘만찬가’ 29일 발매… 리센느 원이·미나미, MV ...",
-      "url": "https://www.viva100.com/article/20260625500875",
-      "date": "2026.06.25",
-      "source": "viva100.com",
-      "thumbnail": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/06/25/.cache/512/20260625500867.jpg?v=20260625170047"
+      "thumbnail": null
     }
   ]
 }
