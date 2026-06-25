@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-25T17:00:58Z",
+  "updated": "2026-06-25T18:01:00Z",
   "articles": [
     {
       "title": "거제, 리센느 그리고 소통 [옴부즈맨 이야기]",
@@ -55,7 +55,7 @@
       "url": "http://www.newsprime.co.kr/news/article.html?no=738020",
       "date": "2026.06.25",
       "source": "newsprime.co.kr",
-      "thumbnail": null
+      "thumbnail": "https://www.newsprime.co.kr/data/photos/cdn/20260626/art_738020_1782371327.jpg"
     },
     {
       "title": "\"평일 아침 500만명 폭발했다\"…네이버 치지직, 월드컵 중계 역대급 대...",
@@ -83,7 +83,7 @@
       "url": "https://view.asiae.co.kr/article/2026062515554537768",
       "date": "2026.06.25",
       "source": "view.asiae.co.kr",
-      "thumbnail": "https://cphoto.asiae.co.kr/listimglink/1/2026062509553023011_1782348930.jpg"
+      "thumbnail": null
     },
     {
       "title": "태연, '만찬가' 리메이크 음원 29일 공개…리센느 원이X미나미 MV 출연",
@@ -111,7 +111,7 @@
       "url": "https://news.tf.co.kr/read/economy/2336605.htm",
       "date": "2026.06.25",
       "source": "news.tf.co.kr",
-      "thumbnail": "https://img.tf.co.kr/article/home/2026/06/25/202619271782368347.jpg"
+      "thumbnail": null
     },
     {
       "title": "패배에도 치솟은 월드컵 관심 … 네이버 치지직, 남아공전 동시 시청자...",
@@ -139,7 +139,7 @@
       "url": "https://www.elle.co.kr/article/1905059",
       "date": "2026.06.25",
       "source": "elle.co.kr",
-      "thumbnail": "https://www.elle.co.kr/resources/online/thumbnail/hf/2026/06/25/1dc6a38f-ed1f-47ac-8e9c-295fb9ef34a0.jpg"
+      "thumbnail": null
     }
   ]
 }
