@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-25T14:01:04Z",
+  "updated": "2026-06-25T15:01:12Z",
   "articles": [
     {
       "title": "거제, 리센느 그리고 소통 [옴부즈맨 이야기]",
@@ -27,7 +27,7 @@
       "url": "http://enews.imbc.com/News/RetrieveNewsInfo/509441",
       "date": "2026.06.25",
       "source": "enews.imbc.com",
-      "thumbnail": null
+      "thumbnail": "https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2026/06/25/f72a9be7-1255-48ea-b2d2-ac7c5cd2e3f7.jpg"
     },
     {
       "title": "치지직으로 494만명이 남아공전 봤다…사상 최대 동시 접속 경신",
@@ -55,7 +55,7 @@
       "url": "http://www.newsprime.co.kr/news/article.html?no=738020",
       "date": "2026.06.25",
       "source": "newsprime.co.kr",
-      "thumbnail": "https://www.newsprime.co.kr/data/photos/cdn/20260626/art_738020_1782371327.jpg"
+      "thumbnail": null
     },
     {
       "title": "\"평일 아침 500만명 폭발했다\"…네이버 치지직, 월드컵 중계 역대급 대...",
@@ -139,7 +139,7 @@
       "url": "https://www.elle.co.kr/article/1905059",
       "date": "2026.06.25",
       "source": "elle.co.kr",
-      "thumbnail": null
+      "thumbnail": "https://www.elle.co.kr/resources/online/thumbnail/hf/2026/06/25/1dc6a38f-ed1f-47ac-8e9c-295fb9ef34a0.jpg"
     }
   ]
 }
