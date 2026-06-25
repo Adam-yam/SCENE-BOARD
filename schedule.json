@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24T15:05:33Z",
+  "updated": "2026-06-25T03:05:28Z",
   "events": [
     {
       "date": "2026-06-01",
@@ -55,6 +55,13 @@
       "title": "거제시X전참시 미니 팬미팅",
       "detail": "",
       "type": "기타",
+      "source": "mnetplus"
+    },
+    {
+      "date": "2026-06-20",
+      "title": "JTBC <아는형님>",
+      "detail": "",
+      "type": "방송",
       "source": "mnetplus"
     }
   ]
