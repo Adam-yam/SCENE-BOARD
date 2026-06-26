@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T08:10:38Z",
+  "updated": "2026-06-26T09:10:37Z",
   "videos": [
     {
       "id": "xclVi9zCFdY",
@@ -50,6 +50,14 @@
       "type": "long"
     },
     {
+      "id": "dcZ7TsSLIbI",
+      "title": "Level ❺ 프리티걸 응원? 고무장갑은 필수지",
+      "url": "https://www.youtube.com/shorts/dcZ7TsSLIbI",
+      "thumbnail": "https://i.ytimg.com/vi/dcZ7TsSLIbI/mqdefault.jpg",
+      "date": "2026.06.26",
+      "type": "short"
+    },
+    {
       "id": "pS_1MqNil8k",
       "title": "Level ❹ 프리티걸 같이 하면 이렇게 됩니다",
       "url": "https://www.youtube.com/shorts/pS_1MqNil8k",
@@ -87,14 +95,6 @@
       "url": "https://www.youtube.com/shorts/SnFp8P7kWZs",
       "thumbnail": "https://i.ytimg.com/vi/SnFp8P7kWZs/mqdefault.jpg",
       "date": "2026.06.22",
-      "type": "short"
-    },
-    {
-      "id": "KTRt1d-ghAs",
-      "title": "자리에 앉아 🤗😠😉😢",
-      "url": "https://www.youtube.com/watch?v=KTRt1d-ghAs",
-      "thumbnail": "https://i.ytimg.com/vi/KTRt1d-ghAs/mqdefault.jpg",
-      "date": "2026.06.21",
       "type": "short"
     }
   ]
