@@ -1,6 +1,13 @@
 {
-  "updated": "2026-06-25T23:00:58Z",
+  "updated": "2026-06-26T00:00:59Z",
   "articles": [
+    {
+      "title": "[뮤직100] 트리플에스 'Baby Flower' 급등, 한로로 '사랑하게 될 거야'",
+      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16112721",
+      "date": "2026.06.25",
+      "source": "topstarnews.net",
+      "thumbnail": "https://cdn.topstarnews.net/news/photo/202606/16112721_1949743_2933_crop.jpg"
+    },
     {
       "title": "‘J-POP REMAKE’ 태연 ‘만찬가’ 베일 벗었다···리센느 원이X미나미...",
       "url": "https://sports.khan.co.kr/article/202606260259003?pt=nv",
@@ -55,14 +62,14 @@
       "url": "https://www.insight.co.kr/news/560128",
       "date": "2026.06.25",
       "source": "insight.co.kr",
-      "thumbnail": null
+      "thumbnail": "https://img.insight.co.kr/static/2026/06/25/1200/img_20260625132526_8xi42cmx.jpg"
     },
     {
       "title": "네이버 치지직, 월드컵 생중계 흥행 지속…변수는 32강 진출",
       "url": "http://www.newsprime.co.kr/news/article.html?no=738020",
       "date": "2026.06.25",
       "source": "newsprime.co.kr",
-      "thumbnail": null
+      "thumbnail": "https://www.newsprime.co.kr/data/photos/cdn/20260626/art_738020_1782371327.jpg"
     },
     {
       "title": "\"평일 아침 500만명 폭발했다\"…네이버 치지직, 월드컵 중계 역대급 대...",
@@ -128,18 +135,11 @@
       "thumbnail": "https://image.newdaily.co.kr/site/data/img/2026/06/25/2026062500196_0.jpg?u=20260625152556?u=20260625152556"
     },
     {
-      "title": "네이버 '치지직', 남아공전 동접 494만명 육박…월드컵 중계 역대 최고",
-      "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=678293",
+      "title": "Smaller K-pop labels pack July and August with comebacks and debuts",
+      "url": "https://www.koreajoongangdaily.com/entertainment/smaller-kpop-labels-pack-july-and-august-with-comebacks-and-debutsnbsp/12740159",
       "date": "2026.06.25",
-      "source": "digitaltoday.co.kr",
-      "thumbnail": "https://cdn.digitaltoday.co.kr/news/photo/202606/678293_626825_3653.png"
-    },
-    {
-      "title": "리센느 미나미, 남아공戰 애국가 열창 ‘눈길’…“명예 한국인”[월드...",
-      "url": "https://sports.khan.co.kr/article/202606251441003?pt=nv",
-      "date": "2026.06.25",
-      "source": "sports.khan.co.kr",
-      "thumbnail": null
+      "source": "koreajoongangdaily.com",
+      "thumbnail": "https://image.koreajoongangdaily.com/12740176.jpg?imageId=12740176&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
     }
   ]
 }
