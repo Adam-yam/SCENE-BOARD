@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T21:00:54Z",
+  "updated": "2026-06-26T22:00:56Z",
   "articles": [
     {
       "title": "거제시 '흥남철수작전' 주제 역사 투어리즘 시동",
@@ -34,7 +34,7 @@
       "url": "https://www.nc.press/news/articleView.html?idxno=619060",
       "date": "2026.06.26",
       "source": "nc.press",
-      "thumbnail": null
+      "thumbnail": "https://cdn.nc.press/news/photo/202606/619060_840716_3328.jpg"
     },
     {
       "title": "\"이건 꼭 봐야해\"... 태연 노래·리센느 출연 '만찬가' MV, 티저부터 대...",
@@ -48,7 +48,7 @@
       "url": "http://www.dandinews.com/news/articleView.html?idxno=17043",
       "date": "2026.06.26",
       "source": "dandinews.com",
-      "thumbnail": null
+      "thumbnail": "https://cdn.dandinews.com/news/thumbnail/202606/17043_34821_3946_v150.jpg"
     },
     {
       "title": "라이징 가수 브랜드평판 6월 조사…리센느 1위·아이오아이 2위·김용빈...",
@@ -62,7 +62,7 @@
       "url": "http://www.stoo.com/article.php?aid=107369827113",
       "date": "2026.06.26",
       "source": "stoo.com",
-      "thumbnail": null
+      "thumbnail": "https://www.stoo.com/upimages/gisaimg/202606/1073698-639.jpg"
     },
     {
       "title": "[단독인터뷰] 윤형빈 \"잘생긴 아이돌만 답 아냐…안타레스로 '중소의 기...",
@@ -97,13 +97,20 @@
       "url": "https://www.munhwa.com/article/11598412?ref=naver",
       "date": "2026.06.26",
       "source": "munhwa.com",
-      "thumbnail": "https://wimg.munhwa.com/news/cms/2026/06/26/news-p.v1.20260626.c0372147d0954e7c8c61bdbc87e56860_R.jpg"
+      "thumbnail": null
     },
     {
       "title": "리센느, 라이징 가수 브랜드평판 1위…\"SNS·커뮤에서 관심 급증\"",
       "url": "https://www.slist.kr/news/articleView.html?idxno=747825",
       "date": "2026.06.26",
       "source": "slist.kr",
+      "thumbnail": "https://cdn.slist.kr/news/thumbnail/202606/747825_1147528_90_v150.jpg"
+    },
+    {
+      "title": "［韓流］K-POPフェス「OKF」 第1弾出演アーティスト発表",
+      "url": "https://jp.yna.co.kr/view/AJP20260622002500882?input=1728m",
+      "date": "2026.06.26",
+      "source": "jp.yna.co.kr",
       "thumbnail": null
     },
     {
@@ -111,7 +118,7 @@
       "url": "https://www.topstarnews.net/news/articleView.html?idxno=16112721",
       "date": "2026.06.25",
       "source": "topstarnews.net",
-      "thumbnail": null
+      "thumbnail": "https://cdn.topstarnews.net/news/photo/202606/16112721_1949743_2933_crop.jpg"
     },
     {
       "title": "‘J-POP REMAKE’ 태연 ‘만찬가’ 베일 벗었다···리센느 원이X미나미...",
@@ -125,7 +132,7 @@
       "url": "https://www.idomin.com/news/articleView.html?idxno=2008716",
       "date": "2026.06.25",
       "source": "idomin.com",
-      "thumbnail": null
+      "thumbnail": "https://cdn.idomin.com/news/photo/202606/2008716_713122_2006.jpg"
     },
     {
       "title": "“올스타 야호~” 외치더니 진짜 터졌다⋯두산, 4연패 끊고 19안타 폭발",
@@ -133,13 +140,6 @@
       "date": "2026.06.25",
       "source": "etoday.co.kr",
       "thumbnail": "https://img.etoday.co.kr/pto_db/2026/06/20260625163452_2351072_1199_740.png"
-    },
-    {
-      "title": "Smaller K-pop labels pack July and August with comebacks and debuts",
-      "url": "https://www.koreajoongangdaily.com/entertainment/smaller-kpop-labels-pack-july-and-august-with-comebacks-and-debutsnbsp/12740159",
-      "date": "2026.06.25",
-      "source": "koreajoongangdaily.com",
-      "thumbnail": "https://image.koreajoongangdaily.com/12740176.jpg?imageId=12740176&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
     }
   ]
 }
