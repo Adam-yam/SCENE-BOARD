@@ -1,6 +1,34 @@
 {
-  "updated": "2026-06-26T23:00:52Z",
+  "updated": "2026-06-27T00:00:56Z",
   "articles": [
+    {
+      "title": "임영웅, 가수평판 3위…‘산골총각 영웅’ 화제성 입증",
+      "url": "https://www.bntnews.co.kr/article/view/bnt202606270061",
+      "date": "2026.06.26",
+      "source": "bntnews.co.kr",
+      "thumbnail": "https://www.bntnews.co.kr/data/bnt/image/2026/06/27/bnt202606270089.jpg"
+    },
+    {
+      "title": "1위 방탄소년단, 2위 리센느, 3위 임영웅…6월 가수 브랜드평판 순위 공...",
+      "url": "https://www.gpkorea.com/news/articleView.html?idxno=144133",
+      "date": "2026.06.26",
+      "source": "gpkorea.com",
+      "thumbnail": "https://cdn.gpkorea.com/news/photo/202606/144133_305926_4212.jpg"
+    },
+    {
+      "title": "리센느, 제대로 터졌다…방탄소년단·임영웅 가수 브랜드평판 나란히",
+      "url": "https://www.slist.kr/news/articleView.html?idxno=748028",
+      "date": "2026.06.26",
+      "source": "slist.kr",
+      "thumbnail": "https://cdn.slist.kr/news/thumbnail/202606/748028_1147792_3842_v150.jpg"
+    },
+    {
+      "title": "[뮤지션100] 하츠투하츠 TOP3 상승, 한로로 6위 반등",
+      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16113907",
+      "date": "2026.06.26",
+      "source": "topstarnews.net",
+      "thumbnail": "https://cdn.topstarnews.net/news/photo/202606/16113907_1950484_2931_crop.jpg"
+    },
     {
       "title": "거제시 '흥남철수작전' 주제 역사 투어리즘 시동",
       "url": "https://news.knn.co.kr/news/article/189336",
@@ -20,7 +48,7 @@
       "url": "https://www.heraldmuse.com/article/10789880?ref=naver",
       "date": "2026.06.26",
       "source": "heraldmuse.com",
-      "thumbnail": "https://wimg.heraldcorp.com/news/cms/2026/06/26/news-p.v1.20260626.ed274e4898eb4e4f851ffe230aff61eb_T1.jpg"
+      "thumbnail": null
     },
     {
       "title": "축구는 졌지만 네이버는 웃었다...'치지직 494만' 월드컵 화력 확인",
@@ -41,7 +69,7 @@
       "url": "https://www.insight.co.kr/news/560278",
       "date": "2026.06.26",
       "source": "insight.co.kr",
-      "thumbnail": "https://img.insight.co.kr/static/2026/06/26/1200/img_20260626104134_u8sx30q9.jpg"
+      "thumbnail": null
     },
     {
       "title": "[단디시네마] 그 영화가 있는 계절은 언제나 여름이었다",
@@ -62,7 +90,7 @@
       "url": "http://www.stoo.com/article.php?aid=107369827113",
       "date": "2026.06.26",
       "source": "stoo.com",
-      "thumbnail": "https://www.stoo.com/upimages/gisaimg/202606/1073698-639.jpg"
+      "thumbnail": null
     },
     {
       "title": "[단독인터뷰] 윤형빈 \"잘생긴 아이돌만 답 아냐…안타레스로 '중소의 기...",
@@ -97,14 +125,7 @@
       "url": "https://www.munhwa.com/article/11598412?ref=naver",
       "date": "2026.06.26",
       "source": "munhwa.com",
-      "thumbnail": "https://wimg.munhwa.com/news/cms/2026/06/26/news-p.v1.20260626.c0372147d0954e7c8c61bdbc87e56860_R.jpg"
-    },
-    {
-      "title": "리센느, 라이징 가수 브랜드평판 1위…\"SNS·커뮤에서 관심 급증\"",
-      "url": "https://www.slist.kr/news/articleView.html?idxno=747825",
-      "date": "2026.06.26",
-      "source": "slist.kr",
-      "thumbnail": "https://cdn.slist.kr/news/thumbnail/202606/747825_1147528_90_v150.jpg"
+      "thumbnail": null
     },
     {
       "title": "［韓流］K-POPフェス「OKF」 第1弾出演アーティスト発表",
@@ -114,32 +135,11 @@
       "thumbnail": "https://img5.yna.co.kr/etc/inner/JP/2026/06/22/AJP20260622002500882_01_i_P4.jpg"
     },
     {
-      "title": "[뮤직100] 트리플에스 'Baby Flower' 급등, 한로로 '사랑하게 될 거야'",
-      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16112721",
-      "date": "2026.06.25",
-      "source": "topstarnews.net",
-      "thumbnail": "https://cdn.topstarnews.net/news/photo/202606/16112721_1949743_2933_crop.jpg"
-    },
-    {
       "title": "‘J-POP REMAKE’ 태연 ‘만찬가’ 베일 벗었다···리센느 원이X미나미...",
       "url": "https://sports.khan.co.kr/article/202606260259003?pt=nv",
       "date": "2026.06.25",
       "source": "sports.khan.co.kr",
       "thumbnail": null
-    },
-    {
-      "title": "거제, 리센느 그리고 소통 [옴부즈맨 이야기]",
-      "url": "https://www.idomin.com/news/articleView.html?idxno=2008716",
-      "date": "2026.06.25",
-      "source": "idomin.com",
-      "thumbnail": "https://cdn.idomin.com/news/photo/202606/2008716_713122_2006.jpg"
-    },
-    {
-      "title": "“올스타 야호~” 외치더니 진짜 터졌다⋯두산, 4연패 끊고 19안타 폭발",
-      "url": "https://www.etoday.co.kr/news/view/2597352",
-      "date": "2026.06.25",
-      "source": "etoday.co.kr",
-      "thumbnail": "https://img.etoday.co.kr/pto_db/2026/06/20260625163452_2351072_1199_740.png"
     }
   ]
 }
