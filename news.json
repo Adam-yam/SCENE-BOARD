@@ -1,6 +1,13 @@
 {
-  "updated": "2026-06-27T02:00:57Z",
+  "updated": "2026-06-27T03:00:55Z",
   "articles": [
+    {
+      "title": "방탄소년단(BTS) 1위, 6월 가수 브랜드평판 정상..2위 리센느·3위 임영웅",
+      "url": "http://www.breaknews.com/1217313",
+      "date": "2026.06.27",
+      "source": "breaknews.com",
+      "thumbnail": "https://www.breaknews.com/imgdata/breaknews_com/202606/2026062042218929.jpg"
+    },
     {
       "title": "가수 브랜드평판, BTS-임영웅 사이에 리센느",
       "url": "https://sports.khan.co.kr/article/202606271045003?pt=nv",
@@ -58,11 +65,11 @@
       "thumbnail": "https://cdn.slist.kr/news/thumbnail/202606/748028_1147792_3842_v150.jpg"
     },
     {
-      "title": "[뮤직100] 성시경 'Heaven Knows'·하츠투하츠 'Lemon Tang' 급등",
-      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16113910",
+      "title": "[뮤지션100] 하츠투하츠 TOP3 상승, 한로로 6위 반등",
+      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16113907",
       "date": "2026.06.26",
       "source": "topstarnews.net",
-      "thumbnail": "https://cdn.topstarnews.net/news/photo/202606/16113910_1950488_3116_crop.jpg"
+      "thumbnail": "https://cdn.topstarnews.net/news/photo/202606/16113907_1950484_2931_crop.jpg"
     },
     {
       "title": "거제시 '흥남철수작전' 주제 역사 투어리즘 시동",
@@ -83,7 +90,7 @@
       "url": "https://www.heraldmuse.com/article/10789880?ref=naver",
       "date": "2026.06.26",
       "source": "heraldmuse.com",
-      "thumbnail": null
+      "thumbnail": "https://wimg.heraldcorp.com/news/cms/2026/06/26/news-p.v1.20260626.ed274e4898eb4e4f851ffe230aff61eb_T1.jpg"
     },
     {
       "title": "축구는 졌지만 네이버는 웃었다...'치지직 494만' 월드컵 화력 확인",
@@ -104,7 +111,7 @@
       "url": "https://www.insight.co.kr/news/560278",
       "date": "2026.06.26",
       "source": "insight.co.kr",
-      "thumbnail": null
+      "thumbnail": "https://img.insight.co.kr/static/2026/06/26/1200/img_20260626104134_u8sx30q9.jpg"
     },
     {
       "title": "[단디시네마] 그 영화가 있는 계절은 언제나 여름이었다",
@@ -128,18 +135,11 @@
       "thumbnail": null
     },
     {
-      "title": "[단독인터뷰] 윤형빈 \"잘생긴 아이돌만 답 아냐…안타레스로 '중소의 기...",
-      "url": "https://ent.sbs.co.kr/news/article.do?article_id=E10010318401&plink=ORI&cooper=NAVER",
-      "date": "2026.06.26",
-      "source": "ent.sbs.co.kr",
-      "thumbnail": null
-    },
-    {
       "title": "［韓流］K-POPフェス「OKF」 第1弾出演アーティスト発表",
       "url": "https://jp.yna.co.kr/view/AJP20260622002500882?input=1728m",
       "date": "2026.06.26",
       "source": "jp.yna.co.kr",
-      "thumbnail": "https://img5.yna.co.kr/etc/inner/JP/2026/06/22/AJP20260622002500882_01_i_P4.jpg"
+      "thumbnail": null
     }
   ]
 }
