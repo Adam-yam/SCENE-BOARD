@@ -1,6 +1,13 @@
 {
-  "updated": "2026-06-28T04:00:53Z",
+  "updated": "2026-06-28T05:01:00Z",
   "articles": [
+    {
+      "title": "태연X리센느 원이·미나미, 리메이크곡으로 뭉친다",
+      "url": "https://www.ggilbo.com/news/articleView.html?idxno=1165692",
+      "date": "2026.06.28",
+      "source": "ggilbo.com",
+      "thumbnail": "https://cdn.ggilbo.com/news/photo/202606/1165692_1017836_4717.jpg"
+    },
     {
       "title": "무대 밖 아이돌을 가까이…필수코스 된 자체 콘텐츠",
       "url": "http://www.yonhapnewstv.co.kr/news/MYH202606281038281tB",
@@ -13,7 +20,7 @@
       "url": "http://www.stoo.com/article.php?aid=107411139430",
       "date": "2026.06.28",
       "source": "stoo.com",
-      "thumbnail": "https://www.stoo.com/upimages/gisaimg/202606/28_1074111_39430.jpg"
+      "thumbnail": null
     },
     {
       "title": "\"신라공주도 해냈다\"… 리센느, 거제·수원이어 경주까지 홍보대사 등극...",
@@ -23,11 +30,11 @@
       "thumbnail": "http://image.tvdaily.co.kr/upimages/gisaimg/202606/1782607374_1791865.jpg"
     },
     {
-      "title": "[뮤직100] 트리플에스 'Baby Flower'·엔믹스 'Blue Valentine' 급등",
-      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16114692",
+      "title": "[뮤지션100] 하츠투하츠·아이브 점유율 확대, 트리플에스 급등",
+      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16114691",
       "date": "2026.06.27",
       "source": "topstarnews.net",
-      "thumbnail": "https://cdn.topstarnews.net/news/photo/202606/16114692_1950787_2521_crop.jpg"
+      "thumbnail": "https://cdn.topstarnews.net/news/photo/202606/16114691_1950783_2333_crop.jpg"
     },
     {
       "title": "'갸루'와 '왕홍 메이크업'에 열광하는 2030세대 : '일본과 중국 서브컬쳐...",
@@ -69,14 +76,7 @@
       "url": "https://www.cbci.co.kr/news/articleView.html?idxno=585107",
       "date": "2026.06.27",
       "source": "cbci.co.kr",
-      "thumbnail": null
-    },
-    {
-      "title": "'수원 야호~' 리센느, 거제에 이어 수원 홍보대사까지",
-      "url": "https://www.ggilbo.com/news/articleView.html?idxno=1165458",
-      "date": "2026.06.27",
-      "source": "ggilbo.com",
-      "thumbnail": "https://cdn.ggilbo.com/news/photo/202606/1165458_1017617_3922.jpg"
+      "thumbnail": "https://www.cbci.co.kr/news/thumbnail/202606/585107_397615_4846_v150.jpg"
     },
     {
       "title": "\"야호\" 거대한 방탄소년단·임영웅 사이, 리센느 깜짝 약진",
@@ -107,18 +107,11 @@
       "thumbnail": "https://www.bntnews.co.kr/data/bnt/image/2026/06/26/bnt202606260354.jpg"
     },
     {
-      "title": "'방탄소년단·리센느·임영웅' 6월 평판 TOP 3… 예능 강세 리센느의 무...",
-      "url": "https://mhnse.com/news/articleView.html?idxno=1443838",
-      "date": "2026.06.27",
-      "source": "mhnse.com",
-      "thumbnail": "https://contents-cdn.viewus.co.kr/creator-cms/image/2026/06/cb769c0f-e6b5-4e5a-9313-b061d5b0538a.jpg"
-    },
-    {
       "title": "［韓流］K-POPフェス「OKF」 第1弾出演アーティスト発表",
       "url": "https://jp.yna.co.kr/view/AJP20260622002500882?input=1728m",
       "date": "2026.06.26",
       "source": "jp.yna.co.kr",
-      "thumbnail": "https://img5.yna.co.kr/etc/inner/JP/2026/06/22/AJP20260622002500882_01_i_P4.jpg"
+      "thumbnail": null
     },
     {
       "title": "리센느 1위, 6월 라이징 가수 브랜드평판 정상..2위 아이오아이·3위 김...",
@@ -140,6 +133,13 @@
       "date": "2026.06.25",
       "source": "idomin.com",
       "thumbnail": "https://cdn.idomin.com/news/photo/202606/2008716_713122_2006.jpg"
+    },
+    {
+      "title": "Smaller K-pop labels pack July and August with comebacks and debuts",
+      "url": "https://www.koreajoongangdaily.com/entertainment/smaller-kpop-labels-pack-july-and-august-with-comebacks-and-debutsnbsp/12740159",
+      "date": "2026.06.25",
+      "source": "koreajoongangdaily.com",
+      "thumbnail": "https://image.koreajoongangdaily.com/12740176.jpg?imageId=12740176&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
     }
   ]
 }
