@@ -1,6 +1,41 @@
 {
-  "updated": "2026-06-29T08:00:55Z",
+  "updated": "2026-06-29T09:00:58Z",
   "articles": [
+    {
+      "title": "한정수 ‘홍명보 저격’·김규리 악플러 징역 ·리센느 ‘지자체 도장 ...",
+      "url": "https://sports.khan.co.kr/article/202606291750003?pt=nv",
+      "date": "2026.06.29",
+      "source": "sports.khan.co.kr",
+      "thumbnail": null
+    },
+    {
+      "title": "리센느, 경주시 관광 홍보대사 위촉…‘신라공주’ 제나 고향 홍보 활동...",
+      "url": "https://www.sportsseoul.com/news/read/1619563?ref=naver",
+      "date": "2026.06.29",
+      "source": "sportsseoul.com",
+      "thumbnail": "https://file.sportsseoul.com/news/cms/2026/06/29/news-p.v1.20260629.e0276cc18ea64330a1cfeb30ecfecbea_P1.jpg"
+    },
+    {
+      "title": "리센느, '거제 야호' 이어 '신라공주'까지…컴백 전 겹경사 터졌다",
+      "url": "http://www.atstar1.com/news/articleView.html?idxno=6036175",
+      "date": "2026.06.29",
+      "source": "atstar1.com",
+      "thumbnail": "https://cdn.atstar1.com/news/thumbnail/202606/6036175_112782_3733_v150.jpg"
+    },
+    {
+      "title": "‘신라 공주’ 품은 리센느, 경주시 홍보대사 됐다",
+      "url": "https://www.chosun.com/national/national_general/2026/06/29/TKRAOJSVWRAJFAZPZKSOONIZEY/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+      "date": "2026.06.29",
+      "source": "chosun.com",
+      "thumbnail": "https://www.chosun.com/resizer/v2/VBNTYPGAORCABN5CM3L2CEOSHQ.jpg?auth=42f571d2b1dc8f2c41c3edafbfa60d5c738247a6331d022071482c6128831633&amp;width=1200&amp;height=630&amp;smart=true"
+    },
+    {
+      "title": "‘서든어택’, 디렉터 쇼케이스 개최.. \"2026 시즌3 업데이트 계획 발혀...",
+      "url": "https://game.donga.com/123172/",
+      "date": "2026.06.29",
+      "source": "game.donga.com",
+      "thumbnail": null
+    },
     {
       "title": "리센느, 컴백 전 홍보대사 3관왕…'야호' 신드롬 어디까지 [엑's 이슈]",
       "url": "https://www.xportsnews.com/article/2166122",
@@ -93,13 +128,6 @@
       "thumbnail": "https://cdn.kyongbuk.co.kr/news/photo/202606/4076876_810667_4113.jpg"
     },
     {
-      "title": "넥슨, '서든어택' 디렉터 쇼케이스 개최...2026 시즌3 계획 공개",
-      "url": "http://www.worktoday.co.kr/news/articleView.html?idxno=86190",
-      "date": "2026.06.29",
-      "source": "worktoday.co.kr",
-      "thumbnail": "http://www.worktoday.co.kr/news/thumbnail/202606/86190_124086_3821_v150.jpg"
-    },
-    {
       "title": "걸그룹 리센느, 경주시 관광 홍보대사 위촉…K-POP으로 세계에 경주 알...",
       "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5035415",
       "date": "2026.06.29",
@@ -107,39 +135,11 @@
       "thumbnail": "https://cdn.shinailbo.co.kr/news/photo/202606/5035415_2033992_5433.jpg"
     },
     {
-      "title": "'대세' 리센느, 경주시 관광 홍보대사 위촉... '신라공주' 제나 효과 기...",
-      "url": "https://www.insight.co.kr/news/560612",
+      "title": "넥슨, '서든어택' 디렉터 쇼케이스 개최...2026 시즌3 계획 공개",
+      "url": "http://www.worktoday.co.kr/news/articleView.html?idxno=86190",
       "date": "2026.06.29",
-      "source": "insight.co.kr",
-      "thumbnail": null
-    },
-    {
-      "title": "고양·치바만 남았다…리센느, 경주 홍보대사 위촉",
-      "url": "http://enews.imbc.com/News/RetrieveNewsInfo/509847",
-      "date": "2026.06.29",
-      "source": "enews.imbc.com",
-      "thumbnail": "https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2026/06/29/a5032522-0825-4b06-8069-39fd1f85b48e.jpg"
-    },
-    {
-      "title": "[영웅신문] 임영웅, 스타 브랜드평판 6월도 1위→\"팬덤 영웅시대와 함께...",
-      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16116916",
-      "date": "2026.06.29",
-      "source": "topstarnews.net",
-      "thumbnail": "https://cdn.topstarnews.net/news/photo/202606/16116916_1951483_1735_crop.jpg"
-    },
-    {
-      "title": "서든어택, 디렉터 쇼케이스에서 2026 시즌3 계획 공개",
-      "url": "https://www.gameshot.net/common/con_view.php?code=GA6a4206966ffdd",
-      "date": "2026.06.29",
-      "source": "gameshot.net",
-      "thumbnail": "https://www.gameshot.net/image/og-img.jpg"
-    },
-    {
-      "title": "[유통레이더] 교촌치킨, 쿠팡, 마녀공장, 리만코리아, 컬리, 이브자리 外",
-      "url": "https://daily.hankooki.com/news/articleView.html?idxno=1380637",
-      "date": "2026.06.29",
-      "source": "daily.hankooki.com",
-      "thumbnail": "https://cdn.daily.hankooki.com/news/thumbnail/202606/1380637_1562613_5333_v150.jpg"
+      "source": "worktoday.co.kr",
+      "thumbnail": "http://www.worktoday.co.kr/news/thumbnail/202606/86190_124086_3821_v150.jpg"
     }
   ]
 }
