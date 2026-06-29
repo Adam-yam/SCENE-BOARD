@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-29T10:10:32Z",
+  "updated": "2026-06-29T11:10:36Z",
   "videos": [
     {
       "id": "xclVi9zCFdY",
@@ -50,6 +50,14 @@
       "type": "long"
     },
     {
+      "id": "c13--HEy_8U",
+      "title": "메이 (MAY) &#39;Put Your Records On&#39; COVER (원곡: Corinne Bailey Rae) Photo Booth Ver.",
+      "url": "https://www.youtube.com/watch?v=c13--HEy_8U",
+      "thumbnail": "https://i.ytimg.com/vi/c13--HEy_8U/mqdefault.jpg",
+      "date": "2026.06.29",
+      "type": "short"
+    },
+    {
       "id": "dcZ7TsSLIbI",
       "title": "Level ❺ 프리티걸 응원? 고무장갑은 필수지",
       "url": "https://www.youtube.com/shorts/dcZ7TsSLIbI",
@@ -87,14 +95,6 @@
       "url": "https://www.youtube.com/shorts/j8dkkFeaq4Q",
       "thumbnail": "https://i.ytimg.com/vi/j8dkkFeaq4Q/mqdefault.jpg",
       "date": "2026.06.23",
-      "type": "short"
-    },
-    {
-      "id": "SnFp8P7kWZs",
-      "title": "Level ❶ 거울에게 물어봤습니다",
-      "url": "https://www.youtube.com/shorts/SnFp8P7kWZs",
-      "thumbnail": "https://i.ytimg.com/vi/SnFp8P7kWZs/mqdefault.jpg",
-      "date": "2026.06.22",
       "type": "short"
     }
   ]
