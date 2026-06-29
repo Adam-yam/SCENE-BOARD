@@ -1,6 +1,13 @@
 {
-  "updated": "2026-06-29T20:00:47Z",
+  "updated": "2026-06-29T21:00:52Z",
   "articles": [
+    {
+      "title": "이선민, 데뷔 10년 만 성공…\"수입 10배↑, 중고차 값 매달 벌어\"",
+      "url": "https://www.mt.co.kr/entertainment/2026/06/30/2026063005024295932",
+      "date": "2026.06.29",
+      "source": "mt.co.kr",
+      "thumbnail": "https://thumb.mt.co.kr/cdn-cgi/image/w=1200,h=675,fit=cover,bg=whilte,f=auto,quality=high,sharpen=2,g=face/21/2026/06/2026063005024295932_1.jpg"
+    },
     {
       "title": "'신라공주' 보유 그룹 리센느, 경주시 홍보대사 위촉",
       "url": "https://enter.etoday.co.kr/news/view/299131",
@@ -125,7 +132,7 @@
       "url": "https://www.sportsseoul.com/news/read/1619563?ref=naver",
       "date": "2026.06.29",
       "source": "sportsseoul.com",
-      "thumbnail": null
+      "thumbnail": "https://file.sportsseoul.com/news/cms/2026/06/29/news-p.v1.20260629.e0276cc18ea64330a1cfeb30ecfecbea_P1.jpg"
     },
     {
       "title": "리센느, '거제 야호' 이어 '신라공주'까지…컴백 전 겹경사 터졌다",
@@ -133,13 +140,6 @@
       "date": "2026.06.29",
       "source": "atstar1.com",
       "thumbnail": "https://cdn.atstar1.com/news/thumbnail/202606/6036175_112782_3733_v150.jpg"
-    },
-    {
-      "title": "‘신라 공주’ 품은 리센느, 이번엔 경주시 홍보대사",
-      "url": "https://www.chosun.com/national/national_general/2026/06/29/TKRAOJSVWRAJFAZPZKSOONIZEY/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-      "date": "2026.06.29",
-      "source": "chosun.com",
-      "thumbnail": "https://www.chosun.com/resizer/v2/VBNTYPGAORCABN5CM3L2CEOSHQ.jpg?auth=42f571d2b1dc8f2c41c3edafbfa60d5c738247a6331d022071482c6128831633&amp;width=1200&amp;height=630&amp;smart=true"
     }
   ]
 }
