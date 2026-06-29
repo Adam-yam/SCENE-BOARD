@@ -1,6 +1,13 @@
 {
-  "updated": "2026-06-29T16:00:46Z",
+  "updated": "2026-06-29T17:00:51Z",
   "articles": [
+    {
+      "title": "'신라공주' 보유 그룹 리센느, 경주시 홍보대사 위촉",
+      "url": "https://enter.etoday.co.kr/news/view/299131",
+      "date": "2026.06.29",
+      "source": "enter.etoday.co.kr",
+      "thumbnail": "https://img.etoday.co.kr/pto_db/2026/06/600/20260630001716_2352600_1000_664.jpg"
+    },
     {
       "title": "\"전에 비해 10배, 중고차 한 대 값\"…리센느 '나의 연수 아저씨' 이선민...",
       "url": "https://www.topstarnews.net/news/articleView.html?idxno=16117359",
@@ -76,7 +83,7 @@
       "url": "https://www.etnews.com/20260629000496",
       "date": "2026.06.29",
       "source": "etnews.com",
-      "thumbnail": "https://img.etnews.com/news/article/2026/06/29/news-p.v1.20260629.7721fc422db44d808353182e9f21ea16_P1.jpg"
+      "thumbnail": null
     },
     {
       "title": "태연 부르고 원이·미나미 뮤비 출연…'만찬가'",
@@ -133,13 +140,6 @@
       "date": "2026.06.29",
       "source": "chosun.com",
       "thumbnail": "https://www.chosun.com/resizer/v2/VBNTYPGAORCABN5CM3L2CEOSHQ.jpg?auth=42f571d2b1dc8f2c41c3edafbfa60d5c738247a6331d022071482c6128831633&amp;width=1200&amp;height=630&amp;smart=true"
-    },
-    {
-      "title": "‘서든어택’, 디렉터 쇼케이스 개최.. \"2026 시즌3 업데이트 계획 발혀...",
-      "url": "https://game.donga.com/123172/",
-      "date": "2026.06.29",
-      "source": "game.donga.com",
-      "thumbnail": null
     }
   ]
 }
