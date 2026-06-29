@@ -1,6 +1,20 @@
 {
-  "updated": "2026-06-29T11:01:00Z",
+  "updated": "2026-06-29T12:00:59Z",
   "articles": [
+    {
+      "title": "걸그룹 리센느, 경주 '팔색매력' 알린다",
+      "url": "http://www.ujeil.com/news/articleView.html?idxno=388035",
+      "date": "2026.06.29",
+      "source": "ujeil.com",
+      "thumbnail": "http://cdn.ujeil.com/news/thumbnail/202606/388035_198048_4831_v150.jpg"
+    },
+    {
+      "title": "경주시, K-POP 걸그룹 리센느 관광 홍보대사 위촉",
+      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3620386",
+      "date": "2026.06.29",
+      "source": "gukjenews.com",
+      "thumbnail": "https://cdn.gukjenews.com/news/thumbnail/202606/3620386_3782087_1729_v150.jpg"
+    },
     {
       "title": "리센느로 뜬 거제시가 앞으로 해야할 일 ‘바가지 근절‘",
       "url": "http://www.knnews.co.kr/news/articleView.php?idxno=1545161",
@@ -13,7 +27,7 @@
       "url": "https://www.etnews.com/20260629000496",
       "date": "2026.06.29",
       "source": "etnews.com",
-      "thumbnail": "https://img.etnews.com/news/article/2026/06/29/news-p.v1.20260629.7721fc422db44d808353182e9f21ea16_P1.jpg"
+      "thumbnail": null
     },
     {
       "title": "태연 부르고 원이·미나미 뮤비 출연…'만찬가'",
@@ -55,7 +69,7 @@
       "url": "https://www.sportsseoul.com/news/read/1619563?ref=naver",
       "date": "2026.06.29",
       "source": "sportsseoul.com",
-      "thumbnail": null
+      "thumbnail": "https://file.sportsseoul.com/news/cms/2026/06/29/news-p.v1.20260629.e0276cc18ea64330a1cfeb30ecfecbea_P1.jpg"
     },
     {
       "title": "리센느, '거제 야호' 이어 '신라공주'까지…컴백 전 겹경사 터졌다",
@@ -126,20 +140,6 @@
       "date": "2026.06.29",
       "source": "edaily.co.kr",
       "thumbnail": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/06/PS26062901199.jpg"
-    },
-    {
-      "title": "리센느 제나, 고윤정 얼마나 닮았길래?…원이 \"적당히가 있지 또 듣고싶...",
-      "url": "https://www.xportsnews.com/article/2166138",
-      "date": "2026.06.29",
-      "source": "xportsnews.com",
-      "thumbnail": "https://image.xportsnews.com/contents/images/upload/article/2026/0629/1782717315303502.webp"
-    },
-    {
-      "title": "넥슨, ‘서든어택’ 디렉터 쇼케이스에서 2026 시즌3 계획 공개",
-      "url": "https://www.gamechosun.co.kr/webzine/article/view.php?no=223068",
-      "date": "2026.06.29",
-      "source": "gamechosun.co.kr",
-      "thumbnail": "https://www.gamechosun.co.kr/dataroom/article/20260629/223068/825055_1782715499.jpg"
     }
   ]
 }
