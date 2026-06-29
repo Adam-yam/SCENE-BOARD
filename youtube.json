@@ -1,6 +1,14 @@
 {
-  "updated": "2026-06-29T13:10:36Z",
+  "updated": "2026-06-29T14:10:38Z",
   "videos": [
+    {
+      "id": "vRnXOGS8ne8",
+      "title": "⭐️막내들이 왔따😎",
+      "url": "https://www.youtube.com/watch?v=vRnXOGS8ne8",
+      "thumbnail": "https://i.ytimg.com/vi/vRnXOGS8ne8/mqdefault.jpg",
+      "date": "2026.06.29",
+      "type": "long"
+    },
     {
       "id": "xclVi9zCFdY",
       "title": "[Re-log] 먹짱 원짱, 대만에 가다 🍴 | RESCENE (리센느) vlog",
@@ -42,22 +50,6 @@
       "type": "long"
     },
     {
-      "id": "EXFdsa8y8os",
-      "title": "그냥리브왔따리",
-      "url": "https://www.youtube.com/watch?v=EXFdsa8y8os",
-      "thumbnail": "https://i.ytimg.com/vi/EXFdsa8y8os/mqdefault.jpg",
-      "date": "2026.06.08",
-      "type": "long"
-    },
-    {
-      "id": "vRnXOGS8ne8",
-      "title": "⭐️막내들이 왔따😎",
-      "url": "https://www.youtube.com/shorts/vRnXOGS8ne8",
-      "thumbnail": "https://i.ytimg.com/vi/vRnXOGS8ne8/mqdefault_live.jpg",
-      "date": "2026.06.29",
-      "type": "short"
-    },
-    {
       "id": "c13--HEy_8U",
       "title": "메이 (MAY) &#39;Put Your Records On&#39; COVER (원곡: Corinne Bailey Rae) Photo Booth Ver.",
       "url": "https://www.youtube.com/watch?v=c13--HEy_8U",
@@ -95,6 +87,14 @@
       "url": "https://www.youtube.com/shorts/BuzlsXSnNkE",
       "thumbnail": "https://i.ytimg.com/vi/BuzlsXSnNkE/mqdefault.jpg",
       "date": "2026.06.24",
+      "type": "short"
+    },
+    {
+      "id": "j8dkkFeaq4Q",
+      "title": "Level ❷ 프리티 걸 안무를 예언해보겠습니다",
+      "url": "https://www.youtube.com/shorts/j8dkkFeaq4Q",
+      "thumbnail": "https://i.ytimg.com/vi/j8dkkFeaq4Q/mqdefault.jpg",
+      "date": "2026.06.23",
       "type": "short"
     }
   ]
