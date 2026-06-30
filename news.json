@@ -1,6 +1,34 @@
 {
-  "updated": "2026-06-30T07:00:49Z",
+  "updated": "2026-06-30T08:00:52Z",
   "articles": [
+    {
+      "title": "\"역주행 흥행 이어간다\" 리센느, 카라 명곡 'Pretty Girl' 리메이크",
+      "url": "https://www.insight.co.kr/news/560830",
+      "date": "2026.06.30",
+      "source": "insight.co.kr",
+      "thumbnail": "https://img.insight.co.kr/static/2026/06/30/1200/img_20260630140645_6m4c0bm6.jpg"
+    },
+    {
+      "title": "리센느 \"수원의 얼굴로…도시의 매력 널리 전하겠다\"",
+      "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1326212",
+      "date": "2026.06.30",
+      "source": "incheonilbo.com",
+      "thumbnail": "https://cdn.incheonilbo.com/news/thumbnail/202606/1326212_663676_3733_v150.jpg"
+    },
+    {
+      "title": "리센느, '프리티 걸' 개인 콘셉트 포토 공개… 핑크빛 '키치+러블리'",
+      "url": "http://www.tvdaily.co.kr/read.php3?aid=17828044661792104010",
+      "date": "2026.06.30",
+      "source": "tvdaily.co.kr",
+      "thumbnail": "http://image.tvdaily.co.kr/upimages/gisaimg/202606/1782804466_1792104.jpg"
+    },
+    {
+      "title": "리센느의 성장",
+      "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3027464",
+      "date": "2026.06.30",
+      "source": "kihoilbo.co.kr",
+      "thumbnail": "https://www.kihoilbo.co.kr/image/logo/snslogotrans_20250923050738.png"
+    },
     {
       "title": "리센느 컴백 온다…핑크 비주얼 폭발",
       "url": "https://www.ppss.kr/news/articleView.html?idxno=300454",
@@ -48,7 +76,7 @@
       "url": "https://www.segye.com/newsView/20260630508512?OutUrl=naver",
       "date": "2026.06.30",
       "source": "segye.com",
-      "thumbnail": null
+      "thumbnail": "https://www.segye.com/content/image/2026/06/30/20260630508511.jpg"
     },
     {
       "title": "라이징 스타 브랜드평판 6월, 허남준 1위…리센느·진기주 뒤이어",
@@ -69,7 +97,7 @@
       "url": "https://www.insight.co.kr/news/560744",
       "date": "2026.06.30",
       "source": "insight.co.kr",
-      "thumbnail": null
+      "thumbnail": "https://img.insight.co.kr/static/2026/06/30/1200/img_20260630094608_52e23194.jpg"
     },
     {
       "title": "거제소녀·갸루귀신·신라공주·메이즈러너·수원왕발가락, 잠시 안녕…...",
@@ -112,34 +140,6 @@
       "date": "2026.06.30",
       "source": "breaknews.com",
       "thumbnail": "https://www.breaknews.com/imgdata/breaknews_com/202606/202606300336477.jpg"
-    },
-    {
-      "title": "10년 무명 딛고 대세 된 이선민, 광고 러브콜 이어져... 10배 늘어난 수...",
-      "url": "https://www.insight.co.kr/news/560725",
-      "date": "2026.06.30",
-      "source": "insight.co.kr",
-      "thumbnail": null
-    },
-    {
-      "title": "‘컴백’ 리센느, 리메이크 싱글 콘셉트 포토..청량 ‘프리티 걸’",
-      "url": "https://www.heraldmuse.com/article/10792449?ref=naver",
-      "date": "2026.06.30",
-      "source": "heraldmuse.com",
-      "thumbnail": "https://wimg.heraldcorp.com/news/cms/2026/06/30/news-p.v1.20260630.314a320000ff49cd95d2a4ff9e65e6c1_T1.jpg"
-    },
-    {
-      "title": "'역주행 요정' 리센느, 핑크 러블리 '야호'…'Pretty Girl' 첫 콘셉트 공...",
-      "url": "https://www.nc.press/news/articleView.html?idxno=619350",
-      "date": "2026.06.30",
-      "source": "nc.press",
-      "thumbnail": "https://cdn.nc.press/news/photo/202606/619350_841232_299.jpg"
-    },
-    {
-      "title": "리센느, 물 들어올 때 노 젓는다…'프리티걸'로 컴백",
-      "url": "https://www.hankyung.com/article/202606305777H",
-      "date": "2026.06.30",
-      "source": "hankyung.com",
-      "thumbnail": "https://img.hankyung.com/photo/202606/01.44850158.1.jpg"
     }
   ]
 }
