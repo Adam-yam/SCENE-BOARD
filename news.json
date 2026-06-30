@@ -1,6 +1,13 @@
 {
-  "updated": "2026-06-30T04:00:52Z",
+  "updated": "2026-06-30T05:00:44Z",
   "articles": [
+    {
+      "title": "거제 바가지 없습니다…(‘갸루’기자가 직접 물어봄)",
+      "url": "http://www.knnews.co.kr/news/articleView.php?idxno=1545250",
+      "date": "2026.06.30",
+      "source": "knnews.co.kr",
+      "thumbnail": "https://cdn.knnews.co.kr/edb/thumbnail/2026/06/1545250_520_images.jpg"
+    },
     {
       "title": "캐리비안 베이, 여름 '워터 뮤직 풀파티' 개최…\"K팝 공연 이어진다\"",
       "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=202567",
@@ -83,7 +90,7 @@
       "url": "http://www.breaknews.com/1217754",
       "date": "2026.06.30",
       "source": "breaknews.com",
-      "thumbnail": null
+      "thumbnail": "https://www.breaknews.com/imgdata/breaknews_com/202606/202606300336477.jpg"
     },
     {
       "title": "10년 무명 딛고 대세 된 이선민, 광고 러브콜 이어져... 10배 늘어난 수...",
@@ -133,13 +140,6 @@
       "date": "2026.06.30",
       "source": "news1.kr",
       "thumbnail": null
-    },
-    {
-      "title": "리센느, ‘프리티 걸’ 콘셉트 포토 공개…사랑스러워",
-      "url": "https://isplus.com/article/view/isp202606300036",
-      "date": "2026.06.30",
-      "source": "isplus.com",
-      "thumbnail": "https://isplus.com/data/isp/image/2026/06/30/isp20260630000058.800x.0.jpg"
     }
   ]
 }
