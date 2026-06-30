@@ -1,6 +1,13 @@
 {
-  "updated": "2026-06-30T17:00:53Z",
+  "updated": "2026-06-30T18:00:52Z",
   "articles": [
+    {
+      "title": "캐리비안 베이, '워터 뮤직 풀파티' 라인업 공개",
+      "url": "https://www.ggilbo.com/news/articleView.html?idxno=1166171",
+      "date": "2026.06.30",
+      "source": "ggilbo.com",
+      "thumbnail": "https://cdn.ggilbo.com/news/photo/202606/1166171_1018348_3824.jpg"
+    },
     {
       "title": "태연 '만찬가', 멜론 TOP100 순위 상위권…츠키 원곡 리메이크",
       "url": "https://www.topstarnews.net/news/articleView.html?idxno=16118605",
@@ -34,7 +41,7 @@
       "url": "https://mhnse.com/news/articleView.html?idxno=1447750",
       "date": "2026.06.30",
       "source": "mhnse.com",
-      "thumbnail": "https://contents-cdn.viewus.co.kr/creator-cms/image/2026/06/3f8a9980-0145-4a96-9f56-224f5d89415c.jpg"
+      "thumbnail": null
     },
     {
       "title": "아이돌계도 리메이크 열풍…일각선 \"창작 경쟁력 약화\" 우려[스타in 포커...",
@@ -65,18 +72,18 @@
       "thumbnail": "https://www.breaknews.com/imgdata/breaknews_com/202606/2026063037595449.jpg"
     },
     {
-      "title": "리센느, 카라 '프리티 걸' 리메이크로 컴백",
-      "url": "https://www.stardailynews.co.kr/news/articleView.html?idxno=541139",
-      "date": "2026.06.30",
-      "source": "stardailynews.co.kr",
-      "thumbnail": "https://cdn.stardailynews.co.kr/news/thumbnail/202606/541139_572936_4131_v150.jpg"
-    },
-    {
       "title": "수원·고양·거제·경주 \"야호\"… '리센느 특수' 노리는 지자체들",
       "url": "https://www.joongboo.com/news/articleView.html?idxno=363730150",
       "date": "2026.06.30",
       "source": "joongboo.com",
       "thumbnail": "https://cdn.joongboo.com/news/photo/202606/363730150_2504803_041.png"
+    },
+    {
+      "title": "리센느, 카라 '프리티 걸' 리메이크로 컴백",
+      "url": "https://www.stardailynews.co.kr/news/articleView.html?idxno=541139",
+      "date": "2026.06.30",
+      "source": "stardailynews.co.kr",
+      "thumbnail": "https://cdn.stardailynews.co.kr/news/thumbnail/202606/541139_572936_4131_v150.jpg"
     },
     {
       "title": "\"가사 꽉 끼네\"…호불호 뛰어넘은 태연 '만찬가', 심상치 않다 [엑's 이슈...",
@@ -121,25 +128,18 @@
       "thumbnail": "https://cdn.ppss.kr/news/photo/202606/300454_119363_2846.jpg"
     },
     {
-      "title": "역주행 성공한 리센느, 이번엔 '이 카드' 꺼냈다",
-      "url": "https://www.ggilbo.com/news/articleView.html?idxno=1166584",
-      "date": "2026.06.30",
-      "source": "ggilbo.com",
-      "thumbnail": "https://cdn.ggilbo.com/news/photo/202606/1166584_1018744_1155.png"
-    },
-    {
-      "title": "“비주얼 미쳤다” 리센느… 데뷔 첫 TV CF, 깜짝 파티에 ‘눈물 펑펑’...",
-      "url": "https://www.seoul.co.kr/news/entertainment/starinterN/2026/06/30/20260630500157?wlog_tag3=naver",
-      "date": "2026.06.30",
-      "source": "seoul.co.kr",
-      "thumbnail": "https://img.seoul.co.kr/img/upload/2026/06/30/SSC_20260630140425.png.webp"
-    },
-    {
       "title": "「RESCENE、新曲『Pretty Girl』コンセプトフォト公開 ピンクを基調とし...",
       "url": "https://www.nc.press/news/articleView.html?idxno=619382",
       "date": "2026.06.30",
       "source": "nc.press",
       "thumbnail": "https://cdn.nc.press/news/photo/202606/619382_841309_1829.jpg"
+    },
+    {
+      "title": "RESCENE's rise proves small K-pop agencies still have a chance",
+      "url": "https://www.koreatimes.co.kr/path/A2026062913470001318",
+      "date": "2026.06.30",
+      "source": "koreatimes.co.kr",
+      "thumbnail": null
     }
   ]
 }
