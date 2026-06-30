@@ -1,12 +1,40 @@
 {
-  "updated": "2026-06-30T01:00:46Z",
+  "updated": "2026-06-30T02:00:47Z",
   "articles": [
+    {
+      "title": "'대세' 리센느, '프리티 걸'로 보여줄 키치+러블리",
+      "url": "http://www.sportsq.co.kr/news/articleView.html?idxno=495854",
+      "date": "2026.06.30",
+      "source": "sportsq.co.kr",
+      "thumbnail": "http://www.sportsq.co.kr/news/thumbnail/202606/495854_571834_2416_v150.jpg"
+    },
+    {
+      "title": "아이들부터 리센느까지…7월 초 K-POP 스타 컴백 향연",
+      "url": "https://www.raonnews.com/news/article.html?no=59176",
+      "date": "2026.06.30",
+      "source": "raonnews.com",
+      "thumbnail": "https://www.raonnews.com/data/photos/20260627/art_17827803414757_5a3cdc.jpg"
+    },
+    {
+      "title": "리센느, ‘Pretty Girl’ 콘셉트 포토 공개…러블리 매력 물씬",
+      "url": "https://www.mk.co.kr/article/12086327",
+      "date": "2026.06.30",
+      "source": "mk.co.kr",
+      "thumbnail": "https://wimg.mk.co.kr/news/cms/202606/30/news-p.v1.20260630.2956759eba064ce5a5362bd384bbb918_P1.jpg"
+    },
+    {
+      "title": "리센느, 리메이크 싱글 ‘프리티 걸’ 콘셉트 포토 최초 공개..컴백 기대...",
+      "url": "http://www.breaknews.com/1217754",
+      "date": "2026.06.30",
+      "source": "breaknews.com",
+      "thumbnail": "https://www.breaknews.com/imgdata/breaknews_com/202606/202606300336477.jpg"
+    },
     {
       "title": "10년 무명 딛고 대세 된 이선민, 광고 러브콜 이어져... 10배 늘어난 수...",
       "url": "https://www.insight.co.kr/news/560725",
       "date": "2026.06.30",
       "source": "insight.co.kr",
-      "thumbnail": "https://img.insight.co.kr/static/2026/06/30/1200/img_20260630090828_2087s0gb.jpg"
+      "thumbnail": null
     },
     {
       "title": "‘컴백’ 리센느, 리메이크 싱글 콘셉트 포토..청량 ‘프리티 걸’",
@@ -107,39 +135,11 @@
       "thumbnail": "https://mydaily.co.kr/photos/2026/06/30/2026063008274147220_l.png"
     },
     {
-      "title": "허남준, 라이징 스타 브랜드평판 6월 1위",
-      "url": "https://news.jtbc.co.kr/article/NB12305733?influxDiv=NAVER",
-      "date": "2026.06.29",
-      "source": "news.jtbc.co.kr",
-      "thumbnail": null
-    },
-    {
       "title": "허남준, 존재감 폭발…2026년 6월 라이징 스타 브랜드평판 1위",
       "url": "http://enews.imbc.com/News/RetrieveNewsInfo/509896",
       "date": "2026.06.29",
       "source": "enews.imbc.com",
       "thumbnail": "https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2026/06/30/df6c4f20-230e-469a-8873-0e81fd78d04c.jpg"
-    },
-    {
-      "title": "리센느, 키치+러블리 비주얼 확 바뀌었다…'프리티 걸' 완벽 변신",
-      "url": "http://www.joynews24.com/view/1980814",
-      "date": "2026.06.29",
-      "source": "joynews24.com",
-      "thumbnail": "https://image.inews24.com/v1/22fec0466c5461.jpg"
-    },
-    {
-      "title": "리센느, 리메이크 싱글 'Pretty Girl'로 역주행 열기 잇는다",
-      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16117615",
-      "date": "2026.06.29",
-      "source": "topstarnews.net",
-      "thumbnail": "https://cdn.topstarnews.net/news/photo/202606/16117615_1951883_2043_crop.jpg"
-    },
-    {
-      "title": "태연, 일본 인기곡 '만찬가' 리메이크",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008633276&plink=ORI&cooper=NAVER",
-      "date": "2026.06.29",
-      "source": "news.sbs.co.kr",
-      "thumbnail": "https://img.sbs.co.kr/newimg/news/20260630/202197428_1280.jpg"
     }
   ]
 }
