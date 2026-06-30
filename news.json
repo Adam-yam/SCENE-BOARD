@@ -1,6 +1,20 @@
 {
-  "updated": "2026-06-30T12:01:00Z",
+  "updated": "2026-06-30T13:00:52Z",
   "articles": [
+    {
+      "title": "걸그룹 '리센느', 경주 관광 홍보대사 위촉",
+      "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=552596",
+      "date": "2026.06.30",
+      "source": "idaegu.co.kr",
+      "thumbnail": "https://cdn.idaegu.co.kr/news/photo/202607/2026070101000016800056671.jpg"
+    },
+    {
+      "title": "‘거제 야호’로 달아오른 경남관광… K-바가지 따윈 없다",
+      "url": "http://www.knnews.co.kr/news/articleView.php?idxno=1545284",
+      "date": "2026.06.30",
+      "source": "knnews.co.kr",
+      "thumbnail": "https://cdn.knnews.co.kr/edb/thumbnail/2026/06/1545284_520_images.jpg"
+    },
     {
       "title": "리센느 미나미, 진짜 본모습은 갸루 아닌 단아한 아씨? \"8년 서예 경력\"...",
       "url": "https://mhnse.com/news/articleView.html?idxno=1447750",
@@ -44,18 +58,18 @@
       "thumbnail": "https://www.breaknews.com/imgdata/breaknews_com/202606/2026063037595449.jpg"
     },
     {
-      "title": "수원·고양·거제·경주 \"야호\"… '리센느 특수' 노리는 지자체들",
-      "url": "https://www.joongboo.com/news/articleView.html?idxno=363730150",
-      "date": "2026.06.30",
-      "source": "joongboo.com",
-      "thumbnail": "https://cdn.joongboo.com/news/photo/202606/363730150_2504803_041.png"
-    },
-    {
       "title": "리센느, 카라 '프리티 걸' 리메이크로 컴백",
       "url": "https://www.stardailynews.co.kr/news/articleView.html?idxno=541139",
       "date": "2026.06.30",
       "source": "stardailynews.co.kr",
       "thumbnail": "https://cdn.stardailynews.co.kr/news/thumbnail/202606/541139_572936_4131_v150.jpg"
+    },
+    {
+      "title": "수원·고양·거제·경주 \"야호\"… '리센느 특수' 노리는 지자체들",
+      "url": "https://www.joongboo.com/news/articleView.html?idxno=363730150",
+      "date": "2026.06.30",
+      "source": "joongboo.com",
+      "thumbnail": "https://cdn.joongboo.com/news/photo/202606/363730150_2504803_041.png"
     },
     {
       "title": "\"가사 꽉 끼네\"…호불호 뛰어넘은 태연 '만찬가', 심상치 않다 [엑's 이슈...",
@@ -69,7 +83,7 @@
       "url": "https://www.insight.co.kr/news/560830",
       "date": "2026.06.30",
       "source": "insight.co.kr",
-      "thumbnail": "https://img.insight.co.kr/static/2026/06/30/1200/img_20260630140645_6m4c0bm6.jpg"
+      "thumbnail": null
     },
     {
       "title": "리센느 \"수원의 얼굴로…도시의 매력 널리 전하겠다\"",
@@ -114,13 +128,6 @@
       "thumbnail": "https://img.seoul.co.kr/img/upload/2026/06/30/SSC_20260630140425.png.webp"
     },
     {
-      "title": "거제 바가지 없습니다…(‘갸루’기자가 직접 물어봄)",
-      "url": "http://www.knnews.co.kr/news/articleView.php?idxno=1545250",
-      "date": "2026.06.30",
-      "source": "knnews.co.kr",
-      "thumbnail": "https://cdn.knnews.co.kr/edb/thumbnail/2026/06/1545250_520_images.jpg"
-    },
-    {
       "title": "캐리비안 베이, 여름 '워터 뮤직 풀파티' 개최…\"K팝 공연 이어진다\"",
       "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=202567",
       "date": "2026.06.30",
@@ -128,18 +135,11 @@
       "thumbnail": "http://www.thefirstmedia.net/news/thumbnail/202606/202567_186498_623_v150.jpg"
     },
     {
-      "title": "에버랜드 캐리비안 베이, K팝·캐릭터 앞세운 여름 축제 선보여",
-      "url": "https://www.cnbizm.com/news/articleView.html?idxno=307063",
+      "title": "「RESCENE、新曲『Pretty Girl』コンセプトフォト公開 ピンクを基調とし...",
+      "url": "https://www.nc.press/news/articleView.html?idxno=619382",
       "date": "2026.06.30",
-      "source": "cnbizm.com",
-      "thumbnail": "https://cdn.cnbizm.com/news/photo/202606/307063_210012_4954.jpg"
-    },
-    {
-      "title": "K팝 걸그룹 리센느, 경주 홍보대사 위촉 \"전세계에 경주 널리 알린다\"",
-      "url": "https://www.segye.com/newsView/20260630508512?OutUrl=naver",
-      "date": "2026.06.30",
-      "source": "segye.com",
-      "thumbnail": "https://www.segye.com/content/image/2026/06/30/20260630508511.jpg"
+      "source": "nc.press",
+      "thumbnail": "https://cdn.nc.press/news/photo/202606/619382_841309_1829.jpg"
     }
   ]
 }
