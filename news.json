@@ -1,12 +1,26 @@
 {
-  "updated": "2026-07-01T13:00:51Z",
+  "updated": "2026-07-01T14:00:51Z",
   "articles": [
+    {
+      "title": "럭셔리 스테이·K-푸드·음악축제, 여행 경험의 폭이 넓어진다",
+      "url": "https://www.pressman.kr/news/articleView.html?idxno=102562",
+      "date": "2026.07.01",
+      "source": "pressman.kr",
+      "thumbnail": "https://cdn.pressman.kr/news/photo/202607/102562_94436_1055.jpg"
+    },
+    {
+      "title": "놀유니버스, 'NOL FESTIVAL' 2차 라인업 공개…다듀·자우림·키오프 출격",
+      "url": "https://www.thedailypost.kr/news/articleView.html?idxno=114522",
+      "date": "2026.07.01",
+      "source": "thedailypost.kr",
+      "thumbnail": "https://cdn.thedailypost.kr/news/thumbnail/202607/114522_118453_226_v150.jpg"
+    },
     {
       "title": "[유통레이더] 무신사, 걸그룹 ‘하츠투하츠’ 새 앨범 협업 컬렉션 선봬",
       "url": "https://www.mydaily.co.kr/page/view/2026070120541593697",
       "date": "2026.07.01",
       "source": "mydaily.co.kr",
-      "thumbnail": null
+      "thumbnail": "https://mydaily.co.kr/photos/2026/07/01/2026070120501240153_l.jpg"
     },
     {
       "title": "7월 아이돌 컴백 라인업 총정리! 투모로우바이투게더 연준부터 리센느까...",
@@ -126,20 +140,6 @@
       "date": "2026.07.01",
       "source": "jnilbo.com",
       "thumbnail": "https://cdn.jnilbo.com/news/photo/202607/90000046959_556816_1427.png"
-    },
-    {
-      "title": "리센느, '프리티 걸' 콘셉트 사진 공개…포근한 소녀 감성",
-      "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=825914",
-      "date": "2026.07.01",
-      "source": "spotvnews.co.kr",
-      "thumbnail": "https://cdn.spotvnews.co.kr/news/thumbnail/202607/825914_1355316_2738_v150.jpg"
-    },
-    {
-      "title": "리센느, Pretty Girl 콘셉트 포토 공개에 스타트렌드 열기까지 달궜다",
-      "url": "https://www.joongangenews.com/news/articleView.html?idxno=529706",
-      "date": "2026.07.01",
-      "source": "joongangenews.com",
-      "thumbnail": "https://cdn.joongangenews.com/news/photo/202607/529706_334711_5828.png"
     }
   ]
 }
