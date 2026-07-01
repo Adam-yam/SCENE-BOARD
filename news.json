@@ -1,6 +1,20 @@
 {
-  "updated": "2026-07-01T08:00:52Z",
+  "updated": "2026-07-01T09:00:53Z",
   "articles": [
+    {
+      "title": "韓은 라이즈, 中은 에스파, 日은 트와이스",
+      "url": "https://www.mk.co.kr/article/12087981",
+      "date": "2026.07.01",
+      "source": "mk.co.kr",
+      "thumbnail": "https://pimg.mk.co.kr/news/cms/202607/02/20260702_01110127000004_L00.jpg"
+    },
+    {
+      "title": "[데스크칼럼] 거제 야호로 비상한 리센느, 그 다음 숙제",
+      "url": "https://www.sportsworldi.com/newsView/20260701518358",
+      "date": "2026.07.01",
+      "source": "sportsworldi.com",
+      "thumbnail": "https://www.sportsworldi.com/content/image/2026/07/01/20260701518357.jpg"
+    },
     {
       "title": "[서정민갑의 수요뮤직] 2026년 상반기 한국 대중음악, 주목할 음반들",
       "url": "https://vop.co.kr/A00001695595.html",
@@ -13,7 +27,7 @@
       "url": "https://www.insight.co.kr/news/561070",
       "date": "2026.07.01",
       "source": "insight.co.kr",
-      "thumbnail": "https://img.insight.co.kr/static/2026/07/01/1200/img_20260701161327_k391fbml.jpg"
+      "thumbnail": null
     },
     {
       "title": "걸그룹 '리센느' 품은 CU…편의점 마케팅도 팬덤 시대",
@@ -83,7 +97,7 @@
       "url": "https://www.mt.co.kr/living/2026/07/01/2026070114314128523",
       "date": "2026.07.01",
       "source": "mt.co.kr",
-      "thumbnail": null
+      "thumbnail": "https://thumb.mt.co.kr/cdn-cgi/image/w=1200,h=868,fit=cover,bg=whilte,f=auto,quality=high,sharpen=2,g=face/21/2026/07/2026070114314128523_1.jpg"
     },
     {
       "title": "‘거제 야-호!’ 리센느, 카라 ‘프리티 걸’로 돌아온다",
@@ -126,20 +140,6 @@
       "date": "2026.07.01",
       "source": "etnews.com",
       "thumbnail": "https://img.etnews.com/news/article/2026/07/01/news-p.v1.20260701.824359567a64410c9ae0256853b69be4_P1.jpg"
-    },
-    {
-      "title": "[오늘의 편의점] CU '리센느' 모델부터 GS25 '쯔양' 라면까지",
-      "url": "https://www.wolyo.co.kr/news/articleView.html?idxno=314384",
-      "date": "2026.07.01",
-      "source": "wolyo.co.kr",
-      "thumbnail": "https://cdn.wolyo.co.kr/news/photo/202607/314384_219816_5110.jpeg"
-    },
-    {
-      "title": "놀유니버스, 'NOL FESTIVAL' 얼리버드 접수 시작…2차 출연진 공개",
-      "url": "https://www.imaeil.com/page/view/2026070109411823582",
-      "date": "2026.07.01",
-      "source": "imaeil.com",
-      "thumbnail": "https://www.imaeil.com/photos/2026/07/01/2026070109402467015_l.jpg"
     }
   ]
 }
