@@ -1,6 +1,13 @@
 {
-  "updated": "2026-07-01T16:00:51Z",
+  "updated": "2026-07-01T17:00:56Z",
   "articles": [
+    {
+      "title": "[산업 이모저모] 소노인터내셔널, 놀유니버스, 여기어때 등",
+      "url": "http://www.bizwnews.com/news/articleView.html?idxno=139821",
+      "date": "2026.07.01",
+      "source": "bizwnews.com",
+      "thumbnail": "https://cdn.bizwnews.com/news/thumbnail/202607/139821_156113_5626_v150.jpg"
+    },
     {
       "title": "[임명묵의 90년대생 시선] “거제, 야호!” K컬처의 다음 방향성은 ‘로...",
       "url": "https://www.chosun.com/opinion/specialist_column/2026/07/01/TIEY5UAWWRCYXPCMBGMCLM2VUQ/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
@@ -132,14 +139,7 @@
       "url": "https://www.mt.co.kr/living/2026/07/01/2026070114314128523",
       "date": "2026.07.01",
       "source": "mt.co.kr",
-      "thumbnail": "https://thumb.mt.co.kr/cdn-cgi/image/w=1200,h=868,fit=cover,bg=whilte,f=auto,quality=high,sharpen=2,g=face/21/2026/07/2026070114314128523_1.jpg"
-    },
-    {
-      "title": "‘거제 야-호!’ 리센느, 카라 ‘프리티 걸’로 돌아온다",
-      "url": "https://www.khan.co.kr/article/202607011450001",
-      "date": "2026.07.01",
-      "source": "khan.co.kr",
-      "thumbnail": "https://img.khan.co.kr/news/2026/07/01/news-p.v1.20260701.bb7873b8bde7454c86309558df41a875_P1.jpg"
+      "thumbnail": null
     }
   ]
 }
