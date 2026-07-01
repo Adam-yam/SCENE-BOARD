@@ -1,6 +1,20 @@
 {
-  "updated": "2026-07-01T07:00:55Z",
+  "updated": "2026-07-01T08:00:52Z",
   "articles": [
+    {
+      "title": "[서정민갑의 수요뮤직] 2026년 상반기 한국 대중음악, 주목할 음반들",
+      "url": "https://vop.co.kr/A00001695595.html",
+      "date": "2026.07.01",
+      "source": "vop.co.kr",
+      "thumbnail": null
+    },
+    {
+      "title": "\"야호 상품 나오나!?\"... 걸그룹 리센느, CU 브랜드 모델 발탁",
+      "url": "https://www.insight.co.kr/news/561070",
+      "date": "2026.07.01",
+      "source": "insight.co.kr",
+      "thumbnail": "https://img.insight.co.kr/static/2026/07/01/1200/img_20260701161327_k391fbml.jpg"
+    },
     {
       "title": "걸그룹 '리센느' 품은 CU…편의점 마케팅도 팬덤 시대",
       "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065595776407031",
@@ -69,7 +83,7 @@
       "url": "https://www.mt.co.kr/living/2026/07/01/2026070114314128523",
       "date": "2026.07.01",
       "source": "mt.co.kr",
-      "thumbnail": "https://thumb.mt.co.kr/cdn-cgi/image/w=1200,h=868,fit=cover,bg=whilte,f=auto,quality=high,sharpen=2,g=face/21/2026/07/2026070114314128523_1.jpg"
+      "thumbnail": null
     },
     {
       "title": "‘거제 야-호!’ 리센느, 카라 ‘프리티 걸’로 돌아온다",
@@ -104,7 +118,7 @@
       "url": "https://www.yna.co.kr/view/AKR20260701124100005?input=1195m",
       "date": "2026.07.01",
       "source": "yna.co.kr",
-      "thumbnail": null
+      "thumbnail": "https://img7.yna.co.kr/etc/inner/KR/2026/07/01/AKR20260701124100005_01_i_P4.jpg"
     },
     {
       "title": "놀유니버스, '놀 페스티벌' 얼리버드 응모 시작",
@@ -126,20 +140,6 @@
       "date": "2026.07.01",
       "source": "imaeil.com",
       "thumbnail": "https://www.imaeil.com/photos/2026/07/01/2026070109402467015_l.jpg"
-    },
-    {
-      "title": "\"CU 야호!\" 확 뜬 리센느, 편의점 최초 아이돌 브랜드 모델로",
-      "url": "https://www.hankookilbo.com/news/article/A2026070110380000108?did=NA",
-      "date": "2026.07.01",
-      "source": "hankookilbo.com",
-      "thumbnail": "https://newsimg.hankookilbo.com/2026/07/01/0269eec9-7b1f-47e3-877a-e8cf73e24f83.jpeg"
-    },
-    {
-      "title": "CU, 걸그룹 리센느 브랜드 모델 발탁…협업 상품 순차 출시",
-      "url": "http://www.metroseoul.co.kr/article/20260701500229",
-      "date": "2026.07.01",
-      "source": "metroseoul.co.kr",
-      "thumbnail": null
     }
   ]
 }
