@@ -1,6 +1,20 @@
 {
-  "updated": "2026-07-01T20:00:51Z",
+  "updated": "2026-07-01T21:00:49Z",
   "articles": [
+    {
+      "title": "소녀시대 효연, 대세 리센느 완벽히 압도…우렁찬 “야호” 한방에 초토...",
+      "url": "https://www.sportsseoul.com/news/read/1620162?ref=naver",
+      "date": "2026.07.01",
+      "source": "sportsseoul.com",
+      "thumbnail": "https://file.sportsseoul.com/news/cms/2026/07/02/news-a.v1.20260702.87b79d35de734e51acdbfd6993a119b4_P1.png"
+    },
+    {
+      "title": "7월 신인 아이돌그룹 브랜드평판 1위 '리센느'",
+      "url": "http://www.yonhapnewstv.co.kr/news/MYH20260702051808t85",
+      "date": "2026.07.01",
+      "source": "yonhapnewstv.co.kr",
+      "thumbnail": "https://media.yonhapnewstv.co.kr/article/MYH/20260701/MYH20260702051808t85.jpg"
+    },
     {
       "title": "[산업 이모저모] 소노인터내셔널, 놀유니버스, 여기어때 등",
       "url": "http://www.bizwnews.com/news/articleView.html?idxno=139821",
@@ -41,7 +55,7 @@
       "url": "https://www.esquirekorea.co.kr/article/1905506",
       "date": "2026.07.01",
       "source": "esquirekorea.co.kr",
-      "thumbnail": "https://www.esquirekorea.co.kr/resources/online/thumbnail/hf/2026/07/01/7a115661-19e3-42b5-9060-41b535e524f2.jpg"
+      "thumbnail": null
     },
     {
       "title": "韓은 라이즈, 中은 에스파, 日은 트와이스",
@@ -126,20 +140,6 @@
       "date": "2026.07.01",
       "source": "donga.com",
       "thumbnail": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/07/01/134076705.1.jpg"
-    },
-    {
-      "title": "리센느, 카사베르디 CF 메이킹 공개…청량한 팀워크로 촬영장 물들여",
-      "url": "https://economist.co.kr/article/view/ecn202607010028",
-      "date": "2026.07.01",
-      "source": "economist.co.kr",
-      "thumbnail": "https://economist.co.kr/data/ecn/image/2026/07/01/ecn20260701000034.800x.0.png"
-    },
-    {
-      "title": "\"편의점, 야호\"…스타 마케팅으로 팬덤 소비 잡는다",
-      "url": "https://www.mt.co.kr/living/2026/07/01/2026070114314128523",
-      "date": "2026.07.01",
-      "source": "mt.co.kr",
-      "thumbnail": "https://thumb.mt.co.kr/cdn-cgi/image/w=1200,h=868,fit=cover,bg=whilte,f=auto,quality=high,sharpen=2,g=face/21/2026/07/2026070114314128523_1.jpg"
     }
   ]
 }
