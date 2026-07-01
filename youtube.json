@@ -1,6 +1,14 @@
 {
-  "updated": "2026-07-01T17:10:32Z",
+  "updated": "2026-07-01T18:10:32Z",
   "videos": [
+    {
+      "id": "bkxvR913h-g",
+      "title": "🎀",
+      "url": "https://www.youtube.com/watch?v=bkxvR913h-g",
+      "thumbnail": "https://i.ytimg.com/vi/bkxvR913h-g/mqdefault.jpg",
+      "date": "2026.07.01",
+      "type": "long"
+    },
     {
       "id": "vRnXOGS8ne8",
       "title": "⭐️막내들이 왔따😎",
@@ -42,22 +50,6 @@
       "type": "long"
     },
     {
-      "id": "aEaCLkOJdG8",
-      "title": "연습생 2명 데뷔 완전체 리센느",
-      "url": "https://www.youtube.com/watch?v=aEaCLkOJdG8",
-      "thumbnail": "https://i.ytimg.com/vi/aEaCLkOJdG8/mqdefault.jpg",
-      "date": "2026.06.12",
-      "type": "long"
-    },
-    {
-      "id": "bkxvR913h-g",
-      "title": "🎀",
-      "url": "https://www.youtube.com/shorts/bkxvR913h-g",
-      "thumbnail": "https://i.ytimg.com/vi/bkxvR913h-g/mqdefault_live.jpg",
-      "date": "2026.07.01",
-      "type": "short"
-    },
-    {
       "id": "782SuTI6i2A",
       "title": "Come on Beautiful Girl 🪞🎀",
       "url": "https://www.youtube.com/shorts/782SuTI6i2A",
@@ -95,6 +87,14 @@
       "url": "https://www.youtube.com/shorts/pS_1MqNil8k",
       "thumbnail": "https://i.ytimg.com/vi/pS_1MqNil8k/mqdefault.jpg",
       "date": "2026.06.25",
+      "type": "short"
+    },
+    {
+      "id": "E6wwikUvO34",
+      "title": "리센느 내 에겐 VS 테토 | RESCENE (리센느) vlog",
+      "url": "https://www.youtube.com/shorts/E6wwikUvO34",
+      "thumbnail": "https://i.ytimg.com/vi/E6wwikUvO34/mqdefault.jpg",
+      "date": "2026.06.24",
       "type": "short"
     }
   ]
