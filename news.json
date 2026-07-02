@@ -1,6 +1,104 @@
 {
-  "updated": "2026-07-01T23:00:49Z",
+  "updated": "2026-07-02T00:00:54Z",
   "articles": [
+    {
+      "title": "‘대세’ 리센느, 예능도 접수",
+      "url": "https://sports.khan.co.kr/article/202607020846003?pt=nv",
+      "date": "2026.07.01",
+      "source": "sports.khan.co.kr",
+      "thumbnail": null
+    },
+    {
+      "title": "태연, 리메이크 '만찬가'로 발매 직후 음원차트 1위 직행",
+      "url": "https://www.slist.kr/news/articleView.html?idxno=749068",
+      "date": "2026.07.01",
+      "source": "slist.kr",
+      "thumbnail": "https://cdn.slist.kr/news/thumbnail/202607/749068_1149273_4217_v150.jpg"
+    },
+    {
+      "title": "태연 부른 ‘만찬가’ 무서운 상승세…음원차트 정상",
+      "url": "https://isplus.com/article/view/isp202607020019",
+      "date": "2026.07.01",
+      "source": "isplus.com",
+      "thumbnail": "https://isplus.com/data/isp/image/2026/07/02/isp20260702000023.800x.0.jpg"
+    },
+    {
+      "title": "음원차트 다크호스 된 태연 '만찬가', 어떤 노래?",
+      "url": "https://www.mydaily.co.kr/page/view/2026070208333699149",
+      "date": "2026.07.01",
+      "source": "mydaily.co.kr",
+      "thumbnail": "https://mydaily.co.kr/photos/2026/07/02/2026070208420531575_l.jpg"
+    },
+    {
+      "title": "태연 ‘만찬가’ 발매 하자마자 음원 차트 1위",
+      "url": "https://sports.khan.co.kr/article/202607020841003?pt=nv",
+      "date": "2026.07.01",
+      "source": "sports.khan.co.kr",
+      "thumbnail": null
+    },
+    {
+      "title": "[단독] 리센느 원이 소원 이뤄졌다‥'살롱드립' 출격",
+      "url": "https://news.jtbc.co.kr/article/NB12306159?influxDiv=NAVER",
+      "date": "2026.07.01",
+      "source": "news.jtbc.co.kr",
+      "thumbnail": null
+    },
+    {
+      "title": "리센느, 'Pretty Girl' 챌린지·웹 오픈…원곡 감성 입은 '로컬힙' 시너지",
+      "url": "https://www.nc.press/news/articleView.html?idxno=619584",
+      "date": "2026.07.01",
+      "source": "nc.press",
+      "thumbnail": "https://cdn.nc.press/news/photo/202607/619584_841779_3947.jpg"
+    },
+    {
+      "title": "방탄소년단 지민·엔하이픈 니키, 유픽 '7월 이달의 픽' 초반부터 접전",
+      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16120615",
+      "date": "2026.07.01",
+      "source": "topstarnews.net",
+      "thumbnail": "https://cdn.topstarnews.net/news/photo/202607/16120615_1953603_3629_crop.jpg"
+    },
+    {
+      "title": "리센느, 이리 봐도 저리 봐도 'Pretty Girl'…특별 프로모션 오픈",
+      "url": "http://www.osen.co.kr/article/G1112832394",
+      "date": "2026.07.01",
+      "source": "osen.co.kr",
+      "thumbnail": "http://file.osen.co.kr/article_thumb/2026/07/02/202607020824770166_6a45a47677132_300x.jpg"
+    },
+    {
+      "title": "리센느, 예능까지 접수..바닥에 주저앉은 미나미 포착 [연지곤지]",
+      "url": "https://www.starnewskorea.com/music/2026/07/02/2026070208232999599",
+      "date": "2026.07.01",
+      "source": "starnewskorea.com",
+      "thumbnail": null
+    },
+    {
+      "title": "리센느, 'Pretty Girl' 챌린지 영상 공개..'비밀 옷장'까지",
+      "url": "https://www.starnewskorea.com/music/2026/07/02/2026070208195460210",
+      "date": "2026.07.01",
+      "source": "starnewskorea.com",
+      "thumbnail": null
+    },
+    {
+      "title": "리센느, 카라 히트곡 '프리티 걸' 리메이크",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008637710&plink=ORI&cooper=NAVER",
+      "date": "2026.07.01",
+      "source": "news.sbs.co.kr",
+      "thumbnail": null
+    },
+    {
+      "title": "리센느, 'Pretty Girl' 컴백 앞두고 챌린지 영상·이색 웹사이트 공개",
+      "url": "https://www.cbci.co.kr/news/articleView.html?idxno=586073",
+      "date": "2026.07.01",
+      "source": "cbci.co.kr",
+      "thumbnail": "https://www.cbci.co.kr/news/thumbnail/202607/586073_398415_93_v150.jpg"
+    },
+    {
+      "title": "\"거제야호 김밥 나오나\"… CU, 역주행 걸그룹 '리센느' 모델로 전격 발탁",
+      "url": "http://www.economytalk.kr/news/articleView.html?idxno=422368",
+      "date": "2026.07.01",
+      "source": "economytalk.kr",
+      "thumbnail": "https://cdn.economytalk.kr/news/photo/202607/422368_228447_1234.jpeg"
+    },
     {
       "title": "[경남도정] 민선9기 시작은 불안해소부터",
       "url": "https://news.knn.co.kr/news/article/189525",
@@ -9,39 +107,11 @@
       "thumbnail": "https://kcms.knn.co.kr/mam/data/CI2016123000000000006/CI2017072513315301673/2026/07/02/26070255814/26070255814.jpg"
     },
     {
-      "title": "리센느 원이 정상 올랐다…7월 신인 아이돌 개인 브랜드평판 1위",
-      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=464846",
+      "title": "태연 '만찬가', 발매 후 음원 차트 상위권 진입",
+      "url": "https://www.stardailynews.co.kr/news/articleView.html?idxno=541351",
       "date": "2026.07.01",
-      "source": "pinpointnews.co.kr",
-      "thumbnail": "https://cdn.pinpointnews.co.kr/news/thumbnail/202607/464846_453359_5440_v150.jpg"
-    },
-    {
-      "title": "[뮤직100] 코르티스 'FaSHioN'·태연 '만찬가' 급등",
-      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16120553",
-      "date": "2026.07.01",
-      "source": "topstarnews.net",
-      "thumbnail": "https://cdn.topstarnews.net/news/photo/202607/16120553_1953557_4628_crop.jpg"
-    },
-    {
-      "title": "리센느 원이, 신인 브랜드평판 1위",
-      "url": "https://www.bntnews.co.kr/article/view/bnt202607020022",
-      "date": "2026.07.01",
-      "source": "bntnews.co.kr",
-      "thumbnail": "https://www.bntnews.co.kr/data/bnt/image/2026/07/02/bnt202607020025.jpg"
-    },
-    {
-      "title": "리센느 원이·미나미, 신인 아이돌 개인파워 '톱2'...아일릿 원희 3위",
-      "url": "https://www.slist.kr/news/articleView.html?idxno=749006",
-      "date": "2026.07.01",
-      "source": "slist.kr",
-      "thumbnail": "https://cdn.slist.kr/news/thumbnail/202607/749006_1149192_954_v150.jpg"
-    },
-    {
-      "title": "리센느 원이, 7월 신인 아이돌 개인 브랜드평판 1위…미나미 2위·원희 ...",
-      "url": "https://www.gpkorea.com/news/articleView.html?idxno=144288",
-      "date": "2026.07.01",
-      "source": "gpkorea.com",
-      "thumbnail": "https://cdn.gpkorea.com/news/photo/202607/144288_306306_829.jpg"
+      "source": "stardailynews.co.kr",
+      "thumbnail": "https://cdn.stardailynews.co.kr/news/thumbnail/202607/541351_573158_3328_v150.jpg"
     },
     {
       "title": "졸업사진에 '임전무퇴'...리센느 원이, 데뷔 2년 만에 떡상 이유 있었네...",
@@ -51,48 +121,6 @@
       "thumbnail": "https://mydaily.co.kr/photos/2026/07/02/2026070207002728094_l.jpg"
     },
     {
-      "title": "[더벨][thebell note] KQ엔터의 날개",
-      "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202606291449517520106789",
-      "date": "2026.07.01",
-      "source": "thebell.co.kr",
-      "thumbnail": null
-    },
-    {
-      "title": "1위 리센느 원이, 2위 리센느 미나미, 3위 아일릿 원희",
-      "url": "https://www.starnewskorea.com/music/2026/07/02/2026070206400011350",
-      "date": "2026.07.01",
-      "source": "starnewskorea.com",
-      "thumbnail": null
-    },
-    {
-      "title": "태티서 보고있나?…‘개그캐의 대반전’ 효리수, 예견된 흥행 [함상범의...",
-      "url": "https://www.sportsseoul.com/news/read/1620157?ref=naver",
-      "date": "2026.07.01",
-      "source": "sportsseoul.com",
-      "thumbnail": "https://file.sportsseoul.com/news/cms/2026/07/02/news-p.v1.20260702.864ae3f5d21742e395b6a02b865d4516_P1.jpg"
-    },
-    {
-      "title": "태연이 부르고 리센느가 연기하니…J팝 리메이크 ‘만찬가’ 이게 되네...",
-      "url": "https://isplus.com/article/view/isp202607010101",
-      "date": "2026.07.01",
-      "source": "isplus.com",
-      "thumbnail": "https://isplus.com/data/isp/image/2026/07/01/isp20260701000138.800x.0.png"
-    },
-    {
-      "title": "소녀시대 효연, 대세 리센느 완벽히 압도…우렁찬 “야호” 한방에 초토...",
-      "url": "https://www.sportsseoul.com/news/read/1620162?ref=naver",
-      "date": "2026.07.01",
-      "source": "sportsseoul.com",
-      "thumbnail": null
-    },
-    {
-      "title": "7월 신인 아이돌그룹 브랜드평판 1위 '리센느'",
-      "url": "http://www.yonhapnewstv.co.kr/news/MYH20260702051808t85",
-      "date": "2026.07.01",
-      "source": "yonhapnewstv.co.kr",
-      "thumbnail": "https://media.yonhapnewstv.co.kr/article/MYH/20260701/MYH20260702051808t85.jpg"
-    },
-    {
       "title": "[산업 이모저모] 소노인터내셔널, 놀유니버스, 여기어때 등",
       "url": "http://www.bizwnews.com/news/articleView.html?idxno=139821",
       "date": "2026.07.01",
@@ -100,39 +128,11 @@
       "thumbnail": "https://cdn.bizwnews.com/news/thumbnail/202607/139821_156113_5626_v150.jpg"
     },
     {
-      "title": "[임명묵의 90년대생 시선] “거제, 야호!” K컬처의 다음 방향성은 ‘로...",
-      "url": "https://www.chosun.com/opinion/specialist_column/2026/07/01/TIEY5UAWWRCYXPCMBGMCLM2VUQ/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-      "date": "2026.07.01",
-      "source": "chosun.com",
-      "thumbnail": "https://www.chosun.com/resizer/v2/OCK6CSWEB5EFJFXWL7CMZ35E2M.png?auth=3ce1562c2efa557203ea04fe9bbbab1af77a9beed62b7cfa43527bca5c9d392f&amp;width=500&amp;height=262&amp;smart=true"
-    },
-    {
-      "title": "럭셔리 스테이·K-푸드·음악축제, 여행 경험의 폭이 넓어진다",
-      "url": "https://www.pressman.kr/news/articleView.html?idxno=102562",
-      "date": "2026.07.01",
-      "source": "pressman.kr",
-      "thumbnail": "https://cdn.pressman.kr/news/photo/202607/102562_94436_1055.jpg"
-    },
-    {
       "title": "놀유니버스, 'NOL FESTIVAL' 2차 라인업 공개…다듀·자우림·키오프 출격",
       "url": "https://www.thedailypost.kr/news/articleView.html?idxno=114522",
       "date": "2026.07.01",
       "source": "thedailypost.kr",
       "thumbnail": "https://cdn.thedailypost.kr/news/thumbnail/202607/114522_118453_226_v150.jpg"
-    },
-    {
-      "title": "[유통레이더] 무신사, 걸그룹 ‘하츠투하츠’ 새 앨범 협업 컬렉션 선봬",
-      "url": "https://www.mydaily.co.kr/page/view/2026070120541593697",
-      "date": "2026.07.01",
-      "source": "mydaily.co.kr",
-      "thumbnail": "https://mydaily.co.kr/photos/2026/07/01/2026070120501240153_l.jpg"
-    },
-    {
-      "title": "7월 아이돌 컴백 라인업 총정리! 투모로우바이투게더 연준부터 리센느까...",
-      "url": "https://www.esquirekorea.co.kr/article/1905506",
-      "date": "2026.07.01",
-      "source": "esquirekorea.co.kr",
-      "thumbnail": null
     },
     {
       "title": "\"야호 상품 나오나!?\"... 걸그룹 리센느, CU 브랜드 모델 발탁",
