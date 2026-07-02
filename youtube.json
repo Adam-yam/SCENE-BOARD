@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T10:10:31Z",
+  "updated": "2026-07-02T11:10:29Z",
   "videos": [
     {
       "id": "bkxvR913h-g",
@@ -50,6 +50,14 @@
       "type": "long"
     },
     {
+      "id": "O8xwNa1JOc0",
+      "title": "LIKE ZIP",
+      "url": "https://www.youtube.com/shorts/O8xwNa1JOc0",
+      "thumbnail": "https://i.ytimg.com/vi/O8xwNa1JOc0/mqdefault.jpg",
+      "date": "2026.07.02",
+      "type": "short"
+    },
+    {
       "id": "a0WNArxddg4",
       "title": "otukare ✨",
       "url": "https://www.youtube.com/shorts/a0WNArxddg4",
@@ -87,14 +95,6 @@
       "url": "https://www.youtube.com/watch?v=c13--HEy_8U",
       "thumbnail": "https://i.ytimg.com/vi/c13--HEy_8U/mqdefault.jpg",
       "date": "2026.06.29",
-      "type": "short"
-    },
-    {
-      "id": "dcZ7TsSLIbI",
-      "title": "Level ❺ 프리티걸 응원? 고무장갑은 필수지",
-      "url": "https://www.youtube.com/shorts/dcZ7TsSLIbI",
-      "thumbnail": "https://i.ytimg.com/vi/dcZ7TsSLIbI/mqdefault.jpg",
-      "date": "2026.06.26",
       "type": "short"
     }
   ]
