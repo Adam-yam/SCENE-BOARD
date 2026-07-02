@@ -1,6 +1,13 @@
 {
-  "updated": "2026-07-02T10:00:46Z",
+  "updated": "2026-07-02T11:00:49Z",
   "articles": [
+    {
+      "title": "'사랑이 온다' OST 팬투표, 아홉 선두 질주…플레어 유·원팩트 마지막...",
+      "url": "https://www.stardailynews.co.kr/news/articleView.html?idxno=541472",
+      "date": "2026.07.02",
+      "source": "stardailynews.co.kr",
+      "thumbnail": "https://cdn.stardailynews.co.kr/news/thumbnail/202607/541472_573282_316_v150.jpg"
+    },
     {
       "title": "'프리티 걸' 리센트 컴백 열기 뜨겁다…챌린지 영상→'비밀 옷장' 웹사...",
       "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=826195",
@@ -13,7 +20,7 @@
       "url": "https://www.segye.com/newsView/20260702509841?OutUrl=naver",
       "date": "2026.07.02",
       "source": "segye.com",
-      "thumbnail": "https://www.segye.com/content/image/2026/07/02/20260702517310.jpg"
+      "thumbnail": null
     },
     {
       "title": "리센느 'Pretty Girl' 8일 발매...챌린지·웹사이트 공개",
@@ -133,13 +140,6 @@
       "date": "2026.07.02",
       "source": "breaknews.com",
       "thumbnail": "https://www.breaknews.com/imgdata/breaknews_com/202607/2026070217302806.jpg"
-    },
-    {
-      "title": "역시 태연…‘만찬가’, 발매 직후 음원차트 1위 직행",
-      "url": "https://www.mk.co.kr/article/12088783",
-      "date": "2026.07.02",
-      "source": "mk.co.kr",
-      "thumbnail": "https://pimg.mk.co.kr/news/cms/202607/02/news-p.v1.20260702.43906c349bc847689f47f67201ebaf8c_R.jpg"
     }
   ]
 }
