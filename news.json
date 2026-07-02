@@ -1,6 +1,13 @@
 {
-  "updated": "2026-07-02T19:00:56Z",
+  "updated": "2026-07-02T20:00:54Z",
   "articles": [
+    {
+      "title": "경주시, 리센느 홍보대사 릴스 '327만 조회' 돌파…SNS 효과 '톡톡'",
+      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3625084",
+      "date": "2026.07.02",
+      "source": "gukjenews.com",
+      "thumbnail": "https://cdn.gukjenews.com/news/thumbnail/202607/3625084_3787383_5837_v150.jpg"
+    },
     {
       "title": "허경환, '개콘' 시절 소환 \"父가 통영 초입에 현수막...감사하지만 떼라...",
       "url": "https://www.tvreport.co.kr/breaking/article/1058542/",
@@ -48,7 +55,7 @@
       "url": "http://www.newstown.co.kr/news/articleView.html?idxno=708006",
       "date": "2026.07.02",
       "source": "newstown.co.kr",
-      "thumbnail": "http://www.newstown.co.kr/news/thumbnail/202607/708006_662092_1339_v150.jpg"
+      "thumbnail": "https://cdn.newstown.co.kr/news/thumbnail/202607/708006_662092_1339_v150.jpg"
     },
     {
       "title": "걸그룹 리센느 효과 '톡톡'… 경주시, 밈 활용한 숏폼 콘텐츠로 온라인...",
@@ -133,13 +140,6 @@
       "date": "2026.07.02",
       "source": "bntnews.co.kr",
       "thumbnail": "https://www.bntnews.co.kr/data/bnt/image/2026/07/02/bnt202607020542.jpg"
-    },
-    {
-      "title": "경주·고양 찍고 CU까지…리센느, 왜 이토록 사랑받을까",
-      "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000047222",
-      "date": "2026.07.02",
-      "source": "jnilbo.com",
-      "thumbnail": "https://cdn.jnilbo.com/news/photo/202607/90000047222_557214_615.jpg"
     }
   ]
 }
