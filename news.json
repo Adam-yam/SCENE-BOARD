@@ -1,6 +1,20 @@
 {
-  "updated": "2026-07-02T20:00:54Z",
+  "updated": "2026-07-02T21:00:53Z",
   "articles": [
+    {
+      "title": "리센느에 빠진 러닝 기자…거제 언덕 12㎞ 뛰었다 '메이를 위해'",
+      "url": "https://www.nocutnews.co.kr/news/6542160?utm_source=naver&utm_medium=article&utm_campaign=20260703054605",
+      "date": "2026.07.02",
+      "source": "nocutnews.co.kr",
+      "thumbnail": "https://file2.nocutnews.co.kr/newsroom/image/2026/07/02/202607021151395231_0.jpg"
+    },
+    {
+      "title": "경주시 SNS, 리센느 홍보대사 효과 '톡톡'…릴스 조회수 327만 회 돌파",
+      "url": "https://www.ajunews.com/view/20260703031325372",
+      "date": "2026.07.02",
+      "source": "ajunews.com",
+      "thumbnail": "https://image.ajunews.com/content/image/2026/07/03/20260703031819991613.jpg"
+    },
     {
       "title": "경주시, 리센느 홍보대사 릴스 '327만 조회' 돌파…SNS 효과 '톡톡'",
       "url": "https://www.gukjenews.com/news/articleView.html?idxno=3625084",
@@ -48,14 +62,14 @@
       "url": "https://www.segye.com/newsView/20260702519081?OutUrl=naver",
       "date": "2026.07.02",
       "source": "segye.com",
-      "thumbnail": "https://www.segye.com/content/image/2026/07/02/20260702519079.jpg"
+      "thumbnail": null
     },
     {
       "title": "경주시, '리센느' 홍보대사 위촉 릴스 327만 회 조회",
       "url": "http://www.newstown.co.kr/news/articleView.html?idxno=708006",
       "date": "2026.07.02",
       "source": "newstown.co.kr",
-      "thumbnail": "https://cdn.newstown.co.kr/news/thumbnail/202607/708006_662092_1339_v150.jpg"
+      "thumbnail": "http://www.newstown.co.kr/news/thumbnail/202607/708006_662092_1339_v150.jpg"
     },
     {
       "title": "걸그룹 리센느 효과 '톡톡'… 경주시, 밈 활용한 숏폼 콘텐츠로 온라인...",
@@ -126,20 +140,6 @@
       "date": "2026.07.02",
       "source": "wikitree.co.kr",
       "thumbnail": "https://cdnweb01.wikitree.co.kr/webdata/editor/202607/02/202607021646476096.jpg"
-    },
-    {
-      "title": "[단독] 양상국·이선민 ‘놀뭐’ 재합류 성공…‘쩐의 전쟁’ 이선민 고...",
-      "url": "http://www.osen.co.kr/article/G1112832518",
-      "date": "2026.07.02",
-      "source": "osen.co.kr",
-      "thumbnail": "http://file.osen.co.kr/article_thumb/2026/07/02/202607021418777432_6a45f6c4408c8_300x.jpg"
-    },
-    {
-      "title": "아홉, ‘사랑이 온다’ OST 매치포인트 아이돌 부문 선두",
-      "url": "https://www.bntnews.co.kr/article/view/bnt202607020213",
-      "date": "2026.07.02",
-      "source": "bntnews.co.kr",
-      "thumbnail": "https://www.bntnews.co.kr/data/bnt/image/2026/07/02/bnt202607020542.jpg"
     }
   ]
 }
