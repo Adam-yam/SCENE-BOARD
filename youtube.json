@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T09:10:32Z",
+  "updated": "2026-07-02T10:10:31Z",
   "videos": [
     {
       "id": "bkxvR913h-g",
@@ -50,6 +50,14 @@
       "type": "long"
     },
     {
+      "id": "a0WNArxddg4",
+      "title": "otukare ✨",
+      "url": "https://www.youtube.com/shorts/a0WNArxddg4",
+      "thumbnail": "https://i.ytimg.com/vi/a0WNArxddg4/mqdefault.jpg",
+      "date": "2026.07.02",
+      "type": "short"
+    },
+    {
       "id": "UPakZgvrm3s",
       "title": "난 Beautiful Girl ˚. ྀིྀི୧❤︎୨ ྀིྀི.˚",
       "url": "https://www.youtube.com/shorts/UPakZgvrm3s",
@@ -87,14 +95,6 @@
       "url": "https://www.youtube.com/shorts/dcZ7TsSLIbI",
       "thumbnail": "https://i.ytimg.com/vi/dcZ7TsSLIbI/mqdefault.jpg",
       "date": "2026.06.26",
-      "type": "short"
-    },
-    {
-      "id": "pS_1MqNil8k",
-      "title": "Level ❹ 프리티걸 같이 하면 이렇게 됩니다",
-      "url": "https://www.youtube.com/shorts/pS_1MqNil8k",
-      "thumbnail": "https://i.ytimg.com/vi/pS_1MqNil8k/mqdefault.jpg",
-      "date": "2026.06.25",
       "type": "short"
     }
   ]
