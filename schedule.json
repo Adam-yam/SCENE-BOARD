@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T03:05:27Z",
+  "updated": "2026-07-03T15:05:27Z",
   "events": [
     {
       "date": "2026-07-06",
@@ -11,6 +11,13 @@
     {
       "date": "2026-07-09",
       "title": "Mnet <M COUNTDOWN>",
+      "detail": "",
+      "type": "방송",
+      "source": "mnetplus"
+    },
+    {
+      "date": "2026-07-09",
+      "title": "Mnet  <Check-in! 아이돌 빙고>",
       "detail": "",
       "type": "방송",
       "source": "mnetplus"
@@ -39,6 +46,13 @@
     {
       "date": "2026-07-25",
       "title": "보령 KBS 슈퍼라이브",
+      "detail": "",
+      "type": "공연",
+      "source": "mnetplus"
+    },
+    {
+      "date": "2026-07-26",
+      "title": "별방수면회",
       "detail": "",
       "type": "공연",
       "source": "mnetplus"
