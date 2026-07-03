@@ -1,6 +1,13 @@
 {
-  "updated": "2026-07-03T15:00:55Z",
+  "updated": "2026-07-03T16:01:02Z",
   "articles": [
+    {
+      "title": "[윤준필의 시선] \"리센느 야호\" 고향 홍보대사 싹쓸이",
+      "url": "https://enter.etoday.co.kr/news/view/299296",
+      "date": "2026.07.03",
+      "source": "enter.etoday.co.kr",
+      "thumbnail": "https://img.etoday.co.kr/pto_db/2026/07/600/20260703170513_2354824_1000_750.jpg"
+    },
     {
       "title": "거제·수원·경주 이어 고양까지…고향 홍보대사 휩쓴 리센느",
       "url": "https://sports.donga.com/ent/article/all/20260703/134234796/1",
@@ -83,7 +90,7 @@
       "url": "http://www.breaknews.com/1219099",
       "date": "2026.07.03",
       "source": "breaknews.com",
-      "thumbnail": "https://www.breaknews.com/imgdata/breaknews_com/202607/2026070308444692.jpg"
+      "thumbnail": null
     },
     {
       "title": "방탄소년단 정국도 외친 '야호', 리센느 미나미 공개 응원",
@@ -111,7 +118,7 @@
       "url": "http://www.breaknews.com/1219075",
       "date": "2026.07.03",
       "source": "breaknews.com",
-      "thumbnail": "https://www.breaknews.com/imgdata/breaknews_com/202605/2026050555346481.jpg"
+      "thumbnail": null
     },
     {
       "title": "경주시 홍보대사 '리센느 영상' 온라인 화제",
@@ -133,13 +140,6 @@
       "date": "2026.07.03",
       "source": "mydaily.co.kr",
       "thumbnail": "https://mydaily.co.kr/photos/2026/07/03/2026070316045783776_l.png"
-    },
-    {
-      "title": "BTS 정국도 스며든 '야호' 밈... 인스타로 직접 르센느 미나미 '샤라웃'",
-      "url": "https://www.insight.co.kr/news/561429",
-      "date": "2026.07.03",
-      "source": "insight.co.kr",
-      "thumbnail": "https://img.insight.co.kr/static/2026/07/03/1200/img_20260703152941_qaiy5n5i.jpg"
     }
   ]
 }
