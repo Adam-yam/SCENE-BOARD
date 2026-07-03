@@ -1,12 +1,19 @@
 {
-  "updated": "2026-07-03T12:01:01Z",
+  "updated": "2026-07-03T13:00:59Z",
   "articles": [
+    {
+      "title": "리센느, 고양특례시 홍보대사 위촉…멤버 고향 잇단 발탁",
+      "url": "https://www.ppss.kr/news/articleView.html?idxno=300886",
+      "date": "2026.07.03",
+      "source": "ppss.kr",
+      "thumbnail": "https://cdn.ppss.kr/news/photo/202607/300886_119895_4124.jpg"
+    },
     {
       "title": "[유통레이더] 에이피알 메디큐브, 美·유럽 아마존 프라임데이서 1위 휩...",
       "url": "https://www.mydaily.co.kr/page/view/2026070320162263822",
       "date": "2026.07.03",
       "source": "mydaily.co.kr",
-      "thumbnail": "https://mydaily.co.kr/photos/2026/07/03/2026070320103062658_l.jpg"
+      "thumbnail": null
     },
     {
       "title": "리센느 원이·미나미, 교복 비주얼 풋풋…태연 ‘만찬가’ MV 비하인드 ...",
@@ -118,7 +125,7 @@
       "url": "https://www.insight.co.kr/news/561429",
       "date": "2026.07.03",
       "source": "insight.co.kr",
-      "thumbnail": "https://img.insight.co.kr/static/2026/07/03/1200/img_20260703152941_qaiy5n5i.jpg"
+      "thumbnail": null
     },
     {
       "title": "정국도 리센느 미나미 ‘야호~’에 빠졌나..‘엄지 척’ 샤라웃",
@@ -133,13 +140,6 @@
       "date": "2026.07.03",
       "source": "socialvalue.kr",
       "thumbnail": "http://www.socialvalue.kr/news/data/20260703/p1065595254563330_739_thum.jpg"
-    },
-    {
-      "title": "보넥도·리센느·슈주…블립 서포트 첫 주자",
-      "url": "https://www.munhwa.com/article/11600162?ref=naver",
-      "date": "2026.07.03",
-      "source": "munhwa.com",
-      "thumbnail": "https://wimg.munhwa.com/news/cms/2026/07/03/news-p.v1.20260703.9d27f8250d9341a987fe1f99cfd4915f_R.jpg"
     }
   ]
 }
