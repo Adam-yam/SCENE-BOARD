@@ -1,6 +1,13 @@
 {
-  "updated": "2026-07-04T01:01:01Z",
+  "updated": "2026-07-04T02:00:56Z",
   "articles": [
+    {
+      "title": "[뮤직100] 아일릿 'NOT CUTE ANYMORE' 급증…카더가든 '그대 작은…' 중위...",
+      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16123445",
+      "date": "2026.07.04",
+      "source": "topstarnews.net",
+      "thumbnail": "https://cdn.topstarnews.net/news/photo/202607/16123445_1955177_2215_crop.jpg"
+    },
     {
       "title": "펭수, 곽튜브와 갸루 분장에 ‘깜짝’…시부야 접수한 파격 비주얼",
       "url": "https://sports.khan.co.kr/article/202607040934003?pt=nv",
@@ -76,7 +83,7 @@
       "url": "https://www.mydaily.co.kr/page/view/2026070320162263822",
       "date": "2026.07.03",
       "source": "mydaily.co.kr",
-      "thumbnail": null
+      "thumbnail": "https://mydaily.co.kr/photos/2026/07/03/2026070320103062658_l.jpg"
     },
     {
       "title": "리센느 원이·미나미, 교복 비주얼 풋풋…태연 ‘만찬가’ MV 비하인드 ...",
@@ -121,13 +128,6 @@
       "thumbnail": "https://img.tvreportcdn.de/cms-content/uploads/2026/07/03/9d005bf8-4c20-4000-bfa8-1001fad0f08d.jpg"
     },
     {
-      "title": "방탄소년단 정국, 리센느 미나미 'Still With You' 커버 영상 공개 응원…...",
-      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16122669",
-      "date": "2026.07.03",
-      "source": "topstarnews.net",
-      "thumbnail": "https://cdn.topstarnews.net/news/photo/202607/16122669_1954791_2522_crop.jpg"
-    },
-    {
       "title": "“고양 야호”..‘대세 그룹’ 리센느, 고양특례시 홍보대사 위촉",
       "url": "http://www.breaknews.com/1219099",
       "date": "2026.07.03",
@@ -135,11 +135,11 @@
       "thumbnail": "https://www.breaknews.com/imgdata/breaknews_com/202607/2026070308444692.jpg"
     },
     {
-      "title": "방탄소년단 정국도 외친 '야호', 리센느 미나미 공개 응원",
-      "url": "https://news.jtbc.co.kr/article/NB12306466?influxDiv=NAVER",
+      "title": "\"고양야호~\" 걸그룹 리센느, 민선9기 고양시 첫 홍보대사 위촉",
+      "url": "https://news.tf.co.kr/read/national/2339588.htm",
       "date": "2026.07.03",
-      "source": "news.jtbc.co.kr",
-      "thumbnail": null
+      "source": "news.tf.co.kr",
+      "thumbnail": "https://img.tf.co.kr/article/home/2026/07/03/202651531783064366.jpg"
     }
   ]
 }
