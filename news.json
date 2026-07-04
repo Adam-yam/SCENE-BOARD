@@ -1,6 +1,20 @@
 {
-  "updated": "2026-07-04T00:00:56Z",
+  "updated": "2026-07-04T01:01:01Z",
   "articles": [
+    {
+      "title": "펭수, 곽튜브와 갸루 분장에 ‘깜짝’…시부야 접수한 파격 비주얼",
+      "url": "https://sports.khan.co.kr/article/202607040934003?pt=nv",
+      "date": "2026.07.04",
+      "source": "sports.khan.co.kr",
+      "thumbnail": null
+    },
+    {
+      "title": "[이동건의 심리렌즈] 여성 노린 '어깨빵'…가해자는 왜 부츠카리를 택했...",
+      "url": "https://www.ajunews.com/view/20260703110802906",
+      "date": "2026.07.04",
+      "source": "ajunews.com",
+      "thumbnail": "https://image.ajunews.com/content/image/2026/07/03/20260703111322751446.jpg"
+    },
     {
       "title": "리센느에 빠진 러닝 기자…거제 7.8㎞ 달리기 '7월 8일 컴백 기념'[페이...",
       "url": "https://www.nocutnews.co.kr/news/6542163?utm_source=naver&utm_medium=article&utm_campaign=20260704083018",
@@ -62,7 +76,7 @@
       "url": "https://www.mydaily.co.kr/page/view/2026070320162263822",
       "date": "2026.07.03",
       "source": "mydaily.co.kr",
-      "thumbnail": "https://mydaily.co.kr/photos/2026/07/03/2026070320103062658_l.jpg"
+      "thumbnail": null
     },
     {
       "title": "리센느 원이·미나미, 교복 비주얼 풋풋…태연 ‘만찬가’ MV 비하인드 ...",
@@ -126,20 +140,6 @@
       "date": "2026.07.03",
       "source": "news.jtbc.co.kr",
       "thumbnail": null
-    },
-    {
-      "title": "고양시, 민선 9기 첫 홍보대사 ‘리센느’ 위촉",
-      "url": "https://www.mk.co.kr/article/12089982",
-      "date": "2026.07.03",
-      "source": "mk.co.kr",
-      "thumbnail": "https://pimg.mk.co.kr/news/cms/202607/03/news-p.v1.20260703.08550fb243104e84a2685173c9b17815_R.jpg"
-    },
-    {
-      "title": "\"고양야호~\" 걸그룹 리센느, 민선9기 고양시 첫 홍보대사 위촉",
-      "url": "https://news.tf.co.kr/read/national/2339588.htm",
-      "date": "2026.07.03",
-      "source": "news.tf.co.kr",
-      "thumbnail": "https://img.tf.co.kr/article/home/2026/07/03/202651531783064366.jpg"
     }
   ]
 }
