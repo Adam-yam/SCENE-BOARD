@@ -1,6 +1,13 @@
 {
-  "updated": "2026-07-04T04:00:54Z",
+  "updated": "2026-07-04T05:00:54Z",
   "articles": [
+    {
+      "title": "[N포커스] 숏폼 속 화려한 제자리걸음…'파라파라'로 읽는 시대의 풍경",
+      "url": "https://www.nc.press/news/articleView.html?idxno=619814",
+      "date": "2026.07.04",
+      "source": "nc.press",
+      "thumbnail": "https://cdn.nc.press/news/photo/202607/619814_842382_852.jpg"
+    },
     {
       "title": "[뮤직100] 아일릿 'NOT CUTE ANYMORE' 급증…카더가든 '그대 작은…' 중위...",
       "url": "https://www.topstarnews.net/news/articleView.html?idxno=16123445",
@@ -133,13 +140,6 @@
       "date": "2026.07.03",
       "source": "breaknews.com",
       "thumbnail": "https://www.breaknews.com/imgdata/breaknews_com/202607/2026070308444692.jpg"
-    },
-    {
-      "title": "\"고양야호~\" 걸그룹 리센느, 민선9기 고양시 첫 홍보대사 위촉",
-      "url": "https://news.tf.co.kr/read/national/2339588.htm",
-      "date": "2026.07.03",
-      "source": "news.tf.co.kr",
-      "thumbnail": "https://img.tf.co.kr/article/home/2026/07/03/202651531783064366.jpg"
     }
   ]
 }
