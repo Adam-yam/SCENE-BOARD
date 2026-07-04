@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-04T04:10:37Z",
+  "updated": "2026-07-04T05:10:40Z",
   "videos": [
     {
       "id": "bkxvR913h-g",
@@ -50,6 +50,14 @@
       "type": "long"
     },
     {
+      "id": "u0YZVUvlGSk",
+      "title": "#침착맨 님과 어디서나 당당하게 걷기 🎀",
+      "url": "https://www.youtube.com/shorts/u0YZVUvlGSk",
+      "thumbnail": "https://i.ytimg.com/vi/u0YZVUvlGSk/mqdefault.jpg",
+      "date": "2026.07.04",
+      "type": "short"
+    },
+    {
       "id": "O8xwNa1JOc0",
       "title": "LIKE ZIP",
       "url": "https://www.youtube.com/shorts/O8xwNa1JOc0",
@@ -87,14 +95,6 @@
       "url": "https://www.youtube.com/shorts/_Cozte56xT8",
       "thumbnail": "https://i.ytimg.com/vi/_Cozte56xT8/mqdefault.jpg",
       "date": "2026.07.01",
-      "type": "short"
-    },
-    {
-      "id": "c13--HEy_8U",
-      "title": "메이 (MAY) &#39;Put Your Records On&#39; COVER (원곡: Corinne Bailey Rae) Photo Booth Ver.",
-      "url": "https://www.youtube.com/watch?v=c13--HEy_8U",
-      "thumbnail": "https://i.ytimg.com/vi/c13--HEy_8U/mqdefault.jpg",
-      "date": "2026.06.29",
       "type": "short"
     }
   ]
