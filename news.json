@@ -1,6 +1,20 @@
 {
-  "updated": "2026-07-05T15:01:01Z",
+  "updated": "2026-07-05T16:01:03Z",
   "articles": [
+    {
+      "title": "리센느 원이 '무섭노' 발언 일베 논란 '스노우볼' 구른다",
+      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3626717",
+      "date": "2026.07.05",
+      "source": "gukjenews.com",
+      "thumbnail": "https://cdn.gukjenews.com/news/thumbnail/202607/3626717_3789256_3039_v150.jpg"
+    },
+    {
+      "title": "“무섭노” 걸그룹 한마디에…일베 감별법 꺼낸 조국",
+      "url": "https://www.joongang.co.kr/article/25442565",
+      "date": "2026.07.05",
+      "source": "joongang.co.kr",
+      "thumbnail": "https://assets.joongang.co.kr/images/share/ja-opengraph-img.png"
+    },
     {
       "title": "이준석 “내일 ‘무섭노’ 발언 긴급 여론조사 하겠다…오후 결과 공표...",
       "url": "https://www.munhwa.com/article/11600392?ref=naver",
@@ -104,7 +118,7 @@
       "url": "https://www.sportsseoul.com/news/read/1620654?ref=naver",
       "date": "2026.07.05",
       "source": "sportsseoul.com",
-      "thumbnail": "https://file.sportsseoul.com/news/cms/2026/07/05/news-p.v1.20260705.052327556ba047809c81e11106dbab21_P1.jpg"
+      "thumbnail": null
     },
     {
       "title": "[양준서의 정조준] 22살 여자 아이돌 '일베 낙인 찍기'인가...조국, '표현...",
@@ -126,20 +140,6 @@
       "date": "2026.07.05",
       "source": "sportsworldi.com",
       "thumbnail": "https://www.sportsworldi.com/content/image/2026/07/05/20260705506395.jpg"
-    },
-    {
-      "title": "리센느 원이, \"무섭노\" 일베 논란 정치권도 반응..조국 \"사투리와 구별...",
-      "url": "http://www.osen.co.kr/article/G1112834454",
-      "date": "2026.07.05",
-      "source": "osen.co.kr",
-      "thumbnail": "http://file.osen.co.kr/article_thumb/2026/07/05/202607051811777793_6a4a213405bf0_300x.jpg"
-    },
-    {
-      "title": "리센느 ‘무섭노’ 일베 논쟁에 조국 “구별법 있다”",
-      "url": "https://www.kmib.co.kr/article/view.asp?arcid=0030066586&code=61111111&cp=nv",
-      "date": "2026.07.05",
-      "source": "kmib.co.kr",
-      "thumbnail": "https://image.kmib.co.kr/online_image/2026/0705/2026070517434939048_1783241030_0030066586.jpg"
     }
   ]
 }
