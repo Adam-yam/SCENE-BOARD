@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-05T05:10:38Z",
+  "updated": "2026-07-05T06:10:37Z",
   "videos": [
     {
       "id": "4E6aUYPMmas",
@@ -50,6 +50,14 @@
       "type": "long"
     },
     {
+      "id": "e_RTmXn5nPo",
+      "title": "#리리 님과 어디서나 당당하게 걷기 🎀",
+      "url": "https://www.youtube.com/shorts/e_RTmXn5nPo",
+      "thumbnail": "https://i.ytimg.com/vi/e_RTmXn5nPo/mqdefault.jpg",
+      "date": "2026.07.05",
+      "type": "short"
+    },
+    {
       "id": "pFLyQg7BCOg",
       "title": "#NARIN 님과 어디서나 당당하게 걷기 🎀",
       "url": "https://www.youtube.com/shorts/pFLyQg7BCOg",
@@ -87,14 +95,6 @@
       "url": "https://www.youtube.com/shorts/UPakZgvrm3s",
       "thumbnail": "https://i.ytimg.com/vi/UPakZgvrm3s/mqdefault.jpg",
       "date": "2026.07.02",
-      "type": "short"
-    },
-    {
-      "id": "782SuTI6i2A",
-      "title": "Come on Beautiful Girl 🪞🎀",
-      "url": "https://www.youtube.com/shorts/782SuTI6i2A",
-      "thumbnail": "https://i.ytimg.com/vi/782SuTI6i2A/mqdefault.jpg",
-      "date": "2026.07.01",
       "type": "short"
     }
   ]
