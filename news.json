@@ -1,12 +1,82 @@
 {
-  "updated": "2026-07-06T09:01:10Z",
+  "updated": "2026-07-06T10:01:09Z",
   "articles": [
+    {
+      "title": "리센느 원이 '무섭노' 언급한 조국, 이번엔 '김부장'…\"5.23 사용 이유 의...",
+      "url": "https://www.mydaily.co.kr/page/view/2026070618215153141",
+      "date": "2026.07.06",
+      "source": "mydaily.co.kr",
+      "thumbnail": "https://mydaily.co.kr/photos/2026/07/06/2026070618572774878_l.jpg"
+    },
+    {
+      "title": "징계 칼날 뽑아든 국민의힘 윤리위…친한계부터 내치나? [뉴스와이드]",
+      "url": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5204160",
+      "date": "2026.07.06",
+      "source": "mbn.co.kr",
+      "thumbnail": "http://img.vod.mbn.co.kr/vod2/536/2026/07/06/20260706183810_20_536_1423307_1080_7.jpg"
+    },
+    {
+      "title": "인기 걸그룹 \"무섭노\" 논란...사람들은 뭐에 더 불편했나",
+      "url": "https://www.ytn.co.kr/_ln/0106_202607061837030719",
+      "date": "2026.07.06",
+      "source": "ytn.co.kr",
+      "thumbnail": null
+    },
+    {
+      "title": "유재석까지 머리채 잡혔다…'무섭노 논란'에 애꿎은 일베 불똥 [종합]",
+      "url": "https://www.tenasia.co.kr/article/2026070683684",
+      "date": "2026.07.06",
+      "source": "tenasia.co.kr",
+      "thumbnail": "https://img.tenasia.co.kr/photo/202607/BF.44932724.1.jpg"
+    },
+    {
+      "title": "'무섭노'는 일베 용어인가?…서울대 논문 보니 \"감탄사로도 사용\"",
+      "url": "https://view.asiae.co.kr/article/2026070617393243288",
+      "date": "2026.07.06",
+      "source": "view.asiae.co.kr",
+      "thumbnail": "https://cphoto.asiae.co.kr/listimglink/1/2026070617355835907_1783326959.jpg"
+    },
+    {
+      "title": "조국, 리센느 원이 이어 '김부장' 언급 \"억울한 일베 오해 바로잡아야....",
+      "url": "https://www.starnewskorea.com/broadcast-drama/2026/07/06/2026070617452739287",
+      "date": "2026.07.06",
+      "source": "starnewskorea.com",
+      "thumbnail": null
+    },
+    {
+      "title": "'무섭노' 논란에 국립국어원 답했다…\"'-노'는 경상도 방언 종결어미\"",
+      "url": "http://weekly.chosun.com/news/articleView.html?idxno=53218",
+      "date": "2026.07.06",
+      "source": "weekly.chosun.com",
+      "thumbnail": "https://cdn.weekly.chosun.com/news/thumbnail/202607/53218_82777_2342_v150.jpg"
+    },
+    {
+      "title": "사투리인가? 혐오인가?…\"무섭노\"가 쏘아 올린 '일베 감별' 잔혹사 [MD 이...",
+      "url": "https://www.mydaily.co.kr/page/view/2026070618030790712",
+      "date": "2026.07.06",
+      "source": "mydaily.co.kr",
+      "thumbnail": "https://mydaily.co.kr/photos/2026/07/06/2026070618011222703_l.png"
+    },
+    {
+      "title": "조국 \"5.23은 의문\", 이번엔 '웹툰'…이준석 \"일베몰이 말라\"[뉴스럽다]",
+      "url": "https://www.nocutnews.co.kr/news/6543877?utm_source=naver&utm_medium=article&utm_campaign=20260706060048",
+      "date": "2026.07.06",
+      "source": "nocutnews.co.kr",
+      "thumbnail": "https://file2.nocutnews.co.kr/newsroom/image/2026/07/06/202607061716051426_0.jpg"
+    },
+    {
+      "title": "'경상도 사투리' 김시덕, 원이 '일베 의혹'에 작심 발언…\"와이리 무섭...",
+      "url": "https://mhnse.com/news/articleView.html?idxno=1454280",
+      "date": "2026.07.06",
+      "source": "mhnse.com",
+      "thumbnail": "https://contents-cdn.viewus.co.kr/creator-cms/image/2026/07/a5f9aa20-ed2a-4e25-977b-578361b09389.jpg"
+    },
     {
       "title": "5·18 왜곡 콘텐츠 1900건(5~6월)…학생 징계만으론 못 막는다",
       "url": "https://www.sedaily.com/article/20064389?ref=naver",
       "date": "2026.07.06",
       "source": "sedaily.com",
-      "thumbnail": null
+      "thumbnail": "https://wimg.sedaily.com/news/cms/2026/07/06/news-g.v1.20260706.8de1cb20c2ff48458894d046cbb7ab59_R.jpg"
     },
     {
       "title": "리센느 원이, 컴백 앞두고 '말투 논란' 웬말…'프레임 씌우기' 경계해야...",
@@ -27,7 +97,7 @@
       "url": "https://www.sedaily.com/article/20064382?ref=naver",
       "date": "2026.07.06",
       "source": "sedaily.com",
-      "thumbnail": null
+      "thumbnail": "https://wimg.sedaily.com/news/cms/2026/07/06/news-p.v1.20260706.233bd8e011fb4f6bb583c98d4f7756f7_R.png"
     },
     {
       "title": "\"무섭노\"는 일베식 표현이라는 조국... 반론이 이렇게 쏟아진다",
@@ -65,81 +135,11 @@
       "thumbnail": "https://img.tvchosun.com/sitedata/image/202607/06/2026070690256_0.png"
     },
     {
-      "title": "프리티 걸 발매 앞둔 리센느, 스타트렌드 투표도 뜨겁다",
-      "url": "https://www.stardailynews.co.kr/news/articleView.html?idxno=541721",
-      "date": "2026.07.06",
-      "source": "stardailynews.co.kr",
-      "thumbnail": "https://cdn.stardailynews.co.kr/news/thumbnail/202607/541721_573551_350_v150.jpg"
-    },
-    {
-      "title": "'리센느 일베 저격' PD, 본인도 '노' 사용→SNS 비공개 전환..역풍 제대...",
-      "url": "https://www.starnewskorea.com/star/2026/07/06/2026070617041164637",
-      "date": "2026.07.06",
-      "source": "starnewskorea.com",
-      "thumbnail": null
-    },
-    {
-      "title": "이준석 \"조국 '노' 말끝 타박 몰상식…노무현 성역화도 짚어봐야\"",
-      "url": "https://monthly.chosun.com/news/articleView.html?idxno=70618",
-      "date": "2026.07.06",
-      "source": "monthly.chosun.com",
-      "thumbnail": "https://cdn.monthly.chosun.com/news/photo/202607/70618_200916_111.png"
-    },
-    {
-      "title": "“정치권은 빠져라”… 원이 ‘무섭노’·배재고 ‘스벅구호’ 이념 대...",
-      "url": "https://www.sedaily.com/article/20064341?ref=naver",
-      "date": "2026.07.06",
-      "source": "sedaily.com",
-      "thumbnail": "https://wimg.sedaily.com/news/cms/2026/07/06/news-p.v1.20260706.ddbdf02839a44a0e9fca60e79b976eff_R.jpg"
-    },
-    {
-      "title": "인제스피디움, 7월 레이스와 공연 어우러진 자동차 축제 잇따라 개최",
-      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3627174",
-      "date": "2026.07.06",
-      "source": "gukjenews.com",
-      "thumbnail": "https://cdn.gukjenews.com/news/thumbnail/202607/3627174_3789760_5922_v150.jpg"
-    },
-    {
-      "title": "“사상·사투리 재단... 검열사회 남조선이 돼가노, 무섭노” 나경원, 여...",
-      "url": "https://www.wikitree.co.kr/articles/1145017",
-      "date": "2026.07.06",
-      "source": "wikitree.co.kr",
-      "thumbnail": "https://cdnweb01.wikitree.co.kr/webdata/editor/202607/06/img_20260706165339_d7cbe6bf.jpg"
-    },
-    {
-      "title": "[다시보기] 헬로tv뉴스 대구경북 2026년 7월 6일",
-      "url": "http://news.lghellovision.net/news/articleView.html?idxno=547581",
-      "date": "2026.07.06",
-      "source": "news.lghellovision.net",
-      "thumbnail": "https://cdn.news.lghellovision.net/news/thumbnail/202607/547581_183323_589_v150.jpg"
-    },
-    {
-      "title": "말 끝에 붙인 \"노\"때문에...리센느 원이, 과도한 검열 논란 일파만파",
-      "url": "https://www.ftimes.kr/news/articleView.html?idxno=38381",
-      "date": "2026.07.06",
-      "source": "ftimes.kr",
-      "thumbnail": "https://www.ftimes.kr/news/thumbnail/202607/38381_46874_568_v150.jpg"
-    },
-    {
-      "title": "리센느 원이 '무섭노' 발언 논란...경상도 방언인데 왜?",
-      "url": "https://www.ppss.kr/news/articleView.html?idxno=301186",
-      "date": "2026.07.06",
-      "source": "ppss.kr",
-      "thumbnail": "https://cdn.ppss.kr/news/photo/202607/301186_120259_2224.jpg"
-    },
-    {
       "title": "'원이 저격' MBC PD, '사투리 자막' 재조명에 SNS 비공개",
       "url": "https://www.newsis.com/view/NISX20260706_0003697789",
       "date": "2026.07.06",
       "source": "newsis.com",
       "thumbnail": "https://img1.newsis.com/2026/07/05/NISI20260705_0002178388_web.jpg"
-    },
-    {
-      "title": "[공식] 리센느 원이 '무섭노' 갑론을박, 국립국어원 입장 보니…\"학자마...",
-      "url": "https://www.mydaily.co.kr/page/view/2026070616380237056",
-      "date": "2026.07.06",
-      "source": "mydaily.co.kr",
-      "thumbnail": null
     }
   ]
 }
