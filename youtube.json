@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-07T07:10:53Z",
+  "updated": "2026-07-07T08:10:49Z",
   "videos": [
     {
       "id": "sa29RXO7ruM",
@@ -50,6 +50,22 @@
       "type": "long"
     },
     {
+      "id": "wkqjrCo7w50",
+      "title": "Pretty Girl emoji #LIV ver.",
+      "url": "https://www.youtube.com/shorts/wkqjrCo7w50",
+      "thumbnail": "https://i.ytimg.com/vi/wkqjrCo7w50/mqdefault.jpg",
+      "date": "2026.07.07",
+      "type": "short"
+    },
+    {
+      "id": "ZKZW9y96fE4",
+      "title": "Pretty Girl emoji #WONI ver.",
+      "url": "https://www.youtube.com/shorts/ZKZW9y96fE4",
+      "thumbnail": "https://i.ytimg.com/vi/ZKZW9y96fE4/mqdefault.jpg",
+      "date": "2026.07.07",
+      "type": "short"
+    },
+    {
       "id": "EazPNJHZbc8",
       "title": "RESCENE (리센느) &#39;Pretty Girl&#39; Special Video TEASER",
       "url": "https://www.youtube.com/shorts/EazPNJHZbc8",
@@ -79,22 +95,6 @@
       "url": "https://www.youtube.com/shorts/pFLyQg7BCOg",
       "thumbnail": "https://i.ytimg.com/vi/pFLyQg7BCOg/mqdefault.jpg",
       "date": "2026.07.05",
-      "type": "short"
-    },
-    {
-      "id": "u0YZVUvlGSk",
-      "title": "#침착맨 님과 어디서나 당당하게 걷기 🎀",
-      "url": "https://www.youtube.com/shorts/u0YZVUvlGSk",
-      "thumbnail": "https://i.ytimg.com/vi/u0YZVUvlGSk/mqdefault.jpg",
-      "date": "2026.07.04",
-      "type": "short"
-    },
-    {
-      "id": "O8xwNa1JOc0",
-      "title": "LIKE ZIP",
-      "url": "https://www.youtube.com/shorts/O8xwNa1JOc0",
-      "thumbnail": "https://i.ytimg.com/vi/O8xwNa1JOc0/mqdefault.jpg",
-      "date": "2026.07.02",
       "type": "short"
     }
   ]
