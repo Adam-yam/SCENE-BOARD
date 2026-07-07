@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-07T08:10:49Z",
+  "updated": "2026-07-07T09:10:55Z",
   "videos": [
     {
       "id": "sa29RXO7ruM",
@@ -50,6 +50,30 @@
       "type": "long"
     },
     {
+      "id": "OsDvfApoMMc",
+      "title": "Pretty Girl emoji #ZENA ver.",
+      "url": "https://www.youtube.com/shorts/OsDvfApoMMc",
+      "thumbnail": "https://i.ytimg.com/vi/OsDvfApoMMc/mqdefault.jpg",
+      "date": "2026.07.07",
+      "type": "short"
+    },
+    {
+      "id": "7oXBLF6Ilrk",
+      "title": "Pretty Girl emoji #MAY ver.",
+      "url": "https://www.youtube.com/shorts/7oXBLF6Ilrk",
+      "thumbnail": "https://i.ytimg.com/vi/7oXBLF6Ilrk/mqdefault.jpg",
+      "date": "2026.07.07",
+      "type": "short"
+    },
+    {
+      "id": "nPfE0nDlYUI",
+      "title": "Pretty Girl emoji #MINAMI ver.",
+      "url": "https://www.youtube.com/shorts/nPfE0nDlYUI",
+      "thumbnail": "https://i.ytimg.com/vi/nPfE0nDlYUI/mqdefault.jpg",
+      "date": "2026.07.07",
+      "type": "short"
+    },
+    {
       "id": "wkqjrCo7w50",
       "title": "Pretty Girl emoji #LIV ver.",
       "url": "https://www.youtube.com/shorts/wkqjrCo7w50",
@@ -71,30 +95,6 @@
       "url": "https://www.youtube.com/shorts/EazPNJHZbc8",
       "thumbnail": "https://i.ytimg.com/vi/EazPNJHZbc8/mqdefault.jpg",
       "date": "2026.07.06",
-      "type": "short"
-    },
-    {
-      "id": "NTEAtCU6kZ0",
-      "title": "RESCENE (리센느) &#39;Pretty Girl&#39; Special Video Teaser",
-      "url": "https://www.youtube.com/shorts/NTEAtCU6kZ0",
-      "thumbnail": "https://i.ytimg.com/vi/NTEAtCU6kZ0/mqdefault.jpg",
-      "date": "2026.07.06",
-      "type": "short"
-    },
-    {
-      "id": "e_RTmXn5nPo",
-      "title": "#리리 님과 어디서나 당당하게 걷기 🎀",
-      "url": "https://www.youtube.com/shorts/e_RTmXn5nPo",
-      "thumbnail": "https://i.ytimg.com/vi/e_RTmXn5nPo/mqdefault.jpg",
-      "date": "2026.07.05",
-      "type": "short"
-    },
-    {
-      "id": "pFLyQg7BCOg",
-      "title": "#NARIN 님과 어디서나 당당하게 걷기 🎀",
-      "url": "https://www.youtube.com/shorts/pFLyQg7BCOg",
-      "thumbnail": "https://i.ytimg.com/vi/pFLyQg7BCOg/mqdefault.jpg",
-      "date": "2026.07.05",
       "type": "short"
     }
   ]
