@@ -1,19 +1,61 @@
 {
-  "updated": "2026-07-07T22:01:08Z",
+  "updated": "2026-07-07T23:01:15Z",
   "articles": [
+    {
+      "title": "[뮤직100] 리센느 'Deja Vu' 59계단 급등, 'Runaway' 급증 속 중위권 재편",
+      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16127270",
+      "date": "2026.07.07",
+      "source": "topstarnews.net",
+      "thumbnail": "https://cdn.topstarnews.net/news/photo/202607/16127270_1957187_4757_crop.jpg"
+    },
+    {
+      "title": "'안원잘부' PD \"리센느 미나미 잘 몰랐다…첫 만남에 일본어 할 줄 아냐...",
+      "url": "https://www.xportsnews.com/article/2169431",
+      "date": "2026.07.07",
+      "source": "xportsnews.com",
+      "thumbnail": "https://image.xportsnews.com/contents/images/upload/article/2026/0708/1783453441803848.webp"
+    },
+    {
+      "title": "\"원이 '무섭노,' 혐오 표현 아니다\" 국어학자 판정 나왔다",
+      "url": "https://www.ytn.co.kr/_ln/0103_202607080709417957",
+      "date": "2026.07.07",
+      "source": "ytn.co.kr",
+      "thumbnail": "https://www.ytn.co.kr/img/comm/ytn_sns_default.jpg"
+    },
+    {
+      "title": "박지원 \"조국, 외롭나? 고독하나? 불필요한 이야기로 왜 구설수에…\"",
+      "url": "https://www.pressian.com/pages/articles/2026070714554384067?utm_source=naver&utm_medium=search",
+      "date": "2026.07.07",
+      "source": "pressian.com",
+      "thumbnail": "https://cdn.pressian.com/_resources/10/2026/07/08/2026061709571916539_l.jpg"
+    },
+    {
+      "title": "말 한마디도 신중하게…문화계 '혐오·조롱' 표현 경계령",
+      "url": "https://view.asiae.co.kr/article/2026070616231980605",
+      "date": "2026.07.07",
+      "source": "view.asiae.co.kr",
+      "thumbnail": "https://cphoto.asiae.co.kr/listimglink/1/2026070615524135737_1783320762.png"
+    },
+    {
+      "title": "\"와 이리 무섭노\" 쓰면 안되나요…일베 설전에 멍드는 사투리",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008646588&plink=ORI&cooper=NAVER",
+      "date": "2026.07.07",
+      "source": "news.sbs.co.kr",
+      "thumbnail": null
+    },
     {
       "title": "티오더 브랜드 마케팅에 ‘역주행 아이돌’ 리센느 뜬다",
       "url": "https://www.sedaily.com/article/20064912?ref=naver",
       "date": "2026.07.07",
       "source": "sedaily.com",
-      "thumbnail": null
+      "thumbnail": "https://wimg.sedaily.com/news/cms/2026/07/07/news-p.v1.20260616.002982a51d824cd39e2122f12bb9525c_R.jpg"
     },
     {
-      "title": "[소셜＋] \"와 이리 무섭노\" 쓰면 안되나요…일베 설전에 멍드는 사투리",
-      "url": "https://www.yna.co.kr/view/AKR20260707144500505?input=1195m",
+      "title": "\"무섭노\"는 사투리? 일베 감별?…파장에 역풍까지, 정치권도 시끌[이슈...",
+      "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=826961",
       "date": "2026.07.07",
-      "source": "yna.co.kr",
-      "thumbnail": "https://img4.yna.co.kr/etc/inner/KR/2026/07/07/AKR20260707144500505_01_i_P4.jpg"
+      "source": "spotvnews.co.kr",
+      "thumbnail": "https://cdn.spotvnews.co.kr/news/thumbnail/202607/826961_1357510_2359_v150.jpg"
     },
     {
       "title": "‘차트 어택’ 리센느, ‘프리티 걸’ 컴백 신의 한 수 될까 [IS포커스]",
@@ -23,11 +65,11 @@
       "thumbnail": "https://isplus.com/data/isp/image/2026/07/07/isp20260707000077.800x.0.jpeg"
     },
     {
-      "title": "\"무섭노\"는 사투리? 일베 감별?…파장에 역풍까지, 정치권도 시끌[이슈...",
-      "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=826961",
+      "title": "[소셜＋] \"와 이리 무섭노\" 쓰면 안되나요…일베 설전에 멍드는 사투리",
+      "url": "https://www.yna.co.kr/view/AKR20260707144500505?input=1195m",
       "date": "2026.07.07",
-      "source": "spotvnews.co.kr",
-      "thumbnail": "https://cdn.spotvnews.co.kr/news/thumbnail/202607/826961_1357510_2359_v150.jpg"
+      "source": "yna.co.kr",
+      "thumbnail": "https://img4.yna.co.kr/etc/inner/KR/2026/07/07/AKR20260707144500505_01_i_P4.jpg"
     },
     {
       "title": "'선관위엔 왜 침묵' 공격받은 허지웅 \"지금 갈등은 盧 탄핵 직전과 흡사...",
@@ -65,13 +107,6 @@
       "thumbnail": "https://cdn.ftoday.co.kr/news/thumbnail/202607/361768_370265_3823_v150.jpg"
     },
     {
-      "title": "리센느, '러브 어택' 이어 TOP100에 3곡 올랐다…'Pretty Girl'로 차트 정...",
-      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16127096",
-      "date": "2026.07.07",
-      "source": "topstarnews.net",
-      "thumbnail": "https://cdn.topstarnews.net/news/photo/202607/16127096_1957117_918_crop.jpeg"
-    },
-    {
       "title": "‘무섭노’ ‘5분 23초’… 뜨는 가수·작가·배우 ‘일베 검증대’부터...",
       "url": "https://www.chosun.com/culture-life/culture_general/2026/07/08/7KUNCTHZEZF6VFHG3TLC6F4H2M/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
       "date": "2026.07.07",
@@ -93,53 +128,18 @@
       "thumbnail": "https://img1.newsis.com/2026/07/07/NISI20260707_0002180186_web.jpg"
     },
     {
-      "title": "국민 56% \"'무섭노'는 사투리\"…2030은 78% 넘게 동의",
-      "url": "http://weekly.chosun.com/news/articleView.html?idxno=53257",
+      "title": "리센느 팬덤, 원이 '일베 논란'에 공식 성명…\"아이돌은 정치적 상징물...",
+      "url": "https://www.tvreport.co.kr/entertainment/article/1059599/",
       "date": "2026.07.07",
-      "source": "weekly.chosun.com",
-      "thumbnail": "https://cdn.weekly.chosun.com/news/thumbnail/202607/53257_82829_1911_v150.jpg"
+      "source": "tvreport.co.kr",
+      "thumbnail": "https://img.tvreportcdn.de/cms-content/uploads/2026/07/07/ae40ed35-2c3f-4fc1-b632-1ba9075eb68a.jpg"
     },
     {
-      "title": "티오더, 걸그룹 리센느와 브랜드 파트너십 맺어",
-      "url": "https://sports.khan.co.kr/article/202607072318003?pt=nv",
+      "title": "[시티라이브]‘무섭노’ 이어 ‘김부장’까지…조국의 속내는 이것?",
+      "url": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000538405",
       "date": "2026.07.07",
-      "source": "sports.khan.co.kr",
+      "source": "ichannela.com",
       "thumbnail": null
-    },
-    {
-      "title": "'노'이로제 걸릴라...일베 논란에 \"혹시 이 표현도?\"",
-      "url": "https://www.ytn.co.kr/_ln/0106_202607072247227758",
-      "date": "2026.07.07",
-      "source": "ytn.co.kr",
-      "thumbnail": "https://image.ytn.co.kr/general/jpg/2026/0707/202607072247227758_t.jpg"
-    },
-    {
-      "title": "(출연) '자기 정치' 공방 가열...징계 앞 내홍 격화",
-      "url": "https://www.ytn.co.kr/_ln/0101_202607072242279406",
-      "date": "2026.07.07",
-      "source": "ytn.co.kr",
-      "thumbnail": "https://image.ytn.co.kr/general/jpg/2026/0707/202607072242279406_t.jpg"
-    },
-    {
-      "title": "'안원잘부' 윤성원 PD \"원이 호스트 외부 기획안 불발, 내심 좋았다…직...",
-      "url": "https://www.xportsnews.com/article/2169372",
-      "date": "2026.07.07",
-      "source": "xportsnews.com",
-      "thumbnail": "https://image.xportsnews.com/contents/images/upload/article/2026/0707/1783427297309842.webp"
-    },
-    {
-      "title": "‘무섭노’ 일베 용어?…국민 56％ “사투리” [개혁신당 여론조사]",
-      "url": "https://www.joongang.co.kr/article/25443191",
-      "date": "2026.07.07",
-      "source": "joongang.co.kr",
-      "thumbnail": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202607/07/93aea09d-404a-4d8e-b4db-ed2209b03cd2.jpg"
-    },
-    {
-      "title": "개혁신당 '무섭노' 논란 여론조사…56% \"사투리\", 17% \"일베식\"",
-      "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5038545",
-      "date": "2026.07.07",
-      "source": "shinailbo.co.kr",
-      "thumbnail": "https://cdn.shinailbo.co.kr/news/photo/202607/5038545_2037052_5944.jpg"
     }
   ]
 }
