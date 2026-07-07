@@ -1,19 +1,68 @@
 {
-  "updated": "2026-07-07T09:01:05Z",
+  "updated": "2026-07-07T10:01:09Z",
   "articles": [
     {
-      "title": "지역 사투리가 일베 표현?…걸그룹 저격한 MBC경남 PD에 '분통'",
+      "title": "[DM왔어요] 리센느 원이 “무섭노” 논란에…국립국어원 답변은? 外",
+      "url": "http://www.yonhapnewstv.co.kr/news/MYH20260707185707lzK",
+      "date": "2026.07.07",
+      "source": "yonhapnewstv.co.kr",
+      "thumbnail": "https://media.yonhapnewstv.co.kr/article/MYH/20260707/MYH20260707185707lzK.jpg"
+    },
+    {
+      "title": "[시티라이브]‘무섭노’ 이어 ‘김부장’까지…조국의 속내는 이것?",
+      "url": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000538405",
+      "date": "2026.07.07",
+      "source": "ichannela.com",
+      "thumbnail": null
+    },
+    {
+      "title": "리센느 원이 \"무섭노\" 파장 ing...MBC경남 PD, 징계·사과 촉구 시청자 게...",
+      "url": "http://www.osen.co.kr/article/G1112835409",
+      "date": "2026.07.07",
+      "source": "osen.co.kr",
+      "thumbnail": "http://file.osen.co.kr/article_thumb/2026/07/07/202607071809777252_6a4cc7c490eac_300x.jpeg"
+    },
+    {
+      "title": "CBC뉴스의 글로벌 창구 'cbcglobe' 국내 뉴스 글로벌에 전한다",
+      "url": "https://www.cbci.co.kr/news/articleView.html?idxno=587222",
+      "date": "2026.07.07",
+      "source": "cbci.co.kr",
+      "thumbnail": "https://www.cbci.co.kr/news/thumbnail/202607/587222_399391_2125_v150.jpg"
+    },
+    {
+      "title": "박지원, 조국 '무섭노' 논란에 \"외롭나…불필요한 말로 구설\"",
+      "url": "http://www.yonhapnewstv.co.kr/news/AKR20260707181615nS9",
+      "date": "2026.07.07",
+      "source": "yonhapnewstv.co.kr",
+      "thumbnail": "https://media.yonhapnewstv.co.kr/article/AKR/20260707/AKR20260707181615nS9_01_i.jpg"
+    },
+    {
+      "title": "원이의 \"무섭노\"가 '혐오 표현'이라는 조국…국민들은 \"사투리다\" 55%",
+      "url": "https://www.imaeil.com/page/view/2026070718105570256",
+      "date": "2026.07.07",
+      "source": "imaeil.com",
+      "thumbnail": "https://www.imaeil.com/photos/2026/07/07/2026070718051242844_l.jpg"
+    },
+    {
+      "title": "[밀물썰물] 사투리 사용자 유감",
+      "url": "https://www.busan.com/view/busan/view.php?code=2026070718065639668",
+      "date": "2026.07.07",
+      "source": "busan.com",
+      "thumbnail": "https://www.busan.com/nas/wcms/wcms_data/photos/2026/07/07/2026070718065612511_l.jpg"
+    },
+    {
+      "title": "\"무섭노\"는 '사투리' 55.8% vs '일베표현' 16.7% [개혁신당 여론조사]",
+      "url": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00006&news_seq_no=5204407",
+      "date": "2026.07.07",
+      "source": "mbn.mk.co.kr",
+      "thumbnail": "http://img.mbn.co.kr/filewww/news/2026/07/07/17834133356a4cba57eefe8.jpg"
+    },
+    {
+      "title": "\"사투리가 일베?\"… 걸그룹 저격한 MBC경남 PD에 지역민 '분통'",
       "url": "https://www.newsgn.com/news/articleView.html?idxno=561080",
       "date": "2026.07.07",
       "source": "newsgn.com",
       "thumbnail": "https://cdn.newsgn.com/news/thumbnail/202607/561080_368209_5739_v150.jpg"
-    },
-    {
-      "title": "티오더, '거제 야호' 리센느와 손잡았다…K팝 채널로 확장",
-      "url": "https://www.hankyung.com/article/202607071117H",
-      "date": "2026.07.07",
-      "source": "hankyung.com",
-      "thumbnail": "https://img.hankyung.com/photo/202607/01.44947659.1.jpg"
     },
     {
       "title": "리센느 '무섭노' 사투리인가, 일베 용어인가…개혁신당, 민심에 물어보...",
@@ -21,6 +70,13 @@
       "date": "2026.07.07",
       "source": "dailian.co.kr",
       "thumbnail": "https://cdnimage.dailian.co.kr/news/202606/news_1781317597_1655588_m_1.jpg"
+    },
+    {
+      "title": "티오더, '거제 야호' 리센느와 손잡았다…K팝 채널로 확장",
+      "url": "https://www.hankyung.com/article/202607071117H",
+      "date": "2026.07.07",
+      "source": "hankyung.com",
+      "thumbnail": "https://img.hankyung.com/photo/202607/01.44947659.1.jpg"
     },
     {
       "title": "박지원“조국 외롭나, 사투리가 왜 일베? 어른답지 못해”",
@@ -62,7 +118,7 @@
       "url": "https://www.munhwa.com/article/11600959?ref=naver",
       "date": "2026.07.07",
       "source": "munhwa.com",
-      "thumbnail": null
+      "thumbnail": "https://wimg.munhwa.com/news/cms/2026/07/07/news-p.v1.20260707.5508116ba9944ccab36160a792f1208e_R.png"
     },
     {
       "title": "티오더, 리센느와 브랜드 파트너십 체결",
@@ -84,62 +140,6 @@
       "date": "2026.07.07",
       "source": "nownews.seoul.co.kr",
       "thumbnail": "https://imgnn.seoul.co.kr/img/upload/2026/07/07/SSC_20260707171716.jpg.webp"
-    },
-    {
-      "title": "\"무섭노\"가 일베 용어?…국민 55.8% \"그냥 사투리\" [개혁신당 여론조사]",
-      "url": "https://www.hankyung.com/article/202607070818H",
-      "date": "2026.07.07",
-      "source": "hankyung.com",
-      "thumbnail": "https://img.hankyung.com/photo/202607/01.44925484.1.jpg"
-    },
-    {
-      "title": "원이 ‘무섭노’가 일베 표현?… 여론조사선 절반 이상이 “지역 사투리...",
-      "url": "https://biz.chosun.com/topics/topics_social/2026/07/07/YWNJ2DLTFNHSJMJWVAQYAAHVZY/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-      "date": "2026.07.07",
-      "source": "biz.chosun.com",
-      "thumbnail": "https://biz.chosun.com/resizer/v2/77VAUWGBSZCNDDCQEIUZRLKGDY.jpg?auth=485dab72dfc6abe33817054710b32535f4d9ebd912550c30636bf83c17deb19d&amp;width=860&amp;height=451&amp;smart=true"
-    },
-    {
-      "title": "리센느 원이 ‘무섭노’ 논란에…MBC 민원·PD 징계 요구 잇따라",
-      "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8604313&ref=A",
-      "date": "2026.07.07",
-      "source": "news.kbs.co.kr",
-      "thumbnail": "http://news.kbs.co.kr/data/news/2026/07/07/20260707_g8GX9h.jpg"
-    },
-    {
-      "title": "홍현희, 16kg 감량 후 확 달라졌다…49kg에 갸루까지 '완벽 소화' [RE:뷰]",
-      "url": "https://www.tvreport.co.kr/entertainment/article/1059563/",
-      "date": "2026.07.07",
-      "source": "tvreport.co.kr",
-      "thumbnail": "https://img.tvreportcdn.de/cms-content/uploads/2026/07/07/58dd6e71-3984-4b3d-af8b-5916e1cb3636.jpg"
-    },
-    {
-      "title": "그저 경상도 사투리 썼을 뿐인데…유재석X리센느 원이, 황당한 '일베 몰...",
-      "url": "https://www.mydaily.co.kr/page/view/2026070716064570695",
-      "date": "2026.07.07",
-      "source": "mydaily.co.kr",
-      "thumbnail": "https://mydaily.co.kr/photos/2026/07/07/2026070716035504174_l.jpg"
-    },
-    {
-      "title": "아이브 따라 '성지순례'…카리나도 찾은 에버랜드, K팝 성지로 부상",
-      "url": "http://www.wikileaks-kr.org/news/articleView.html?idxno=189481",
-      "date": "2026.07.07",
-      "source": "wikileaks-kr.org",
-      "thumbnail": "http://www.wikileaks-kr.org/news/thumbnail/202607/189481_202044_4740_v150.jpg"
-    },
-    {
-      "title": "\"안 된다는 말은 No No No No~\"…리센느, '무섭노' 정면돌파?",
-      "url": "https://www.ajunews.com/view/20260707164201832",
-      "date": "2026.07.07",
-      "source": "ajunews.com",
-      "thumbnail": "https://image.ajunews.com/content/image/2026/07/07/20260707164633713319.jpg"
-    },
-    {
-      "title": "리센느 원이 '무섭노' 저격한 PD에…MBC 게시판에 항의 이어지는 중",
-      "url": "https://mhnse.com/news/articleView.html?idxno=1454924",
-      "date": "2026.07.07",
-      "source": "mhnse.com",
-      "thumbnail": "https://contents-cdn.viewus.co.kr/creator-cms/image/2026/07/3a9e4996-6f13-41af-a423-0e6997accde1.jpg"
     }
   ]
 }
