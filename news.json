@@ -1,6 +1,13 @@
 {
-  "updated": "2026-07-08T19:01:13Z",
+  "updated": "2026-07-08T20:01:17Z",
   "articles": [
+    {
+      "title": "이센스, 원이 '일베 말투' 논란에 황당…\"사투리도 이상하게 보네\"",
+      "url": "https://www.xportsnews.com/article/2169899",
+      "date": "2026.07.08",
+      "source": "xportsnews.com",
+      "thumbnail": "https://image.xportsnews.com/contents/images/upload/article/2026/0709/1783534513897784.webp"
+    },
     {
       "title": "“어이가 없다” 이센스, 리센느 일베 논란에 한마디…댓츠 ‘노노’",
       "url": "https://www.sportsseoul.com/news/read/1621423?ref=naver",
@@ -121,13 +128,6 @@
       "thumbnail": "https://thumb.mt.co.kr/cdn-cgi/image/w=1200,h=736,fit=cover,bg=whilte,f=auto,quality=high,sharpen=2,g=face/21/2026/07/2026070819200263931_1.jpg"
     },
     {
-      "title": "[미디어 이슈] MBC 제3노조, ‘아이돌 사투리 일베몰이’ 논란 경남MBC P...",
-      "url": "https://www.mediawatch.kr/news/article.html?no=260321",
-      "date": "2026.07.08",
-      "source": "mediawatch.kr",
-      "thumbnail": "https://www.mediawatch.kr/data/photos/20260728/art_17835060309835_6431bc.jpg"
-    },
-    {
       "title": "고려대 국어국문학과 교수 \"원이 '무섭노', 혐오 표현 아니다\" [MD이슈]",
       "url": "https://www.mydaily.co.kr/page/view/2026070817554305317",
       "date": "2026.07.08",
@@ -139,7 +139,7 @@
       "url": "https://www.mydaily.co.kr/page/view/2026070816483130374",
       "date": "2026.07.08",
       "source": "mydaily.co.kr",
-      "thumbnail": "https://mydaily.co.kr/photos/2026/07/08/2026070816594943931_l.png"
+      "thumbnail": null
     }
   ]
 }
