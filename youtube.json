@@ -1,6 +1,14 @@
 {
-  "updated": "2026-07-08T09:10:51Z",
+  "updated": "2026-07-08T10:10:54Z",
   "videos": [
+    {
+      "id": "EGM2qTI805w",
+      "title": "안원잘부 명대사 월드컵",
+      "url": "https://www.youtube.com/watch?v=EGM2qTI805w",
+      "thumbnail": "https://i.ytimg.com/vi/EGM2qTI805w/mqdefault.jpg",
+      "date": "2026.07.08",
+      "type": "long"
+    },
     {
       "id": "sa29RXO7ruM",
       "title": "[BASE NOTES] RESCENE (리센느) 그레인온 카사베르디 광고 Behind",
@@ -42,12 +50,12 @@
       "type": "long"
     },
     {
-      "id": "mD2pNO7mbbg",
-      "title": "고기다리고 고기다리셨습니다🏃‍♀️✨ | 메이의 걸어서 거제 속으로 | RESCENE (리센느)",
-      "url": "https://www.youtube.com/watch?v=mD2pNO7mbbg",
-      "thumbnail": "https://i.ytimg.com/vi/mD2pNO7mbbg/mqdefault.jpg",
-      "date": "2026.06.20",
-      "type": "long"
+      "id": "s5ve_1aD74k",
+      "title": "RESCENE (리센느) &#39;Pretty Girl&#39; Special Video #2",
+      "url": "https://www.youtube.com/shorts/s5ve_1aD74k",
+      "thumbnail": "https://i.ytimg.com/vi/s5ve_1aD74k/mqdefault.jpg",
+      "date": "2026.07.08",
+      "type": "short"
     },
     {
       "id": "-M8hr0KrxA0",
@@ -86,14 +94,6 @@
       "title": "Pretty Girl emoji #MINAMI ver.",
       "url": "https://www.youtube.com/shorts/nPfE0nDlYUI",
       "thumbnail": "https://i.ytimg.com/vi/nPfE0nDlYUI/mqdefault.jpg",
-      "date": "2026.07.07",
-      "type": "short"
-    },
-    {
-      "id": "wkqjrCo7w50",
-      "title": "Pretty Girl emoji #LIV ver.",
-      "url": "https://www.youtube.com/shorts/wkqjrCo7w50",
-      "thumbnail": "https://i.ytimg.com/vi/wkqjrCo7w50/mqdefault.jpg",
       "date": "2026.07.07",
       "type": "short"
     }
