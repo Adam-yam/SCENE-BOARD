@@ -1,6 +1,27 @@
 {
-  "updated": "2026-07-08T10:01:08Z",
+  "updated": "2026-07-08T11:01:15Z",
   "articles": [
+    {
+      "title": "전문가는 사투리라는데…노무현재단 이사 \"'무섭노'는 일베 표현\"",
+      "url": "https://www.mt.co.kr/society/2026/07/08/2026070819200263931",
+      "date": "2026.07.08",
+      "source": "mt.co.kr",
+      "thumbnail": "https://thumb.mt.co.kr/cdn-cgi/image/w=1200,h=736,fit=cover,bg=whilte,f=auto,quality=high,sharpen=2,g=face/21/2026/07/2026070819200263931_1.jpg"
+    },
+    {
+      "title": "[미디어 이슈] MBC 제3노조, ‘아이돌 사투리 일베몰이’ 논란 경남MBC P...",
+      "url": "https://www.mediawatch.kr/news/article.html?no=260321",
+      "date": "2026.07.08",
+      "source": "mediawatch.kr",
+      "thumbnail": null
+    },
+    {
+      "title": "고려대 국어국문학과 교수 \"원이 '무섭노', 혐오 표현 아니다\" [MD이슈]",
+      "url": "https://www.mydaily.co.kr/page/view/2026070817554305317",
+      "date": "2026.07.08",
+      "source": "mydaily.co.kr",
+      "thumbnail": "https://mydaily.co.kr/photos/2026/07/08/2026070818014679800_l.jpg"
+    },
     {
       "title": "원이 \"무섭노\" 파장 무섭다…노무현재단 이사까지 등판 \"일베 표현 맞아...",
       "url": "https://www.xportsnews.com/article/2169708",
@@ -83,7 +104,7 @@
       "url": "https://www.mydaily.co.kr/page/view/2026070816483130374",
       "date": "2026.07.08",
       "source": "mydaily.co.kr",
-      "thumbnail": null
+      "thumbnail": "https://mydaily.co.kr/photos/2026/07/08/2026070816594943931_l.png"
     },
     {
       "title": "리센느, 카라 명곡 들고 컴백…대세 굳히기 나선",
@@ -111,21 +132,7 @@
       "url": "https://www.etnews.com/20260708000414",
       "date": "2026.07.08",
       "source": "etnews.com",
-      "thumbnail": "https://img.etnews.com/news/article/2026/07/08/article_08161443785785.jpg"
-    },
-    {
-      "title": "MBC제3노조, 김현지 PD 징계 촉구…\"경상도 사투리까지 일베 표현 몰아가...",
-      "url": "https://www.thepublic.kr/news/articleView.html?idxno=310546",
-      "date": "2026.07.08",
-      "source": "thepublic.kr",
-      "thumbnail": "https://cdn.thepublic.kr/news/photo/202607/310546_313336_2553.jpeg"
-    },
-    {
-      "title": "\"경상도 사투리 '일베몰이' PD 징계해야\"…MBC 내부서도 비판 목소리",
-      "url": "https://news.tvchosun.com/site/data/html_dir/2026/07/08/2026070890240.html",
-      "date": "2026.07.08",
-      "source": "news.tvchosun.com",
-      "thumbnail": "https://img.tvchosun.com/sitedata/image/202607/08/2026070890240_0.jpg"
+      "thumbnail": null
     },
     {
       "title": "[서병기의 문화인사이트]‘노맥락’이라는 잘파들의 놀이, 큰 돈이 된다",
@@ -133,13 +140,6 @@
       "date": "2026.07.08",
       "source": "inews24.com",
       "thumbnail": "https://image.inews24.com/v1/eec883856945c9.jpg"
-    },
-    {
-      "title": "'야호'로 뜬 리센느, 드디어 컴백…신곡으로도 '야호' 외칠까 [엑's 이슈...",
-      "url": "https://www.xportsnews.com/article/2169622",
-      "date": "2026.07.08",
-      "source": "xportsnews.com",
-      "thumbnail": "https://image.xportsnews.com/contents/images/upload/article/2026/0708/1783491373168914.webp"
     }
   ]
 }
