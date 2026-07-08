@@ -1,12 +1,89 @@
 {
-  "updated": "2026-07-08T02:01:05Z",
+  "updated": "2026-07-08T03:01:06Z",
   "articles": [
     {
-      "title": "[단독] 리센느 \"BTS 선배님 '야호' 샤라웃, 멤버들도 난리나…다음 목표...",
-      "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=827042",
+      "title": "'동궁' 조승우도 외친 \"야호\"…\"집에서 연습, 힘없이 하는 포인트 살려...",
+      "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=827100",
       "date": "2026.07.08",
       "source": "spotvnews.co.kr",
-      "thumbnail": "https://cdn.spotvnews.co.kr/news/thumbnail/202607/827042_1357717_4434_v150.jpg"
+      "thumbnail": "https://cdn.spotvnews.co.kr/news/thumbnail/202607/827100_1357817_4718_v150.jpg"
+    },
+    {
+      "title": "BTS 1위 유지... 리센느·르세라핌·세븐틴, 6월 K-팝 브랜드 순위 존재...",
+      "url": "https://www.mhns.co.kr/news/articleView.html?idxno=752715",
+      "date": "2026.07.08",
+      "source": "mhns.co.kr",
+      "thumbnail": "https://cdn.mhns.co.kr/news/thumbnail/202607/752715_885722_1256_v150.jpg"
+    },
+    {
+      "title": "'동궁' 조승우 \"'대세' 남주혁·노윤서에 묻어가는 것 나쁘지 않아\"",
+      "url": "https://www.mediapen.com/news/view/1108893",
+      "date": "2026.07.08",
+      "source": "mediapen.com",
+      "thumbnail": "https://image.mediapen.com/news/202607/news_1108893_1783477728_m.jpg"
+    },
+    {
+      "title": "[인터뷰] 신예은 \"'연진이' 부담감 無 호평에 감사해…발레리나-요리사...",
+      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16127598",
+      "date": "2026.07.08",
+      "source": "topstarnews.net",
+      "thumbnail": "https://cdn.topstarnews.net/news/photo/202607/16127598_1957447_329_crop.jpg"
+    },
+    {
+      "title": "'무차별 낙인' 거부한 여론…리센느 원이 '무섭노' 논쟁이 보여준 변화",
+      "url": "https://www.sidae.com/article/2026070718134169877",
+      "date": "2026.07.08",
+      "source": "sidae.com",
+      "thumbnail": "https://menu.sidae.com/moneyweek/thumb/2026/07/07/06/2026070718134169877_1.jpg"
+    },
+    {
+      "title": "\"탈덕할까 두려워\" 리센느 원이, '일베 낙인' 속…컴백 앞두고 전한 '파...",
+      "url": "https://www.tvreport.co.kr/entertainment/article/1059731/",
+      "date": "2026.07.08",
+      "source": "tvreport.co.kr",
+      "thumbnail": "https://img.tvreportcdn.de/cms-content/uploads/2026/07/08/625e6e3a-043a-4375-9bf4-e0d634b4d24c.jpg"
+    },
+    {
+      "title": "결국 ‘교수’됐다…‘65세’에 핀 정일영, MZ가 열광하는 이유 [줌인]",
+      "url": "https://isplus.com/article/view/isp202607080058",
+      "date": "2026.07.08",
+      "source": "isplus.com",
+      "thumbnail": "https://isplus.com/data/isp/image/2026/07/08/isp20260708000113.800x.0.png"
+    },
+    {
+      "title": "조승우, 거제야호로 초토화 시킨 ‘동궁’ 포토타임 “집에서 연습했다...",
+      "url": "https://www.newsen.com/news_view.php?uid=202607081052172410",
+      "date": "2026.07.08",
+      "source": "newsen.com",
+      "thumbnail": "https://photo.newsen.com/news_photo/2026/07/08/202607081052172410_1.jpg"
+    },
+    {
+      "title": "“무섭노”는 죄가 없다[오후여담]",
+      "url": "https://www.munhwa.com/article/11601121?ref=naver",
+      "date": "2026.07.08",
+      "source": "munhwa.com",
+      "thumbnail": "https://wimg.munhwa.com/news/cms/2026/07/08/news-p.v1.20260708.38f5dabe94dd405a90770358d3e9413c_R.jpg"
+    },
+    {
+      "title": "민주당 전대 뜨거운 감자 '조국당 합당' … '3등·무섭노' 조국에 떨어진...",
+      "url": "https://www.newdaily.co.kr/site/data/html/2026/07/08/2026070800081.html",
+      "date": "2026.07.08",
+      "source": "newdaily.co.kr",
+      "thumbnail": "https://image.newdaily.co.kr/site/data/img/2026/07/08/2026070800081_0.jpg?u=20260708111330?u=20260708111330"
+    },
+    {
+      "title": "국민56% \"'무섭노'는 사투리\"…68% \"정치성향 말투로 단정 부적절\"",
+      "url": "https://news.tvchosun.com/site/data/html_dir/2026/07/08/2026070890152.html",
+      "date": "2026.07.08",
+      "source": "news.tvchosun.com",
+      "thumbnail": "https://news.tvchosun.com/images/common/header_logo.png"
+    },
+    {
+      "title": "'일베 논란' 소용 無…리센느, 대세 굳히기 나섰다→카라 'Pretty Girl' 리...",
+      "url": "https://www.tvreport.co.kr/entertainment/article/1059725/",
+      "date": "2026.07.08",
+      "source": "tvreport.co.kr",
+      "thumbnail": "https://img.tvreportcdn.de/cms-content/uploads/2026/07/07/ae40ed35-2c3f-4fc1-b632-1ba9075eb68a.jpg"
     },
     {
       "title": "\"원래 계획 없었다\"…리센느 원이, '거제 야호' 인기몰이→컴백 스토리...",
@@ -41,7 +118,7 @@
       "url": "https://view.asiae.co.kr/article/2026070809460182017",
       "date": "2026.07.08",
       "source": "view.asiae.co.kr",
-      "thumbnail": "https://cwstatic.asiae.co.kr/asiae_v2/asiae_news.png"
+      "thumbnail": "https://cphoto.asiae.co.kr/listimglink/1/2026070615524135737_1783320762.png"
     },
     {
       "title": "\"무섭노\" 논란에 PD 해고 요구? 진짜 문제는 따로 있다",
@@ -58,88 +135,11 @@
       "thumbnail": "https://www.siminilbo.co.kr/news/data/20260708/p1160270032517746_687_thum.jpg"
     },
     {
-      "title": "[새론새평-배종찬] 국민 더 갈라치게 만든 배재고·리센느 논란",
-      "url": "https://www.imaeil.com/page/view/2026062909373508128",
-      "date": "2026.07.08",
-      "source": "imaeil.com",
-      "thumbnail": "https://www.imaeil.com/photos/2025/11/05/2025110518410958489_s.jpg"
-    },
-    {
       "title": "'대세' 리센느, 히트곡 '프리티 걸' 리메이크로 승부수 [N이슈]",
       "url": "https://www.news1.kr/entertain/music/6221093",
       "date": "2026.07.08",
       "source": "news1.kr",
       "thumbnail": null
-    },
-    {
-      "title": "K-브랜드지수, K-POP 그룹 톱10 발표…에스파 3위 안착, 르세라핌·아이...",
-      "url": "https://swtvnews.com/news/newsview.php?ncode=1065570971594705",
-      "date": "2026.07.08",
-      "source": "swtvnews.com",
-      "thumbnail": "https://swtvnews.com/news/data/20260708/p1065570971594705_497_thum.jpg"
-    },
-    {
-      "title": "Karina's blue outfit and Lee Young-ji's red one (KOR)",
-      "url": "https://www.koreajoongangdaily.com/bilingual-news/karinas-blue-outfit-and-lee-youngjis-red-one-kor/12760858",
-      "date": "2026.07.08",
-      "source": "koreajoongangdaily.com",
-      "thumbnail": "https://image.koreajoongangdaily.com/12760012.jpg?imageId=12760012&x=0&y=12.63&cropw=100&croph=69.35&panox=0&panoy=12.63&panow=100&panoh=69.35&width=1200&height=683"
-    },
-    {
-      "title": "리센느, 오늘(8일) ‘프리티 걸’ 공개…상큼한 자몽향으로 여름 저격",
-      "url": "http://www.celuvmedia.com/article.php?aid=1783470282523632007",
-      "date": "2026.07.08",
-      "source": "celuvmedia.com",
-      "thumbnail": "http://www.celuvmedia.com/upimages/gisaimg/202607/08523632.jpg"
-    },
-    {
-      "title": "방탄소년단, 6월 'K-브랜드지수' K팝 그룹 1위⋯라이즈 2위",
-      "url": "http://www.joynews24.com/view/1983464",
-      "date": "2026.07.08",
-      "source": "joynews24.com",
-      "thumbnail": "https://image.inews24.com/v1/a0099bc6d77a89.jpg"
-    },
-    {
-      "title": "‘대세 걸그룹’ 리센느, 리메이크 싱글 ‘프리티 걸’ 컴백..러블리+청...",
-      "url": "http://www.breaknews.com/1220029",
-      "date": "2026.07.08",
-      "source": "breaknews.com",
-      "thumbnail": "https://www.breaknews.com/imgdata/breaknews_com/202607/2026070146037003.jpg"
-    },
-    {
-      "title": "'역주행 아이콘' 리센느 컴백-'대세 걸밴드' QWER 日 데뷔 기대",
-      "url": "https://www.raonnews.com/news/article.html?no=59395",
-      "date": "2026.07.08",
-      "source": "raonnews.com",
-      "thumbnail": "https://www.raonnews.com/data/photos/20260728/art_1783470422186_aae750.jpg"
-    },
-    {
-      "title": "리센느, 상큼한 '프리티 걸'…\"역주행 열풍, 이어간다\"",
-      "url": "http://www.dispatch.co.kr/2344921",
-      "date": "2026.07.08",
-      "source": "dispatch.co.kr",
-      "thumbnail": "https://dispatch.cdnser.be/cms-content/uploads/2026/07/08/85595dbf-0f97-47d5-9208-c73efad9077f.jpg"
-    },
-    {
-      "title": "리센느 원이 '안원잘부' 못 볼 뻔…알고보니 \"외부서 탈락한 기획안\" [소...",
-      "url": "http://enews.imbc.com/News/RetrieveNewsInfo/510793",
-      "date": "2026.07.08",
-      "source": "enews.imbc.com",
-      "thumbnail": "https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2026/07/08/b920e8de-657a-49ff-b797-2ac3c93f7ca3.JPG"
-    },
-    {
-      "title": "리센느 청량美 뿜뿜 리메이크 싱글 '프리티 걸' 발매",
-      "url": "https://news.jtbc.co.kr/article/NB12307150?influxDiv=NAVER",
-      "date": "2026.07.08",
-      "source": "news.jtbc.co.kr",
-      "thumbnail": null
-    },
-    {
-      "title": "리센느 '무섭노' 논란 역풍…김현지 PD, 과거 '노' 자막 사용 재조명",
-      "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260708000918339",
-      "date": "2026.07.08",
-      "source": "asiatoday.co.kr",
-      "thumbnail": "https://img.asiatoday.co.kr/file/2026y/07m/08d/20260708000918339_1.png"
     }
   ]
 }
