@@ -1,12 +1,103 @@
 {
-  "updated": "2026-07-07T23:01:15Z",
+  "updated": "2026-07-08T00:01:07Z",
   "articles": [
     {
-      "title": "[뮤직100] 리센느 'Deja Vu' 59계단 급등, 'Runaway' 급증 속 중위권 재편",
-      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16127270",
+      "title": "‘독보적 원톱’ 방탄소년단(BTS), K-브랜드지수 K-POP 그룹 1위 등극......",
+      "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065570673443767",
+      "date": "2026.07.08",
+      "source": "megaeconomy.co.kr",
+      "thumbnail": "https://www.megaeconomy.co.kr/news/data/20260708/p1065570673443767_954_thum.jpg"
+    },
+    {
+      "title": "'일베 의혹' 몸살 앓은 리센느, 오늘 신곡 '프리티 걸' 발표",
+      "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=02958566645512552",
+      "date": "2026.07.07",
+      "source": "edaily.co.kr",
+      "thumbnail": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/07/PS26070800369.jpg"
+    },
+    {
+      "title": "리센느, 오늘(8일) ‘프리티 걸’ 리메이크 공개…대세 굳히기 나선다",
+      "url": "https://sports.donga.com/ent/article/all/20260708/134256143/1",
+      "date": "2026.07.07",
+      "source": "sports.donga.com",
+      "thumbnail": "https://dimg.donga.com/wps/SPORTS/IMAGE/2026/07/08/134256138.1.jpg"
+    },
+    {
+      "title": "최휘영 장관 “대중음악 지속 성장 위해 중소기획사·인디음악 육성”",
+      "url": "https://biz.heraldcorp.com/article/10801557?ref=naver",
+      "date": "2026.07.07",
+      "source": "biz.heraldcorp.com",
+      "thumbnail": "https://wimg.heraldcorp.com/news/cms/2026/07/08/news-p.v1.20260528.d9fffb38f3b34d3c857b21af1ab9ed1e_T1.jpg"
+    },
+    {
+      "title": "“조국 외롭고 고독한가?···불필요한 이야기로 구설”",
+      "url": "https://weekly.khan.co.kr/article/202607080827001",
+      "date": "2026.07.07",
+      "source": "weekly.khan.co.kr",
+      "thumbnail": "https://img.khan.co.kr/weekly/2026/07/08/news-p.v1.20260708.5da34c0b5cd146c4bf39c627d92b7268_P1.png"
+    },
+    {
+      "title": "리센느, 자몽향으로 꽉 채운 'Pretty Girl'…오늘(8일) 발매",
+      "url": "http://www.osen.co.kr/article/G1112835801",
+      "date": "2026.07.07",
+      "source": "osen.co.kr",
+      "thumbnail": "http://file.osen.co.kr/article_thumb/2026/07/08/202607080810773463_6a4d8907ccb7e_300x.jpg"
+    },
+    {
+      "title": "리센느, 카라 명곡 다시 꺼냈다",
+      "url": "https://sports.khan.co.kr/article/202607080818003?pt=nv",
+      "date": "2026.07.07",
+      "source": "sports.khan.co.kr",
+      "thumbnail": null
+    },
+    {
+      "title": "리센느, 리메이크 컴백",
+      "url": "https://www.bntnews.co.kr/article/view/bnt202607080054",
+      "date": "2026.07.07",
+      "source": "bntnews.co.kr",
+      "thumbnail": "https://www.bntnews.co.kr/data/bnt/image/2026/07/08/bnt202607080069.jpg"
+    },
+    {
+      "title": "리센느, 오늘(8일) 리메이크 싱글 'Pretty Girl' 발매...여름 정조준",
+      "url": "https://www.slist.kr/news/articleView.html?idxno=750292",
+      "date": "2026.07.07",
+      "source": "slist.kr",
+      "thumbnail": "https://cdn.slist.kr/news/thumbnail/202607/750292_1151018_114_v150.jpg"
+    },
+    {
+      "title": "리센느, 카라 명곡 'Pretty Girl' 재해석…자몽향 틴팝으로 여름 공략",
+      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16127295",
       "date": "2026.07.07",
       "source": "topstarnews.net",
-      "thumbnail": "https://cdn.topstarnews.net/news/photo/202607/16127270_1957187_4757_crop.jpg"
+      "thumbnail": "https://cdn.topstarnews.net/news/photo/202607/16127295_1957210_855_crop.jpg"
+    },
+    {
+      "title": "[오늘컴백] 리센느, 카라 '프리티 걸' 리메이크…자몽향 귀환",
+      "url": "http://www.joynews24.com/view/1983416",
+      "date": "2026.07.07",
+      "source": "joynews24.com",
+      "thumbnail": "https://image.inews24.com/v1/9555969039a1da.jpg"
+    },
+    {
+      "title": "리센느, 오늘(8일) 정오 리메이크 싱글 'Pretty Girl' 공개",
+      "url": "https://www.stardailynews.co.kr/news/articleView.html?idxno=541964",
+      "date": "2026.07.07",
+      "source": "stardailynews.co.kr",
+      "thumbnail": "https://cdn.stardailynews.co.kr/news/thumbnail/202607/541964_573802_46_v150.jpg"
+    },
+    {
+      "title": "‘무섭노’ 여론조사 해보니… 17%만 “일베 표현”",
+      "url": "https://www.seoul.co.kr/news/politics/congress/2026/07/08/20260708500014?wlog_tag3=naver",
+      "date": "2026.07.07",
+      "source": "seoul.co.kr",
+      "thumbnail": "https://img.seoul.co.kr//img/upload/2026/07/06/SSC_20260706154252_O2.png"
+    },
+    {
+      "title": "한동훈 \"'무섭노가 일베? 말 같지도 않아…시민 가르치려 하면 안 돼\"",
+      "url": "https://news.tvchosun.com/site/data/html_dir/2026/07/08/2026070890073.html",
+      "date": "2026.07.07",
+      "source": "news.tvchosun.com",
+      "thumbnail": "https://img.tvchosun.com/sitedata/image/202607/08/2026070890073_0.png"
     },
     {
       "title": "'안원잘부' PD \"리센느 미나미 잘 몰랐다…첫 만남에 일본어 할 줄 아냐...",
@@ -37,55 +128,6 @@
       "thumbnail": "https://cphoto.asiae.co.kr/listimglink/1/2026070615524135737_1783320762.png"
     },
     {
-      "title": "\"와 이리 무섭노\" 쓰면 안되나요…일베 설전에 멍드는 사투리",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008646588&plink=ORI&cooper=NAVER",
-      "date": "2026.07.07",
-      "source": "news.sbs.co.kr",
-      "thumbnail": null
-    },
-    {
-      "title": "티오더 브랜드 마케팅에 ‘역주행 아이돌’ 리센느 뜬다",
-      "url": "https://www.sedaily.com/article/20064912?ref=naver",
-      "date": "2026.07.07",
-      "source": "sedaily.com",
-      "thumbnail": "https://wimg.sedaily.com/news/cms/2026/07/07/news-p.v1.20260616.002982a51d824cd39e2122f12bb9525c_R.jpg"
-    },
-    {
-      "title": "\"무섭노\"는 사투리? 일베 감별?…파장에 역풍까지, 정치권도 시끌[이슈...",
-      "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=826961",
-      "date": "2026.07.07",
-      "source": "spotvnews.co.kr",
-      "thumbnail": "https://cdn.spotvnews.co.kr/news/thumbnail/202607/826961_1357510_2359_v150.jpg"
-    },
-    {
-      "title": "‘차트 어택’ 리센느, ‘프리티 걸’ 컴백 신의 한 수 될까 [IS포커스]",
-      "url": "https://isplus.com/article/view/isp202607070051",
-      "date": "2026.07.07",
-      "source": "isplus.com",
-      "thumbnail": "https://isplus.com/data/isp/image/2026/07/07/isp20260707000077.800x.0.jpeg"
-    },
-    {
-      "title": "[소셜＋] \"와 이리 무섭노\" 쓰면 안되나요…일베 설전에 멍드는 사투리",
-      "url": "https://www.yna.co.kr/view/AKR20260707144500505?input=1195m",
-      "date": "2026.07.07",
-      "source": "yna.co.kr",
-      "thumbnail": "https://img4.yna.co.kr/etc/inner/KR/2026/07/07/AKR20260707144500505_01_i_P4.jpg"
-    },
-    {
-      "title": "'선관위엔 왜 침묵' 공격받은 허지웅 \"지금 갈등은 盧 탄핵 직전과 흡사...",
-      "url": "https://www.news1.kr/society/general-society/6220287",
-      "date": "2026.07.07",
-      "source": "news1.kr",
-      "thumbnail": null
-    },
-    {
-      "title": "‘무섭노’는 지역 사투리 55.8%… 일베 용어 16.7% [개혁신당 여론조사...",
-      "url": "https://www.dt.co.kr/article/12071696?ref=naver",
-      "date": "2026.07.07",
-      "source": "dt.co.kr",
-      "thumbnail": "https://wimg.dt.co.kr/news/cms/2026/07/08/news-p.v1.20260707.59d4cb1ebd964f6c996ffc1cda1c3670_R.jpg"
-    },
-    {
       "title": "리센느, '거제 야호'서 '프리티 걸'로…오늘 '新 국민돌' 증명한다",
       "url": "https://www.newsis.com/view/NISX20260707_0003699841",
       "date": "2026.07.07",
@@ -93,53 +135,11 @@
       "thumbnail": "https://img1.newsis.com/2026/07/07/NISI20260707_0002180589_web.jpg"
     },
     {
-      "title": "\"항의글 600개 돌파…\" '원이 일베 논란' 김현지PD 여전히 '침묵'[MD이슈...",
-      "url": "https://www.mydaily.co.kr/page/view/2026070800241618279",
+      "title": "Karina's blue outfit and Lee Young-ji's red one",
+      "url": "https://www.koreajoongangdaily.com/opinion/karinas-blue-outfit-and-lee-youngjis-red-one/12759944",
       "date": "2026.07.07",
-      "source": "mydaily.co.kr",
-      "thumbnail": "https://mydaily.co.kr/photos/2026/07/08/2026070800235449048_l.jpg"
-    },
-    {
-      "title": "티오더, 걸그룹 리센느와 브랜드 파트너십",
-      "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=361768",
-      "date": "2026.07.07",
-      "source": "ftoday.co.kr",
-      "thumbnail": "https://cdn.ftoday.co.kr/news/thumbnail/202607/361768_370265_3823_v150.jpg"
-    },
-    {
-      "title": "‘무섭노’ ‘5분 23초’… 뜨는 가수·작가·배우 ‘일베 검증대’부터...",
-      "url": "https://www.chosun.com/culture-life/culture_general/2026/07/08/7KUNCTHZEZF6VFHG3TLC6F4H2M/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-      "date": "2026.07.07",
-      "source": "chosun.com",
-      "thumbnail": "https://www.chosun.com/resizer/v2/MFQWEYJVMNSTGMRTMM3TSZTDMI.jpg?auth=b5cfd5725fa9aeb48303a3708f8e1dd9206b1e209c9f0e9e47045f289411ed8d&amp;width=860&amp;height=451&amp;focal=405,233"
-    },
-    {
-      "title": "[안혜리의 시시각각] 카리나의 파란옷 이영지의 빨간옷",
-      "url": "https://www.joongang.co.kr/article/25443268",
-      "date": "2026.07.07",
-      "source": "joongang.co.kr",
-      "thumbnail": "https://assets.joongang.co.kr/images/share/ja-opengraph-img.png"
-    },
-    {
-      "title": "홍현희, 파격 갸루 변신…제이쓴 \"오늘 농촌체험 아니었느냐\"",
-      "url": "https://www.newsis.com/view/NISX20260707_0003699122",
-      "date": "2026.07.07",
-      "source": "newsis.com",
-      "thumbnail": "https://img1.newsis.com/2026/07/07/NISI20260707_0002180186_web.jpg"
-    },
-    {
-      "title": "리센느 팬덤, 원이 '일베 논란'에 공식 성명…\"아이돌은 정치적 상징물...",
-      "url": "https://www.tvreport.co.kr/entertainment/article/1059599/",
-      "date": "2026.07.07",
-      "source": "tvreport.co.kr",
-      "thumbnail": "https://img.tvreportcdn.de/cms-content/uploads/2026/07/07/ae40ed35-2c3f-4fc1-b632-1ba9075eb68a.jpg"
-    },
-    {
-      "title": "[시티라이브]‘무섭노’ 이어 ‘김부장’까지…조국의 속내는 이것?",
-      "url": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000538405",
-      "date": "2026.07.07",
-      "source": "ichannela.com",
-      "thumbnail": null
+      "source": "koreajoongangdaily.com",
+      "thumbnail": "https://image.koreajoongangdaily.com/12760012.jpg?imageId=12760012&x=0&y=12.63&cropw=100&croph=69.35&panox=0&panoy=12.63&panow=100&panoh=69.35&width=1200&height=683"
     }
   ]
 }
