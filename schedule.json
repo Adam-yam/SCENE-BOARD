@@ -1,9 +1,16 @@
 {
-  "updated": "2026-07-07T15:05:29Z",
+  "updated": "2026-07-08T03:05:26Z",
   "events": [
     {
       "date": "2026-07-06",
       "title": "SBS <인기가요> 사전녹화",
+      "detail": "",
+      "type": "방송",
+      "source": "mnetplus"
+    },
+    {
+      "date": "2026-07-09",
+      "title": "Mnet <M COUNTDOWN>",
       "detail": "",
       "type": "방송",
       "source": "mnetplus"
