@@ -1,6 +1,13 @@
 {
-  "updated": "2026-07-09T18:01:00Z",
+  "updated": "2026-07-09T19:01:01Z",
   "articles": [
+    {
+      "title": "[지지대] 도전자 정신",
+      "url": "https://www.kyeonggi.com/article/20260709580577",
+      "date": "2026.07.09",
+      "source": "kyeonggi.com",
+      "thumbnail": null
+    },
     {
       "title": "‘무섭노’ 논란 딛고… 리센느, 멜론 1위 역주행 기적",
       "url": "https://www.kmib.co.kr/article/view.asp?arcid=1783586572&code=13230000&cp=nv",
@@ -76,7 +83,7 @@
       "url": "https://www.mydaily.co.kr/page/view/2026070922100219454",
       "date": "2026.07.09",
       "source": "mydaily.co.kr",
-      "thumbnail": "https://mydaily.co.kr/photos/2026/07/09/2026070921572963070_l.jpg"
+      "thumbnail": null
     },
     {
       "title": "\"앞으로 더 멀리 갈 팀\"…션→유영우, 리센느 '러브 어택' 차트 1위 축하",
@@ -118,7 +125,7 @@
       "url": "https://www.mt.co.kr/society/2026/07/09/2026070921193815490",
       "date": "2026.07.09",
       "source": "mt.co.kr",
-      "thumbnail": null
+      "thumbnail": "https://thumb.mt.co.kr/cdn-cgi/image/w=1200,h=966,fit=cover,bg=whilte,f=auto,quality=high,sharpen=2,g=face/21/2026/07/2026070921193815490_1.jpg"
     },
     {
       "title": "“무섭노는 갱상도 사투리 아이가”",
@@ -133,13 +140,6 @@
       "date": "2026.07.09",
       "source": "edaily.co.kr",
       "thumbnail": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/07/PS26070901504.jpg"
-    },
-    {
-      "title": "노무현재단 이사, 리센느 원이에 공개 사과 \"제 이해가 부족했다\"[전문...",
-      "url": "https://www.starnewskorea.com/star/2026/07/09/2026070921035215284",
-      "date": "2026.07.09",
-      "source": "starnewskorea.com",
-      "thumbnail": null
     }
   ]
 }
