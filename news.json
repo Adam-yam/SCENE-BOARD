@@ -1,6 +1,13 @@
 {
-  "updated": "2026-07-09T16:01:03Z",
+  "updated": "2026-07-09T17:01:05Z",
   "articles": [
+    {
+      "title": "‘무섭노’ 논란 딛고… 리센느, 멜론 1위 역주행 기적",
+      "url": "https://www.kmib.co.kr/article/view.asp?arcid=1783586572&code=13230000&cp=nv",
+      "date": "2026.07.09",
+      "source": "kmib.co.kr",
+      "thumbnail": "https://image.kmib.co.kr/online_image/2026/0710/2026070921070559753_1783598825_1783586572.jpg"
+    },
     {
       "title": "카라 니콜, 리센느 '엠카' 컴백 지원사격",
       "url": "https://enter.etoday.co.kr/news/view/299533",
@@ -97,7 +104,7 @@
       "url": "https://www.mk.co.kr/article/12094882",
       "date": "2026.07.09",
       "source": "mk.co.kr",
-      "thumbnail": "https://pimg.mk.co.kr/news/cms/202607/09/news-p.v1.20260709.273930b90c4a4515b471ac29bdddd5b4_R.jpg"
+      "thumbnail": null
     },
     {
       "title": "아홉, '런 투 유' 첫 음방부터 거침없이 질주했다",
@@ -111,7 +118,7 @@
       "url": "https://www.mt.co.kr/society/2026/07/09/2026070921193815490",
       "date": "2026.07.09",
       "source": "mt.co.kr",
-      "thumbnail": null
+      "thumbnail": "https://thumb.mt.co.kr/cdn-cgi/image/w=1200,h=966,fit=cover,bg=whilte,f=auto,quality=high,sharpen=2,g=face/21/2026/07/2026070921193815490_1.jpg"
     },
     {
       "title": "“무섭노는 갱상도 사투리 아이가”",
@@ -133,13 +140,6 @@
       "date": "2026.07.09",
       "source": "starnewskorea.com",
       "thumbnail": null
-    },
-    {
-      "title": "[사설] 언어의 표현을 정치의 먹잇감으로 삼지 말라",
-      "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=553446",
-      "date": "2026.07.09",
-      "source": "idaegu.co.kr",
-      "thumbnail": "https://www.idaegu.co.kr/image/logo/snslogo_20241121032237.png"
     }
   ]
 }
