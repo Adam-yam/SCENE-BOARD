@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09T04:10:54Z",
+  "updated": "2026-07-09T05:10:50Z",
   "videos": [
     {
       "id": "v6n4XQdX6_8",
@@ -50,6 +50,14 @@
       "type": "long"
     },
     {
+      "id": "x1fgntKzUC8",
+      "title": "#버논 #디노 선배님과 어디서나 당당하게 걷기 🎀",
+      "url": "https://www.youtube.com/shorts/x1fgntKzUC8",
+      "thumbnail": "https://i.ytimg.com/vi/x1fgntKzUC8/mqdefault.jpg",
+      "date": "2026.07.09",
+      "type": "short"
+    },
+    {
       "id": "-6arV881r94",
       "title": "막내의 놀기 신청 🥰",
       "url": "https://www.youtube.com/shorts/-6arV881r94",
@@ -87,14 +95,6 @@
       "url": "https://www.youtube.com/watch?v=qZlu2j2SiBA",
       "thumbnail": "https://i.ytimg.com/vi/qZlu2j2SiBA/mqdefault.jpg",
       "date": "2026.07.08",
-      "type": "short"
-    },
-    {
-      "id": "OsDvfApoMMc",
-      "title": "Pretty Girl emoji #ZENA ver.",
-      "url": "https://www.youtube.com/shorts/OsDvfApoMMc",
-      "thumbnail": "https://i.ytimg.com/vi/OsDvfApoMMc/mqdefault.jpg",
-      "date": "2026.07.07",
       "type": "short"
     }
   ]
