@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09T05:10:50Z",
+  "updated": "2026-07-09T06:10:54Z",
   "videos": [
     {
       "id": "v6n4XQdX6_8",
@@ -50,6 +50,14 @@
       "type": "long"
     },
     {
+      "id": "VVz51TxI8a0",
+      "title": "#효연 선배님과 어디서나 당당하게 걷기 🎀",
+      "url": "https://www.youtube.com/shorts/VVz51TxI8a0",
+      "thumbnail": "https://i.ytimg.com/vi/VVz51TxI8a0/mqdefault.jpg",
+      "date": "2026.07.09",
+      "type": "short"
+    },
+    {
       "id": "x1fgntKzUC8",
       "title": "#버논 #디노 선배님과 어디서나 당당하게 걷기 🎀",
       "url": "https://www.youtube.com/shorts/x1fgntKzUC8",
@@ -86,14 +94,6 @@
       "title": "RESCENE (리센느) &#39;Pretty Girl&#39; Special Video #1",
       "url": "https://www.youtube.com/shorts/-M8hr0KrxA0",
       "thumbnail": "https://i.ytimg.com/vi/-M8hr0KrxA0/mqdefault.jpg",
-      "date": "2026.07.08",
-      "type": "short"
-    },
-    {
-      "id": "qZlu2j2SiBA",
-      "title": "RESCENE (리센느) &#39;Pretty Girl&#39; Special Video",
-      "url": "https://www.youtube.com/watch?v=qZlu2j2SiBA",
-      "thumbnail": "https://i.ytimg.com/vi/qZlu2j2SiBA/mqdefault.jpg",
       "date": "2026.07.08",
       "type": "short"
     }
