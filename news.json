@@ -1,6 +1,20 @@
 {
-  "updated": "2026-07-10T19:01:08Z",
+  "updated": "2026-07-10T20:01:04Z",
   "articles": [
+    {
+      "title": "존박, 리센느 '찐팬' 고백 \"'러브어택' 편곡 특별히 신경 써…원이 마음...",
+      "url": "https://www.xportsnews.com/article/2170793",
+      "date": "2026.07.10",
+      "source": "xportsnews.com",
+      "thumbnail": "https://image.xportsnews.com/contents/images/upload/article/2026/0710/1783695059863513.webp"
+    },
+    {
+      "title": "'무섭노' 일베 표현 맞나…경상도 방언에 씌워진 오해와 낙인 \"억울합니...",
+      "url": "https://www.hankookilbo.com/news/article/A2026071006370001085?did=NA",
+      "date": "2026.07.10",
+      "source": "hankookilbo.com",
+      "thumbnail": null
+    },
     {
       "title": "'놀랍다' KIA에 아이돌 외모를 가진 선수가 있었다니…190cm 모델 등장에...",
       "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=827692",
@@ -20,7 +34,7 @@
       "url": "https://www.sedaily.com/article/20066447?ref=naver",
       "date": "2026.07.10",
       "source": "sedaily.com",
-      "thumbnail": "https://wimg.sedaily.com/news/cms/2026/07/10/news-p.v1.20260526.719861cd6347442bb45a7c7bb03a5dc4_R.jpg"
+      "thumbnail": null
     },
     {
       "title": "\"미나미님 덕분에 퍼포먼스상, 감사합니다\"…올스타전에서도 파라파라...",
@@ -55,14 +69,7 @@
       "url": "https://www.sedaily.com/article/20066463?ref=naver",
       "date": "2026.07.10",
       "source": "sedaily.com",
-      "thumbnail": "https://wimg.sedaily.com/news/cms/2026/07/10/news-p.v1.20260710.923a5aa0bd6640a892b662e7de8672ae_R.jpg"
-    },
-    {
-      "title": "남부리그, 퓨처스 올스타전 승리…'결승 홈런' 함수호 MVP",
-      "url": "https://isplus.com/article/view/isp202607100097",
-      "date": "2026.07.10",
-      "source": "isplus.com",
-      "thumbnail": "https://isplus.com/data/isp/image/2026/07/10/isp20260710000128.800x.0.jpg"
+      "thumbnail": null
     },
     {
       "title": "'대세돌' 리센느, 드디어 '전참시' 출연… 방송 시간은?",
@@ -70,6 +77,13 @@
       "date": "2026.07.10",
       "source": "ggilbo.com",
       "thumbnail": "https://cdn.ggilbo.com/news/photo/202607/1168474_1020754_3527.png"
+    },
+    {
+      "title": "남부리그, 퓨처스 올스타전 승리…'결승 홈런' 함수호 MVP",
+      "url": "https://isplus.com/article/view/isp202607100097",
+      "date": "2026.07.10",
+      "source": "isplus.com",
+      "thumbnail": "https://isplus.com/data/isp/image/2026/07/10/isp20260710000128.800x.0.jpg"
     },
     {
       "title": "변광용 거제시장 \"리센느 원이 '무섭노', 정치적 의도 해석 적절치 않아...",
@@ -111,7 +125,7 @@
       "url": "https://www.hankookilbo.com/news/article/A2026071021500003783?did=NA",
       "date": "2026.07.10",
       "source": "hankookilbo.com",
-      "thumbnail": "https://newsimg.hankookilbo.com/2026/07/10/a21140e6-f54e-4046-a5cc-15bf3cd5f3d3.jpg"
+      "thumbnail": null
     },
     {
       "title": "‘무섭노’ 논란, 거제시도 나섰다 “일상 방언, 정치적 해석 부적절”",
@@ -126,20 +140,6 @@
       "date": "2026.07.10",
       "source": "donga.com",
       "thumbnail": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/07/10/134277842.2.jpg"
-    },
-    {
-      "title": "“무섭노가 왜?”···거제시장, 리센느 발언 논란에 “일상적으로 쓰...",
-      "url": "https://www.khan.co.kr/article/202607102201001",
-      "date": "2026.07.10",
-      "source": "khan.co.kr",
-      "thumbnail": "https://img.khan.co.kr/news/2026/07/10/news-p.v1.20260710.8b397ad1c50b43a6bc4ca73298125ef6_P1.png"
-    },
-    {
-      "title": "리센느 원이 ‘무섭노’ 논란에…거제시 “방언이자 구어적 표현일 뿐”",
-      "url": "https://biz.chosun.com/topics/topics_social/2026/07/10/JKFHFOCSIJCTLJOEDZVDCUYS6E/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-      "date": "2026.07.10",
-      "source": "biz.chosun.com",
-      "thumbnail": "https://biz.chosun.com/resizer/v2/HA4DEMZZGRTGKNBZGU2WIYZQHE.jpg?auth=ef16472c978d1fdd2017a6cd34f3e2851194d75cff85dc57366e44c2cd2f5446&amp;width=647&amp;height=339&amp;smart=true"
     }
   ]
 }
