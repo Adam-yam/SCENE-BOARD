@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09T15:05:24Z",
+  "updated": "2026-07-10T03:05:26Z",
   "events": [
     {
       "date": "2026-07-06",
@@ -87,6 +87,13 @@
     },
     {
       "date": "2026-07-12",
+      "title": "MBC <최우수산>",
+      "detail": "",
+      "type": "방송",
+      "source": "mnetplus"
+    },
+    {
+      "date": "2026-07-12",
       "title": "[Pretty Girl] 대면/영상통화 팬사인회 by million music",
       "detail": "",
       "type": "팬사인회",
@@ -107,10 +114,10 @@
       "source": "mnetplus"
     },
     {
-      "date": "2026-07-25",
-      "title": "보령 KBS 슈퍼라이브",
+      "date": "2026-07-18",
+      "title": "[Pretty Girl] 대면/영상통화 팬사인회 by PlusChat",
       "detail": "",
-      "type": "공연",
+      "type": "팬사인회",
       "source": "mnetplus"
     },
     {
