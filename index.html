@@ -696,11 +696,14 @@ function renderSchedule() {
     listHTML = `<div class="state-box"><p>이번 달 스케줄이 없습니다</p></div>`;
   } else {
     allDates.forEach(ds => {
-      const d = new Date(ds + "T00:00:00");
+      const d = new Date(ds);
       scheduleData[ds].forEach((ev, i) => {
         listHTML += `<div class="sched-row">
           <div class="sched-date-col">
             ${i===0 ? `<div class="sched-day-num">${d.getDate()}</div><div class="sched-day-name">${DOW_KR[d.getDay()]}</div>` : ""}
+          </div>
+          <div class="sched-date-col">
+            ${ev.time}
           </div>
           <div class="sched-info">
             <div class="sched-title-text">${ev.title}</div>
