@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-10T05:10:42Z",
+  "updated": "2026-07-10T06:10:43Z",
   "videos": [
     {
       "id": "RX592yMx7P0",
@@ -42,12 +42,20 @@
       "type": "long"
     },
     {
-      "id": "vRnXOGS8ne8",
-      "title": "⭐️막내들이 왔따😎",
-      "url": "https://www.youtube.com/watch?v=vRnXOGS8ne8",
-      "thumbnail": "https://i.ytimg.com/vi/vRnXOGS8ne8/mqdefault.jpg",
-      "date": "2026.06.29",
+      "id": "xclVi9zCFdY",
+      "title": "[Re-log] 먹짱 원짱, 대만에 가다 🍴 | RESCENE (리센느) vlog",
+      "url": "https://www.youtube.com/watch?v=xclVi9zCFdY",
+      "thumbnail": "https://i.ytimg.com/vi/xclVi9zCFdY/mqdefault.jpg",
+      "date": "2026.06.24",
       "type": "long"
+    },
+    {
+      "id": "wqmMc29V_w0",
+      "title": "#유병재 선배님과 어디서나 당당하게 걷기 🎀",
+      "url": "https://www.youtube.com/shorts/wqmMc29V_w0",
+      "thumbnail": "https://i.ytimg.com/vi/wqmMc29V_w0/mqdefault.jpg",
+      "date": "2026.07.10",
+      "type": "short"
     },
     {
       "id": "p_bkxiOLI8E",
@@ -86,14 +94,6 @@
       "title": "막내의 놀기 신청 🥰",
       "url": "https://www.youtube.com/shorts/-6arV881r94",
       "thumbnail": "https://i.ytimg.com/vi/-6arV881r94/mqdefault.jpg",
-      "date": "2026.07.08",
-      "type": "short"
-    },
-    {
-      "id": "Zz7z5PeJvzs",
-      "title": "어디서나 당당하게 걷기 🎀",
-      "url": "https://www.youtube.com/shorts/Zz7z5PeJvzs",
-      "thumbnail": "https://i.ytimg.com/vi/Zz7z5PeJvzs/mqdefault.jpg",
       "date": "2026.07.08",
       "type": "short"
     }
