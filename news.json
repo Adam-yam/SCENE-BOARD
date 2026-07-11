@@ -1,12 +1,26 @@
 {
-  "updated": "2026-07-11T06:01:02Z",
+  "updated": "2026-07-11T07:01:07Z",
   "articles": [
+    {
+      "title": "“올스타전 퍼포먼스 너무 장난 같다” 구자욱의 솔직 발언, 왜 찬반 논...",
+      "url": "http://www.osen.co.kr/article/G1112837890",
+      "date": "2026.07.11",
+      "source": "osen.co.kr",
+      "thumbnail": "http://file.osen.co.kr/article_thumb/2026/07/11/202607111509776412_6a51e425c1041_300x.jpg"
+    },
+    {
+      "title": "'최우수산' 리센느 제나 \"제일 꼰대는 원이 언니\" 폭로",
+      "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=02214006645513536",
+      "date": "2026.07.11",
+      "source": "edaily.co.kr",
+      "thumbnail": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/07/PS26071100368.jpg"
+    },
     {
       "title": "화장실 1개 쓰던 중소돌의 ‘반전’…리센느, 화장실 3개 새숙소 공개",
       "url": "https://www.sportsseoul.com/news/read/1621795?ref=naver",
       "date": "2026.07.11",
       "source": "sportsseoul.com",
-      "thumbnail": "https://file.sportsseoul.com/news/cms/2026/07/11/news-p.v1.20260709.d0d8eab27404476f9af0923f5143971c_P1.jpg"
+      "thumbnail": null
     },
     {
       "title": "박나래 檢 송치…연예계 복귀 가능할까?",
@@ -41,7 +55,7 @@
       "url": "http://www.stoo.com/article.php?aid=107684899643",
       "date": "2026.07.11",
       "source": "stoo.com",
-      "thumbnail": "https://www.stoo.com/upimages/gisaimg/202607/1783747579_20251125153336-7769.jpg"
+      "thumbnail": null
     },
     {
       "title": "유재석, 경북 구미 찾았다…왜?",
@@ -97,7 +111,7 @@
       "url": "https://www.segye.com/newsView/20260711506163?OutUrl=naver",
       "date": "2026.07.11",
       "source": "segye.com",
-      "thumbnail": "https://www.segye.com/content/image/2026/07/11/20260711506293.jpg"
+      "thumbnail": null
     },
     {
       "title": "'음악중심' 라인업 아이들→연준·베이비몬스터",
@@ -126,20 +140,6 @@
       "date": "2026.07.11",
       "source": "tvreport.co.kr",
       "thumbnail": "https://img.tvreportcdn.de/cms-content/uploads/2026/07/11/fb4d1b04-f850-4161-9779-770110fe4abb.jpg"
-    },
-    {
-      "title": "변광용 거제시장, 리센느 원이 '무섭노'에 \"지역 방언일 뿐\"",
-      "url": "https://www.sidae.com/article/2026071111492249452",
-      "date": "2026.07.11",
-      "source": "sidae.com",
-      "thumbnail": "https://menu.sidae.com/moneyweek/thumb/2026/07/11/06/2026071111492249452_1.jpg"
-    },
-    {
-      "title": "'쇼! 음악중심', 오늘(11일) 화려한 라인업…베이비몬스터 아사·로라 스...",
-      "url": "http://www.celuvmedia.com/article.php?aid=1783731220523862007",
-      "date": "2026.07.11",
-      "source": "celuvmedia.com",
-      "thumbnail": "http://www.celuvmedia.com/upimages/gisaimg/202607/11523862.jpg"
     }
   ]
 }
