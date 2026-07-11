@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>SCENE-BOARD</title>
-<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://cdn.jsdelivr.net">
 <link rel="icon" href="image/favicon.png">
 <link rel="manifest" href="manifest.json">
 <meta name="mobile-web-app-capable" content="yes">
@@ -12,16 +12,19 @@
 <meta name="apple-mobile-web-app-status-bar-style" content="default">
 <meta name="apple-mobile-web-app-title" content="SCENE-BOARD">
 <link rel="apple-touch-icon" href="image/icon-192.png">
-<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;600;700;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable.css" />
 <style>
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
 :root {
   --bg:       #e8e4df;
+  --page-bg:  #1c1c1e;
   --panel:    #f7f5f2;
   --ink:      #0f0d0c;
   --ink2:     #2a2724;
   --ink3:     #5a5652;
+  --ink-onbg: #f2f1ee;
+  --ink3-onbg: rgba(242,241,238,0.55);
   --accent:   #c0392b;
   --rule:     rgba(28,25,23,0.09);
   --radius:   28px;
@@ -30,7 +33,7 @@
 
 html, body {
   height: 100%;
-  font-family: 'Noto Sans KR', 'Malgun Gothic', '맑은 고딕', Dotum, '돋움', sans-serif;
+  font-family: 'Pretendard Variable', Pretendard, -apple-system, BlinkMacSystemFont, system-ui, 'Malgun Gothic', '맑은 고딕', sans-serif;
   -webkit-font-smoothing: antialiased;
   user-select: none;
   -webkit-user-select: none;
@@ -43,7 +46,7 @@ html, body {
 }
 
 body {
-  background: var(--bg);
+  background: var(--page-bg);
   color: var(--ink);
   height: 100dvh;
   display: flex;
@@ -57,11 +60,11 @@ body::before {
   inset: -10%;
   z-index: 0;
   background:
-    radial-gradient(circle at 12% 18%, rgba(192,57,43,0.28), transparent 42%),
-    radial-gradient(circle at 88% 12%, rgba(99,102,241,0.20), transparent 40%),
-    radial-gradient(circle at 78% 82%, rgba(236,72,153,0.22), transparent 45%),
-    radial-gradient(circle at 18% 85%, rgba(250,204,21,0.16), transparent 42%);
-  filter: blur(50px);
+    radial-gradient(circle at 12% 18%, rgba(224,73,58,0.35), transparent 42%),
+    radial-gradient(circle at 88% 12%, rgba(120,125,255,0.26), transparent 40%),
+    radial-gradient(circle at 78% 82%, rgba(236,72,153,0.28), transparent 45%),
+    radial-gradient(circle at 18% 85%, rgba(250,204,21,0.20), transparent 42%);
+  filter: blur(60px);
   pointer-events: none;
 }
 header, .grid { position: relative; z-index: 1; }
@@ -74,9 +77,9 @@ header {
   padding: 16px 26px;
 }
 
-.logo { font-size: 28px; font-weight: 900; letter-spacing: 0; color: var(--ink); display: flex; align-items: baseline; gap: 8px; }
-.logo em { color: #e91e8c; font-style: normal; margin: 0; padding: 0; }
-.logo .by { font-size: 11px; font-weight: 400; color: rgba(28,25,23,0.25); letter-spacing: 0; }
+.logo { font-size: 28px; font-weight: 900; letter-spacing: 0; color: var(--ink-onbg); display: flex; align-items: baseline; gap: 8px; }
+.logo em { color: #ff4d94; font-style: normal; margin: 0; padding: 0; }
+.logo .by { font-size: 11px; font-weight: 400; color: rgba(242,241,238,0.35); letter-spacing: 0; }
 
 .header-right { display: flex; align-items: center; gap: 8px; flex-wrap: nowrap; flex-shrink: 0; }
 .live-badge {
@@ -91,7 +94,7 @@ header {
   background: #22c55e; animation: pulse 2.5s ease-in-out infinite;
 }
 @keyframes pulse { 0%,100%{opacity:1} 50%{opacity:.3} }
-.header-date { font-size: 11px; font-weight: 600; color: var(--ink3); white-space: nowrap; flex-shrink: 0; }
+.header-date { font-size: 11px; font-weight: 600; color: var(--ink3-onbg); white-space: nowrap; flex-shrink: 0; }
 
 .grid {
   flex: 1;
@@ -187,7 +190,7 @@ header {
 .cal-cell {
   background: rgba(0,0,0,0.03);
   border-radius: var(--radius-xs);
-  min-height: 52px;
+  min-height: 72px;
   padding: 5px 4px;
   transition: background .15s;
   min-width: 0;
