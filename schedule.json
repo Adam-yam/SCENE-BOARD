@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11T04:48:01Z",
+  "updated": "2026-07-11T15:05:24Z",
   "events": [
     {
       "date": "2026-07-06",
@@ -13,6 +13,14 @@
       "date": "2026-07-08",
       "time": "04:00",
       "title": "Mnet <M COUNTDOWN> 사전녹화",
+      "detail": "",
+      "type": "방송",
+      "source": "mnetplus"
+    },
+    {
+      "date": "2026-07-09",
+      "time": "08:15",
+      "title": "KBS2 <뮤직뱅크> 사전녹화",
       "detail": "",
       "type": "방송",
       "source": "mnetplus"
@@ -37,14 +45,6 @@
       "date": "2026-07-09",
       "time": "19:50",
       "title": "Mnet  <Check-in! 아이돌 빙고>",
-      "detail": "",
-      "type": "방송",
-      "source": "mnetplus"
-    },
-    {
-      "date": "2026-07-09",
-      "time": "08:15",
-      "title": "KBS2 <뮤직뱅크> 사전녹화",
       "detail": "",
       "type": "방송",
       "source": "mnetplus"
