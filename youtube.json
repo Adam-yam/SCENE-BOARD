@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11T05:10:42Z",
+  "updated": "2026-07-11T06:10:46Z",
   "videos": [
     {
       "id": "RX592yMx7P0",
@@ -50,6 +50,14 @@
       "type": "long"
     },
     {
+      "id": "VGWk3CwI-2Q",
+      "title": "#조나단 선배님과 어디서나 당당하게 걷기 🎀",
+      "url": "https://www.youtube.com/shorts/VGWk3CwI-2Q",
+      "thumbnail": "https://i.ytimg.com/vi/VGWk3CwI-2Q/mqdefault.jpg",
+      "date": "2026.07.11",
+      "type": "short"
+    },
+    {
       "id": "-g9dPpVhf0g",
       "title": "프리티걸 🩷 고무장갑",
       "url": "https://www.youtube.com/shorts/-g9dPpVhf0g",
@@ -86,14 +94,6 @@
       "title": "#효연 선배님과 어디서나 당당하게 걷기 🎀",
       "url": "https://www.youtube.com/shorts/VVz51TxI8a0",
       "thumbnail": "https://i.ytimg.com/vi/VVz51TxI8a0/mqdefault.jpg",
-      "date": "2026.07.09",
-      "type": "short"
-    },
-    {
-      "id": "x1fgntKzUC8",
-      "title": "#버논 #디노 선배님과 어디서나 당당하게 걷기 🎀",
-      "url": "https://www.youtube.com/shorts/x1fgntKzUC8",
-      "thumbnail": "https://i.ytimg.com/vi/x1fgntKzUC8/mqdefault.jpg",
       "date": "2026.07.09",
       "type": "short"
     }
