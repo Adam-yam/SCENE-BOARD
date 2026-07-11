@@ -5,7 +5,7 @@ import pathlib
 import re
 import sys
 from datetime import datetime, date, timezone, timedelta
-from typing import Optional, Tuple
+from typing import Optional
 
 import requests
 
@@ -42,19 +42,15 @@ def build_params(year: int, month: int) -> dict:
         "endAtForAllDay":   f"{last_day.year}-{last_day.month:02d}-{last_day.day:02d}",
     }
 
-def extract_date(ev: dict) -> Tuple[Optional[str], Optional[str]]:
+def extract_date(ev: dict) -> Optional[str]:
     if ev.get("allDay"):
-        d = ev.get("startAtAllDay", "")
-        t = ""
+        raw = ev.get("startAtAllDay", "")
     else:
-        raw = ev.get("startAt", "")
-        date_ = datetime.fromisoformat(raw)
-        date_ = date_.astimezone(timezone(timedelta(hours=9)))
-        d = date_.date().isoformat()
-        t = date_.time()
-        t = f"{t.hour:02}:{t.minute:02}"
-
-    return (d, t) if d else (None, None)
+        raw = ev.get("startAt", ev.get("startAtAllDay", ""))
+    if not raw:
+        return None
+    m = re.search(r"(\d{4})-(\d{2})-(\d{2})", str(raw))
+    return f"{m.group(1)}-{m.group(2)}-{m.group(3)}" if m else None
 
 LABEL_MAP = {
     "공연":    "공연",
@@ -97,7 +93,7 @@ def crawl_month(year: int, month: int) -> list:
 
     events = []
     for ev in data.get("events", []):
-        d,t   = extract_date(ev)
+        d     = extract_date(ev)
         title = ev.get("title", "").strip()
         if not d or not title:
             continue
@@ -106,7 +102,6 @@ def crawl_month(year: int, month: int) -> list:
             continue
         events.append({
             "date":   d,
-            "time":   t,
             "title":  title,
             "detail": "",
             "type":   classify_type(ev),
