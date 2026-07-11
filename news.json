@@ -1,6 +1,13 @@
 {
-  "updated": "2026-07-11T10:01:14Z",
+  "updated": "2026-07-11T11:01:13Z",
   "articles": [
+    {
+      "title": "아홉, 9 청량 마린보이",
+      "url": "https://www.cbci.co.kr/news/articleView.html?idxno=588475",
+      "date": "2026.07.11",
+      "source": "cbci.co.kr",
+      "thumbnail": "https://www.cbci.co.kr/news/thumbnail/202607/588475_400323_020_v150.jpg"
+    },
     {
       "title": "조선힙합·아이오아이, 6월 써클차트 판도 재편",
       "url": "https://www.topstarnews.net/news/articleView.html?idxno=16131553",
@@ -27,7 +34,7 @@
       "url": "https://www.ajunews.com/view/20260711183237082",
       "date": "2026.07.11",
       "source": "ajunews.com",
-      "thumbnail": null
+      "thumbnail": "https://image.ajunews.com/content/image/2026/07/11/20260711183759514321.jpg"
     },
     {
       "title": "아홉, 마린룩 입고 ‘음중’ 항해⋯파워 청량 ‘RUN TO YOU’",
@@ -83,7 +90,7 @@
       "url": "https://www.sportsseoul.com/news/read/1621802?ref=naver",
       "date": "2026.07.11",
       "source": "sportsseoul.com",
-      "thumbnail": null
+      "thumbnail": "https://file.sportsseoul.com/news/cms/2026/07/11/news-p.v1.20260711.141950ac2d714ebba04d0ed50a507a9e_P1.png"
     },
     {
       "title": "'음중' 아홉, 9人 마린보이 변신…파워 청량 'RUN TO YOU'",
@@ -119,13 +126,6 @@
       "date": "2026.07.11",
       "source": "newsis.com",
       "thumbnail": "https://img1.newsis.com/2026/07/11/NISI20260711_0002184115_web.jpg"
-    },
-    {
-      "title": "“올스타전 퍼포먼스 너무 장난 같다” 구자욱의 솔직 발언, 왜 찬반 논...",
-      "url": "http://www.osen.co.kr/article/G1112837890",
-      "date": "2026.07.11",
-      "source": "osen.co.kr",
-      "thumbnail": "http://file.osen.co.kr/article_thumb/2026/07/11/202607111509776412_6a51e425c1041_300x.jpg"
     },
     {
       "title": "'쇼음악중심' 11일 기현·니엘 등 컴백...출연진 라인업 명단 공개",
