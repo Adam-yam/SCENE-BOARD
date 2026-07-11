@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11T07:10:45Z",
+  "updated": "2026-07-11T08:10:47Z",
   "videos": [
     {
       "id": "RX592yMx7P0",
@@ -50,6 +50,14 @@
       "type": "long"
     },
     {
+      "id": "5p0_Ir06Fj0",
+      "title": "#니콜 선배님과 어디서나 당당하게 걷기 🎀",
+      "url": "https://www.youtube.com/shorts/5p0_Ir06Fj0",
+      "thumbnail": "https://i.ytimg.com/vi/5p0_Ir06Fj0/mqdefault.jpg",
+      "date": "2026.07.11",
+      "type": "short"
+    },
+    {
       "id": "hvrkszFRa7k",
       "title": "#꼰대희 아부지랑 어디서나 당당하게 걷기 🎀",
       "url": "https://www.youtube.com/shorts/hvrkszFRa7k",
@@ -87,14 +95,6 @@
       "url": "https://www.youtube.com/shorts/p_bkxiOLI8E",
       "thumbnail": "https://i.ytimg.com/vi/p_bkxiOLI8E/mqdefault.jpg",
       "date": "2026.07.10",
-      "type": "short"
-    },
-    {
-      "id": "ZDbvHEpcABo",
-      "title": "If you wanna pretty ✨👗💝",
-      "url": "https://www.youtube.com/shorts/ZDbvHEpcABo",
-      "thumbnail": "https://i.ytimg.com/vi/ZDbvHEpcABo/mqdefault.jpg",
-      "date": "2026.07.09",
       "type": "short"
     }
   ]
