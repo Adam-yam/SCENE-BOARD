@@ -52,6 +52,28 @@ def extract_date(ev: dict) -> Optional[str]:
     m = re.search(r"(\d{4})-(\d{2})-(\d{2})", str(raw))
     return f"{m.group(1)}-{m.group(2)}-{m.group(3)}" if m else None
 
+def extract_time(ev: dict) -> Optional[str]:
+    if ev.get("allDay"):
+        return None
+    raw = ev.get("startAt", "")
+    if not raw:
+        return None
+    m = re.search(r"(\d{4})-(\d{2})-(\d{2})T(\d{2}):(\d{2}):(\d{2})", str(raw))
+    if not m:
+        return None
+    try:
+        dt_utc = datetime(
+            int(m.group(1)), int(m.group(2)), int(m.group(3)),
+            int(m.group(4)), int(m.group(5)), int(m.group(6)),
+        )
+    except ValueError:
+        return None
+    dt_kst = dt_utc + timedelta(hours=9)
+    # 자정(00:00)만 찍힌 이벤트는 사실상 시간 미정인 경우가 많아 제외
+    if dt_kst.hour == 0 and dt_kst.minute == 0:
+        return None
+    return f"{dt_kst.hour:02d}:{dt_kst.minute:02d}"
+
 LABEL_MAP = {
     "공연":    "공연",
     "팬사인회": "팬사인회",
@@ -102,6 +124,7 @@ def crawl_month(year: int, month: int) -> list:
             continue
         events.append({
             "date":   d,
+            "time":   extract_time(ev),
             "title":  title,
             "detail": "",
             "type":   classify_type(ev),
