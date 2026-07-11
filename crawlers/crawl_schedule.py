@@ -134,6 +134,17 @@ def crawl_month(year: int, month: int) -> list:
     print(f"[MnetPlus] {year}/{month:02d} → {len(events)}개", file=sys.stderr)
     return events
 
+def load_existing_events(path: pathlib.Path) -> list:
+    if not path.exists():
+        return []
+    try:
+        with open(path, "r", encoding="utf-8") as f:
+            data = json.load(f)
+        return data.get("events", []) or []
+    except Exception as e:
+        print(f"[스케줄 크롤러 v4] 기존 schedule.json 로드 실패: {e}", file=sys.stderr)
+        return []
+
 def main():
     print("[스케줄 크롤러 v4] 시작", file=sys.stderr)
 
@@ -144,24 +155,29 @@ def main():
     else:
         months.append((today.year, today.month + 1))
 
-    all_events = []
-    for y, m in months:
-        all_events.extend(crawl_month(y, m))
+    out_path = ROOT / "schedule.json"
 
-    seen    = set()
-    deduped = []
-    for ev in sorted(all_events, key=lambda e: e["date"]):
+    fresh_events = []
+    for y, m in months:
+        fresh_events.extend(crawl_month(y, m))
+
+    existing_events = load_existing_events(out_path)
+
+    merged = {}
+    for ev in existing_events:
+        key = (ev.get("date"), ev.get("title"))
+        merged[key] = ev
+    for ev in fresh_events:
         key = (ev["date"], ev["title"])
-        if key not in seen:
-            seen.add(key)
-            deduped.append(ev)
+        merged[key] = ev  # 새로 크롤링한 데이터로 갱신(시간/타입 등 변경 반영)
+
+    deduped = sorted(merged.values(), key=lambda e: (e.get("date", ""), e.get("time") or ""))
 
     output = {
         "updated": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
         "events":  deduped,
     }
 
-    out_path = ROOT / "schedule.json"
     with open(out_path, "w", encoding="utf-8") as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
 
