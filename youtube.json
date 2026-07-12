@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12T05:10:44Z",
+  "updated": "2026-07-12T06:10:50Z",
   "videos": [
     {
       "id": "RX592yMx7P0",
@@ -50,6 +50,22 @@
       "type": "long"
     },
     {
+      "id": "YxL_-kAV0sA",
+      "title": "#쇼타로 선배님과 어디서나 당당하게 걷기 🎀",
+      "url": "https://www.youtube.com/shorts/YxL_-kAV0sA",
+      "thumbnail": "https://i.ytimg.com/vi/YxL_-kAV0sA/mqdefault.jpg",
+      "date": "2026.07.12",
+      "type": "short"
+    },
+    {
+      "id": "vshHwBZ3FfI",
+      "title": "#권또또 선배님과 어디서나 당당하게 걷기 🎀",
+      "url": "https://www.youtube.com/shorts/vshHwBZ3FfI",
+      "thumbnail": "https://i.ytimg.com/vi/vshHwBZ3FfI/mqdefault.jpg",
+      "date": "2026.07.12",
+      "type": "short"
+    },
+    {
       "id": "dlCLuYthv68",
       "title": "언니를 따라해봐요 이렇게 🙄 -제나-",
       "url": "https://www.youtube.com/shorts/dlCLuYthv68",
@@ -79,22 +95,6 @@
       "url": "https://www.youtube.com/shorts/VGWk3CwI-2Q",
       "thumbnail": "https://i.ytimg.com/vi/VGWk3CwI-2Q/mqdefault.jpg",
       "date": "2026.07.11",
-      "type": "short"
-    },
-    {
-      "id": "-g9dPpVhf0g",
-      "title": "프리티걸 🩷 고무장갑",
-      "url": "https://www.youtube.com/shorts/-g9dPpVhf0g",
-      "thumbnail": "https://i.ytimg.com/vi/-g9dPpVhf0g/mqdefault.jpg",
-      "date": "2026.07.11",
-      "type": "short"
-    },
-    {
-      "id": "wqmMc29V_w0",
-      "title": "#유병재 선배님과 어디서나 당당하게 걷기 🎀",
-      "url": "https://www.youtube.com/shorts/wqmMc29V_w0",
-      "thumbnail": "https://i.ytimg.com/vi/wqmMc29V_w0/mqdefault.jpg",
-      "date": "2026.07.10",
       "type": "short"
     }
   ]
