@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12T11:10:44Z",
+  "updated": "2026-07-12T12:10:48Z",
   "videos": [
     {
       "id": "RX592yMx7P0",
@@ -50,6 +50,14 @@
       "type": "long"
     },
     {
+      "id": "hndfvYehxqI",
+      "title": "아이스크림 🍦🩷",
+      "url": "https://www.youtube.com/shorts/hndfvYehxqI",
+      "thumbnail": "https://i.ytimg.com/vi/hndfvYehxqI/mqdefault.jpg",
+      "date": "2026.07.12",
+      "type": "short"
+    },
+    {
       "id": "PKVP9MOvRxQ",
       "title": "#소연 선배님과 어디서나 당당하게 걷기 🎀",
       "url": "https://www.youtube.com/shorts/PKVP9MOvRxQ",
@@ -87,14 +95,6 @@
       "url": "https://www.youtube.com/shorts/dlCLuYthv68",
       "thumbnail": "https://i.ytimg.com/vi/dlCLuYthv68/mqdefault.jpg",
       "date": "2026.07.12",
-      "type": "short"
-    },
-    {
-      "id": "5p0_Ir06Fj0",
-      "title": "#니콜 선배님과 어디서나 당당하게 걷기 🎀",
-      "url": "https://www.youtube.com/shorts/5p0_Ir06Fj0",
-      "thumbnail": "https://i.ytimg.com/vi/5p0_Ir06Fj0/mqdefault.jpg",
-      "date": "2026.07.11",
       "type": "short"
     }
   ]
