@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12T03:10:47Z",
+  "updated": "2026-07-12T04:10:44Z",
   "videos": [
     {
       "id": "RX592yMx7P0",
@@ -50,6 +50,14 @@
       "type": "long"
     },
     {
+      "id": "dlCLuYthv68",
+      "title": "언니를 따라해봐요 이렇게 🙄 -제나-",
+      "url": "https://www.youtube.com/shorts/dlCLuYthv68",
+      "thumbnail": "https://i.ytimg.com/vi/dlCLuYthv68/mqdefault.jpg",
+      "date": "2026.07.12",
+      "type": "short"
+    },
+    {
       "id": "5p0_Ir06Fj0",
       "title": "#니콜 선배님과 어디서나 당당하게 걷기 🎀",
       "url": "https://www.youtube.com/shorts/5p0_Ir06Fj0",
@@ -86,14 +94,6 @@
       "title": "#유병재 선배님과 어디서나 당당하게 걷기 🎀",
       "url": "https://www.youtube.com/shorts/wqmMc29V_w0",
       "thumbnail": "https://i.ytimg.com/vi/wqmMc29V_w0/mqdefault.jpg",
-      "date": "2026.07.10",
-      "type": "short"
-    },
-    {
-      "id": "p_bkxiOLI8E",
-      "title": "#제아 선배님과 어디서나 당당하게 걷기 🎀",
-      "url": "https://www.youtube.com/shorts/p_bkxiOLI8E",
-      "thumbnail": "https://i.ytimg.com/vi/p_bkxiOLI8E/mqdefault.jpg",
       "date": "2026.07.10",
       "type": "short"
     }
