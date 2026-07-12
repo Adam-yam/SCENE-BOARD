@@ -1,6 +1,27 @@
 {
-  "updated": "2026-07-12T15:01:09Z",
+  "updated": "2026-07-12T16:01:14Z",
   "articles": [
+    {
+      "title": "존재감 약해질까봐? 조국, 일주일새 글 30개 넘게 올려",
+      "url": "https://www.chosun.com/politics/assembly/2026/07/13/QV5GNRP3J5HDHKQOTG7WKSM2MU/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+      "date": "2026.07.12",
+      "source": "chosun.com",
+      "thumbnail": "https://www.chosun.com/resizer/v2/UYYXRPUK5ZGSTAPIYTC2B3OVFU.JPG?auth=2b59915d7ba9a0c52e45ee937f456a0dea2ba505277d8747f6e5fb1755a501e7&amp;width=1200&amp;height=630&amp;smart=true"
+    },
+    {
+      "title": "이센스, '혐오음원 방지법' 반대…\"검열 부활 안돼\" 일침",
+      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16132198",
+      "date": "2026.07.12",
+      "source": "topstarnews.net",
+      "thumbnail": "https://cdn.topstarnews.net/news/photo/202607/16132198_1960177_1852_crop.jpg"
+    },
+    {
+      "title": "호남 반도체·무섭노 논란…정치가 역사 갈등 부추겨서야 [문소영의 문...",
+      "url": "https://www.joongang.co.kr/article/25444488",
+      "date": "2026.07.12",
+      "source": "joongang.co.kr",
+      "thumbnail": null
+    },
     {
       "title": "조국 \"리센느가 일베라고 한 적 없어...매우 유감\"",
       "url": "https://www.ytn.co.kr/_ln/0101_202607122332248006",
@@ -30,18 +51,18 @@
       "thumbnail": "https://cdn.knnews.co.kr/edb/thumbnail/2026/07/1546191_520_images.jpeg"
     },
     {
-      "title": "\"100억 든다\" 케이팝 위기론…'중소돌 기적' 보려면",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008653794&plink=ORI&cooper=NAVER",
-      "date": "2026.07.12",
-      "source": "news.sbs.co.kr",
-      "thumbnail": "https://img.sbs.co.kr/newimg/news/20260712/202201473_1280.jpg"
-    },
-    {
       "title": "리센느 'LOVE ATTACK', 발매 2년 만에 멜론 1위",
       "url": "https://www.ggilbo.com/news/articleView.html?idxno=1168463",
       "date": "2026.07.12",
       "source": "ggilbo.com",
       "thumbnail": "https://cdn.ggilbo.com/news/photo/202607/1168463_1020742_400.jpg"
+    },
+    {
+      "title": "\"100억 든다\" 케이팝 위기론…'중소돌 기적' 보려면",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008653794&plink=ORI&cooper=NAVER",
+      "date": "2026.07.12",
+      "source": "news.sbs.co.kr",
+      "thumbnail": "https://img.sbs.co.kr/newimg/news/20260712/202201473_1280.jpg"
     },
     {
       "title": "'저격 논란' 부른 구자욱 인터뷰…박지영 아나 \"미숙한 표현 사과\"",
@@ -93,13 +114,6 @@
       "thumbnail": null
     },
     {
-      "title": "아이오아이, '갑자기'로 '인기가요' 1위…음악방송 4관왕 달성",
-      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16132097",
-      "date": "2026.07.12",
-      "source": "topstarnews.net",
-      "thumbnail": "https://cdn.topstarnews.net/news/photo/202607/16132097_1960097_446_crop.png"
-    },
-    {
       "title": "'역주행' 리센느 대표, 버클리음대 출신 가수였다",
       "url": "https://www.newsis.com/view/NISX20260712_0003705656",
       "date": "2026.07.12",
@@ -114,32 +128,18 @@
       "thumbnail": null
     },
     {
-      "title": "'최우수산' 리센느 리브·메이·제나, '데자뷰' 화음 라이브…예능 최초",
-      "url": "https://enter.etoday.co.kr/news/view/299637",
-      "date": "2026.07.12",
-      "source": "enter.etoday.co.kr",
-      "thumbnail": "https://img.etoday.co.kr/pto_db/2026/07/600/20260712123916_2358295_1000_557.jpg"
-    },
-    {
-      "title": "김현지 PD는 리센느 원이를 '일베'라고 한 적이 없다",
-      "url": "https://www.mediatoday.co.kr/news/articleView.html?idxno=335719",
-      "date": "2026.07.12",
-      "source": "mediatoday.co.kr",
-      "thumbnail": "https://cdn.mediatoday.co.kr/news/thumbnail/202607/335719_480918_13_v150.jpg"
-    },
-    {
-      "title": "“엄마들이 보고 울었다”…67평 새 숙소 이사간 리센느 ‘깜짝’",
-      "url": "https://www.joongang.co.kr/article/25444416",
-      "date": "2026.07.12",
-      "source": "joongang.co.kr",
-      "thumbnail": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202607/12/ca847a91-6e1e-423d-9570-37ee9cd6fba3.jpg"
-    },
-    {
       "title": "Cho Kuk says Rescene was never his target in right-wing slang controversy",
       "url": "https://www.koreajoongangdaily.com/korea/cho-kuk-says-rescene-was-never-his-target-in-rightwing-slang-controversy/12768623",
       "date": "2026.07.12",
       "source": "koreajoongangdaily.com",
       "thumbnail": "https://image.koreajoongangdaily.com/12768637.jpg?imageId=12768637&x=0&y=0&cropw=100&croph=72.47&panox=0&panoy=0&panow=100&panoh=72.47&width=1200&height=683"
+    },
+    {
+      "title": "아이오아이, '인기가요' 1위...최유정 \"사랑해주셔서 감사\"",
+      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3633494",
+      "date": "2026.07.12",
+      "source": "gukjenews.com",
+      "thumbnail": "https://cdn.gukjenews.com/news/thumbnail/202607/3633494_3797332_480_v150.jpg"
     }
   ]
 }
