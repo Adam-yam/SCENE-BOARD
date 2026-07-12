@@ -1,6 +1,20 @@
 {
-  "updated": "2026-07-12T19:01:16Z",
+  "updated": "2026-07-12T20:01:09Z",
   "articles": [
+    {
+      "title": "거제시장 “무섭노 표현은 경남 방언… 정치적 해석 말라”",
+      "url": "https://www.donga.com/news/Society/article/all/20260712/134283127/2",
+      "date": "2026.07.12",
+      "source": "donga.com",
+      "thumbnail": "https://image.donga.com/pc/2022/images/common/donga_icon.jpg"
+    },
+    {
+      "title": "리센느 원이 '일베' 억지 주장에 전문가·언론·동향 연예인 총출동",
+      "url": "https://www.ggilbo.com/news/articleView.html?idxno=1168486",
+      "date": "2026.07.12",
+      "source": "ggilbo.com",
+      "thumbnail": "https://cdn.ggilbo.com/news/photo/202607/1168486_1020767_335.jpg"
+    },
     {
       "title": "조국, 리센느 원이 '무섭노' 논란에…\"일베라 한 적 없어\" 해명",
       "url": "https://www.topstarnews.net/news/articleView.html?idxno=16132249",
@@ -27,7 +41,7 @@
       "url": "https://www.joongang.co.kr/article/25444488",
       "date": "2026.07.12",
       "source": "joongang.co.kr",
-      "thumbnail": null
+      "thumbnail": "https://assets.joongang.co.kr/images/share/ja-opengraph-img.png"
     },
     {
       "title": "조국 \"리센느가 일베라고 한 적 없어...매우 유감\"",
@@ -56,13 +70,6 @@
       "date": "2026.07.12",
       "source": "knnews.co.kr",
       "thumbnail": "https://cdn.knnews.co.kr/edb/thumbnail/2026/07/1546191_520_images.jpeg"
-    },
-    {
-      "title": "리센느 'LOVE ATTACK', 발매 2년 만에 멜론 1위",
-      "url": "https://www.ggilbo.com/news/articleView.html?idxno=1168463",
-      "date": "2026.07.12",
-      "source": "ggilbo.com",
-      "thumbnail": "https://cdn.ggilbo.com/news/photo/202607/1168463_1020742_400.jpg"
     },
     {
       "title": "\"100억 든다\" 케이팝 위기론…'중소돌 기적' 보려면",
@@ -133,13 +140,6 @@
       "date": "2026.07.12",
       "source": "koreajoongangdaily.com",
       "thumbnail": "https://image.koreajoongangdaily.com/12768637.jpg?imageId=12768637&x=0&y=0&cropw=100&croph=72.47&panox=0&panoy=0&panow=100&panoh=72.47&width=1200&height=683"
-    },
-    {
-      "title": "아이오아이, '인기가요' 1위...최유정 \"사랑해주셔서 감사\"",
-      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3633494",
-      "date": "2026.07.12",
-      "source": "gukjenews.com",
-      "thumbnail": "https://cdn.gukjenews.com/news/thumbnail/202607/3633494_3797332_480_v150.jpg"
     }
   ]
 }
