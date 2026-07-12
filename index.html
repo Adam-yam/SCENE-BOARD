@@ -198,6 +198,15 @@ header {
 }
 .cal-cell:hover { background: rgba(0,0,0,0.07); }
 .cal-cell.empty { background: transparent; }
+.cal-cell.has-events { cursor: pointer; }
+.cal-cell.has-events:hover { background: rgba(0,0,0,0.09); }
+.cal-cell.has-events:active { background: rgba(0,0,0,0.12); }
+
+.sched-day-group.flash-highlight { animation: sched-flash 1.3s ease; border-radius: 10px; }
+@keyframes sched-flash {
+  0%   { background: rgba(192,57,43,0.2); }
+  100% { background: rgba(192,57,43,0); }
+}
 .cal-cell.today {
   background: linear-gradient(155deg, rgba(192,57,43,0.24) 0%, rgba(192,57,43,0.07) 100%);
   box-shadow:
@@ -784,7 +793,7 @@ function renderSchedule() {
         </div>`;
       });
 
-      listHTML += `<div class="sched-day-group">
+      listHTML += `<div class="sched-day-group" id="sched-group-${ds}">
         <div class="sched-date-col${dowClass}">
           <div class="sched-day-num">${d.getDate()}</div>
           <div class="sched-day-name">${DOW_KR[dow]}</div>
@@ -811,13 +820,23 @@ function buildCalendarHTML() {
     const evs = scheduleData[ds] || [];
     const dow = new Date(curYear, curMonth, d).getDay();
     const dnumClass = dow === 0 ? " dnum-sun" : dow === 6 ? " dnum-sat" : "";
-    html += `<div class="cal-cell${isToday?" today":""}">
+    html += `<div class="cal-cell${isToday?" today":""}${evs.length?" has-events":""}"${evs.length?` onclick="scrollToSchedule('${ds}')"`:""}>
       <div class="dnum${dnumClass}">${d}</div>
       ${evs.slice(0,2).map(ev=>`<div class="cal-ev type-${ev.type||"기타"}" title="${ev.title}">${ev.title}</div>`).join("")}
       ${evs.length>2?`<div class="cal-ev type-기타">+${evs.length-2}건</div>`:""}
     </div>`;
   }
   return html + `</div>`;
+}
+
+function scrollToSchedule(ds) {
+  const target = document.getElementById(`sched-group-${ds}`);
+  if (!target) return;
+  target.scrollIntoView({ behavior: "smooth", block: "center" });
+  target.classList.remove("flash-highlight");
+  void target.offsetWidth; // restart animation if clicked again
+  target.classList.add("flash-highlight");
+  setTimeout(() => target.classList.remove("flash-highlight"), 1300);
 }
 
 async function loadNews() {
