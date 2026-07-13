@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-13T11:10:43Z",
+  "updated": "2026-07-13T12:10:48Z",
   "videos": [
     {
       "id": "RX592yMx7P0",
@@ -50,6 +50,14 @@
       "type": "long"
     },
     {
+      "id": "4UbhgkkYLCE",
+      "title": "#전소미 선배님과 어디서나 당당하게 걷기 🎀",
+      "url": "https://www.youtube.com/shorts/4UbhgkkYLCE",
+      "thumbnail": "https://i.ytimg.com/vi/4UbhgkkYLCE/mqdefault.jpg",
+      "date": "2026.07.13",
+      "type": "short"
+    },
+    {
       "id": "1ImC7GHl1ns",
       "title": "#박진영 선배님과 어디서나 당당하게 걷기 🎀",
       "url": "https://www.youtube.com/shorts/1ImC7GHl1ns",
@@ -86,14 +94,6 @@
       "title": "#소연 선배님과 어디서나 당당하게 걷기 🎀",
       "url": "https://www.youtube.com/shorts/PKVP9MOvRxQ",
       "thumbnail": "https://i.ytimg.com/vi/PKVP9MOvRxQ/mqdefault.jpg",
-      "date": "2026.07.12",
-      "type": "short"
-    },
-    {
-      "id": "LK05Y9PvXhQ",
-      "title": "#손주원 #엄지원 님과 어디서나 당당하게 걷기 🎀",
-      "url": "https://www.youtube.com/shorts/LK05Y9PvXhQ",
-      "thumbnail": "https://i.ytimg.com/vi/LK05Y9PvXhQ/mqdefault.jpg",
       "date": "2026.07.12",
       "type": "short"
     }
