@@ -1,6 +1,13 @@
 {
-  "updated": "2026-07-13T15:01:10Z",
+  "updated": "2026-07-13T16:01:10Z",
   "articles": [
+    {
+      "title": "지예은·전지현·아이브에 이어 리센느도 피자 모델 데뷔",
+      "url": "https://www.wolyo.co.kr/news/articleView.html?idxno=315016",
+      "date": "2026.07.13",
+      "source": "wolyo.co.kr",
+      "thumbnail": "https://cdn.wolyo.co.kr/news/photo/202607/315016_220806_4919.jpg"
+    },
     {
       "title": "리센느 역주행…중소 아이돌 생존경쟁",
       "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8609749&ref=A",
@@ -72,11 +79,11 @@
       "thumbnail": "https://media.yonhapnewstv.co.kr/article/MYH/20260713/MYH20260713192646tx2.jpg"
     },
     {
-      "title": "[가고파] 와이라노- 박진우(부산울산본부장)",
-      "url": "http://www.knnews.co.kr/news/articleView.php?idxno=1546305",
+      "title": "[세상을 보며] 리센느 이름에 먹칠하면 안돼- 김성호(통영거제고성 본부...",
+      "url": "http://www.knnews.co.kr/news/articleView.php?idxno=1546307",
       "date": "2026.07.13",
       "source": "knnews.co.kr",
-      "thumbnail": "https://cdn.knnews.co.kr/edb/thumbnail/2026/07/1546305_520_images.jpg"
+      "thumbnail": "https://cdn.knnews.co.kr/edb/thumbnail/2026/07/1546307_520_images.jpg"
     },
     {
       "title": "거제 흥남철수기념공원 개관 13일 만에 1만명 돌파",
@@ -104,7 +111,7 @@
       "url": "https://www.natv.go.kr/natv/news/newsView.do?newsId=513747",
       "date": "2026.07.13",
       "source": "natv.go.kr",
-      "thumbnail": null
+      "thumbnail": "https://www.natv.go.kr/cmm/fms/FileDown.do?atchFileId=FILE_000000000564126&fileSn=0"
     },
     {
       "title": "'젠지 아이콘' 리센느…도미노피자 새 모델 발탁에 반응 뜨겁다",
@@ -133,13 +140,6 @@
       "date": "2026.07.13",
       "source": "newsworks.co.kr",
       "thumbnail": "https://cdn.newsworks.co.kr/news/thumbnail/202607/847087_805850_4133_v150.jpg"
-    },
-    {
-      "title": "[오늘의 피자] 피자앤컴퍼니·도미노피자",
-      "url": "http://www.financialreview.co.kr/news/articleView.html?idxno=43516",
-      "date": "2026.07.13",
-      "source": "financialreview.co.kr",
-      "thumbnail": "http://www.financialreview.co.kr/news/thumbnail/202607/43516_63752_1314_v150.jpg"
     }
   ]
 }
