@@ -1,6 +1,34 @@
 {
-  "updated": "2026-07-13T21:01:03Z",
+  "updated": "2026-07-13T22:01:07Z",
   "articles": [
+    {
+      "title": "'프리티걸'도 '미스터'도 재소환…카라가 선택받은 이유 [TEN스타필드]",
+      "url": "https://www.tenasia.co.kr/article/2026071318904",
+      "date": "2026.07.13",
+      "source": "tenasia.co.kr",
+      "thumbnail": "https://img.tenasia.co.kr/photo/202607/BF.45015156.1.png"
+    },
+    {
+      "title": "모아나·아이오아이·김부장·닥터섬보이, 1위 [한눈에 보는 엔터차트]",
+      "url": "https://www.news1.kr/entertain/movie/6226458",
+      "date": "2026.07.13",
+      "source": "news1.kr",
+      "thumbnail": null
+    },
+    {
+      "title": "[와글와글] \"올해의 이슈는?\" 의정부고 졸업 사진",
+      "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6837191_37012.html",
+      "date": "2026.07.13",
+      "source": "imnews.imbc.com",
+      "thumbnail": "https://image.imnews.imbc.com/replay/2026/nwtoday/article/__icsFiles/afieldfile/2026/07/14/today_20260714_064309_2_7_Large.jpg"
+    },
+    {
+      "title": "개혁신당·조국혁신당, 앞날이 불투명하다",
+      "url": "https://weekly.khan.co.kr/article/202607140600001",
+      "date": "2026.07.13",
+      "source": "weekly.khan.co.kr",
+      "thumbnail": "https://img.khan.co.kr/weekly/2026/07/14/news-p.v1.20260709.7e6ac5a0e5c74e1aa67826f451f2cd52_P1.jpg"
+    },
     {
       "title": "[이 시각 핫뉴스] \"저 따라오세요\"…산불 길잡이 된 영웅 염소 화제 外",
       "url": "http://www.yonhapnewstv.co.kr/news/MYH20260714054217bMC",
@@ -13,7 +41,7 @@
       "url": "https://www.seoul.co.kr/news/editOpinion/wayside-column/2026/07/14/20260714026002?wlog_tag3=naver",
       "date": "2026.07.13",
       "source": "seoul.co.kr",
-      "thumbnail": "https://img.seoul.co.kr//img/upload/2026/05/31/SSC_20260531232354_O2.jpg"
+      "thumbnail": null
     },
     {
       "title": "'거제 야호'가 전부 아니다... 연출의 세계에서 통한 리센느의 '진짜 서...",
@@ -100,27 +128,6 @@
       "thumbnail": "https://cdn.obsnews.co.kr/news/thumbnail/202607/1530519_729367_1751_v150.jpg"
     },
     {
-      "title": "옹성우 ‘리센느 야호’ [MK포토]",
-      "url": "https://www.mk.co.kr/article/12097597",
-      "date": "2026.07.13",
-      "source": "mk.co.kr",
-      "thumbnail": "https://wimg.mk.co.kr/news/cms/202607/13/news-p.v1.20260713.46f0982b9ad24c5fae6b391d05195a8e_P1.jpg"
-    },
-    {
-      "title": "[DM왔어요] 비행 중 창문이 통째로 '펑'…\"창밖으로 빨려 나갈 뻔\" 外",
-      "url": "http://www.yonhapnewstv.co.kr/news/MYH20260713192646tx2",
-      "date": "2026.07.13",
-      "source": "yonhapnewstv.co.kr",
-      "thumbnail": "https://media.yonhapnewstv.co.kr/article/MYH/20260713/MYH20260713192646tx2.jpg"
-    },
-    {
-      "title": "[세상을 보며] 리센느 이름에 먹칠하면 안돼- 김성호(통영거제고성 본부...",
-      "url": "http://www.knnews.co.kr/news/articleView.php?idxno=1546307",
-      "date": "2026.07.13",
-      "source": "knnews.co.kr",
-      "thumbnail": "https://cdn.knnews.co.kr/edb/thumbnail/2026/07/1546307_520_images.jpg"
-    },
-    {
       "title": "거제 흥남철수기념공원 개관 13일 만에 1만명 돌파",
       "url": "https://www.gnnews.co.kr/news/articleView.html?idxno=640990",
       "date": "2026.07.13",
@@ -133,13 +140,6 @@
       "date": "2026.07.13",
       "source": "ppss.kr",
       "thumbnail": "https://cdn.ppss.kr/news/photo/202607/301883_121121_1244.jpg"
-    },
-    {
-      "title": "\"거제 야호~\" 검사도 한다…검찰 엘리트들이 청사를 떠나고 있다",
-      "url": "https://www.sisajournal.com/news/articleView.html?idxno=379692",
-      "date": "2026.07.13",
-      "source": "sisajournal.com",
-      "thumbnail": "https://cdn.sisajournal.com/news/thumbnail/202607/379692_387467_2035_v150.jpg"
     }
   ]
 }
