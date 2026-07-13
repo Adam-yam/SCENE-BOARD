@@ -1,6 +1,13 @@
 {
-  "updated": "2026-07-13T16:01:10Z",
+  "updated": "2026-07-13T17:01:18Z",
   "articles": [
+    {
+      "title": "리센느, '프리티 걸' 챌린지도 '니가 좋아'",
+      "url": "https://enter.etoday.co.kr/news/view/299709",
+      "date": "2026.07.13",
+      "source": "enter.etoday.co.kr",
+      "thumbnail": "https://img.etoday.co.kr/pto_db/2026/07/600/20260714005956_2358986_1200_1027.jpg"
+    },
     {
       "title": "지예은·전지현·아이브에 이어 리센느도 피자 모델 데뷔",
       "url": "https://www.wolyo.co.kr/news/articleView.html?idxno=315016",
@@ -111,7 +118,7 @@
       "url": "https://www.natv.go.kr/natv/news/newsView.do?newsId=513747",
       "date": "2026.07.13",
       "source": "natv.go.kr",
-      "thumbnail": "https://www.natv.go.kr/cmm/fms/FileDown.do?atchFileId=FILE_000000000564126&fileSn=0"
+      "thumbnail": null
     },
     {
       "title": "'젠지 아이콘' 리센느…도미노피자 새 모델 발탁에 반응 뜨겁다",
@@ -133,13 +140,6 @@
       "date": "2026.07.13",
       "source": "allurekorea.com",
       "thumbnail": null
-    },
-    {
-      "title": "도미노피자, 젠지 아이콘 '리센느' 모델 발탁",
-      "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=847087",
-      "date": "2026.07.13",
-      "source": "newsworks.co.kr",
-      "thumbnail": "https://cdn.newsworks.co.kr/news/thumbnail/202607/847087_805850_4133_v150.jpg"
     }
   ]
 }
