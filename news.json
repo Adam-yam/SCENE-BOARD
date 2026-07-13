@@ -1,6 +1,13 @@
 {
-  "updated": "2026-07-13T14:01:11Z",
+  "updated": "2026-07-13T15:01:10Z",
   "articles": [
+    {
+      "title": "리센느 역주행…중소 아이돌 생존경쟁",
+      "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8609749&ref=A",
+      "date": "2026.07.13",
+      "source": "news.kbs.co.kr",
+      "thumbnail": "http://news.kbs.co.kr/data/news/title_image/newsmp4/newsline/2026/07/13/180_8609749.jpg"
+    },
     {
       "title": "김재원, 조국 '무섭노' 논란 직격…\"니 왜 이카노? 언제 정신 차릴라 카...",
       "url": "http://weekly.chosun.com/news/articleView.html?idxno=53420",
@@ -21,13 +28,6 @@
       "date": "2026.07.13",
       "source": "venturesquare.net",
       "thumbnail": "https://www.venturesquare.net/wp-content/uploads/2026/07/roro.jpg"
-    },
-    {
-      "title": "리센느 역주행…중소 아이돌 생존경쟁",
-      "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8609715&ref=A",
-      "date": "2026.07.13",
-      "source": "news.kbs.co.kr",
-      "thumbnail": "http://news.kbs.co.kr/data/news/2026/07/13/20260713_jvZ2mQ.png"
     },
     {
       "title": "‘프리티 걸’ 리센느, 대세 맞네…도미노피자 광고 모델 발탁",
@@ -114,13 +114,6 @@
       "thumbnail": "https://cdn.ppss.kr/news/photo/202607/301883_121121_1244.jpg"
     },
     {
-      "title": "주말 동안 얼음컵 100만개 팔렸다…폭염에 편의점 매출 급증",
-      "url": "https://www.widedaily.com/news/articleView.html?idxno=297495",
-      "date": "2026.07.13",
-      "source": "widedaily.com",
-      "thumbnail": "https://cdn.widedaily.com/news/thumbnail/202607/297495_305060_1530_v150.jpg"
-    },
-    {
       "title": "\"거제 야호~\" 검사도 한다…검찰 엘리트들이 청사를 떠나고 있다",
       "url": "https://www.sisajournal.com/news/articleView.html?idxno=379692",
       "date": "2026.07.13",
@@ -140,6 +133,13 @@
       "date": "2026.07.13",
       "source": "newsworks.co.kr",
       "thumbnail": "https://cdn.newsworks.co.kr/news/thumbnail/202607/847087_805850_4133_v150.jpg"
+    },
+    {
+      "title": "[오늘의 피자] 피자앤컴퍼니·도미노피자",
+      "url": "http://www.financialreview.co.kr/news/articleView.html?idxno=43516",
+      "date": "2026.07.13",
+      "source": "financialreview.co.kr",
+      "thumbnail": "http://www.financialreview.co.kr/news/thumbnail/202607/43516_63752_1314_v150.jpg"
     }
   ]
 }
