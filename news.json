@@ -1,54 +1,82 @@
 {
-  "updated": "2026-07-14T14:01:08Z",
+  "updated": "2026-07-14T15:01:01Z",
   "articles": [
     {
-      "title": "리센느 원이, 돋보이는 개미허리 [포토엔HD]",
-      "url": "https://www.newsen.com/news_view.php?uid=202607142254255510",
+      "title": "[음반 판매량의 이면③] '위기가 아니라 기회의 시기'…집계사의 시선",
+      "url": "https://news.tf.co.kr/read/entertain/2342876.htm",
+      "date": "2026.07.14",
+      "source": "news.tf.co.kr",
+      "thumbnail": "https://img.tf.co.kr/article/home/2026/07/09/20264965178393534200.jpeg"
+    },
+    {
+      "title": "리센느 미나미, 감격의 눈물과 함께 하트 [포토엔HD]",
+      "url": "https://www.newsen.com/news_view.php?uid=202607142351415510",
       "date": "2026.07.14",
       "source": "newsen.com",
-      "thumbnail": "https://photo.newsen.com/news_photo/2026/07/14/202607142254255510_1.jpg"
+      "thumbnail": "https://photo.newsen.com/news_photo/2026/07/14/202607142351415510_1.jpg"
     },
     {
-      "title": "[HD포토] 리센느 원이, '너무나도 소중한 눈물' (더쇼)",
-      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16134436",
+      "title": "[포토] 리센느 원이, 미소 짓는 파이리",
+      "url": "http://enews.imbc.com/News/RetrieveNewsInfo/511586",
+      "date": "2026.07.14",
+      "source": "enews.imbc.com",
+      "thumbnail": "https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2026/07/14/e85a1aa0-7d32-49d2-ab65-898aa37390d6.jpg"
+    },
+    {
+      "title": "[포토] 리센느 원이, 음방까지 우이! 거제 파이리의 서사",
+      "url": "http://enews.imbc.com/News/RetrieveNewsInfo/511585",
+      "date": "2026.07.14",
+      "source": "enews.imbc.com",
+      "thumbnail": "https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2026/07/14/454f61c4-886f-4b01-aa58-e8176b21b351.jpg"
+    },
+    {
+      "title": "[포토] 리센느 미나미, 오이데 마떼루요~",
+      "url": "http://enews.imbc.com/News/RetrieveNewsInfo/511583",
+      "date": "2026.07.14",
+      "source": "enews.imbc.com",
+      "thumbnail": "https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2026/07/14/68b30e55-f41d-431c-9ee9-f7b3f4d55822.jpg"
+    },
+    {
+      "title": "[포토] 리센느 리브, 왕발가락 따봉 말고 왕손",
+      "url": "http://enews.imbc.com/News/RetrieveNewsInfo/511582",
+      "date": "2026.07.14",
+      "source": "enews.imbc.com",
+      "thumbnail": "https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2026/07/14/621db963-43e4-40e3-b245-417abba3212d.jpg"
+    },
+    {
+      "title": "[포토] 리센느 메이, 그립감의 기회",
+      "url": "http://enews.imbc.com/News/RetrieveNewsInfo/511581",
+      "date": "2026.07.14",
+      "source": "enews.imbc.com",
+      "thumbnail": "https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2026/07/14/09372038-214e-4330-aa88-0b037a03cb98.jpg"
+    },
+    {
+      "title": "[포토] 리센느 제나, 1위 구뤠여? 진짜여?",
+      "url": "http://enews.imbc.com/News/RetrieveNewsInfo/511580",
+      "date": "2026.07.14",
+      "source": "enews.imbc.com",
+      "thumbnail": "https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2026/07/14/97edc01b-37f6-47bc-bf06-17b36c60b82c.jpg"
+    },
+    {
+      "title": "[포토] 리센느 제나 원이, 고윤정과 파이리",
+      "url": "http://enews.imbc.com/News/RetrieveNewsInfo/511579",
+      "date": "2026.07.14",
+      "source": "enews.imbc.com",
+      "thumbnail": "https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2026/07/14/eca8d24f-7cdf-476d-9059-255b7fb5ec49.jpg"
+    },
+    {
+      "title": "[포토] 리센느, 상큼한 프리티걸",
+      "url": "https://www.ajunews.com/view/20260714225820178",
+      "date": "2026.07.14",
+      "source": "ajunews.com",
+      "thumbnail": "https://image.ajunews.com/content/image/2026/07/14/20260714225831986810.jpg"
+    },
+    {
+      "title": "[HD포토] 원이, '오늘 받은 소중한 1위 트로피는 리센느의 그냥 단순한 ...",
+      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16134446",
       "date": "2026.07.14",
       "source": "topstarnews.net",
-      "thumbnail": "https://cdn.topstarnews.net/news/photo/202607/16134436_1961668_5215_crop.jpg"
-    },
-    {
-      "title": "[NC포토] \"우리 1위 했어요\" 리센느 원이, 처음으로 부르는 앵콜 무대",
-      "url": "https://www.nc.press/news/articleView.html?idxno=620823",
-      "date": "2026.07.14",
-      "source": "nc.press",
-      "thumbnail": "https://cdn.nc.press/news/photo/202607/620823_845045_279.jpg"
-    },
-    {
-      "title": "리센느, 데뷔 후 첫 음방 1위 눈물의 소감…팬들도 함께 울었다",
-      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3636087",
-      "date": "2026.07.14",
-      "source": "gukjenews.com",
-      "thumbnail": "https://cdn.gukjenews.com/news/thumbnail/202607/3636087_3800399_4210_v150.jpg"
-    },
-    {
-      "title": "[TD포토] 리센느 메이 '심쿵 볼 콕'",
-      "url": "http://www.tvdaily.co.kr/read.php3?aid=17840361821793975017",
-      "date": "2026.07.14",
-      "source": "tvdaily.co.kr",
-      "thumbnail": "http://image.tvdaily.co.kr/upimages/gisaimg/202607/1784036182_1793975.jpg"
-    },
-    {
-      "title": "리센느, 첫 음방 1위에 감격…'눈물 범벅' 셀카로 전한 진심 [스타엿보...",
-      "url": "http://www.stoo.com/article.php?aid=107758998080",
-      "date": "2026.07.14",
-      "source": "stoo.com",
-      "thumbnail": null
-    },
-    {
-      "title": "부둥켜 안고 1위 기쁨 나누는 리센느",
-      "url": "https://www.news1.kr/photos/8008713",
-      "date": "2026.07.14",
-      "source": "news1.kr",
-      "thumbnail": null
+      "thumbnail": "https://cdn.topstarnews.net/news/photo/202607/16134446_1961672_945_crop.jpg"
     }
   ]
 }
