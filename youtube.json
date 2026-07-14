@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-14T09:10:44Z",
+  "updated": "2026-07-14T10:10:49Z",
   "videos": [
     {
       "id": "RX592yMx7P0",
@@ -50,6 +50,22 @@
       "type": "long"
     },
     {
+      "id": "hZe0rei35Kg",
+      "title": "뷰티풀 걸 💜",
+      "url": "https://www.youtube.com/shorts/hZe0rei35Kg",
+      "thumbnail": "https://i.ytimg.com/vi/hZe0rei35Kg/mqdefault.jpg",
+      "date": "2026.07.14",
+      "type": "short"
+    },
+    {
+      "id": "h320rV98stY",
+      "title": "프리티걸 🪞",
+      "url": "https://www.youtube.com/shorts/h320rV98stY",
+      "thumbnail": "https://i.ytimg.com/vi/h320rV98stY/mqdefault.jpg",
+      "date": "2026.07.14",
+      "type": "short"
+    },
+    {
       "id": "wYBvqWyl9oc",
       "title": "Yeah yeah yeah yeah ✨💖",
       "url": "https://www.youtube.com/shorts/wYBvqWyl9oc",
@@ -79,22 +95,6 @@
       "url": "https://www.youtube.com/shorts/Hei_46ymSwU",
       "thumbnail": "https://i.ytimg.com/vi/Hei_46ymSwU/mqdefault.jpg",
       "date": "2026.07.14",
-      "type": "short"
-    },
-    {
-      "id": "4UbhgkkYLCE",
-      "title": "#전소미 선배님과 어디서나 당당하게 걷기 🎀",
-      "url": "https://www.youtube.com/shorts/4UbhgkkYLCE",
-      "thumbnail": "https://i.ytimg.com/vi/4UbhgkkYLCE/mqdefault.jpg",
-      "date": "2026.07.13",
-      "type": "short"
-    },
-    {
-      "id": "1ImC7GHl1ns",
-      "title": "#박진영 선배님과 어디서나 당당하게 걷기 🎀",
-      "url": "https://www.youtube.com/shorts/1ImC7GHl1ns",
-      "thumbnail": "https://i.ytimg.com/vi/1ImC7GHl1ns/mqdefault.jpg",
-      "date": "2026.07.13",
       "type": "short"
     }
   ]
