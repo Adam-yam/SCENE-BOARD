@@ -1,33 +1,138 @@
 {
-  "updated": "2026-07-14T00:01:05Z",
+  "updated": "2026-07-14T01:01:02Z",
   "articles": [
     {
-      "title": "의정부고 전통 올해도 터졌다…홍명보 \"싸워\"부터 리센느 \"야호~!\"까지 ...",
-      "url": "https://news.jtbc.co.kr/article/NB12308078?influxDiv=NAVER",
-      "date": "2026.07.13",
-      "source": "news.jtbc.co.kr",
+      "title": "전소미, 포즈도 척척...'흥' 못 참고 터진 '야호'",
+      "url": "https://www.mydaily.co.kr/page/view/2026071409554517035",
+      "date": "2026.07.14",
+      "source": "mydaily.co.kr",
+      "thumbnail": "https://mydaily.co.kr/photos/2026/07/14/2026071409541788639_l.jpg"
+    },
+    {
+      "title": "무신사와 손잡고...도미노피자, '무진장 슈림프 스테이크 피자' 출시",
+      "url": "https://daily.hankooki.com/news/articleView.html?idxno=1385663",
+      "date": "2026.07.14",
+      "source": "daily.hankooki.com",
+      "thumbnail": "https://cdn.daily.hankooki.com/news/thumbnail/202607/1385663_1567119_5525_v150.jpg"
+    },
+    {
+      "title": "천안 K-컬처 박람회, 한류 콘텐츠 총집결 9월 독립기념관서 닷새간 개최",
+      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3635130",
+      "date": "2026.07.14",
+      "source": "gukjenews.com",
+      "thumbnail": "https://cdn.gukjenews.com/news/thumbnail/202607/3635130_3799279_544_v150.jpg"
+    },
+    {
+      "title": "천안 K-컬처박람회 9월 2~6일 개최…공연 라인업·핵심 콘텐츠 공개",
+      "url": "http://www.sisanews24.co.kr/19012",
+      "date": "2026.07.14",
+      "source": "sisanews24.co.kr",
+      "thumbnail": "https://www.sisanews24.co.kr/data/sisanews24_co_kr/mainimages/202607/600_712_2026071453463736.jpg"
+    },
+    {
+      "title": "자이언트 새우에 꽉찬 칼집 스테이크…도미노 '무진장' 피자 출시",
+      "url": "https://www.mt.co.kr/living/2026/07/14/2026071409074789958",
+      "date": "2026.07.14",
+      "source": "mt.co.kr",
+      "thumbnail": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/07/2026071409074789958_1.jpg"
+    },
+    {
+      "title": "천안K-컬처박람회, 대세 걸그룹 '리센느' 온다…주요 프로그램 공개",
+      "url": "https://www.newsis.com/view/NISX20260714_0003708157",
+      "date": "2026.07.14",
+      "source": "newsis.com",
+      "thumbnail": "https://img1.newsis.com/2026/07/14/NISI20260714_0002185969_web.jpg"
+    },
+    {
+      "title": "천안시, K-컬처 박람회 준비 본격화",
+      "url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1274352",
+      "date": "2026.07.14",
+      "source": "jeonmae.co.kr",
+      "thumbnail": "https://www.jeonmae.co.kr/news/thumbnail/202607/1274352_998007_2654_v150.jpg"
+    },
+    {
+      "title": "천안 K-컬처 박람회 50일 앞으로…4대 전시·공연 출연진 확정",
+      "url": "https://www.yna.co.kr/view/AKR20260714048600063?input=1195m",
+      "date": "2026.07.14",
+      "source": "yna.co.kr",
+      "thumbnail": "https://img1.yna.co.kr/etc/inner/KR/2026/07/14/AKR20260714048600063_01_i_P4.jpg"
+    },
+    {
+      "title": "천안 K-컬처 박람회 D-50…4대 전시·1차 라인업 공개",
+      "url": "https://www.nocutnews.co.kr/news/6547612?utm_source=naver&utm_medium=article&utm_campaign=20260714093821",
+      "date": "2026.07.14",
+      "source": "nocutnews.co.kr",
+      "thumbnail": "https://file2.nocutnews.co.kr/newsroom/image/2026/07/14/202607140936041755_0.jpg"
+    },
+    {
+      "title": "도미노피자, 자이언트 새우·스테이크 담은 신메뉴 선보인다",
+      "url": "https://www.kmaeil.com/news/articleView.html?idxno=645196",
+      "date": "2026.07.14",
+      "source": "kmaeil.com",
+      "thumbnail": "https://cdn.kmaeil.com/news/photo/202607/645196_443826_326.jpg"
+    },
+    {
+      "title": "하루 7시간 라이브 방송…리센느 '중소돌 기적'의 이유",
+      "url": "https://www.hankyung.com/article/202607120111i",
+      "date": "2026.07.14",
+      "source": "hankyung.com",
+      "thumbnail": "https://img.hankyung.com/photo/202607/01.45005485.1.jpg"
+    },
+    {
+      "title": "천안 K-컬처 박람회 50일 앞으로",
+      "url": "https://cc.newdaily.co.kr/site/data/html/2026/07/14/2026071400047.html",
+      "date": "2026.07.14",
+      "source": "cc.newdaily.co.kr",
+      "thumbnail": "https://image.newdaily.co.kr/site/data/img/2026/07/14/2026071400047_0.jpg"
+    },
+    {
+      "title": "'리센느 매니저' 김혜수…알고 보니 마리슈 강규현 아내",
+      "url": "https://www.newsis.com/view/NISX20260714_0003707968",
+      "date": "2026.07.14",
+      "source": "newsis.com",
+      "thumbnail": "https://img1.newsis.com/2026/07/14/NISI20260714_0002185879_web.jpg"
+    },
+    {
+      "title": "‘도미노피자x무신사’ 컬래버… 무진장 피자&패션템 출시",
+      "url": "http://www.segyebiz.com/newsView/20260714506389?OutUrl=naver",
+      "date": "2026.07.14",
+      "source": "segyebiz.com",
+      "thumbnail": "http://www.segyebiz.com//content/image/2026/07/14/20260714506388.jpg"
+    },
+    {
+      "title": "금호타이어, 현대 N 페스티벌 3라운드 포디엄 차지⋯ 첫 나이트 경기서...",
+      "url": "https://www.viva100.com/article/20260714500154",
+      "date": "2026.07.14",
+      "source": "viva100.com",
       "thumbnail": null
     },
     {
-      "title": "도미노피자, 무신사 협업 신제품 선봬",
-      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092165728",
-      "date": "2026.07.13",
-      "source": "it.chosun.com",
-      "thumbnail": "https://cdn.it.chosun.com/news/thumbnail/202607/2023092165728_447517_4825_v150.jpg"
+      "title": "김남국 \"조국 '노' 발언 논란 부적절\"…합당엔 \"갈 수밖에 없다\"",
+      "url": "https://news.tvchosun.com/site/data/html_dir/2026/07/14/2026071490092.html",
+      "date": "2026.07.14",
+      "source": "news.tvchosun.com",
+      "thumbnail": "https://img.tvchosun.com/sitedata/image/202607/14/2026071490092_0.jpg"
     },
     {
-      "title": "도미노피자, 리센느 이어 무신사 손잡고 '무진장 피자' 선봬",
-      "url": "https://www.news1.kr/industry/distribution/6227096",
-      "date": "2026.07.13",
+      "title": "김남국 \"曺 '노' 언급 부적절, 청년들에게 대신 사과…혁신당 합당은 당...",
+      "url": "https://www.news1.kr/politics/assembly/6227050",
+      "date": "2026.07.14",
       "source": "news1.kr",
       "thumbnail": null
     },
     {
-      "title": "도미노피자 '무진장 슈림프 스테이크 피자'...할리스, 블랙 음료 2종 출...",
-      "url": "https://www.slist.kr/news/articleView.html?idxno=751635",
+      "title": "도미노피자-무신사, '무진장 슈림프 스테이크 피자' 출시",
+      "url": "https://www.etnews.com/20260714000084",
+      "date": "2026.07.14",
+      "source": "etnews.com",
+      "thumbnail": "https://img.etnews.com/news/article/2026/07/14/news-p.v1.20260714.8bb12c9a3d9149399eeaa407670a7c0e_P1.jpg"
+    },
+    {
+      "title": "[시시비비]배재고·리센느 논란…갈라친 것과 이어붙인 것",
+      "url": "https://view.asiae.co.kr/article/2026071408065454647",
       "date": "2026.07.13",
-      "source": "slist.kr",
-      "thumbnail": "https://cdn.slist.kr/news/thumbnail/202607/751635_1152809_489_v150.jpg"
+      "source": "view.asiae.co.kr",
+      "thumbnail": "https://cwstatic.asiae.co.kr/asiae_v2/asiae_news.png"
     },
     {
       "title": "거제시 홍보대사 ‘리센느’, 흥남철수기념공원에서 팬들과 특별한 만남",
@@ -35,111 +140,6 @@
       "date": "2026.07.13",
       "source": "dnews.co.kr",
       "thumbnail": "https://image.dnews.co.kr/photo/photo/2026/07/13/202607131623220030988-2-677565.JPG"
-    },
-    {
-      "title": "도미노피자, 무신사 협업 '무진장 슈림프 스테이크 피자' 출시",
-      "url": "http://www.beyondpost.co.kr/view.php?ud=20260714083622401146a9e4dd7f_30",
-      "date": "2026.07.13",
-      "source": "beyondpost.co.kr",
-      "thumbnail": null
-    },
-    {
-      "title": "리센느 발탁한 도미노, 이번엔 무신사 감성 입은 '무진장 피자' 굽는다",
-      "url": "https://www.hankyung.com/article/202607143143g",
-      "date": "2026.07.13",
-      "source": "hankyung.com",
-      "thumbnail": "https://img.hankyung.com/photo/202607/01.45020154.1.jpg"
-    },
-    {
-      "title": "도미노피자, 무신사와 협업한 ‘무진장 슈림프 스테이크 피자’ 선봬",
-      "url": "https://www.etoday.co.kr/news/view/2603333",
-      "date": "2026.07.13",
-      "source": "etoday.co.kr",
-      "thumbnail": "https://img.etoday.co.kr/pto_db/2026/07/20260714083145_2359054_1200_807.jpg"
-    },
-    {
-      "title": "[오늘의신상]\"무신사 키워드 담은 피자\"…'무진장 슈림프 스테이크 피자...",
-      "url": "https://view.asiae.co.kr/article/2026071408244424111",
-      "date": "2026.07.13",
-      "source": "view.asiae.co.kr",
-      "thumbnail": "https://cphoto.asiae.co.kr/listimglink/1/2026071408233644666_1783985015.jpg"
-    },
-    {
-      "title": "“자극 대신 공감”…아이오아이·한로로가 보여준 ‘스토리’의 가치...",
-      "url": "https://www.dailian.co.kr/news/view/1666729/?sc=Naver",
-      "date": "2026.07.13",
-      "source": "dailian.co.kr",
-      "thumbnail": "https://cdnimage.dailian.co.kr/news/202607/news_1783974130_1666729_m_1.jpg"
-    },
-    {
-      "title": "도미노피자, ‘무진장 슈림프 스테이크 피자’ 출시…무신사와 협업",
-      "url": "https://biz.heraldcorp.com/article/10807664?ref=naver",
-      "date": "2026.07.13",
-      "source": "biz.heraldcorp.com",
-      "thumbnail": "https://wimg.heraldcorp.com/news/cms/2026/07/14/news-p.v1.20260714.3929a6e6f0ee476b9be2f8ca38828f24_T1.jpg"
-    },
-    {
-      "title": "도미노피자, '무진장 슈림프 스테이크 피자' 선봬",
-      "url": "https://www.g-enews.com/view.php?ud=202607140823499484a96f092d0c_1",
-      "date": "2026.07.13",
-      "source": "g-enews.com",
-      "thumbnail": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&amp;simg=2026071408242407383a96f092d0c10625224986.jpg"
-    },
-    {
-      "title": "\"무섭노, 우습노, 찔리노?\"",
-      "url": "https://www.the-pr.co.kr/news/articleView.html?idxno=61912",
-      "date": "2026.07.13",
-      "source": "the-pr.co.kr",
-      "thumbnail": "https://cdn.the-pr.co.kr/news/photo/202607/61912_93911_958.jpg"
-    },
-    {
-      "title": "[뮤직100] 거북이 '비행기' 25계단·방탄소년단 'SWIM' 24계단 급등…TOP...",
-      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16133567",
-      "date": "2026.07.13",
-      "source": "topstarnews.net",
-      "thumbnail": "https://cdn.topstarnews.net/news/photo/202607/16133567_1961053_5728_crop.jpg"
-    },
-    {
-      "title": "홍명보·손흥민부터, 젠슨 황, 참교육까지…의정부 '졸업사진' 또 빵 터...",
-      "url": "https://www.news1.kr/society/general-society/6226983",
-      "date": "2026.07.13",
-      "source": "news1.kr",
-      "thumbnail": null
-    },
-    {
-      "title": "홍명보부터 르센느까지…의정부고 졸업사진 올해도 '대박'",
-      "url": "https://news.tvchosun.com/site/data/html_dir/2026/07/14/2026071490069.html",
-      "date": "2026.07.13",
-      "source": "news.tvchosun.com",
-      "thumbnail": "https://img.tvchosun.com/sitedata/image/202607/14/2026071490069_0.jpg"
-    },
-    {
-      "title": "세수 대박? 800조+알파, 확실하게 돈 쓰는 정부로 간다: 슬로우레터 7월...",
-      "url": "https://slownews.kr/163158",
-      "date": "2026.07.13",
-      "source": "slownews.kr",
-      "thumbnail": "https://slownews.kr/wp-content/uploads/2026/07/1783944949877_1_0-1.jpg"
-    },
-    {
-      "title": "리센느 역주행…중소 아이돌 생존경쟁",
-      "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8609905&ref=A",
-      "date": "2026.07.13",
-      "source": "news.kbs.co.kr",
-      "thumbnail": "http://news.kbs.co.kr/data/news/title_image/newsmp4/newsplaza/2026/07/14/260_8609905.jpg"
-    },
-    {
-      "title": "“거제 야호” 리센느, 2주 만에 3kg 감량 비결은 ‘이 운동’?",
-      "url": "https://kormedi.com/?p=2833487",
-      "date": "2026.07.13",
-      "source": "kormedi.com",
-      "thumbnail": null
-    },
-    {
-      "title": "리센느, ‘Pretty Girl’ 컴백 첫 주 음악방송 활동 성공적으로 마무리",
-      "url": "https://sports.khan.co.kr/article/202607132232003?pt=nv",
-      "date": "2026.07.13",
-      "source": "sports.khan.co.kr",
-      "thumbnail": null
     }
   ]
 }
