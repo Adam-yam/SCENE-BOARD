@@ -1,110 +1,82 @@
 {
-  "updated": "2026-07-14T10:01:04Z",
+  "updated": "2026-07-14T11:01:07Z",
   "articles": [
     {
-      "title": "[HD포토] 리센느 리브, '진경은 청순美 무슨 일이야?' (더쇼)",
-      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16134257",
-      "date": "2026.07.14",
-      "source": "topstarnews.net",
-      "thumbnail": "https://cdn.topstarnews.net/news/photo/202607/16134257_1961540_5859_crop.jpg"
-    },
-    {
-      "title": "[포토] 리센느 미나미, '더쇼 야호~'",
-      "url": "https://www.ajunews.com/view/20260714185820099",
-      "date": "2026.07.14",
-      "source": "ajunews.com",
-      "thumbnail": "https://image.ajunews.com/content/image/2026/07/14/20260714185923545422.jpg"
-    },
-    {
-      "title": "[TD포토] 정대현 '노래하며 촉촉한 눈빛'",
-      "url": "http://www.tvdaily.co.kr/read.php3?aid=17840230441793931017",
-      "date": "2026.07.14",
-      "source": "tvdaily.co.kr",
-      "thumbnail": "http://image.tvdaily.co.kr/upimages/gisaimg/202607/1784023044_1793931.jpg"
-    },
-    {
-      "title": "정대현, 더쇼를 울리는 열창 [포토엔HD]",
-      "url": "https://www.newsen.com/news_view.php?uid=202607141857115510",
-      "date": "2026.07.14",
-      "source": "newsen.com",
-      "thumbnail": "https://photo.newsen.com/news_photo/2026/07/14/202607141857115510_1.jpg"
-    },
-    {
-      "title": "[포토Q] 리브 '인형 같은 비주얼'",
-      "url": "http://www.sportsq.co.kr/news/articleView.html?idxno=496444",
-      "date": "2026.07.14",
-      "source": "sportsq.co.kr",
-      "thumbnail": "http://www.sportsq.co.kr/news/thumbnail/202607/496444_573066_5716_v150.jpg"
-    },
-    {
-      "title": "[포토] 리세느 미나미, 인형이다 인형",
-      "url": "https://www.heraldmuse.com/article/10808850?ref=naver",
-      "date": "2026.07.14",
-      "source": "heraldmuse.com",
-      "thumbnail": "https://wimg.heraldcorp.com/news/cms/2026/07/14/news-p.v1.20260714.3e9c260d0af64b8086cdaaff32823381_T1.jpg"
-    },
-    {
-      "title": "리센느 메이-제나 '예쁜 애 옆에 예쁜 애'[엑's HD포토]",
-      "url": "https://www.xportsnews.com/article/2172161",
-      "date": "2026.07.14",
-      "source": "xportsnews.com",
-      "thumbnail": "https://image.xportsnews.com/contents/images/upload/article/2026/0714/1784022837206625.webp"
-    },
-    {
-      "title": "[사진]'대세' 리센느, '컴백 인사 전하며'",
-      "url": "http://www.osen.co.kr/article/G1112839671",
-      "date": "2026.07.14",
-      "source": "osen.co.kr",
-      "thumbnail": "http://file.osen.co.kr/article_thumb/2026/07/14/202607141854778186_6a56074a54511_300x.jpg"
-    },
-    {
-      "title": "[사진]리센느 메이, '팬들이 최고'",
-      "url": "http://www.osen.co.kr/article/G1112839670",
-      "date": "2026.07.14",
-      "source": "osen.co.kr",
-      "thumbnail": "http://file.osen.co.kr/article_thumb/2026/07/14/202607141854775818_6a5607448b299_300x.jpg"
-    },
-    {
-      "title": "[포토S] 리센느 원이, '깜찍한 양갈래'",
-      "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=828521",
-      "date": "2026.07.14",
-      "source": "spotvnews.co.kr",
-      "thumbnail": "https://cdn.spotvnews.co.kr/news/thumbnail/202607/828521_1360375_5246_v150.jpg"
-    },
-    {
-      "title": "리센느 리브 '인형 미모'[엑's HD포토]",
-      "url": "https://www.xportsnews.com/article/2172159",
-      "date": "2026.07.14",
-      "source": "xportsnews.com",
-      "thumbnail": "https://image.xportsnews.com/contents/images/upload/article/2026/0714/1784022711030165.webp"
-    },
-    {
-      "title": "[포토] 유스피어, 인간 비타민의 무대",
-      "url": "https://www.heraldmuse.com/article/10808849?ref=naver",
-      "date": "2026.07.14",
-      "source": "heraldmuse.com",
-      "thumbnail": "https://wimg.heraldcorp.com/news/cms/2026/07/14/news-p.v1.20260714.89aecbdd82bf47c2b9b1c0f8f83c43a2_T1.jpg"
-    },
-    {
-      "title": "[포토] 리센느 미나미 '1등 야호~'",
-      "url": "https://www.slist.kr/news/articleView.html?idxno=751781",
+      "title": "[포토] 리센느 '예뻐도 너무 예뻐'",
+      "url": "https://www.slist.kr/news/articleView.html?idxno=751791",
       "date": "2026.07.14",
       "source": "slist.kr",
-      "thumbnail": "https://cdn.slist.kr/news/thumbnail/202607/751781_1153002_5045_v150.jpg"
+      "thumbnail": "https://cdn.slist.kr/news/thumbnail/202607/751791_1153014_5731_v150.jpg"
     },
     {
-      "title": "[포토] 주니엘, 감미로운 기타 연주",
-      "url": "https://www.heraldmuse.com/article/10808848?ref=naver",
+      "title": "[포토] 리센느 미나미, 찰나의 아름다움",
+      "url": "https://www.heraldmuse.com/article/10808894?ref=naver",
+      "date": "2026.07.14",
+      "source": "heraldmuse.com",
+      "thumbnail": "https://wimg.heraldcorp.com/news/cms/2026/07/14/news-p.v1.20260714.5284993a03cf4ff6856a340ec8bfaa32_T1.jpg"
+    },
+    {
+      "title": "[HD포토] 리센느 미나미, '노력한 자의 눈물은 아름답다' (더쇼)",
+      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16134303",
+      "date": "2026.07.14",
+      "source": "topstarnews.net",
+      "thumbnail": "https://cdn.topstarnews.net/news/photo/202607/16134303_1961576_5916_crop.jpg"
+    },
+    {
+      "title": "리센느 원이, 흐르는 눈물 [포토엔HD]",
+      "url": "https://www.newsen.com/news_view.php?uid=202607141956315510",
+      "date": "2026.07.14",
+      "source": "newsen.com",
+      "thumbnail": "https://photo.newsen.com/news_photo/2026/07/14/202607141956315510_1.jpg"
+    },
+    {
+      "title": "[포토] 리센느 메이, 인형보다 메이",
+      "url": "https://www.heraldmuse.com/article/10808893?ref=naver",
       "date": "2026.07.14",
       "source": "heraldmuse.com",
       "thumbnail": null
     },
     {
-      "title": "[포토] 리세느 메이, ‘리마인 사랑해요’",
-      "url": "https://www.heraldmuse.com/article/10808843?ref=naver",
+      "title": "[NC포토] 리센느 원이·미나미·리브·메이·제나, 첫 음방 1위 순간",
+      "url": "https://www.nc.press/news/articleView.html?idxno=620805",
+      "date": "2026.07.14",
+      "source": "nc.press",
+      "thumbnail": "https://cdn.nc.press/news/photo/202607/620805_844940_402.jpg"
+    },
+    {
+      "title": "[포토] 리센느 원이, 나노 사이즈 허리",
+      "url": "https://www.heraldmuse.com/article/10808892?ref=naver",
       "date": "2026.07.14",
       "source": "heraldmuse.com",
-      "thumbnail": "https://wimg.heraldcorp.com/news/cms/2026/07/14/news-p.v1.20260714.f5938f649e324f25a80ce14bfab44826_T1.jpg"
+      "thumbnail": "https://wimg.heraldcorp.com/news/cms/2026/07/14/news-p.v1.20260714.1f4b7a468eaf461aaebae87ed49b407e_T1.jpg"
+    },
+    {
+      "title": "[포토Q] 1위 그룹 리센느, '음악방송 1위가 처음이라'",
+      "url": "http://www.sportsq.co.kr/news/articleView.html?idxno=496454",
+      "date": "2026.07.14",
+      "source": "sportsq.co.kr",
+      "thumbnail": "http://www.sportsq.co.kr/news/thumbnail/202607/496454_573078_4323_v150.jpg"
+    },
+    {
+      "title": "리센느 원이, 1위 해서 기분 좋은 거제 야호 공주님",
+      "url": "https://www.news1.kr/photos/8008637",
+      "date": "2026.07.14",
+      "source": "news1.kr",
+      "thumbnail": null
+    },
+    {
+      "title": "[포토] 리센느, 당당한 프리티 걸",
+      "url": "https://www.heraldmuse.com/article/10808888?ref=naver",
+      "date": "2026.07.14",
+      "source": "heraldmuse.com",
+      "thumbnail": "https://wimg.heraldcorp.com/news/cms/2026/07/14/news-p.v1.20260714.fa1fce0323e94feb80fea05c2bc2a3a5_T1.jpg"
+    },
+    {
+      "title": "[포토] 리센느 제나, ‘신라공주 여기있어’",
+      "url": "https://www.heraldmuse.com/article/10808887?ref=naver",
+      "date": "2026.07.14",
+      "source": "heraldmuse.com",
+      "thumbnail": "https://wimg.heraldcorp.com/news/cms/2026/07/14/news-p.v1.20260714.69b75fdd9412457aaa44d9c4716d2e30_T1.jpg"
     }
   ]
 }
