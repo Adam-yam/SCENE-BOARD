@@ -1,6 +1,97 @@
 {
-  "updated": "2026-07-13T23:00:59Z",
+  "updated": "2026-07-14T00:01:05Z",
   "articles": [
+    {
+      "title": "의정부고 전통 올해도 터졌다…홍명보 \"싸워\"부터 리센느 \"야호~!\"까지 ...",
+      "url": "https://news.jtbc.co.kr/article/NB12308078?influxDiv=NAVER",
+      "date": "2026.07.13",
+      "source": "news.jtbc.co.kr",
+      "thumbnail": null
+    },
+    {
+      "title": "도미노피자, 무신사 협업 신제품 선봬",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092165728",
+      "date": "2026.07.13",
+      "source": "it.chosun.com",
+      "thumbnail": "https://cdn.it.chosun.com/news/thumbnail/202607/2023092165728_447517_4825_v150.jpg"
+    },
+    {
+      "title": "도미노피자, 리센느 이어 무신사 손잡고 '무진장 피자' 선봬",
+      "url": "https://www.news1.kr/industry/distribution/6227096",
+      "date": "2026.07.13",
+      "source": "news1.kr",
+      "thumbnail": null
+    },
+    {
+      "title": "도미노피자 '무진장 슈림프 스테이크 피자'...할리스, 블랙 음료 2종 출...",
+      "url": "https://www.slist.kr/news/articleView.html?idxno=751635",
+      "date": "2026.07.13",
+      "source": "slist.kr",
+      "thumbnail": "https://cdn.slist.kr/news/thumbnail/202607/751635_1152809_489_v150.jpg"
+    },
+    {
+      "title": "거제시 홍보대사 ‘리센느’, 흥남철수기념공원에서 팬들과 특별한 만남",
+      "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607131623220030988",
+      "date": "2026.07.13",
+      "source": "dnews.co.kr",
+      "thumbnail": "https://image.dnews.co.kr/photo/photo/2026/07/13/202607131623220030988-2-677565.JPG"
+    },
+    {
+      "title": "도미노피자, 무신사 협업 '무진장 슈림프 스테이크 피자' 출시",
+      "url": "http://www.beyondpost.co.kr/view.php?ud=20260714083622401146a9e4dd7f_30",
+      "date": "2026.07.13",
+      "source": "beyondpost.co.kr",
+      "thumbnail": null
+    },
+    {
+      "title": "리센느 발탁한 도미노, 이번엔 무신사 감성 입은 '무진장 피자' 굽는다",
+      "url": "https://www.hankyung.com/article/202607143143g",
+      "date": "2026.07.13",
+      "source": "hankyung.com",
+      "thumbnail": "https://img.hankyung.com/photo/202607/01.45020154.1.jpg"
+    },
+    {
+      "title": "도미노피자, 무신사와 협업한 ‘무진장 슈림프 스테이크 피자’ 선봬",
+      "url": "https://www.etoday.co.kr/news/view/2603333",
+      "date": "2026.07.13",
+      "source": "etoday.co.kr",
+      "thumbnail": "https://img.etoday.co.kr/pto_db/2026/07/20260714083145_2359054_1200_807.jpg"
+    },
+    {
+      "title": "[오늘의신상]\"무신사 키워드 담은 피자\"…'무진장 슈림프 스테이크 피자...",
+      "url": "https://view.asiae.co.kr/article/2026071408244424111",
+      "date": "2026.07.13",
+      "source": "view.asiae.co.kr",
+      "thumbnail": "https://cphoto.asiae.co.kr/listimglink/1/2026071408233644666_1783985015.jpg"
+    },
+    {
+      "title": "“자극 대신 공감”…아이오아이·한로로가 보여준 ‘스토리’의 가치...",
+      "url": "https://www.dailian.co.kr/news/view/1666729/?sc=Naver",
+      "date": "2026.07.13",
+      "source": "dailian.co.kr",
+      "thumbnail": "https://cdnimage.dailian.co.kr/news/202607/news_1783974130_1666729_m_1.jpg"
+    },
+    {
+      "title": "도미노피자, ‘무진장 슈림프 스테이크 피자’ 출시…무신사와 협업",
+      "url": "https://biz.heraldcorp.com/article/10807664?ref=naver",
+      "date": "2026.07.13",
+      "source": "biz.heraldcorp.com",
+      "thumbnail": "https://wimg.heraldcorp.com/news/cms/2026/07/14/news-p.v1.20260714.3929a6e6f0ee476b9be2f8ca38828f24_T1.jpg"
+    },
+    {
+      "title": "도미노피자, '무진장 슈림프 스테이크 피자' 선봬",
+      "url": "https://www.g-enews.com/view.php?ud=202607140823499484a96f092d0c_1",
+      "date": "2026.07.13",
+      "source": "g-enews.com",
+      "thumbnail": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&amp;simg=2026071408242407383a96f092d0c10625224986.jpg"
+    },
+    {
+      "title": "\"무섭노, 우습노, 찔리노?\"",
+      "url": "https://www.the-pr.co.kr/news/articleView.html?idxno=61912",
+      "date": "2026.07.13",
+      "source": "the-pr.co.kr",
+      "thumbnail": "https://cdn.the-pr.co.kr/news/photo/202607/61912_93911_958.jpg"
+    },
     {
       "title": "[뮤직100] 거북이 '비행기' 25계단·방탄소년단 'SWIM' 24계단 급등…TOP...",
       "url": "https://www.topstarnews.net/news/articleView.html?idxno=16133567",
@@ -37,94 +128,10 @@
       "thumbnail": "http://news.kbs.co.kr/data/news/title_image/newsmp4/newsplaza/2026/07/14/260_8609905.jpg"
     },
     {
-      "title": "온 세상을 물들여…리센느, 단순 히트 아닌 ‘현상’이 되다 [IS포커스]",
-      "url": "https://isplus.com/article/view/isp202607140005",
-      "date": "2026.07.13",
-      "source": "isplus.com",
-      "thumbnail": "https://isplus.com/data/isp/image/2026/07/14/isp20260714000011.800x.0.jpg"
-    },
-    {
-      "title": "의정부고 졸업사진 공개…\"이거 나올 줄 알았다\" 봤더니",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008655845&plink=ORI&cooper=NAVER",
-      "date": "2026.07.13",
-      "source": "news.sbs.co.kr",
-      "thumbnail": null
-    },
-    {
       "title": "“거제 야호” 리센느, 2주 만에 3kg 감량 비결은 ‘이 운동’?",
       "url": "https://kormedi.com/?p=2833487",
       "date": "2026.07.13",
       "source": "kormedi.com",
-      "thumbnail": null
-    },
-    {
-      "title": "도미노피자, 새 전속 모델로 '야호' 걸그룹 리센느 발탁",
-      "url": "https://www.globale.co.kr/news/articleView.html?idxno=39316",
-      "date": "2026.07.13",
-      "source": "globale.co.kr",
-      "thumbnail": "https://cdn.globale.co.kr/news/thumbnail/202607/39316_64452_545_v150.jpg"
-    },
-    {
-      "title": "'역주행 신화' 리센느 살던 숙소, 월세 매물 나왔다…모든 게 화제 [엑'...",
-      "url": "https://www.xportsnews.com/article/2171883",
-      "date": "2026.07.13",
-      "source": "xportsnews.com",
-      "thumbnail": "https://image.xportsnews.com/contents/images/upload/article/2026/0714/1783963380414027.webp"
-    },
-    {
-      "title": "\"이쯤 가면 막 하자는 거지요\" [기자수첩-사회]",
-      "url": "https://www.dailian.co.kr/news/view/1666624/?sc=Naver",
-      "date": "2026.07.13",
-      "source": "dailian.co.kr",
-      "thumbnail": null
-    },
-    {
-      "title": "모아나·아이오아이·김부장·닥터섬보이, 1위 [한눈에 보는 엔터차트]",
-      "url": "https://www.news1.kr/entertain/movie/6226458",
-      "date": "2026.07.13",
-      "source": "news1.kr",
-      "thumbnail": null
-    },
-    {
-      "title": "'프리티걸'도 '미스터'도 재소환…카라가 선택받은 이유 [TEN스타필드]",
-      "url": "https://www.tenasia.co.kr/article/2026071318904",
-      "date": "2026.07.13",
-      "source": "tenasia.co.kr",
-      "thumbnail": "https://img.tenasia.co.kr/photo/202607/BF.45015156.1.png"
-    },
-    {
-      "title": "[와글와글] \"올해의 이슈는?\" 의정부고 졸업 사진",
-      "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6837191_37012.html",
-      "date": "2026.07.13",
-      "source": "imnews.imbc.com",
-      "thumbnail": "https://image.imnews.imbc.com/replay/2026/nwtoday/article/__icsFiles/afieldfile/2026/07/14/today_20260714_064309_2_7_Large.jpg"
-    },
-    {
-      "title": "개혁신당·조국혁신당, 앞날이 불투명하다",
-      "url": "https://weekly.khan.co.kr/article/202607140600001",
-      "date": "2026.07.13",
-      "source": "weekly.khan.co.kr",
-      "thumbnail": "https://img.khan.co.kr/weekly/2026/07/14/news-p.v1.20260709.7e6ac5a0e5c74e1aa67826f451f2cd52_P1.jpg"
-    },
-    {
-      "title": "[이 시각 핫뉴스] \"저 따라오세요\"…산불 길잡이 된 영웅 염소 화제 外",
-      "url": "http://www.yonhapnewstv.co.kr/news/MYH20260714054217bMC",
-      "date": "2026.07.13",
-      "source": "yonhapnewstv.co.kr",
-      "thumbnail": "https://media.yonhapnewstv.co.kr/article/MYH/20260713/MYH20260714054217bMC.jpg"
-    },
-    {
-      "title": "[길섶에서] 등산모가 무섭노",
-      "url": "https://www.seoul.co.kr/news/editOpinion/wayside-column/2026/07/14/20260714026002?wlog_tag3=naver",
-      "date": "2026.07.13",
-      "source": "seoul.co.kr",
-      "thumbnail": null
-    },
-    {
-      "title": "'거제 야호'가 전부 아니다... 연출의 세계에서 통한 리센느의 '진짜 서...",
-      "url": "https://www.hankookilbo.com/news/article/A2026071311210004586?did=NA",
-      "date": "2026.07.13",
-      "source": "hankookilbo.com",
       "thumbnail": null
     },
     {
@@ -133,13 +140,6 @@
       "date": "2026.07.13",
       "source": "sports.khan.co.kr",
       "thumbnail": null
-    },
-    {
-      "title": "리셀 넘어 엔터 IP 플랫폼으로…크림, 한로로·미야오·리센느 MD 단독 ...",
-      "url": "https://www.venturesquare.net/1098337/",
-      "date": "2026.07.13",
-      "source": "venturesquare.net",
-      "thumbnail": "https://www.venturesquare.net/wp-content/uploads/2026/07/roro.jpg"
     }
   ]
 }
