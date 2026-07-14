@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-13T15:05:33Z",
+  "updated": "2026-07-14T03:05:30Z",
   "events": [
     {
       "date": "2026-07-06",
@@ -123,8 +123,8 @@
     },
     {
       "date": "2026-07-14",
-      "time": null,
-      "title": "KBS <키스 더 라디오>",
+      "time": "05:00",
+      "title": "MBC M <쇼! 챔피언> 사전녹화 1",
       "detail": "",
       "type": "방송",
       "source": "mnetplus"
@@ -141,6 +141,22 @@
       "date": "2026-07-14",
       "time": "20:10",
       "title": "SBS M <THE K-POP FANPOPTY> 녹화",
+      "detail": "",
+      "type": "방송",
+      "source": "mnetplus"
+    },
+    {
+      "date": "2026-07-14",
+      "time": "22:30",
+      "title": "KBS <키스 더 라디오>",
+      "detail": "",
+      "type": "방송",
+      "source": "mnetplus"
+    },
+    {
+      "date": "2026-07-15",
+      "time": "12:50",
+      "title": "MBC M <쇼! 챔피언> 사전녹화 2",
       "detail": "",
       "type": "방송",
       "source": "mnetplus"
