@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-14T06:10:46Z",
+  "updated": "2026-07-14T07:10:50Z",
   "videos": [
     {
       "id": "RX592yMx7P0",
@@ -50,6 +50,14 @@
       "type": "long"
     },
     {
+      "id": "EzIt_18qcyg",
+      "title": "#최유정 선배님과 어디서나 당당하게 걷기 🎀",
+      "url": "https://www.youtube.com/shorts/EzIt_18qcyg",
+      "thumbnail": "https://i.ytimg.com/vi/EzIt_18qcyg/mqdefault.jpg",
+      "date": "2026.07.14",
+      "type": "short"
+    },
+    {
       "id": "ef_HdWft_ls",
       "title": "#이송현 님과 어디서나 당당하게 걷기 🎀",
       "url": "https://www.youtube.com/shorts/ef_HdWft_ls",
@@ -86,14 +94,6 @@
       "title": "#CHIQUITA 님과 어디서나 당당하게 걷기 🎀",
       "url": "https://www.youtube.com/shorts/TfGM7oKO7tE",
       "thumbnail": "https://i.ytimg.com/vi/TfGM7oKO7tE/mqdefault.jpg",
-      "date": "2026.07.13",
-      "type": "short"
-    },
-    {
-      "id": "LMw_XSxh8Ag",
-      "title": "#오정세 선배님과 어디서나 당당하게 걷기 🎀",
-      "url": "https://www.youtube.com/shorts/LMw_XSxh8Ag",
-      "thumbnail": "https://i.ytimg.com/vi/LMw_XSxh8Ag/mqdefault.jpg",
       "date": "2026.07.13",
       "type": "short"
     }
