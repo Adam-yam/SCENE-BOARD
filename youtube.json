@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15T10:10:45Z",
+  "updated": "2026-07-15T11:10:41Z",
   "videos": [
     {
       "id": "RX592yMx7P0",
@@ -50,6 +50,14 @@
       "type": "long"
     },
     {
+      "id": "46SJ_LDyEDw",
+      "title": "#박보은 선배님과 어디서나 당당하게 걷기 🎀",
+      "url": "https://www.youtube.com/shorts/46SJ_LDyEDw",
+      "thumbnail": "https://i.ytimg.com/vi/46SJ_LDyEDw/mqdefault.jpg",
+      "date": "2026.07.15",
+      "type": "short"
+    },
+    {
       "id": "pNIxNSRN128",
       "title": "#정세민 님과 어디서나 당당하게 걷기 🎀",
       "url": "https://www.youtube.com/shorts/pNIxNSRN128",
@@ -86,14 +94,6 @@
       "title": "프리티걸 🪞",
       "url": "https://www.youtube.com/shorts/h320rV98stY",
       "thumbnail": "https://i.ytimg.com/vi/h320rV98stY/mqdefault.jpg",
-      "date": "2026.07.14",
-      "type": "short"
-    },
-    {
-      "id": "wYBvqWyl9oc",
-      "title": "Yeah yeah yeah yeah ✨💖",
-      "url": "https://www.youtube.com/shorts/wYBvqWyl9oc",
-      "thumbnail": "https://i.ytimg.com/vi/wYBvqWyl9oc/mqdefault.jpg",
       "date": "2026.07.14",
       "type": "short"
     }
