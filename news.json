@@ -1,6 +1,27 @@
 {
-  "updated": "2026-07-15T21:01:02Z",
+  "updated": "2026-07-15T22:01:08Z",
   "articles": [
+    {
+      "title": "아홉, ‘쇼챔피언’ 청량 퍼포먼스",
+      "url": "https://www.bntnews.co.kr/article/view/bnt202607160004",
+      "date": "2026.07.15",
+      "source": "bntnews.co.kr",
+      "thumbnail": "https://www.bntnews.co.kr/data/bnt/image/2026/07/16/bnt202607160007.jpg"
+    },
+    {
+      "title": "‘대세 아이돌’ 리센느, 유튜브 1000만뷰 돌파…겹경사 야호~!",
+      "url": "https://www.sportsseoul.com/news/read/1622768?ref=naver",
+      "date": "2026.07.15",
+      "source": "sportsseoul.com",
+      "thumbnail": null
+    },
+    {
+      "title": "“엄마!” 박정수, 리센트 원이와 거제 야호 외쳐···리센느 대견하다...",
+      "url": "http://www.osen.co.kr/article/G1112840295",
+      "date": "2026.07.15",
+      "source": "osen.co.kr",
+      "thumbnail": "http://file.osen.co.kr/article_thumb/2026/07/16/202607160037771299_6a57a9a8a77be_300x.jpeg"
+    },
     {
       "title": "‘~노’체 논쟁의 불편한 진실…사투리가 된 혐오, 혐오가 된 사투리[이...",
       "url": "https://www.khan.co.kr/article/202607160600041",
@@ -93,18 +114,18 @@
       "thumbnail": "http://file.osen.co.kr/article_thumb/2026/07/15/202607152104775153_6a577746eba81_300x.jpg"
     },
     {
-      "title": "[사진]아홉 제이엘,'팬 여러분 덕분이에요'",
-      "url": "http://www.osen.co.kr/article/G1112840243",
-      "date": "2026.07.15",
-      "source": "osen.co.kr",
-      "thumbnail": "http://file.osen.co.kr/article_thumb/2026/07/15/202607152103770052_6a577706d8ac5_300x.jpg"
-    },
-    {
       "title": "'K-브랜드지수 TOP5' 리센느, 세기의 축구 경기 하프타임 공연 개최",
       "url": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160308392583533",
       "date": "2026.07.15",
       "source": "siminilbo.co.kr",
       "thumbnail": "https://www.siminilbo.co.kr/news/data/20260715/p1160308392583533_759_thum.jpg"
+    },
+    {
+      "title": "[사진]아홉 제이엘,'팬 여러분 덕분이에요'",
+      "url": "http://www.osen.co.kr/article/G1112840243",
+      "date": "2026.07.15",
+      "source": "osen.co.kr",
+      "thumbnail": "http://file.osen.co.kr/article_thumb/2026/07/15/202607152103770052_6a577706d8ac5_300x.jpg"
     },
     {
       "title": "[사진]아홉,'쇼챔피언 1위의 기쁨을 나누며'",
@@ -119,27 +140,6 @@
       "date": "2026.07.15",
       "source": "osen.co.kr",
       "thumbnail": "http://file.osen.co.kr/article_thumb/2026/07/15/202607152051779392_6a577432ccd41_300x.jpg"
-    },
-    {
-      "title": "[사진]아홉 박주원-서정우,'바로 너'",
-      "url": "http://www.osen.co.kr/article/G1112840234",
-      "date": "2026.07.15",
-      "source": "osen.co.kr",
-      "thumbnail": "http://file.osen.co.kr/article_thumb/2026/07/15/202607152048771022_6a5773a079914_300x.jpg"
-    },
-    {
-      "title": "[사진]리센느 리브,'상큼한 테니스 룩'",
-      "url": "http://www.osen.co.kr/article/G1112840233",
-      "date": "2026.07.15",
-      "source": "osen.co.kr",
-      "thumbnail": "http://file.osen.co.kr/article_thumb/2026/07/15/202607152046776953_6a5773155e8a8_300x.jpg"
-    },
-    {
-      "title": "[사진]리센느 원이,'깜찍한 파이리'",
-      "url": "http://www.osen.co.kr/article/G1112840232",
-      "date": "2026.07.15",
-      "source": "osen.co.kr",
-      "thumbnail": "http://file.osen.co.kr/article_thumb/2026/07/15/202607152046775361_6a5773126bcc8_300x.jpg"
     }
   ]
 }
