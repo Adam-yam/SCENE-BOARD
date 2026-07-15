@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15T06:10:49Z",
+  "updated": "2026-07-15T07:10:43Z",
   "videos": [
     {
       "id": "RX592yMx7P0",
@@ -50,6 +50,14 @@
       "type": "long"
     },
     {
+      "id": "pNIxNSRN128",
+      "title": "#정세민 님과 어디서나 당당하게 걷기 🎀",
+      "url": "https://www.youtube.com/shorts/pNIxNSRN128",
+      "thumbnail": "https://i.ytimg.com/vi/pNIxNSRN128/mqdefault.jpg",
+      "date": "2026.07.15",
+      "type": "short"
+    },
+    {
       "id": "igCglJ7UDc0",
       "title": "🕺🕺",
       "url": "https://www.youtube.com/shorts/igCglJ7UDc0",
@@ -86,14 +94,6 @@
       "title": "Yeah yeah yeah yeah ✨💖",
       "url": "https://www.youtube.com/shorts/wYBvqWyl9oc",
       "thumbnail": "https://i.ytimg.com/vi/wYBvqWyl9oc/mqdefault.jpg",
-      "date": "2026.07.14",
-      "type": "short"
-    },
-    {
-      "id": "EzIt_18qcyg",
-      "title": "#최유정 선배님과 어디서나 당당하게 걷기 🎀",
-      "url": "https://www.youtube.com/shorts/EzIt_18qcyg",
-      "thumbnail": "https://i.ytimg.com/vi/EzIt_18qcyg/mqdefault.jpg",
       "date": "2026.07.14",
       "type": "short"
     }
