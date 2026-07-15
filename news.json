@@ -1,145 +1,96 @@
 {
-  "updated": "2026-07-15T09:01:06Z",
+  "updated": "2026-07-15T10:01:04Z",
   "articles": [
     {
-      "title": "[MD포토] 리센느 원이, '강렬하게 보이쉬~'",
-      "url": "https://www.mydaily.co.kr/page/view/2026071517593984719",
+      "title": "리센느, 신곡 '프리티 걸'로 음악방송서 첫 1위 등극",
+      "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=05621926645514848",
+      "date": "2026.07.15",
+      "source": "edaily.co.kr",
+      "thumbnail": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/07/PS26071501429.jpg"
+    },
+    {
+      "title": "데뷔작에 20% 달성, 한국의 ‘체이스 인피니티’ 된 신예 서수민",
+      "url": "https://sports.donga.com/ent/article/all/20260715/134307498/1",
+      "date": "2026.07.15",
+      "source": "sports.donga.com",
+      "thumbnail": "https://dimg.donga.com/wps/SPORTS/IMAGE/2026/07/15/134303595.1.png"
+    },
+    {
+      "title": "[MD포토] 리센느 원이-미나미, '사랑스러운 소녀들'",
+      "url": "https://www.mydaily.co.kr/page/view/2026071518494797819",
       "date": "2026.07.15",
       "source": "mydaily.co.kr",
-      "thumbnail": "https://mydaily.co.kr/photos/2026/07/15/2026071517592481264_l.jpg"
-    },
-    {
-      "title": "[사진]리센느 제나,'사랑스러운 신라 공주'",
-      "url": "http://www.osen.co.kr/article/G1112840088",
-      "date": "2026.07.15",
-      "source": "osen.co.kr",
-      "thumbnail": "http://file.osen.co.kr/article_thumb/2026/07/15/202607151757773456_6a574b84122de_300x.jpg"
-    },
-    {
-      "title": "[MD포토] 리센느 원이, '귀엽게 귀엽게'",
-      "url": "https://www.mydaily.co.kr/page/view/2026071517580127456",
-      "date": "2026.07.15",
-      "source": "mydaily.co.kr",
-      "thumbnail": "https://mydaily.co.kr/photos/2026/07/15/2026071517572231112_l.jpg"
-    },
-    {
-      "title": "[TD포토] 장한음 '마음이 따뜻해지는 보이스'",
-      "url": "http://www.tvdaily.co.kr/read.php3?aid=17841058381794071017",
-      "date": "2026.07.15",
-      "source": "tvdaily.co.kr",
-      "thumbnail": "http://image.tvdaily.co.kr/upimages/gisaimg/202607/1784105838_1794071.jpg"
-    },
-    {
-      "title": "[사진]리센느 원이-제나,'파이리와 신라 공주'",
-      "url": "http://www.osen.co.kr/article/G1112840086",
-      "date": "2026.07.15",
-      "source": "osen.co.kr",
-      "thumbnail": "http://file.osen.co.kr/article_thumb/2026/07/15/202607151756770708_6a574b2c43309_300x.jpg"
-    },
-    {
-      "title": "[포토] 리센느 제나, 어디서나 빛나 빛나",
-      "url": "https://www.sportschosun.com/entertainment/2026-07-15/202607150100097270006050",
-      "date": "2026.07.15",
-      "source": "sportschosun.com",
-      "thumbnail": "https://www.sportschosun.com/article/html/2026/07/15/2026071501000972700060501_w.jpg"
-    },
-    {
-      "title": "[S포토] 장한음, '8월 부산에서 만나요'",
-      "url": "https://www.stardailynews.co.kr/news/articleView.html?idxno=542889",
-      "date": "2026.07.15",
-      "source": "stardailynews.co.kr",
-      "thumbnail": "https://cdn.stardailynews.co.kr/news/thumbnail/202607/542889_574823_5431_v150.jpg"
-    },
-    {
-      "title": "[포토] 쇼챔 장악한 리센느",
-      "url": "https://www.sportschosun.com/entertainment/2026-07-15/202607150100097260006049",
-      "date": "2026.07.15",
-      "source": "sportschosun.com",
-      "thumbnail": "https://www.sportschosun.com/article/html/2026/07/15/2026071501000972600060491_w.jpg"
-    },
-    {
-      "title": "[포토] 리센느 원이 '다 덤벼!'",
-      "url": "https://www.sportschosun.com/entertainment/2026-07-15/202607150100097290006052",
-      "date": "2026.07.15",
-      "source": "sportschosun.com",
-      "thumbnail": "https://www.sportschosun.com/article/html/2026/07/15/2026071501000972900060521_w.jpg"
-    },
-    {
-      "title": "[포토] 리센느 원이, 어디서도 볼 수 없었던 매력덩어리",
-      "url": "https://www.sportschosun.com/entertainment/2026-07-15/202607150100097280006051",
-      "date": "2026.07.15",
-      "source": "sportschosun.com",
-      "thumbnail": "https://www.sportschosun.com/article/html/2026/07/15/2026071501000972800060511_w.jpg"
-    },
-    {
-      "title": "[MD포토] 리센느가 쇼챔에 왔어요",
-      "url": "https://www.mydaily.co.kr/page/view/2026071517544008962",
-      "date": "2026.07.15",
-      "source": "mydaily.co.kr",
-      "thumbnail": "https://mydaily.co.kr/photos/2026/07/15/2026071517543672116_l.jpg"
-    },
-    {
-      "title": "리센느 원이, 깜찍한 X[포토엔HD]",
-      "url": "https://www.newsen.com/news_view.php?uid=202607151754489410",
-      "date": "2026.07.15",
-      "source": "newsen.com",
-      "thumbnail": "https://photo.newsen.com/news_photo/2026/07/15/202607151754489410_1.jpg"
-    },
-    {
-      "title": "[ST포토] '프리티걸' 리센느",
-      "url": "http://www.stoo.com/article.php?aid=107775849240",
-      "date": "2026.07.15",
-      "source": "stoo.com",
       "thumbnail": null
     },
     {
-      "title": "[사진]리센느 미나미,'사랑스럽게 인사'",
-      "url": "http://www.osen.co.kr/article/G1112840084",
+      "title": "[ST포토] 인기 급 상승한 리센느",
+      "url": "http://www.stoo.com/article.php?aid=107779420581",
+      "date": "2026.07.15",
+      "source": "stoo.com",
+      "thumbnail": "https://www.stoo.com/upimages/gisaimg/202607/15_1077794_20581.jpg"
+    },
+    {
+      "title": "[TD포토] 리센느 미나미 '유혹의 윙크'",
+      "url": "http://www.tvdaily.co.kr/read.php3?aid=17841088911794086017",
+      "date": "2026.07.15",
+      "source": "tvdaily.co.kr",
+      "thumbnail": "http://image.tvdaily.co.kr/upimages/gisaimg/202607/1784108891_1794086.jpg"
+    },
+    {
+      "title": "[MD포토] 리센느, '사랑스러운 프리티걸'",
+      "url": "https://www.mydaily.co.kr/page/view/2026071518474562793",
+      "date": "2026.07.15",
+      "source": "mydaily.co.kr",
+      "thumbnail": "https://mydaily.co.kr/photos/2026/07/15/2026071518473444284_l.jpg"
+    },
+    {
+      "title": "[MD포토] 리센느 리브, '테니스 스커트가 딱'",
+      "url": "https://www.mydaily.co.kr/page/view/2026071518453821170",
+      "date": "2026.07.15",
+      "source": "mydaily.co.kr",
+      "thumbnail": "https://mydaily.co.kr/photos/2026/07/15/2026071518452741682_l.jpg"
+    },
+    {
+      "title": "[MD포토] 리센느 미나미, '설렘 윙크'",
+      "url": "https://www.mydaily.co.kr/page/view/2026071518442374247",
+      "date": "2026.07.15",
+      "source": "mydaily.co.kr",
+      "thumbnail": "https://mydaily.co.kr/photos/2026/07/15/2026071518441504301_l.jpg"
+    },
+    {
+      "title": "[MD포토] 리센느 제나, '사랑스러운 신라 공주'",
+      "url": "https://www.mydaily.co.kr/page/view/2026071518433064712",
+      "date": "2026.07.15",
+      "source": "mydaily.co.kr",
+      "thumbnail": "https://mydaily.co.kr/photos/2026/07/15/2026071518432297729_l.jpg"
+    },
+    {
+      "title": "리센느 메이, 휘날리는 단발[포토엔HD]",
+      "url": "https://www.newsen.com/news_view.php?uid=202607151842509410",
+      "date": "2026.07.15",
+      "source": "newsen.com",
+      "thumbnail": "https://photo.newsen.com/news_photo/2026/07/15/202607151842509410_1.jpg"
+    },
+    {
+      "title": "아홉, ‘쇼! 챔피언’ 7월 셋째 주 1위 “포하 사랑해” [셀럽캡처]",
+      "url": "http://www.celuvmedia.com/article.php?aid=1784108094524090007",
+      "date": "2026.07.15",
+      "source": "celuvmedia.com",
+      "thumbnail": "http://www.celuvmedia.com/upimages/gisaimg/202607/15524090.jpg"
+    },
+    {
+      "title": "[사진]리센느 원이,'행복한 거제 파이리'",
+      "url": "http://www.osen.co.kr/article/G1112840122",
       "date": "2026.07.15",
       "source": "osen.co.kr",
-      "thumbnail": "http://file.osen.co.kr/article_thumb/2026/07/15/202607151753771556_6a574aa25f114_300x.jpg"
+      "thumbnail": "http://file.osen.co.kr/article_thumb/2026/07/15/202607151834777076_6a57540f8f647_300x.jpg"
     },
     {
-      "title": "[사진]리센느 원이,'신라공주 도발하는 거제 파이리'",
-      "url": "http://www.osen.co.kr/article/G1112840085",
+      "title": "[사진]아홉,'우리가 쇼챔피언 1위야'",
+      "url": "http://www.osen.co.kr/article/G1112840120",
       "date": "2026.07.15",
       "source": "osen.co.kr",
-      "thumbnail": "http://file.osen.co.kr/article_thumb/2026/07/15/202607151753770854_6a574aa6c2d62_300x.jpg"
-    },
-    {
-      "title": "[사진]리센느 미나미,'무대 기대하세요~ 오이데'",
-      "url": "http://www.osen.co.kr/article/G1112840079",
-      "date": "2026.07.15",
-      "source": "osen.co.kr",
-      "thumbnail": "http://file.osen.co.kr/article_thumb/2026/07/15/202607151748779057_6a574951c4e66_300x.jpg"
-    },
-    {
-      "title": "[HD포토] 리센느 메이-리브, '귀요미 피자 알바생!' (쇼챔피언)",
-      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16135518",
-      "date": "2026.07.15",
-      "source": "topstarnews.net",
-      "thumbnail": "https://cdn.topstarnews.net/news/photo/202607/16135518_1962240_4652_crop.jpg"
-    },
-    {
-      "title": "[사진]해나,'빠져드는 열창'",
-      "url": "http://www.osen.co.kr/article/G1112840074",
-      "date": "2026.07.15",
-      "source": "osen.co.kr",
-      "thumbnail": "http://file.osen.co.kr/article_thumb/2026/07/15/202607151746775330_6a5748d566e38_300x.jpg"
-    },
-    {
-      "title": "글로벌 한류 축제 '2026 케이 월드 드림 어워즈'…씨야·QWER·아일릿·리...",
-      "url": "https://mhnse.com/news/articleView.html?idxno=1463429",
-      "date": "2026.07.15",
-      "source": "mhnse.com",
-      "thumbnail": "https://contents-cdn.viewus.co.kr/creator-cms/image/2026/07/61ea8f20-360e-4623-bc4d-3208dbaaa38d.jpg"
-    },
-    {
-      "title": "[사진]해나,'함께 불러요'",
-      "url": "http://www.osen.co.kr/article/G1112840073",
-      "date": "2026.07.15",
-      "source": "osen.co.kr",
-      "thumbnail": "http://file.osen.co.kr/article_thumb/2026/07/15/202607151744779237_6a574874ee631_300x.jpg"
+      "thumbnail": "http://file.osen.co.kr/article_thumb/2026/07/15/202607151831774282_6a575374d220e_300x.jpg"
     }
   ]
 }
