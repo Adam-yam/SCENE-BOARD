@@ -1,33 +1,68 @@
 {
-  "updated": "2026-07-15T11:01:00Z",
+  "updated": "2026-07-15T12:01:03Z",
   "articles": [
     {
-      "title": "[TD포토] 리센느 원이 '내가 거제 파이리'",
-      "url": "http://www.tvdaily.co.kr/read.php3?aid=17841129971794119017",
+      "title": "[S포토] 리센느 원이, '예~'",
+      "url": "https://www.stardailynews.co.kr/news/articleView.html?idxno=542911",
       "date": "2026.07.15",
-      "source": "tvdaily.co.kr",
-      "thumbnail": "http://image.tvdaily.co.kr/upimages/gisaimg/202607/1784112997_1794119.jpg"
+      "source": "stardailynews.co.kr",
+      "thumbnail": "https://cdn.stardailynews.co.kr/news/thumbnail/202607/542911_574846_5919_v150.jpg"
     },
     {
-      "title": "[핌 포커스] 신지 시구 논란에 장원영 팔짱…모두가 피로한 '억까'의 연...",
-      "url": "https://www.newspim.com/news/view/20260715001125",
-      "date": "2026.07.15",
-      "source": "newspim.com",
-      "thumbnail": "https://img.newspim.com/news/2026/07/02/260702165958333_184_tc.jpg"
-    },
-    {
-      "title": "[HD포토] 장한음, '빠져드는 무대' (쇼챔피언)",
-      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16135671",
-      "date": "2026.07.15",
-      "source": "topstarnews.net",
-      "thumbnail": "https://cdn.topstarnews.net/news/photo/202607/16135671_1962332_5012_crop.jpg"
-    },
-    {
-      "title": "[사진]리센느,'5인 5색 매력'",
-      "url": "http://www.osen.co.kr/article/G1112840157",
+      "title": "[사진]아홉 차웅기,'상큼하게'",
+      "url": "http://www.osen.co.kr/article/G1112840235",
       "date": "2026.07.15",
       "source": "osen.co.kr",
-      "thumbnail": "http://file.osen.co.kr/article_thumb/2026/07/15/202607151939779461_6a576381ce339_300x.jpg"
+      "thumbnail": "http://file.osen.co.kr/article_thumb/2026/07/15/202607152051779392_6a577432ccd41_300x.jpg"
+    },
+    {
+      "title": "[사진]아홉 박주원-서정우,'바로 너'",
+      "url": "http://www.osen.co.kr/article/G1112840234",
+      "date": "2026.07.15",
+      "source": "osen.co.kr",
+      "thumbnail": "http://file.osen.co.kr/article_thumb/2026/07/15/202607152048771022_6a5773a079914_300x.jpg"
+    },
+    {
+      "title": "[HD포토] 마이크 잡은 '쇼챔피언' 피자가게 직원들 (쇼챔피언)",
+      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16135805",
+      "date": "2026.07.15",
+      "source": "topstarnews.net",
+      "thumbnail": "https://cdn.topstarnews.net/news/photo/202607/16135805_1962439_461_crop.jpg"
+    },
+    {
+      "title": "[사진]리센느 원이,'깜찍한 파이리'",
+      "url": "http://www.osen.co.kr/article/G1112840232",
+      "date": "2026.07.15",
+      "source": "osen.co.kr",
+      "thumbnail": "http://file.osen.co.kr/article_thumb/2026/07/15/202607152046775361_6a5773126bcc8_300x.jpg"
+    },
+    {
+      "title": "[사진]리센느 리브,'상큼한 테니스 룩'",
+      "url": "http://www.osen.co.kr/article/G1112840233",
+      "date": "2026.07.15",
+      "source": "osen.co.kr",
+      "thumbnail": "http://file.osen.co.kr/article_thumb/2026/07/15/202607152046776953_6a5773155e8a8_300x.jpg"
+    },
+    {
+      "title": "[신국장의 현장+] 거제 파이리 원이 '시선강탈 애교 여신'",
+      "url": "http://www.tvdaily.co.kr/read.php3?aid=17841156491794147017",
+      "date": "2026.07.15",
+      "source": "tvdaily.co.kr",
+      "thumbnail": "http://image.tvdaily.co.kr/upimages/gisaimg/202607/1784115649_1794147.jpg"
+    },
+    {
+      "title": "[사진]아홉,'여심 사로잡는 무대'",
+      "url": "http://www.osen.co.kr/article/G1112840231",
+      "date": "2026.07.15",
+      "source": "osen.co.kr",
+      "thumbnail": "http://file.osen.co.kr/article_thumb/2026/07/15/202607152038778919_6a5771383c8cb_300x.jpg"
+    },
+    {
+      "title": "[사진]리센느,'다정하게 단체 포옹하며'",
+      "url": "http://www.osen.co.kr/article/G1112840229",
+      "date": "2026.07.15",
+      "source": "osen.co.kr",
+      "thumbnail": "http://file.osen.co.kr/article_thumb/2026/07/15/202607152037772287_6a5770f19b027_300x.jpg"
     }
   ]
 }
