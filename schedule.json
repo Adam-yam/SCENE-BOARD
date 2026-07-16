@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-16T14:05:32Z",
+  "updated": "2026-07-16T15:05:28Z",
   "events": [
     {
       "date": "2026-07-06",
@@ -229,6 +229,14 @@
       "date": "2026-07-18",
       "time": "19:00",
       "title": "[Pretty Girl] 대면/영상통화 팬사인회 by PlusChat",
+      "detail": "",
+      "type": "팬사인회",
+      "source": "mnetplus"
+    },
+    {
+      "date": "2026-07-18",
+      "time": "19:00",
+      "title": "[Pretty Girl] 대면 팬사인회 by PlusChat",
       "detail": "",
       "type": "팬사인회",
       "source": "mnetplus"
