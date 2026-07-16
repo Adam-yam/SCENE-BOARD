@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-16T06:05:31Z",
+  "updated": "2026-07-16T07:05:35Z",
   "events": [
     {
       "date": "2026-07-06",
@@ -223,6 +223,14 @@
       "title": "별방수면회",
       "detail": "",
       "type": "공연",
+      "source": "mnetplus"
+    },
+    {
+      "date": "2026-08-09",
+      "time": "20:00",
+      "title": "<2026 쿠팡플레이 시리즈> 하프타임 쇼",
+      "detail": "",
+      "type": "기타",
       "source": "mnetplus"
     },
     {
