@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-16T03:10:43Z",
+  "updated": "2026-07-16T04:10:46Z",
   "videos": [
     {
       "id": "RX592yMx7P0",
@@ -50,6 +50,14 @@
       "type": "long"
     },
     {
+      "id": "6S0pB9S-Ghk",
+      "title": "쇼챔피자 🍕",
+      "url": "https://www.youtube.com/shorts/6S0pB9S-Ghk",
+      "thumbnail": "https://i.ytimg.com/vi/6S0pB9S-Ghk/mqdefault.jpg",
+      "date": "2026.07.16",
+      "type": "short"
+    },
+    {
       "id": "46SJ_LDyEDw",
       "title": "#박보은 선배님과 어디서나 당당하게 걷기 🎀",
       "url": "https://www.youtube.com/shorts/46SJ_LDyEDw",
@@ -86,14 +94,6 @@
       "title": "뷰티풀 걸 💜",
       "url": "https://www.youtube.com/shorts/hZe0rei35Kg",
       "thumbnail": "https://i.ytimg.com/vi/hZe0rei35Kg/mqdefault.jpg",
-      "date": "2026.07.14",
-      "type": "short"
-    },
-    {
-      "id": "h320rV98stY",
-      "title": "프리티걸 🪞",
-      "url": "https://www.youtube.com/shorts/h320rV98stY",
-      "thumbnail": "https://i.ytimg.com/vi/h320rV98stY/mqdefault.jpg",
       "date": "2026.07.14",
       "type": "short"
     }
