@@ -1,6 +1,13 @@
 {
-  "updated": "2026-07-16T20:00:51Z",
+  "updated": "2026-07-16T21:00:52Z",
   "articles": [
+    {
+      "title": "[세종로의 아침] 낙인의 문법을 넘어서",
+      "url": "https://www.seoul.co.kr/news/editOpinion/column/politics-story/2026/07/17/20260717025002?wlog_tag3=naver",
+      "date": "2026.07.16",
+      "source": "seoul.co.kr",
+      "thumbnail": "https://img.seoul.co.kr//img/upload/2025/07/15/SSC_20250715095849_O2.jpg"
+    },
     {
       "title": "[IPO 새판 짜기④] 박종선 연구원 “기업가치가 결국 답…단기 변수보다...",
       "url": "https://www.news2day.co.kr/article/20260713500245",
@@ -133,13 +140,6 @@
       "date": "2026.07.16",
       "source": "topstarnews.net",
       "thumbnail": "https://cdn.topstarnews.net/news/photo/202607/16136963_1963073_1531_crop.jpg"
-    },
-    {
-      "title": "리센느 원이 \"우리 노래 나온다\" 창문 내려…광희 \"진짜 연예인병\" 공감...",
-      "url": "https://www.xportsnews.com/article/2172900",
-      "date": "2026.07.16",
-      "source": "xportsnews.com",
-      "thumbnail": "https://image.xportsnews.com/contents/images/upload/article/2026/0716/1784192714786128.webp"
     }
   ]
 }
