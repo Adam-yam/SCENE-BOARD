@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-16T08:05:29Z",
+  "updated": "2026-07-16T09:05:30Z",
   "events": [
     {
       "date": "2026-07-06",
@@ -183,6 +183,14 @@
       "title": "캐릭터 라이선싱 페어 2026",
       "detail": "",
       "type": "기타",
+      "source": "mnetplus"
+    },
+    {
+      "date": "2026-07-17",
+      "time": "17:00",
+      "title": "KBS2 <뮤직뱅크>",
+      "detail": "",
+      "type": "방송",
       "source": "mnetplus"
     },
     {
