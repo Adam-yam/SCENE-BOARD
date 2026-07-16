@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-16T05:10:43Z",
+  "updated": "2026-07-16T06:10:52Z",
   "videos": [
     {
       "id": "RX592yMx7P0",
@@ -50,6 +50,14 @@
       "type": "long"
     },
     {
+      "id": "iZwSXs8jZB4",
+      "title": "#시안 님과 어디서나 당당하게 걷기 🎀",
+      "url": "https://www.youtube.com/shorts/iZwSXs8jZB4",
+      "thumbnail": "https://i.ytimg.com/vi/iZwSXs8jZB4/mqdefault.jpg",
+      "date": "2026.07.16",
+      "type": "short"
+    },
+    {
       "id": "-eIy2VVjctk",
       "title": "쉬이잇 🤫",
       "url": "https://www.youtube.com/shorts/-eIy2VVjctk",
@@ -86,14 +94,6 @@
       "title": "🕺🕺",
       "url": "https://www.youtube.com/shorts/igCglJ7UDc0",
       "thumbnail": "https://i.ytimg.com/vi/igCglJ7UDc0/mqdefault.jpg",
-      "date": "2026.07.15",
-      "type": "short"
-    },
-    {
-      "id": "Gwv2bmo99_k",
-      "title": "👓",
-      "url": "https://www.youtube.com/shorts/Gwv2bmo99_k",
-      "thumbnail": "https://i.ytimg.com/vi/Gwv2bmo99_k/mqdefault.jpg",
       "date": "2026.07.15",
       "type": "short"
     }
