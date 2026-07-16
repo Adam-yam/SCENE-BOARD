@@ -1,124 +1,117 @@
 {
-  "updated": "2026-07-16T04:01:01Z",
+  "updated": "2026-07-16T05:01:00Z",
   "articles": [
     {
-      "title": "[S포토] 리센느 제나, '위촉장 받은 신라겅듀'",
-      "url": "https://www.stardailynews.co.kr/news/articleView.html?idxno=542993",
+      "title": "박진영, 6년 만에 서머송 'WET' 발매...올해도 '워터밤' 출격",
+      "url": "https://www.hg-times.com/news/articleView.html?idxno=303662",
+      "date": "2026.07.16",
+      "source": "hg-times.com",
+      "thumbnail": "https://cdn.hg-times.com/news/photo/202607/303662_303985_4932.jpg"
+    },
+    {
+      "title": "[포토] 리센느 화려한 공연",
+      "url": "https://www.segye.com/newsView/20260716513511?OutUrl=naver",
+      "date": "2026.07.16",
+      "source": "segye.com",
+      "thumbnail": "https://www.segye.com/content/image/2026/07/16/20260716513510.jpg"
+    },
+    {
+      "title": "[S포토] 리센느 리브, '프리티걸'",
+      "url": "https://www.stardailynews.co.kr/news/articleView.html?idxno=543030",
       "date": "2026.07.16",
       "source": "stardailynews.co.kr",
-      "thumbnail": "https://cdn.stardailynews.co.kr/news/thumbnail/202607/542993_574958_5818_v150.jpg"
+      "thumbnail": "https://cdn.stardailynews.co.kr/news/thumbnail/202607/543030_574995_5231_v150.jpg"
     },
     {
-      "title": "[포토] 리센느 제나 '예쁜 신라공주'",
-      "url": "https://www.slist.kr/news/articleView.html?idxno=752256",
+      "title": "[현장] '캐릭터 라이선싱 페어·보드게임콘 2026'...콘텐츠 IP의 경계를 ...",
+      "url": "https://www.ekoreanews.co.kr/news/articleView.html?idxno=87055",
+      "date": "2026.07.16",
+      "source": "ekoreanews.co.kr",
+      "thumbnail": "https://cdn.ekoreanews.co.kr/news/photo/202607/87055_108685_2547.jpg"
+    },
+    {
+      "title": "캐릭터 라이선싱 페어 [한강로 사진관]",
+      "url": "https://www.segye.com/newsView/20260716513440?OutUrl=naver",
+      "date": "2026.07.16",
+      "source": "segye.com",
+      "thumbnail": "https://www.segye.com/content/image/2026/07/16/20260716513437.jpg"
+    },
+    {
+      "title": "[ET포토] 리센느, '당당하게 걷는 소녀들'",
+      "url": "https://www.etnews.com/20260716000209",
+      "date": "2026.07.16",
+      "source": "etnews.com",
+      "thumbnail": "https://img.etnews.com/news/article/2026/07/16/cms_temp_stats_17841771931997412877.jpg"
+    },
+    {
+      "title": "[ET포토] 여름에는 리센느",
+      "url": "https://www.etnews.com/20260716000208",
+      "date": "2026.07.16",
+      "source": "etnews.com",
+      "thumbnail": "https://img.etnews.com/news/article/2026/07/16/cms_temp_stats_17841768151007743587.jpg"
+    },
+    {
+      "title": "박정수 실제 상황…\"거제서 우연히 리센느 만났다\" [소셜in]",
+      "url": "http://enews.imbc.com/News/RetrieveNewsInfo/511770",
+      "date": "2026.07.16",
+      "source": "enews.imbc.com",
+      "thumbnail": "https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2026/07/16/355374a4-7a1b-4ff8-b4d3-179ff1dec704.JPG"
+    },
+    {
+      "title": "코엑스 가득 메운 캐릭터 라이선싱 페어 2026 관람객들",
+      "url": "https://www.newsis.com/view/NISI20260716_0021367042",
+      "date": "2026.07.16",
+      "source": "newsis.com",
+      "thumbnail": "https://img1.newsis.com/2026/07/16/NISI20260716_0021367042_web.jpg"
+    },
+    {
+      "title": "리센느의 인기",
+      "url": "https://www.newsis.com/view/NISI20260716_0021367041",
+      "date": "2026.07.16",
+      "source": "newsis.com",
+      "thumbnail": "https://img1.newsis.com/2026/07/16/NISI20260716_0021367041_web.jpg"
+    },
+    {
+      "title": "[ET포토] 리센느, '다섯가지의 매력'",
+      "url": "https://www.etnews.com/20260716000207",
+      "date": "2026.07.16",
+      "source": "etnews.com",
+      "thumbnail": "https://img.etnews.com/news/article/2026/07/16/cms_temp_stats_17841767392085903305.jpg"
+    },
+    {
+      "title": "[ET포토] 리센느, '대세로 떠오른 걸그룹'",
+      "url": "https://www.etnews.com/20260716000206",
+      "date": "2026.07.16",
+      "source": "etnews.com",
+      "thumbnail": "https://img.etnews.com/news/article/2026/07/16/cms_temp_stats_17841766711830740665.jpg"
+    },
+    {
+      "title": "[ET포토] 리센느, '중소돌의 기적'",
+      "url": "https://www.etnews.com/20260716000205",
+      "date": "2026.07.16",
+      "source": "etnews.com",
+      "thumbnail": "https://img.etnews.com/news/article/2026/07/16/cms_temp_stats_1784176604798785922.jpg"
+    },
+    {
+      "title": "리센느(RESCENE) '메이', 손바닥에 가려질 듯 작은 얼굴로 환한 미소 [JP...",
+      "url": "https://www.job-post.co.kr/news/articleView.html?idxno=221382",
+      "date": "2026.07.16",
+      "source": "job-post.co.kr",
+      "thumbnail": "https://cdn.job-post.co.kr/news/photo/202607/221382_323668_3445.jpg"
+    },
+    {
+      "title": "[ET포토] 리센느, '역주행 1위곡 러브어택 무대'",
+      "url": "https://www.etnews.com/20260716000204",
+      "date": "2026.07.16",
+      "source": "etnews.com",
+      "thumbnail": "https://img.etnews.com/news/article/2026/07/16/cms_temp_stats_1784176462574705069.jpg"
+    },
+    {
+      "title": "[포토] 리센느 리브 '청순한 여름 여신'",
+      "url": "https://www.slist.kr/news/articleView.html?idxno=752271",
       "date": "2026.07.16",
       "source": "slist.kr",
-      "thumbnail": "https://cdn.slist.kr/news/thumbnail/202607/752256_1153703_5444_v150.jpg"
-    },
-    {
-      "title": "`굉음 뒤엔 불꽃놀이`…인제의 밤을 달군 '모터스포츠 축제'",
-      "url": "https://www.gpkorea.com/news/articleView.html?idxno=144794",
-      "date": "2026.07.16",
-      "source": "gpkorea.com",
-      "thumbnail": "https://cdn.gpkorea.com/news/photo/202607/144794_307384_5952.jpg"
-    },
-    {
-      "title": "임영웅·아이브·유연석·김혜윤까지…한국방송대상 후보 확정",
-      "url": "http://www.queen.co.kr/news/articleView.html?idxno=460390",
-      "date": "2026.07.16",
-      "source": "queen.co.kr",
-      "thumbnail": "http://cdn.queen.co.kr/news/thumbnail/202607/460390_206270_5111_v150.jpg"
-    },
-    {
-      "title": "열창하는 '신라공주'",
-      "url": "https://www.news1.kr/photos/8011794",
-      "date": "2026.07.16",
-      "source": "news1.kr",
-      "thumbnail": null
-    },
-    {
-      "title": "캐릭터 라이선싱 페어 2026 개막",
-      "url": "https://www.news1.kr/photos/8011817",
-      "date": "2026.07.16",
-      "source": "news1.kr",
-      "thumbnail": null
-    },
-    {
-      "title": "리센느, 캐릭터 라이선싱 페어 홍보대사 위촉",
-      "url": "https://www.news1.kr/photos/8011816",
-      "date": "2026.07.16",
-      "source": "news1.kr",
-      "thumbnail": null
-    },
-    {
-      "title": "리센느, 시선 사로잡는 무대",
-      "url": "https://www.news1.kr/photos/8011799",
-      "date": "2026.07.16",
-      "source": "news1.kr",
-      "thumbnail": null
-    },
-    {
-      "title": "축하공연 선보이는 캐릭터 라이선싱 페어 홍보대사 리센느",
-      "url": "https://www.news1.kr/photos/8011797",
-      "date": "2026.07.16",
-      "source": "news1.kr",
-      "thumbnail": null
-    },
-    {
-      "title": "캐릭터 라이선싱 페어 홍보대사 위촉장 받는 리센느",
-      "url": "https://www.news1.kr/photos/8011814",
-      "date": "2026.07.16",
-      "source": "news1.kr",
-      "thumbnail": null
-    },
-    {
-      "title": "'대세돌' 리센느, 캐릭터 라이선싱 페어 2026 축하무대",
-      "url": "https://www.news1.kr/photos/8011792",
-      "date": "2026.07.16",
-      "source": "news1.kr",
-      "thumbnail": null
-    },
-    {
-      "title": "무대 펼치는 캐릭터 라이선싱 페어 홍보대사 리센느",
-      "url": "https://www.news1.kr/photos/8011801",
-      "date": "2026.07.16",
-      "source": "news1.kr",
-      "thumbnail": null
-    },
-    {
-      "title": "리센느 원이, '윙크 발사'",
-      "url": "https://www.news1.kr/photos/8011800",
-      "date": "2026.07.16",
-      "source": "news1.kr",
-      "thumbnail": null
-    },
-    {
-      "title": "캐릭터 라이선싱 페어 '야호~'",
-      "url": "https://www.news1.kr/photos/8011821",
-      "date": "2026.07.16",
-      "source": "news1.kr",
-      "thumbnail": null
-    },
-    {
-      "title": "[E포토] 리센느, '거제도에서 강남까지 역주행'",
-      "url": "https://ent.sbs.co.kr/news/article.do?article_id=E10010319279&plink=ORI&cooper=NAVER",
-      "date": "2026.07.16",
-      "source": "ent.sbs.co.kr",
-      "thumbnail": null
-    },
-    {
-      "title": "[TD포토] 리센느 메이 '브이~'",
-      "url": "http://www.tvdaily.co.kr/read.php3?aid=17841730141794235017",
-      "date": "2026.07.16",
-      "source": "tvdaily.co.kr",
-      "thumbnail": "http://image.tvdaily.co.kr/upimages/gisaimg/202607/1784173014_1794235.jpg"
-    },
-    {
-      "title": "[NC영상] 리센느, 힘찬 응원법과 함께하는 '프리티 걸'",
-      "url": "https://www.nc.press/news/articleView.html?idxno=620963",
-      "date": "2026.07.16",
-      "source": "nc.press",
-      "thumbnail": "https://cdn.nc.press/news/photo/202607/620963_845357_5955.jpg"
+      "thumbnail": "https://cdn.slist.kr/news/thumbnail/202607/752271_1153723_3058_v150.jpg"
     }
   ]
 }
