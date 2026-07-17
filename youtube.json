@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-17T11:10:38Z",
+  "updated": "2026-07-17T12:10:38Z",
   "videos": [
     {
       "id": "zDTijSf4UHo",
@@ -50,6 +50,14 @@
       "type": "long"
     },
     {
+      "id": "hcCz-RVTC58",
+      "title": "메라디오는 그립감이 좋다~!😚",
+      "url": "https://www.youtube.com/shorts/hcCz-RVTC58",
+      "thumbnail": "https://i.ytimg.com/vi/hcCz-RVTC58/mqdefault_live.jpg",
+      "date": "2026.07.17",
+      "type": "short"
+    },
+    {
       "id": "Bvtjr3fQhjI",
       "title": "#구한나 님과 어디서나 당당하게 걷기 🎀",
       "url": "https://www.youtube.com/shorts/Bvtjr3fQhjI",
@@ -86,14 +94,6 @@
       "title": "#시안 님과 어디서나 당당하게 걷기 🎀",
       "url": "https://www.youtube.com/shorts/iZwSXs8jZB4",
       "thumbnail": "https://i.ytimg.com/vi/iZwSXs8jZB4/mqdefault.jpg",
-      "date": "2026.07.16",
-      "type": "short"
-    },
-    {
-      "id": "-eIy2VVjctk",
-      "title": "쉬이잇 🤫",
-      "url": "https://www.youtube.com/shorts/-eIy2VVjctk",
-      "thumbnail": "https://i.ytimg.com/vi/-eIy2VVjctk/mqdefault.jpg",
       "date": "2026.07.16",
       "type": "short"
     }
