@@ -1,6 +1,20 @@
 {
-  "updated": "2026-07-17T03:00:59Z",
+  "updated": "2026-07-17T04:00:58Z",
   "articles": [
+    {
+      "title": "[현대N페스티벌 3R] 인제서 '나이트 레이스' 성료",
+      "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=850897",
+      "date": "2026.07.17",
+      "source": "hansbiz.co.kr",
+      "thumbnail": "https://cdn.hansbiz.co.kr/news/thumbnail/202607/850897_868303_3859_v150.jpg"
+    },
+    {
+      "title": "'윤주모' 리센느 \"밈 따라해준 BTS·트와이스⋯좋아서 잠 못자\"",
+      "url": "http://www.joynews24.com/view/1986473",
+      "date": "2026.07.17",
+      "source": "joynews24.com",
+      "thumbnail": "https://image.inews24.com/v1/3028e99bd7fcdf.jpg"
+    },
     {
       "title": "리센느, 연습생 시절부터 첫 음방 1위까지… 밈 열풍 속 솔직한 이야기...",
       "url": "https://www.newscj.com/news/articleView.html?idxno=3417809",
@@ -76,7 +90,7 @@
       "url": "https://www.seoul.co.kr/news/life/pop-culture/2026/07/17/20260717500035?wlog_tag3=naver",
       "date": "2026.07.17",
       "source": "seoul.co.kr",
-      "thumbnail": null
+      "thumbnail": "https://img.seoul.co.kr//img/upload/2026/07/17/SSC_20260717094515_O2.jpg"
     },
     {
       "title": "리센느, 아이돌차트 7월 1주차 아차랭킹 1위..2위 코르티스·3위 에스파",
@@ -126,20 +140,6 @@
       "date": "2026.07.16",
       "source": "sportsseoul.com",
       "thumbnail": null
-    },
-    {
-      "title": "리센느 미나미 \"제나 계속 지켜봐...태양·BTS까지, 잠 못 잤다\"('술 빚는...",
-      "url": "https://www.nc.press/news/articleView.html?idxno=621019",
-      "date": "2026.07.16",
-      "source": "nc.press",
-      "thumbnail": "https://cdn.nc.press/news/photo/202607/621019_845514_3434.jpg"
-    },
-    {
-      "title": "‘성덕’ 리센느 “BTS·트와이스도 따라한 ‘야호’, 너무 좋아서 잠 못...",
-      "url": "https://www.sportsworldi.com/newsView/20260717504704",
-      "date": "2026.07.16",
-      "source": "sportsworldi.com",
-      "thumbnail": "https://www.sportsworldi.com/content/image/2026/07/17/20260717504703.jpg"
     }
   ]
 }
