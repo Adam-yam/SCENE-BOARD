@@ -1,6 +1,14 @@
 {
-  "updated": "2026-07-17T12:10:38Z",
+  "updated": "2026-07-17T13:10:39Z",
   "videos": [
+    {
+      "id": "hcCz-RVTC58",
+      "title": "메라디오는 그립감이 좋다~!😚",
+      "url": "https://www.youtube.com/watch?v=hcCz-RVTC58",
+      "thumbnail": "https://i.ytimg.com/vi/hcCz-RVTC58/mqdefault.jpg",
+      "date": "2026.07.17",
+      "type": "long"
+    },
     {
       "id": "zDTijSf4UHo",
       "title": "???: 리센느 영상 다봤다💗 YouTube: 어림도 없지 아직 안 푼 이야기 대방출 갑니다! | YouTube 케봉박두 EP.2 RESCENE(리센느)",
@@ -42,22 +50,6 @@
       "type": "long"
     },
     {
-      "id": "bkxvR913h-g",
-      "title": "🎀",
-      "url": "https://www.youtube.com/watch?v=bkxvR913h-g",
-      "thumbnail": "https://i.ytimg.com/vi/bkxvR913h-g/mqdefault.jpg",
-      "date": "2026.07.01",
-      "type": "long"
-    },
-    {
-      "id": "hcCz-RVTC58",
-      "title": "메라디오는 그립감이 좋다~!😚",
-      "url": "https://www.youtube.com/shorts/hcCz-RVTC58",
-      "thumbnail": "https://i.ytimg.com/vi/hcCz-RVTC58/mqdefault_live.jpg",
-      "date": "2026.07.17",
-      "type": "short"
-    },
-    {
       "id": "Bvtjr3fQhjI",
       "title": "#구한나 님과 어디서나 당당하게 걷기 🎀",
       "url": "https://www.youtube.com/shorts/Bvtjr3fQhjI",
@@ -94,6 +86,14 @@
       "title": "#시안 님과 어디서나 당당하게 걷기 🎀",
       "url": "https://www.youtube.com/shorts/iZwSXs8jZB4",
       "thumbnail": "https://i.ytimg.com/vi/iZwSXs8jZB4/mqdefault.jpg",
+      "date": "2026.07.16",
+      "type": "short"
+    },
+    {
+      "id": "-eIy2VVjctk",
+      "title": "쉬이잇 🤫",
+      "url": "https://www.youtube.com/shorts/-eIy2VVjctk",
+      "thumbnail": "https://i.ytimg.com/vi/-eIy2VVjctk/mqdefault.jpg",
       "date": "2026.07.16",
       "type": "short"
     }
