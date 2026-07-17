@@ -1,6 +1,13 @@
 {
-  "updated": "2026-07-17T14:00:59Z",
+  "updated": "2026-07-17T15:00:59Z",
   "articles": [
+    {
+      "title": "[데스크에서] 리센느가 깨뜨린 네 가지 편견",
+      "url": "https://www.chosun.com/opinion/desk/2026/07/17/MWPX5ZHPK5HBRDLNUEBSSKQAKI/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+      "date": "2026.07.17",
+      "source": "chosun.com",
+      "thumbnail": "https://www.chosun.com/resizer/v2/TWRYV2QOUNFWPHPF4S5KLLHRPI.png?auth=267751da0a92c4f19c91f321be4c47cbf95ba1837524d89c7e63d6c75253e389&amp;width=500&amp;height=262&amp;smart=true"
+    },
     {
       "title": "리센느(RESCENE)가 불러낸 K팝 퍼포먼스[레오 강의 K팝 댄스]",
       "url": "https://sports.khan.co.kr/article/202607172154003?pt=nv",
@@ -55,7 +62,7 @@
       "url": "http://www.stoo.com/article.php?aid=107811185383",
       "date": "2026.07.17",
       "source": "stoo.com",
-      "thumbnail": "https://www.stoo.com/upimages/gisaimg/202607/17_1078111_85383.jpg"
+      "thumbnail": null
     },
     {
       "title": "“거제 야호” 리센느, 2년만에 빛 봤는데 악플 시달려…“신고 사이트...",
@@ -133,13 +140,6 @@
       "date": "2026.07.17",
       "source": "news.jtbc.co.kr",
       "thumbnail": null
-    },
-    {
-      "title": "'대세돌' 리센느, 인기만큼 늘어난 악플러 잡는다",
-      "url": "https://www.mt.co.kr/entertainment/2026/07/17/2026071717073830884",
-      "date": "2026.07.17",
-      "source": "mt.co.kr",
-      "thumbnail": "https://thumb.mt.co.kr/cdn-cgi/image/w=1200,h=840,fit=cover,bg=whilte,f=auto,quality=high,sharpen=2,g=face/21/2026/07/2026071717073830884_1.jpg"
     }
   ]
 }
