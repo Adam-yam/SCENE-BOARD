@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18T07:10:32Z",
+  "updated": "2026-07-18T08:10:29Z",
   "videos": [
     {
       "id": "hcCz-RVTC58",
@@ -50,6 +50,14 @@
       "type": "long"
     },
     {
+      "id": "ygZobPp1RG4",
+      "title": "#전민욱 #장여준 님과 어디서나 당당하게 걷기 🎀",
+      "url": "https://www.youtube.com/shorts/ygZobPp1RG4",
+      "thumbnail": "https://i.ytimg.com/vi/ygZobPp1RG4/mqdefault.jpg",
+      "date": "2026.07.18",
+      "type": "short"
+    },
+    {
       "id": "amIUmWfalBo",
       "title": "교복 애햄이 💜",
       "url": "https://www.youtube.com/shorts/amIUmWfalBo",
@@ -86,14 +94,6 @@
       "title": "#마시로 님과 어디서나 당당하게 걷기 🎀",
       "url": "https://www.youtube.com/shorts/-vjpAIrm8No",
       "thumbnail": "https://i.ytimg.com/vi/-vjpAIrm8No/mqdefault.jpg",
-      "date": "2026.07.16",
-      "type": "short"
-    },
-    {
-      "id": "iZwSXs8jZB4",
-      "title": "#시안 님과 어디서나 당당하게 걷기 🎀",
-      "url": "https://www.youtube.com/shorts/iZwSXs8jZB4",
-      "thumbnail": "https://i.ytimg.com/vi/iZwSXs8jZB4/mqdefault.jpg",
       "date": "2026.07.16",
       "type": "short"
     }
