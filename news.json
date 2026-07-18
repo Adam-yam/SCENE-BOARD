@@ -1,6 +1,20 @@
 {
-  "updated": "2026-07-18T12:00:51Z",
+  "updated": "2026-07-18T13:00:50Z",
   "articles": [
+    {
+      "title": "이즈나 사랑-마이, '인기가요' 스페셜 MC→신유·의주 빈자리 채운다…...",
+      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16138721",
+      "date": "2026.07.18",
+      "source": "topstarnews.net",
+      "thumbnail": "https://cdn.topstarnews.net/news/photo/202607/16138721_1963923_4714_crop.jpeg"
+    },
+    {
+      "title": "잘나가는 리센느, 화제성 키운 '안원잘부' 시즌1 종료",
+      "url": "https://www.xportsnews.com/article/2173670",
+      "date": "2026.07.18",
+      "source": "xportsnews.com",
+      "thumbnail": "https://image.xportsnews.com/contents/images/upload/article/2026/0718/1784377394014749.webp"
+    },
     {
       "title": "“거제 야호” 탄생시킨 ‘안원잘부’ 시즌1 공식 종료…“이제 무대에...",
       "url": "https://sports.khan.co.kr/article/202607182045003?pt=nv",
@@ -13,7 +27,7 @@
       "url": "https://www.sportsseoul.com/news/read/1623109?ref=naver",
       "date": "2026.07.18",
       "source": "sportsseoul.com",
-      "thumbnail": "https://file.sportsseoul.com/news/cms/2026/07/18/news-p.v1.20260718.a2d85e667aa5476dbfc7c40b69ef06e7_P1.png"
+      "thumbnail": null
     },
     {
       "title": "리센느 미나미 \"제나, 회사 들어오자마자 연습생 1위\" ('술 빚는 윤주모...",
@@ -107,13 +121,6 @@
       "thumbnail": "https://www.stoo.com/upimages/gisaimg/202607/1078160-148.jpg"
     },
     {
-      "title": "아홉, '쇼! 음악중심'서 'RUN TO YOU'로 소년·청춘 에너지 폭발",
-      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16138650",
-      "date": "2026.07.18",
-      "source": "topstarnews.net",
-      "thumbnail": "https://cdn.topstarnews.net/news/photo/202607/16138650_1963845_859_crop.jpg"
-    },
-    {
       "title": "리센느 성지 ‘거제 포차’ 민원 폭탄 이어 “미숙한 대처” 사과",
       "url": "https://sports.khan.co.kr/article/202607181511003?pt=nv",
       "date": "2026.07.18",
@@ -128,18 +135,11 @@
       "thumbnail": "https://cdn.gukjenews.com/news/thumbnail/202607/3639410_3803961_5758_v150.jpg"
     },
     {
-      "title": "제니·봉준호 감독도 반했다… 윤주모 “19세부터 닭꼬치 장사 시작” ...",
-      "url": "https://isplus.com/article/view/isp202607180039",
+      "title": "리센느, 악성 게시물 신고 사이트 개설…“권익 보호 위해 최선 다할 것...",
+      "url": "https://www.dailian.co.kr/news/view/1668298/?sc=Naver",
       "date": "2026.07.18",
-      "source": "isplus.com",
-      "thumbnail": "https://isplus.com/data/isp/image/2026/07/18/isp20260718000068.800x.0.jpg"
-    },
-    {
-      "title": "‘전지적 참견 시점’ 윤나라 셰프의 식당(전참시)",
-      "url": "https://www.bntnews.co.kr/article/view/bnt202607180119",
-      "date": "2026.07.18",
-      "source": "bntnews.co.kr",
-      "thumbnail": "https://www.bntnews.co.kr/data/bnt/image/2026/07/18/bnt202607180207.jpg"
+      "source": "dailian.co.kr",
+      "thumbnail": "https://cdnimage.dailian.co.kr/news/202607/news_1784171498_1667898_m_1.jpg"
     }
   ]
 }
