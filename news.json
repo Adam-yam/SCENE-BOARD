@@ -1,6 +1,13 @@
 {
-  "updated": "2026-07-19T19:00:50Z",
+  "updated": "2026-07-19T20:00:49Z",
   "articles": [
+    {
+      "title": "걸그룹 브랜드평판 순위",
+      "url": "https://www.ilyosisa.co.kr/news/article.html?no=256940",
+      "date": "2026.07.19",
+      "source": "ilyosisa.co.kr",
+      "thumbnail": "https://www.ilyosisa.co.kr/data/photos/20260729/art_17841898403162_060063.jpg"
+    },
     {
       "title": "\"거제 야-호\" 리센느가 다녀간 여름휴가 명소 5곳 [여행 PICK]",
       "url": "https://www.econovill.com/news/articleView.html?idxno=745074",
@@ -16,18 +23,18 @@
       "thumbnail": "https://image.ajunews.com/content/image/2026/07/17/20260717134133532077.jpg"
     },
     {
-      "title": "김윤지 콘진원장 \"콘텐츠 기업 해외 진출 든든한 동반자 되겠다\"",
-      "url": "https://www.ajunews.com/view/20260716153252028",
-      "date": "2026.07.19",
-      "source": "ajunews.com",
-      "thumbnail": "https://image.ajunews.com/content/image/2026/07/16/20260716152955605262.jpg"
-    },
-    {
       "title": "'거제 야호' 열풍이 던진 과제…광주 K팝 거리 운영 현주소는",
       "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000050734",
       "date": "2026.07.19",
       "source": "jnilbo.com",
       "thumbnail": "https://cdn.jnilbo.com/news/photo/202607/90000050734_562938_174.png"
+    },
+    {
+      "title": "김윤지 콘진원장 \"콘텐츠 기업 해외 진출 든든한 동반자 되겠다\"",
+      "url": "https://www.ajunews.com/view/20260716153252028",
+      "date": "2026.07.19",
+      "source": "ajunews.com",
+      "thumbnail": "https://image.ajunews.com/content/image/2026/07/16/20260716152955605262.jpg"
     },
     {
       "title": "[SNS톡톡]경주 알리는 '리센느'...하루 10만 원으로 울릉 여행?",
@@ -125,7 +132,7 @@
       "url": "http://www.stoo.com/article.php?aid=107822363055",
       "date": "2026.07.19",
       "source": "stoo.com",
-      "thumbnail": "https://www.stoo.com/upimages/gisaimg/202607/19_1078223_63055.jpg"
+      "thumbnail": null
     },
     {
       "title": "선미·이민혁(HUTA) 컴백…오늘(19일) '인기가요' 화려한 무대 예고",
@@ -133,13 +140,6 @@
       "date": "2026.07.19",
       "source": "gukjenews.com",
       "thumbnail": "https://cdn.gukjenews.com/news/thumbnail/202607/3639683_3804259_313_v150.jpg"
-    },
-    {
-      "title": "'인기가요' 라인업 리센느·아홉·연준 예고",
-      "url": "https://www.bntnews.co.kr/article/view/bnt202607190033",
-      "date": "2026.07.19",
-      "source": "bntnews.co.kr",
-      "thumbnail": "https://www.bntnews.co.kr/data/bnt/image/2026/07/19/bnt202607190077.jpg"
     }
   ]
 }
