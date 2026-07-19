@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-19T07:10:30Z",
+  "updated": "2026-07-19T08:10:35Z",
   "videos": [
     {
       "id": "hcCz-RVTC58",
@@ -50,6 +50,14 @@
       "type": "long"
     },
     {
+      "id": "VclyPaU0X2k",
+      "title": "프리티걸 💙🩵",
+      "url": "https://www.youtube.com/shorts/VclyPaU0X2k",
+      "thumbnail": "https://i.ytimg.com/vi/VclyPaU0X2k/mqdefault.jpg",
+      "date": "2026.07.19",
+      "type": "short"
+    },
+    {
       "id": "hbtySm_xlsk",
       "title": "프리티걸 3번째 애햄이 🥰",
       "url": "https://www.youtube.com/shorts/hbtySm_xlsk",
@@ -87,14 +95,6 @@
       "url": "https://www.youtube.com/shorts/amIUmWfalBo",
       "thumbnail": "https://i.ytimg.com/vi/amIUmWfalBo/mqdefault.jpg",
       "date": "2026.07.18",
-      "type": "short"
-    },
-    {
-      "id": "Bvtjr3fQhjI",
-      "title": "#구한나 님과 어디서나 당당하게 걷기 🎀",
-      "url": "https://www.youtube.com/shorts/Bvtjr3fQhjI",
-      "thumbnail": "https://i.ytimg.com/vi/Bvtjr3fQhjI/mqdefault.jpg",
-      "date": "2026.07.17",
       "type": "short"
     }
   ]
