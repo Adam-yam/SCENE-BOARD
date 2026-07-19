@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-19T04:10:34Z",
+  "updated": "2026-07-19T05:10:30Z",
   "videos": [
     {
       "id": "hcCz-RVTC58",
@@ -50,6 +50,14 @@
       "type": "long"
     },
     {
+      "id": "Czv-BYOVfcM",
+      "title": "#JINYU #TERU 님과 어디서나 당당하게 걷기 🎀",
+      "url": "https://www.youtube.com/shorts/Czv-BYOVfcM",
+      "thumbnail": "https://i.ytimg.com/vi/Czv-BYOVfcM/mqdefault.jpg",
+      "date": "2026.07.19",
+      "type": "short"
+    },
+    {
       "id": "-ZItqrst69U",
       "title": "뽀로로 따라 프리티걸 챌린지",
       "url": "https://www.youtube.com/shorts/-ZItqrst69U",
@@ -87,14 +95,6 @@
       "url": "https://www.youtube.com/shorts/zdMrF3AIzAA",
       "thumbnail": "https://i.ytimg.com/vi/zdMrF3AIzAA/mqdefault.jpg",
       "date": "2026.07.17",
-      "type": "short"
-    },
-    {
-      "id": "dglF9_PJqto",
-      "title": "RESCENE (리센느) &#39;Pretty Girl&#39; Dance Practice",
-      "url": "https://www.youtube.com/watch?v=dglF9_PJqto",
-      "thumbnail": "https://i.ytimg.com/vi/dglF9_PJqto/mqdefault.jpg",
-      "date": "2026.07.16",
       "type": "short"
     }
   ]
