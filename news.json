@@ -1,12 +1,33 @@
 {
-  "updated": "2026-07-19T02:00:50Z",
+  "updated": "2026-07-19T03:00:47Z",
   "articles": [
+    {
+      "title": "리센느 1등 만든 ‘안원잘부’, 시즌1 종료…원이→미나미 비하인드 대...",
+      "url": "https://isplus.com/article/view/isp202607190041",
+      "date": "2026.07.19",
+      "source": "isplus.com",
+      "thumbnail": "https://isplus.com/data/isp/image/2026/07/19/isp20260719000117.800x.0.jpg"
+    },
+    {
+      "title": "리센느 원이, 7월 걸그룹 개인 브랜드평판 1위… 장원영·카리나 순",
+      "url": "https://www.stardailynews.co.kr/news/articleView.html?idxno=543094",
+      "date": "2026.07.19",
+      "source": "stardailynews.co.kr",
+      "thumbnail": "https://cdn.stardailynews.co.kr/news/thumbnail/202607/543094_575078_2811_v150.jpg"
+    },
+    {
+      "title": "\"개천에서 용 났다\"…리센느 역주행이 특별한 이유",
+      "url": "https://www.sisajournal.com/news/articleView.html?idxno=379740",
+      "date": "2026.07.19",
+      "source": "sisajournal.com",
+      "thumbnail": "https://cdn.sisajournal.com/news/thumbnail/202607/379740_387961_5527_v150.jpg"
+    },
     {
       "title": "리센느 원이, 장카 제치고 7월 걸그룹 개인 브랜드평판 1위…미나미 5위",
       "url": "http://www.stoo.com/article.php?aid=107819990895",
       "date": "2026.07.19",
       "source": "stoo.com",
-      "thumbnail": null
+      "thumbnail": "https://www.stoo.com/upimages/gisaimg/202607/19_1078199_90895.jpg"
     },
     {
       "title": "리센느 원이, 장원영·카리나·제니도 제쳤다",
@@ -100,27 +121,6 @@
       "thumbnail": "https://img1.newsis.com/2026/07/13/NISI20260713_0002184636_web.jpg"
     },
     {
-      "title": "리센느 원이, 장원영·카리나까지 제졌다...걸그룹 개인파워 1위",
-      "url": "https://www.slist.kr/news/articleView.html?idxno=752640",
-      "date": "2026.07.18",
-      "source": "slist.kr",
-      "thumbnail": "https://cdn.slist.kr/news/thumbnail/202607/752640_1154226_4932_v150.jpg"
-    },
-    {
-      "title": "1위 리센느 원이, 2위 아이브 장원영, 3위 에스파 카리나",
-      "url": "https://www.starnewskorea.com/music/2026/07/19/2026071908402964229",
-      "date": "2026.07.18",
-      "source": "starnewskorea.com",
-      "thumbnail": null
-    },
-    {
-      "title": "걸그룹 개인 브랜드평판 7월, 리센느 원이 1위…장원영·카리나 순",
-      "url": "https://www.gpkorea.com/news/articleView.html?idxno=144843",
-      "date": "2026.07.18",
-      "source": "gpkorea.com",
-      "thumbnail": "https://cdn.gpkorea.com/news/photo/202607/144843_307479_4310.jpg"
-    },
-    {
       "title": "잘나가는 리센느, 화제성 키운 '안원잘부' 시즌1 종료",
       "url": "https://www.xportsnews.com/article/2173670",
       "date": "2026.07.18",
@@ -139,7 +139,7 @@
       "url": "https://biz.heraldcorp.com/article/10812401?ref=naver",
       "date": "2026.07.18",
       "source": "biz.heraldcorp.com",
-      "thumbnail": "https://wimg.heraldcorp.com/news/cms/2026/07/18/news-p.v1.20260718.e52abcd007714ed298a0a2cfdb2557a8_T1.jpg"
+      "thumbnail": null
     }
   ]
 }
