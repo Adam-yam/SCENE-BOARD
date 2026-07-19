@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-19T14:05:29Z",
+  "updated": "2026-07-19T15:05:24Z",
   "events": [
     {
       "date": "2026-07-06",
@@ -261,6 +261,14 @@
       "date": "2026-07-25",
       "time": "12:45",
       "title": "2026 원 유니버스 페스티벌",
+      "detail": "",
+      "type": "공연",
+      "source": "mnetplus"
+    },
+    {
+      "date": "2026-07-25",
+      "time": "16:45",
+      "title": "보령 KBS 슈퍼라이브",
       "detail": "",
       "type": "공연",
       "source": "mnetplus"
