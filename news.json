@@ -1,6 +1,20 @@
 {
-  "updated": "2026-07-19T21:00:45Z",
+  "updated": "2026-07-19T22:00:44Z",
   "articles": [
+    {
+      "title": "[문화연예 플러스] 리센느, 악성 댓글 신고 사이트 개설",
+      "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6838520_37012.html",
+      "date": "2026.07.19",
+      "source": "imnews.imbc.com",
+      "thumbnail": "https://image.imnews.imbc.com/replay/2026/nwtoday/article/__icsFiles/afieldfile/2026/07/20/today_20260720_065429_2_15_Large.jpg"
+    },
+    {
+      "title": "리센느 원이, 장원영·카리나 제쳤다…7월 걸그룹 브랜드평판 '대이변'",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=469499",
+      "date": "2026.07.19",
+      "source": "pinpointnews.co.kr",
+      "thumbnail": "https://cdn.pinpointnews.co.kr/news/thumbnail/202607/469499_457326_4747_v150.jpg"
+    },
     {
       "title": "'거제 야호' 밈 열풍 주역 리센느 원이, 장원영·카리나 제치고 정상",
       "url": "https://www.gukjenews.com/news/articleView.html?idxno=3639835",
@@ -20,7 +34,7 @@
       "url": "https://www.segye.com/newsView/20260719511212?OutUrl=naver",
       "date": "2026.07.19",
       "source": "segye.com",
-      "thumbnail": "https://www.segye.com/content/image/2026/07/19/20260719513716.jpg"
+      "thumbnail": null
     },
     {
       "title": "캐릭터 시장도 '팬덤'…리센느가 보여준 K팝 IP 흥행공식",
@@ -48,14 +62,7 @@
       "url": "https://www.ajunews.com/view/20260716153649036",
       "date": "2026.07.19",
       "source": "ajunews.com",
-      "thumbnail": null
-    },
-    {
-      "title": "'거제 야호' 열풍이 던진 과제…광주 K팝 거리 운영 현주소는",
-      "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000050734",
-      "date": "2026.07.19",
-      "source": "jnilbo.com",
-      "thumbnail": "https://cdn.jnilbo.com/news/photo/202607/90000050734_562938_174.png"
+      "thumbnail": "https://image.ajunews.com/content/image/2026/07/17/20260717134133532077.jpg"
     },
     {
       "title": "김윤지 콘진원장 \"콘텐츠 기업 해외 진출 든든한 동반자 되겠다\"",
@@ -63,6 +70,13 @@
       "date": "2026.07.19",
       "source": "ajunews.com",
       "thumbnail": "https://image.ajunews.com/content/image/2026/07/16/20260716152955605262.jpg"
+    },
+    {
+      "title": "'거제 야호' 열풍이 던진 과제…광주 K팝 거리 운영 현주소는",
+      "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000050734",
+      "date": "2026.07.19",
+      "source": "jnilbo.com",
+      "thumbnail": "https://cdn.jnilbo.com/news/photo/202607/90000050734_562938_174.png"
     },
     {
       "title": "[SNS톡톡]경주 알리는 '리센느'...하루 10만 원으로 울릉 여행?",
@@ -112,20 +126,6 @@
       "date": "2026.07.19",
       "source": "sports.khan.co.kr",
       "thumbnail": null
-    },
-    {
-      "title": "리센느 원이, 걸그룹 브랜드평판 1위…장원영·카리나 제쳤다",
-      "url": "https://www.mk.co.kr/article/12101849",
-      "date": "2026.07.19",
-      "source": "mk.co.kr",
-      "thumbnail": "https://pimg.mk.co.kr/news/cms/202607/19/news-p.v1.20260719.2b07a545843742109f8af875e8e78f11_R.jpeg"
-    },
-    {
-      "title": "아이오아이는 1위, 리센느는 역주행…‘인기가요’ 빛냈다",
-      "url": "https://isplus.com/article/view/isp202607190082",
-      "date": "2026.07.19",
-      "source": "isplus.com",
-      "thumbnail": "https://isplus.com/data/isp/image/2026/07/19/isp20260719000195.800x.0.png"
     },
     {
       "title": "활동 종료 후에도 뜨거운 반응…아이오아이 '갑자기' 2주 연속 1위('인기...",
