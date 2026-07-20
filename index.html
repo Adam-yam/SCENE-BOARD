@@ -17,18 +17,22 @@
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
 :root {
-  --bg:       #e8e4df;
-  --page-bg:  #1c1c1e;
-  --panel:    #f7f5f2;
-  --ink:      #0f0d0c;
-  --ink2:     #2a2724;
-  --ink3:     #5a5652;
-  --ink-onbg: #f2f1ee;
-  --ink3-onbg: rgba(242,241,238,0.55);
-  --accent:   #c0392b;
-  --rule:     rgba(28,25,23,0.09);
-  --radius:   28px;
-  --radius-xs: 12px;
+  --bg:       #eceef2;
+  --page-bg:  #eef1f6;
+  --panel:    #ffffff;
+  --ink:      #1c1c1e;
+  --ink2:     #3a3a3c;
+  --ink3:     #6e6e73;
+  --ink-onbg: var(--ink);
+  --ink3-onbg: rgba(28,28,30,0.5);
+  --accent:   #007aff;
+  --rule:     rgba(60,60,67,0.12);
+  --radius:   30px;
+  --radius-xs: 14px;
+  --glass-fill: rgba(255,255,255,0.42);
+  --glass-fill-strong: rgba(255,255,255,0.62);
+  --glass-border: rgba(255,255,255,0.75);
+  --glass-shadow: rgba(60,60,67,0.12);
 }
 
 html, body {
@@ -60,11 +64,11 @@ body::before {
   inset: -10%;
   z-index: 0;
   background:
-    radial-gradient(circle at 12% 18%, rgba(196,90,74,0.20), transparent 45%),
-    radial-gradient(circle at 88% 12%, rgba(108,112,168,0.15), transparent 42%),
-    radial-gradient(circle at 78% 82%, rgba(196,110,140,0.16), transparent 48%),
-    radial-gradient(circle at 18% 85%, rgba(196,148,64,0.16), transparent 45%);
-  filter: blur(75px);
+    radial-gradient(circle at 12% 18%, rgba(0,122,255,0.14), transparent 45%),
+    radial-gradient(circle at 88% 12%, rgba(175,82,222,0.10), transparent 42%),
+    radial-gradient(circle at 78% 82%, rgba(255,45,85,0.09), transparent 48%),
+    radial-gradient(circle at 18% 85%, rgba(52,199,89,0.09), transparent 45%);
+  filter: blur(80px);
   pointer-events: none;
 }
 header, .grid { position: relative; z-index: 1; }
@@ -74,20 +78,30 @@ header {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 16px 26px;
+  padding: 14px 22px;
+  margin: 12px 16px 14px;
+  border-radius: 24px;
+  background: var(--glass-fill-strong);
+  -webkit-backdrop-filter: blur(24px) saturate(180%);
+  backdrop-filter: blur(24px) saturate(180%);
+  border: 1px solid var(--glass-border);
+  box-shadow:
+    0 8px 24px var(--glass-shadow),
+    inset 0 1px 0 rgba(255,255,255,0.9);
 }
 
-.logo { font-size: 28px; font-weight: 900; letter-spacing: 0; color: var(--ink-onbg); display: flex; align-items: baseline; gap: 8px; }
-.logo em { color: #ff4d94; font-style: normal; margin: 0; padding: 0; }
-.logo .by { font-size: 11px; font-weight: 400; color: rgba(242,241,238,0.35); letter-spacing: 0; }
+.logo { font-size: 26px; font-weight: 900; letter-spacing: 0; color: var(--ink-onbg); display: flex; align-items: baseline; gap: 8px; }
+.logo em { color: #ff2d55; font-style: normal; margin: 0; padding: 0; }
+.logo .by { font-size: 11px; font-weight: 400; color: rgba(28,28,30,0.35); letter-spacing: 0; }
 
 .header-right { display: flex; align-items: center; gap: 8px; flex-wrap: nowrap; flex-shrink: 0; }
 .live-badge {
   display: flex; align-items: center; gap: 5px;
-  background: var(--panel); border-radius: 999px;
+  background: rgba(120,120,128,0.12); border-radius: 999px;
   padding: 6px 10px 6px 8px;
   font-size: 10px; font-weight: 600; color: var(--ink2);
   white-space: nowrap; flex-shrink: 0;
+  border: 1px solid rgba(255,255,255,0.5);
 }
 .pulse-dot {
   width: 7px; height: 7px; border-radius: 50%;
@@ -108,10 +122,10 @@ header {
 }
 
 .panel {
-  background: rgba(255,255,255,0.54);
-  -webkit-backdrop-filter: blur(28px) saturate(190%);
-  backdrop-filter: blur(28px) saturate(190%);
-  border: 1px solid rgba(255,255,255,0.65);
+  background: var(--glass-fill);
+  -webkit-backdrop-filter: blur(36px) saturate(200%);
+  backdrop-filter: blur(36px) saturate(200%);
+  border: 1px solid var(--glass-border);
   border-radius: var(--radius);
   display: flex;
   flex-direction: column;
@@ -120,23 +134,24 @@ header {
   position: relative;
   isolation: isolate;
   box-shadow:
-    0 10px 34px rgba(28,25,23,0.12),
-    inset 0 1px 0 rgba(255,255,255,0.9),
-    inset 0 0 0 1px rgba(255,255,255,0.16);
+    0 20px 48px var(--glass-shadow),
+    0 2px 8px rgba(60,60,67,0.06),
+    inset 0 1px 0 rgba(255,255,255,0.95),
+    inset 0 0 0 1px rgba(255,255,255,0.3);
 }
 .panel::before {
   content: "";
   position: absolute;
   inset: 0;
   z-index: -1;
-  background: linear-gradient(165deg, rgba(255,255,255,0.5) 0%, rgba(255,255,255,0.08) 32%, rgba(255,255,255,0) 55%);
+  background: linear-gradient(165deg, rgba(255,255,255,0.65) 0%, rgba(255,255,255,0.12) 30%, rgba(255,255,255,0) 55%);
   pointer-events: none;
 }
 .panel::after {
   content: "";
   position: absolute;
-  top: 0; left: 12%; right: 12%; height: 1px;
-  background: linear-gradient(90deg, transparent, rgba(255,255,255,0.9), transparent);
+  top: 0; left: 10%; right: 10%; height: 1px;
+  background: linear-gradient(90deg, transparent, rgba(255,255,255,0.95), transparent);
   pointer-events: none;
 }
 .panel-schedule { grid-column: 1; grid-row: 1 / 3; }
@@ -159,9 +174,10 @@ header {
   width: 28px; height: 28px; border-radius: 999px; cursor: pointer;
   font-size: 14px; font-weight: 700;
   display: flex; align-items: center; justify-content: center;
-  transition: background .15s, color .15s;
+  transition: background .2s cubic-bezier(.4,0,.2,1), color .2s, transform .15s cubic-bezier(.4,0,.2,1);
 }
 .month-nav button:hover { background: var(--accent); color: #fff; }
+.month-nav button:active { transform: scale(0.88); }
 .month-nav .mlabel {
   font-size: 12px; font-weight: 700; color: var(--ink2);
   min-width: 64px; text-align: center;
@@ -172,6 +188,21 @@ header {
 }
 .panel-body::-webkit-scrollbar { display: none; }
 .panel-body { -ms-overflow-style: none; scrollbar-width: none; }
+
+#scheduleBody {
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+.sched-cal-fixed { flex-shrink: 0; }
+.sched-list-scroll {
+  flex: 1;
+  min-height: 0;
+  overflow-y: auto;
+  padding-bottom: 4px;
+}
+.sched-list-scroll::-webkit-scrollbar { display: none; }
+.sched-list-scroll { -ms-overflow-style: none; scrollbar-width: none; }
 
 .cal-grid {
   display: grid;
@@ -204,22 +235,22 @@ header {
 
 .sched-day-group.flash-highlight { animation: sched-flash 1.3s ease; border-radius: 10px; }
 @keyframes sched-flash {
-  0%   { background: rgba(192,57,43,0.2); }
-  100% { background: rgba(192,57,43,0); }
+  0%   { background: rgba(0,122,255,0.2); }
+  100% { background: rgba(0,122,255,0); }
 }
 .cal-cell.today {
-  background: linear-gradient(155deg, rgba(192,57,43,0.24) 0%, rgba(192,57,43,0.07) 100%);
+  background: linear-gradient(155deg, rgba(0,122,255,0.24) 0%, rgba(0,122,255,0.07) 100%);
   box-shadow:
-    inset 0 0 0 1.5px rgba(192,57,43,0.5),
+    inset 0 0 0 1.5px rgba(0,122,255,0.5),
     inset 0 1px 0 rgba(255,255,255,0.5),
-    0 0 0 3px rgba(192,57,43,0.07);
+    0 0 0 3px rgba(0,122,255,0.07);
 }
 .cal-cell.today .dnum {
   display: inline-flex; align-items: center; justify-content: center;
   min-width: 16px; height: 16px; padding: 0 1px;
   border-radius: 50%;
   background: var(--accent); color: #fff; font-weight: 800;
-  box-shadow: 0 1px 4px rgba(192,57,43,0.45);
+  box-shadow: 0 1px 4px rgba(0,122,255,0.45);
 }
 .dnum { font-size: 10px; font-weight: 600; color: var(--ink3); margin-bottom: 2px; }
 .dnum.dnum-sun { color: #e53e3e; }
@@ -426,6 +457,7 @@ header {
   flex-shrink: 0; width: 100%; min-width: 0; box-sizing: border-box;
 }
 .link-item:hover { background: rgba(0,0,0,0.07); transform: translateX(2px); }
+.link-item:active { transform: scale(0.97); }
 .link-icon {
   flex-shrink: 0; width: 32px; height: 32px; border-radius: 10px;
   display: flex; align-items: center; justify-content: center;
@@ -551,6 +583,8 @@ header {
   .panel-news     { grid-column: 1; grid-row: 2; min-height: 300px; }
   .panel-links    { grid-column: 1; grid-row: 3; min-height: 220px; }
   .panel-body     { overflow-y: visible; }
+  #scheduleBody   { overflow: visible; }
+  .sched-list-scroll { flex: none; overflow-y: visible; }
 
   header { padding: 12px 16px; }
   .logo { font-size: 22px; }
@@ -563,7 +597,7 @@ header {
 <body>
 
 <header>
-  <div class="logo"><span style="letter-spacing:-1px">SCENE<span style="color:#e91e8c">-BOARD</span></span><span class="by">by May_</span></div>
+  <div class="logo"><span style="letter-spacing:-1px">SCENE<span style="color:#ff2d55">-BOARD</span></span><span class="by">by May_</span></div>
   <div class="header-right">
     <div class="live-badge">
       <span class="pulse-dot"></span>
@@ -802,7 +836,7 @@ function renderSchedule() {
       </div>`;
     });
   }
-  body.innerHTML = buildCalendarHTML() + listHTML;
+  body.innerHTML = `<div class="sched-cal-fixed">${buildCalendarHTML()}</div><div class="sched-list-scroll">${listHTML}</div>`;
 }
 
 function buildCalendarHTML() {
