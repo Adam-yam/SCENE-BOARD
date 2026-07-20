@@ -1,6 +1,20 @@
 {
-  "updated": "2026-07-20T16:00:50Z",
+  "updated": "2026-07-20T17:00:47Z",
   "articles": [
+    {
+      "title": "서머퀸 경쟁 뜨겁다… 아이들·레드벨벳·선미 등 줄줄이 출격",
+      "url": "https://www.kmib.co.kr/article/view.asp?arcid=1784535655&code=13180000&cp=nv",
+      "date": "2026.07.20",
+      "source": "kmib.co.kr",
+      "thumbnail": "https://image.kmib.co.kr/online_image/2026/0721/2026072020100518856_1784546425_1784535655.jpg"
+    },
+    {
+      "title": "'도미노 야호' 무신사X도미노피자, 콜라보 신제품 내놓는다... 광고엔 리...",
+      "url": "https://www.ggilbo.com/news/articleView.html?idxno=1169729",
+      "date": "2026.07.20",
+      "source": "ggilbo.com",
+      "thumbnail": "https://cdn.ggilbo.com/news/photo/202607/1169729_1022064_1713.jpg"
+    },
     {
       "title": "실력도 중요하지만… 솔직·털털한 인간미에 빠져든다",
       "url": "https://www.chosun.com/culture-life/k-culture/2026/07/21/H7SXTBSV4BATTDLFULROGTQG2Y/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
@@ -65,13 +79,6 @@
       "thumbnail": "https://contents-cdn.viewus.co.kr/creator-cms/image/2026/07/83a6cc76-84e2-4016-880c-54b738f8c9d3.jpg"
     },
     {
-      "title": "아이들·레드벨벳·효린·선미…여름 가요계 ‘퀸’들의 격돌",
-      "url": "https://www.kmib.co.kr/article/view.asp?arcid=0030135771&code=61181611&cp=nv",
-      "date": "2026.07.20",
-      "source": "kmib.co.kr",
-      "thumbnail": "https://image.kmib.co.kr/online_image/2026/0720/2026072013070817161_1784520428_0030135771.jpeg"
-    },
-    {
       "title": "‘대세’ 리센느도 못 넘은 아이오아이, ‘갑자기’로 재결합 신화 완성",
       "url": "https://sports.donga.com/ent/article/all/20260720/134329521/1",
       "date": "2026.07.20",
@@ -90,14 +97,14 @@
       "url": "https://www.techm.kr/news/articleView.html?idxno=153510",
       "date": "2026.07.20",
       "source": "techm.kr",
-      "thumbnail": "https://www.techm.kr/news/thumbnail/202607/153510_216693_121_v150.jpg"
+      "thumbnail": "https://cdn.techm.kr/news/thumbnail/202607/153510_216693_121_v150.jpg"
     },
     {
       "title": "'2026 케이월드 드림 어워즈' 인기상 예선 투표, 스트레이 키즈부터 하츠...",
       "url": "http://www.stoo.com/article.php?aid=107830347169",
       "date": "2026.07.20",
       "source": "stoo.com",
-      "thumbnail": null
+      "thumbnail": "https://www.stoo.com/upimages/gisaimg/202607/20_1078303_47169.jpg"
     },
     {
       "title": "맨시티 vs 아틀레티코 ‘티켓 오픈 D-1’ 예매 가이드 공개, 5주년 기념...",
@@ -133,13 +140,6 @@
       "date": "2026.07.20",
       "source": "metroseoul.co.kr",
       "thumbnail": null
-    },
-    {
-      "title": "리센느, 리메이크 싱글 ‘Pretty Girl’ 활동 성료..커리어 하이 달성",
-      "url": "http://www.breaknews.com/1222710",
-      "date": "2026.07.20",
-      "source": "breaknews.com",
-      "thumbnail": "https://www.breaknews.com/imgdata/breaknews_com/202607/2026072044022843.jpg"
     }
   ]
 }
