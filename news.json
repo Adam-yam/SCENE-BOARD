@@ -1,6 +1,27 @@
 {
-  "updated": "2026-07-20T20:00:52Z",
+  "updated": "2026-07-20T21:00:51Z",
   "articles": [
+    {
+      "title": "[샷!] \"거제 야호~!\"…그 '야호'가 아니었네",
+      "url": "https://www.yna.co.kr/view/AKR20260715083300011?input=1195m",
+      "date": "2026.07.20",
+      "source": "yna.co.kr",
+      "thumbnail": "https://img4.yna.co.kr/etc/inner/KR/2026/07/15/AKR20260715083300011_01_i_P4.jpg"
+    },
+    {
+      "title": "[서울광장] 가짜 어른, 진짜 어른",
+      "url": "https://www.seoul.co.kr/news/editOpinion/seoul-plaza/2026/07/21/20260721026002?wlog_tag3=naver",
+      "date": "2026.07.20",
+      "source": "seoul.co.kr",
+      "thumbnail": "https://img.seoul.co.kr//img/upload/2026/07/21/SSC_20260721005545_O2.png"
+    },
+    {
+      "title": "[열린세상] 리센느 신드롬과 K팝의 ‘한국화’",
+      "url": "https://www.seoul.co.kr/news/editOpinion/world-stories/2026/07/21/20260721027004?wlog_tag3=naver",
+      "date": "2026.07.20",
+      "source": "seoul.co.kr",
+      "thumbnail": "https://img.seoul.co.kr//img/upload/2025/01/24/SSC_20250124012404_O2.png"
+    },
     {
       "title": "TXT 연준, '아이스크림'으로 '쇼! 음악중심' 1위…음악방송 2관왕",
       "url": "https://www.topstarnews.net/news/articleView.html?idxno=16140792",
@@ -100,25 +121,11 @@
       "thumbnail": "https://cdn.techm.kr/news/thumbnail/202607/153510_216693_121_v150.jpg"
     },
     {
-      "title": "'2026 케이월드 드림 어워즈' 인기상 예선 투표, 스트레이 키즈부터 하츠...",
-      "url": "http://www.stoo.com/article.php?aid=107830347169",
-      "date": "2026.07.20",
-      "source": "stoo.com",
-      "thumbnail": "https://www.stoo.com/upimages/gisaimg/202607/20_1078303_47169.jpg"
-    },
-    {
       "title": "맨시티 vs 아틀레티코 ‘티켓 오픈 D-1’ 예매 가이드 공개, 5주년 기념...",
       "url": "https://sports.khan.co.kr/article/202607201601003?pt=nv",
       "date": "2026.07.20",
       "source": "sports.khan.co.kr",
       "thumbnail": null
-    },
-    {
-      "title": "100% 팬 투표로 결정…'2026 케이 월드 드림 어워즈' 인기상 예선 치열",
-      "url": "http://www.celuvmedia.com/article.php?aid=1784529944524276007",
-      "date": "2026.07.20",
-      "source": "celuvmedia.com",
-      "thumbnail": "http://www.celuvmedia.com/upimages/gisaimg/202607/1784529944_524276.jpg"
     },
     {
       "title": "'똥 밟았네' 리센느 제나, 과거 영상 줄줄이 파묘…본인도 \"큰일 난 것 ...",
@@ -133,13 +140,6 @@
       "date": "2026.07.20",
       "source": "metroseoul.co.kr",
       "thumbnail": null
-    },
-    {
-      "title": "리센느, 리메이크 싱글 ‘Pretty Girl’ 활동 성료..커리어 하이 달성",
-      "url": "http://www.breaknews.com/1222710",
-      "date": "2026.07.20",
-      "source": "breaknews.com",
-      "thumbnail": "https://www.breaknews.com/imgdata/breaknews_com/202607/2026072044022843.jpg"
     }
   ]
 }
