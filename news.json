@@ -1,19 +1,40 @@
 {
-  "updated": "2026-07-20T05:00:48Z",
+  "updated": "2026-07-20T06:00:44Z",
   "articles": [
+    {
+      "title": "리센느, '프리티 걸' 활동 성공-걸 그룹 판도 바꿔",
+      "url": "https://www.mediafine.co.kr/news/articleView.html?idxno=84047",
+      "date": "2026.07.20",
+      "source": "mediafine.co.kr",
+      "thumbnail": "https://cdn.mediafine.co.kr/news/photo/202607/84047_121141_292.jpg"
+    },
+    {
+      "title": "[사설] 작지만 자연스러운 것",
+      "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000050949",
+      "date": "2026.07.20",
+      "source": "jnilbo.com",
+      "thumbnail": "https://cdn.jnilbo.com/news/photo/202607/90000050949_563289_1950.png"
+    },
+    {
+      "title": "엔하이픈·앤더블부터 영탁까지… 빅크, K팝시상식 'SKA' 투표 1라운드 ...",
+      "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=829481",
+      "date": "2026.07.20",
+      "source": "spotvnews.co.kr",
+      "thumbnail": "https://cdn.spotvnews.co.kr/news/thumbnail/202607/829481_1362449_1719_v150.jpg"
+    },
+    {
+      "title": "아윌미백, '전참시'서 PPL 없이 자연 노출 효과",
+      "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=851148",
+      "date": "2026.07.20",
+      "source": "hansbiz.co.kr",
+      "thumbnail": "https://cdn.hansbiz.co.kr/news/thumbnail/202607/851148_868665_3241_v150.jpg"
+    },
     {
       "title": "쿠팡플레이, 시리즈 티켓 예매 하루 앞…5주년 팝업도 연다",
       "url": "http://www.metroseoul.co.kr/article/20260720500240",
       "date": "2026.07.20",
       "source": "metroseoul.co.kr",
       "thumbnail": null
-    },
-    {
-      "title": "리센느, 역주행 기세 이은 ‘프리티 걸’ 활동 성료..대세 입증",
-      "url": "http://www.osen.co.kr/article/G1112842991",
-      "date": "2026.07.20",
-      "source": "osen.co.kr",
-      "thumbnail": "http://file.osen.co.kr/article_thumb/2026/07/20/202607201331779420_6a5da8bc75585_300x.jpg"
     },
     {
       "title": "유스피어, '위키드 게임' 챌린지 300만 뷰 돌파",
@@ -23,6 +44,13 @@
       "thumbnail": "https://cdn.gukjenews.com/news/thumbnail/202607/3640403_3805002_4143_v150.jpg"
     },
     {
+      "title": "리센느, 역주행 기세 이은 ‘프리티 걸’ 활동 성료..대세 입증",
+      "url": "http://www.osen.co.kr/article/G1112842991",
+      "date": "2026.07.20",
+      "source": "osen.co.kr",
+      "thumbnail": "http://file.osen.co.kr/article_thumb/2026/07/20/202607201331779420_6a5da8bc75585_300x.jpg"
+    },
+    {
       "title": "리센느, 리메이크 싱글 ‘Pretty Girl’ 활동 성료..커리어 하이 달성",
       "url": "http://www.breaknews.com/1222710",
       "date": "2026.07.20",
@@ -30,18 +58,18 @@
       "thumbnail": "https://www.breaknews.com/imgdata/breaknews_com/202607/2026072044022843.jpg"
     },
     {
-      "title": "아윌미백, ‘브라이트 카밍 젤 크림’전참시 자연 노출 이후 소비자 관...",
-      "url": "https://www.socialvalue.kr/news/view/1065587653320102",
-      "date": "2026.07.20",
-      "source": "socialvalue.kr",
-      "thumbnail": "http://www.socialvalue.kr/news/data/20260720/p1065587653320102_256_thum.jpg"
-    },
-    {
       "title": "[임팩트비즈니스 인사이트] '거제 야호'에서 시작된 로컬의 파트너 되기",
       "url": "https://futurechosun.com/?p=155035",
       "date": "2026.07.20",
       "source": "futurechosun.com",
       "thumbnail": "https://futurechosun.com/wp-content/uploads/2025/04/20250401_171828_876295.png"
+    },
+    {
+      "title": "아윌미백, ‘브라이트 카밍 젤 크림’전참시 자연 노출 이후 소비자 관...",
+      "url": "https://www.socialvalue.kr/news/view/1065587653320102",
+      "date": "2026.07.20",
+      "source": "socialvalue.kr",
+      "thumbnail": "http://www.socialvalue.kr/news/data/20260720/p1065587653320102_256_thum.jpg"
     },
     {
       "title": "빅크, K팝 시상식 '2026 SKA' 1라운드 팬 투표 가동",
@@ -83,21 +111,14 @@
       "url": "https://www.sportsseoul.com/news/read/1623387?ref=naver",
       "date": "2026.07.20",
       "source": "sportsseoul.com",
-      "thumbnail": "https://file.sportsseoul.com/news/cms/2026/07/20/news-p.v1.20260720.cb66704508554646bc44188112967be5_P1.jpg"
+      "thumbnail": null
     },
     {
       "title": "[뮤즈★]리센느 제나, 데뷔 전 ‘똥 밟았네’ 영상 확산에 당황 “큰일...",
       "url": "https://www.heraldmuse.com/article/10813457?ref=naver",
       "date": "2026.07.20",
       "source": "heraldmuse.com",
-      "thumbnail": null
-    },
-    {
-      "title": "리센느, ‘Pretty Girl’로 제대로 터졌다...데뷔 첫 음악방송 1위 찍고 ...",
-      "url": "https://www.mk.co.kr/article/12102198",
-      "date": "2026.07.20",
-      "source": "mk.co.kr",
-      "thumbnail": "https://wimg.mk.co.kr/news/cms/202607/20/news-p.v1.20260720.aae8047a8d704ddf80135b8fc66fd436_P1.png"
+      "thumbnail": "https://wimg.heraldcorp.com/news/cms/2026/07/20/news-p.v1.20260720.45f185b859cd466c9652a1e66dc8f541_T1.jpg"
     },
     {
       "title": "걸그룹 개인 브랜드평판 7월, 리센느 원이 1위…장원영·카리나 뒤이어",
@@ -107,39 +128,18 @@
       "thumbnail": "https://www.cbci.co.kr/news/thumbnail/202607/590306_401809_5054_v150.jpg"
     },
     {
+      "title": "리센느, ‘Pretty Girl’로 제대로 터졌다...데뷔 첫 음악방송 1위 찍고 ...",
+      "url": "https://www.mk.co.kr/article/12102198",
+      "date": "2026.07.20",
+      "source": "mk.co.kr",
+      "thumbnail": "https://wimg.mk.co.kr/news/cms/202607/20/news-p.v1.20260720.aae8047a8d704ddf80135b8fc66fd436_P1.png"
+    },
+    {
       "title": "\"얼마나 열심히 산 거야\"... 리센느 제나, '똥 밟았네' 할머니였다",
       "url": "https://www.insight.co.kr/news/563662",
       "date": "2026.07.20",
       "source": "insight.co.kr",
       "thumbnail": "https://img.insight.co.kr/static/2026/07/20/1200/img_20260720093338_uu5kf089.jpg"
-    },
-    {
-      "title": "실력파 솔로, K-밴드, 케이팝 그룹...7월 말 대형 컴백 쏟아진다",
-      "url": "https://www.raonnews.com/news/article.html?no=59635",
-      "date": "2026.07.20",
-      "source": "raonnews.com",
-      "thumbnail": "https://www.raonnews.com/data/photos/20260730/art_17845089047648_bf7cf2.jpg"
-    },
-    {
-      "title": "리센느 원이 1위, 7월 걸그룹 개인 브랜드평판 정상..2위 아이브 장원영",
-      "url": "http://www.breaknews.com/1222640",
-      "date": "2026.07.20",
-      "source": "breaknews.com",
-      "thumbnail": "https://www.breaknews.com/imgdata/breaknews_com/202607/2026072000521445.jpg"
-    },
-    {
-      "title": "아윌미백, ‘브라이트 카밍 젤 크림’ 전참시 자연 노출에 소비자 관심...",
-      "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065572680990403",
-      "date": "2026.07.20",
-      "source": "megaeconomy.co.kr",
-      "thumbnail": "https://www.megaeconomy.co.kr/news/data/20260720/p1065572680990403_611_thum.jpg"
-    },
-    {
-      "title": "리센느, '프리티 걸' 첫 1위…역주행 넘어 정주행까지",
-      "url": "https://www.gpkorea.com/news/articleView.html?idxno=144861",
-      "date": "2026.07.20",
-      "source": "gpkorea.com",
-      "thumbnail": "https://cdn.gpkorea.com/news/photo/202607/144861_307538_2629.jpg"
     }
   ]
 }
