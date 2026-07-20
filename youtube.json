@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-20T06:10:30Z",
+  "updated": "2026-07-20T07:10:32Z",
   "videos": [
     {
       "id": "hcCz-RVTC58",
@@ -50,6 +50,14 @@
       "type": "long"
     },
     {
+      "id": "rik_WepVLLE",
+      "title": "약속해줘 🤙💓",
+      "url": "https://www.youtube.com/shorts/rik_WepVLLE",
+      "thumbnail": "https://i.ytimg.com/vi/rik_WepVLLE/mqdefault.jpg",
+      "date": "2026.07.20",
+      "type": "short"
+    },
+    {
       "id": "Fuv_YNCpcCc",
       "title": "#선미 선배님과 어디서나 당당하게 걷기 🎀",
       "url": "https://www.youtube.com/shorts/Fuv_YNCpcCc",
@@ -86,14 +94,6 @@
       "title": "뽀로로 따라 프리티걸 챌린지",
       "url": "https://www.youtube.com/shorts/-ZItqrst69U",
       "thumbnail": "https://i.ytimg.com/vi/-ZItqrst69U/mqdefault.jpg",
-      "date": "2026.07.18",
-      "type": "short"
-    },
-    {
-      "id": "ygZobPp1RG4",
-      "title": "#전민욱 #장여준 님과 어디서나 당당하게 걷기 🎀",
-      "url": "https://www.youtube.com/shorts/ygZobPp1RG4",
-      "thumbnail": "https://i.ytimg.com/vi/ygZobPp1RG4/mqdefault.jpg",
       "date": "2026.07.18",
       "type": "short"
     }
