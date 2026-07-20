@@ -1,6 +1,13 @@
 {
-  "updated": "2026-07-20T15:00:49Z",
+  "updated": "2026-07-20T16:00:50Z",
   "articles": [
+    {
+      "title": "실력도 중요하지만… 솔직·털털한 인간미에 빠져든다",
+      "url": "https://www.chosun.com/culture-life/k-culture/2026/07/21/H7SXTBSV4BATTDLFULROGTQG2Y/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+      "date": "2026.07.20",
+      "source": "chosun.com",
+      "thumbnail": "https://www.chosun.com/resizer/v2/RVDRGDSXY5AXFFVC5QXMUKGSAE.jpg?auth=cf75e99fcb455b6bdab5675c308d331bad8c86f39a2d2ed22a033ee5a0d49f6d&amp;width=1200&amp;height=630&amp;smart=true"
+    },
     {
       "title": "[광화문·뷰] 조국의 야호, 청년의 한숨",
       "url": "https://www.chosun.com/opinion/column/2026/07/20/FE6OR7DA7VDRNGCXUTGPH4BGBU/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
@@ -83,7 +90,7 @@
       "url": "https://www.techm.kr/news/articleView.html?idxno=153510",
       "date": "2026.07.20",
       "source": "techm.kr",
-      "thumbnail": "https://cdn.techm.kr/news/thumbnail/202607/153510_216693_121_v150.jpg"
+      "thumbnail": "https://www.techm.kr/news/thumbnail/202607/153510_216693_121_v150.jpg"
     },
     {
       "title": "'2026 케이월드 드림 어워즈' 인기상 예선 투표, 스트레이 키즈부터 하츠...",
@@ -133,13 +140,6 @@
       "date": "2026.07.20",
       "source": "breaknews.com",
       "thumbnail": "https://www.breaknews.com/imgdata/breaknews_com/202607/2026072044022843.jpg"
-    },
-    {
-      "title": "아윌미백, ‘브라이트 카밍 젤 크림’전참시 자연 노출 이후 소비자 관...",
-      "url": "https://www.socialvalue.kr/news/view/1065587653320102",
-      "date": "2026.07.20",
-      "source": "socialvalue.kr",
-      "thumbnail": "http://www.socialvalue.kr/news/data/20260720/p1065587653320102_256_thum.jpg"
     }
   ]
 }
