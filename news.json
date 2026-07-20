@@ -1,6 +1,13 @@
 {
-  "updated": "2026-07-20T03:00:45Z",
+  "updated": "2026-07-20T04:00:48Z",
   "articles": [
+    {
+      "title": "리센느 원이, 7월 걸그룹 개인 브랜드평판 1위…장원영·카리나 뒤이어",
+      "url": "http://www.celuvmedia.com/article.php?aid=1784518275524265007",
+      "date": "2026.07.20",
+      "source": "celuvmedia.com",
+      "thumbnail": "http://www.celuvmedia.com/upimages/gisaimg/202607/1784518275_524265.jpg"
+    },
     {
       "title": "\"고양에서 자란 메이가 들려준 고향 이야기\"…홍보대사 리센느가 만난 ...",
       "url": "https://www.joongboo.com/news/articleView.html?idxno=363731778",
@@ -13,7 +20,7 @@
       "url": "https://biz.heraldcorp.com/article/10813554?ref=naver",
       "date": "2026.07.20",
       "source": "biz.heraldcorp.com",
-      "thumbnail": null
+      "thumbnail": "https://wimg.heraldcorp.com/news/cms/2026/07/20/news-p.v1.20260720.01d5cd9e2484436f82e5e29a16dcd122_T1.jpg"
     },
     {
       "title": "유스피어 '위키드 게임' 열풍…챌린지 조회수 300만회",
@@ -37,18 +44,18 @@
       "thumbnail": "https://wimg.heraldcorp.com/news/cms/2026/07/20/news-p.v1.20260720.45f185b859cd466c9652a1e66dc8f541_T1.jpg"
     },
     {
-      "title": "리센느, ‘Pretty Girl’로 제대로 터졌다...데뷔 첫 음악방송 1위 찍고 ...",
-      "url": "https://www.mk.co.kr/article/12102198",
-      "date": "2026.07.20",
-      "source": "mk.co.kr",
-      "thumbnail": "https://wimg.mk.co.kr/news/cms/202607/20/news-p.v1.20260720.aae8047a8d704ddf80135b8fc66fd436_P1.png"
-    },
-    {
       "title": "걸그룹 개인 브랜드평판 7월, 리센느 원이 1위…장원영·카리나 뒤이어",
       "url": "https://www.cbci.co.kr/news/articleView.html?idxno=590306",
       "date": "2026.07.20",
       "source": "cbci.co.kr",
       "thumbnail": "https://www.cbci.co.kr/news/thumbnail/202607/590306_401809_5054_v150.jpg"
+    },
+    {
+      "title": "리센느, ‘Pretty Girl’로 제대로 터졌다...데뷔 첫 음악방송 1위 찍고 ...",
+      "url": "https://www.mk.co.kr/article/12102198",
+      "date": "2026.07.20",
+      "source": "mk.co.kr",
+      "thumbnail": "https://wimg.mk.co.kr/news/cms/202607/20/news-p.v1.20260720.aae8047a8d704ddf80135b8fc66fd436_P1.png"
     },
     {
       "title": "\"얼마나 열심히 산 거야\"... 리센느 제나, '똥 밟았네' 할머니였다",
@@ -62,7 +69,7 @@
       "url": "https://www.raonnews.com/news/article.html?no=59635",
       "date": "2026.07.20",
       "source": "raonnews.com",
-      "thumbnail": "https://www.raonnews.com/data/photos/20260730/art_17845089047648_bf7cf2.jpg"
+      "thumbnail": null
     },
     {
       "title": "리센느 원이 1위, 7월 걸그룹 개인 브랜드평판 정상..2위 아이브 장원영",
@@ -91,13 +98,6 @@
       "date": "2026.07.20",
       "source": "joynews24.com",
       "thumbnail": "https://image.inews24.com/v1/98e6fe43bd94e3.jpg"
-    },
-    {
-      "title": "리센느, ‘프리티 걸’ 활동 성료…데뷔 첫 음방 1위·음원 흥행 ‘겹경...",
-      "url": "http://www.celuvmedia.com/article.php?aid=1784505813524256007",
-      "date": "2026.07.20",
-      "source": "celuvmedia.com",
-      "thumbnail": "http://www.celuvmedia.com/upimages/gisaimg/202607/20524256.jpg"
     },
     {
       "title": "리센느, 리메이크 싱글 'Pretty Girl'로 데뷔 첫 음방 1위기록하며 활동...",
@@ -135,11 +135,11 @@
       "thumbnail": "http://image.tvdaily.co.kr/upimages/gisaimg/202607/201794406.jpg"
     },
     {
-      "title": "‘프리티 걸’ 리센느, ‘국민 걸그룹’ 도약…눈부신 성과",
-      "url": "https://isplus.com/article/view/isp202607200050",
-      "date": "2026.07.20",
-      "source": "isplus.com",
-      "thumbnail": "https://isplus.com/data/isp/image/2026/07/20/isp20260720000091.800x.0.jpg"
+      "title": "“리센느가 또 해냈다” 1위·4위·8위가 전부 리센느…대표도 ‘입틀막...",
+      "url": "https://www.xportsnews.com/article/2173953",
+      "date": "2026.07.19",
+      "source": "xportsnews.com",
+      "thumbnail": "https://image.xportsnews.com/contents/images/upload/article/2026/0720/1784503791923761.webp"
     }
   ]
 }
