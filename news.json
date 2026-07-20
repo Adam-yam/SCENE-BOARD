@@ -1,6 +1,55 @@
 {
-  "updated": "2026-07-20T04:00:48Z",
+  "updated": "2026-07-20T05:00:48Z",
   "articles": [
+    {
+      "title": "쿠팡플레이, 시리즈 티켓 예매 하루 앞…5주년 팝업도 연다",
+      "url": "http://www.metroseoul.co.kr/article/20260720500240",
+      "date": "2026.07.20",
+      "source": "metroseoul.co.kr",
+      "thumbnail": null
+    },
+    {
+      "title": "리센느, 역주행 기세 이은 ‘프리티 걸’ 활동 성료..대세 입증",
+      "url": "http://www.osen.co.kr/article/G1112842991",
+      "date": "2026.07.20",
+      "source": "osen.co.kr",
+      "thumbnail": "http://file.osen.co.kr/article_thumb/2026/07/20/202607201331779420_6a5da8bc75585_300x.jpg"
+    },
+    {
+      "title": "유스피어, '위키드 게임' 챌린지 300만 뷰 돌파",
+      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3640403",
+      "date": "2026.07.20",
+      "source": "gukjenews.com",
+      "thumbnail": "https://cdn.gukjenews.com/news/thumbnail/202607/3640403_3805002_4143_v150.jpg"
+    },
+    {
+      "title": "리센느, 리메이크 싱글 ‘Pretty Girl’ 활동 성료..커리어 하이 달성",
+      "url": "http://www.breaknews.com/1222710",
+      "date": "2026.07.20",
+      "source": "breaknews.com",
+      "thumbnail": "https://www.breaknews.com/imgdata/breaknews_com/202607/2026072044022843.jpg"
+    },
+    {
+      "title": "아윌미백, ‘브라이트 카밍 젤 크림’전참시 자연 노출 이후 소비자 관...",
+      "url": "https://www.socialvalue.kr/news/view/1065587653320102",
+      "date": "2026.07.20",
+      "source": "socialvalue.kr",
+      "thumbnail": "http://www.socialvalue.kr/news/data/20260720/p1065587653320102_256_thum.jpg"
+    },
+    {
+      "title": "[임팩트비즈니스 인사이트] '거제 야호'에서 시작된 로컬의 파트너 되기",
+      "url": "https://futurechosun.com/?p=155035",
+      "date": "2026.07.20",
+      "source": "futurechosun.com",
+      "thumbnail": "https://futurechosun.com/wp-content/uploads/2025/04/20250401_171828_876295.png"
+    },
+    {
+      "title": "빅크, K팝 시상식 '2026 SKA' 1라운드 팬 투표 가동",
+      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16140163",
+      "date": "2026.07.20",
+      "source": "topstarnews.net",
+      "thumbnail": "https://cdn.topstarnews.net/news/photo/202607/16140163_1964805_101_crop.jpg"
+    },
     {
       "title": "리센느 원이, 7월 걸그룹 개인 브랜드평판 1위…장원영·카리나 뒤이어",
       "url": "http://www.celuvmedia.com/article.php?aid=1784518275524265007",
@@ -34,21 +83,14 @@
       "url": "https://www.sportsseoul.com/news/read/1623387?ref=naver",
       "date": "2026.07.20",
       "source": "sportsseoul.com",
-      "thumbnail": null
+      "thumbnail": "https://file.sportsseoul.com/news/cms/2026/07/20/news-p.v1.20260720.cb66704508554646bc44188112967be5_P1.jpg"
     },
     {
       "title": "[뮤즈★]리센느 제나, 데뷔 전 ‘똥 밟았네’ 영상 확산에 당황 “큰일...",
       "url": "https://www.heraldmuse.com/article/10813457?ref=naver",
       "date": "2026.07.20",
       "source": "heraldmuse.com",
-      "thumbnail": "https://wimg.heraldcorp.com/news/cms/2026/07/20/news-p.v1.20260720.45f185b859cd466c9652a1e66dc8f541_T1.jpg"
-    },
-    {
-      "title": "걸그룹 개인 브랜드평판 7월, 리센느 원이 1위…장원영·카리나 뒤이어",
-      "url": "https://www.cbci.co.kr/news/articleView.html?idxno=590306",
-      "date": "2026.07.20",
-      "source": "cbci.co.kr",
-      "thumbnail": "https://www.cbci.co.kr/news/thumbnail/202607/590306_401809_5054_v150.jpg"
+      "thumbnail": null
     },
     {
       "title": "리센느, ‘Pretty Girl’로 제대로 터졌다...데뷔 첫 음악방송 1위 찍고 ...",
@@ -56,6 +98,13 @@
       "date": "2026.07.20",
       "source": "mk.co.kr",
       "thumbnail": "https://wimg.mk.co.kr/news/cms/202607/20/news-p.v1.20260720.aae8047a8d704ddf80135b8fc66fd436_P1.png"
+    },
+    {
+      "title": "걸그룹 개인 브랜드평판 7월, 리센느 원이 1위…장원영·카리나 뒤이어",
+      "url": "https://www.cbci.co.kr/news/articleView.html?idxno=590306",
+      "date": "2026.07.20",
+      "source": "cbci.co.kr",
+      "thumbnail": "https://www.cbci.co.kr/news/thumbnail/202607/590306_401809_5054_v150.jpg"
     },
     {
       "title": "\"얼마나 열심히 산 거야\"... 리센느 제나, '똥 밟았네' 할머니였다",
@@ -69,7 +118,7 @@
       "url": "https://www.raonnews.com/news/article.html?no=59635",
       "date": "2026.07.20",
       "source": "raonnews.com",
-      "thumbnail": null
+      "thumbnail": "https://www.raonnews.com/data/photos/20260730/art_17845089047648_bf7cf2.jpg"
     },
     {
       "title": "리센느 원이 1위, 7월 걸그룹 개인 브랜드평판 정상..2위 아이브 장원영",
@@ -91,55 +140,6 @@
       "date": "2026.07.20",
       "source": "gpkorea.com",
       "thumbnail": "https://cdn.gpkorea.com/news/photo/202607/144861_307538_2629.jpg"
-    },
-    {
-      "title": "리센느, 데뷔 첫 음방 1위·차트 정주행⋯'프리티 걸' 활동 마무리",
-      "url": "http://www.joynews24.com/view/1986681",
-      "date": "2026.07.20",
-      "source": "joynews24.com",
-      "thumbnail": "https://image.inews24.com/v1/98e6fe43bd94e3.jpg"
-    },
-    {
-      "title": "리센느, 리메이크 싱글 'Pretty Girl'로 데뷔 첫 음방 1위기록하며 활동...",
-      "url": "https://www.stardailynews.co.kr/news/articleView.html?idxno=543144",
-      "date": "2026.07.20",
-      "source": "stardailynews.co.kr",
-      "thumbnail": "https://cdn.stardailynews.co.kr/news/thumbnail/202607/543144_575138_2110_v150.jpg"
-    },
-    {
-      "title": "'프리티 걸' 리센느, 데뷔 첫 음방 1위 새로운 이정표",
-      "url": "https://news.jtbc.co.kr/article/NB12309080?influxDiv=NAVER",
-      "date": "2026.07.20",
-      "source": "news.jtbc.co.kr",
-      "thumbnail": null
-    },
-    {
-      "title": "리센느, ‘프리티 걸’ 활동 마무리…데뷔 첫 음악방송 1위 '성과'",
-      "url": "https://swtvnews.com/news/newsview.php?ncode=1065571543836335",
-      "date": "2026.07.20",
-      "source": "swtvnews.com",
-      "thumbnail": "https://swtvnews.com/news/data/20260720/p1065571543836335_752_thum.jpg"
-    },
-    {
-      "title": "리센느 ‘Pretty Girl’ 활동 성료..데뷔 첫 음방 1위로 ‘대세 걸그룹’...",
-      "url": "https://www.heraldmuse.com/article/10813162?ref=naver",
-      "date": "2026.07.20",
-      "source": "heraldmuse.com",
-      "thumbnail": "https://wimg.heraldcorp.com/news/cms/2026/07/20/news-p.v1.20260720.e362b6ff71574fce8a2cce99f1617f6f_T1.jpg"
-    },
-    {
-      "title": "리센느, '프리티 걸' 활동 성료… '5세대 대세' 입증",
-      "url": "http://www.tvdaily.co.kr/read.php3?aid=17845058091794406010",
-      "date": "2026.07.20",
-      "source": "tvdaily.co.kr",
-      "thumbnail": "http://image.tvdaily.co.kr/upimages/gisaimg/202607/201794406.jpg"
-    },
-    {
-      "title": "“리센느가 또 해냈다” 1위·4위·8위가 전부 리센느…대표도 ‘입틀막...",
-      "url": "https://www.xportsnews.com/article/2173953",
-      "date": "2026.07.19",
-      "source": "xportsnews.com",
-      "thumbnail": "https://image.xportsnews.com/contents/images/upload/article/2026/0720/1784503791923761.webp"
     }
   ]
 }
