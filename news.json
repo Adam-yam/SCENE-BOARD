@@ -1,6 +1,13 @@
 {
-  "updated": "2026-07-20T17:00:47Z",
+  "updated": "2026-07-20T18:01:10Z",
   "articles": [
+    {
+      "title": "TXT 연준, '아이스크림'으로 '쇼! 음악중심' 1위…음악방송 2관왕",
+      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16140792",
+      "date": "2026.07.20",
+      "source": "topstarnews.net",
+      "thumbnail": "https://cdn.topstarnews.net/news/photo/202607/16140792_1965366_3938_crop.png"
+    },
     {
       "title": "서머퀸 경쟁 뜨겁다… 아이들·레드벨벳·선미 등 줄줄이 출격",
       "url": "https://www.kmib.co.kr/article/view.asp?arcid=1784535655&code=13180000&cp=nv",
@@ -28,13 +35,6 @@
       "date": "2026.07.20",
       "source": "chosun.com",
       "thumbnail": "https://www.chosun.com/resizer/v2/TY2R6KRDXZGSFNQSMUXV3VMCXE.png?auth=5259882a7fbfd53329295a5a696dc7f11b4f016d5f2e14a6a50384fe1713d36e&amp;width=500&amp;height=262&amp;smart=true"
-    },
-    {
-      "title": "아이오아이, '인기가요' 1위…'갑자기' 음악방송 5관왕 달성",
-      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16140600",
-      "date": "2026.07.20",
-      "source": "topstarnews.net",
-      "thumbnail": "https://cdn.topstarnews.net/news/photo/202607/16140600_1965201_5156_crop.png"
     },
     {
       "title": "사흘째 꺼지지 않는 쿠팡 물류센터의 불, 로켓배송이 쌓아 올린 위험",
@@ -121,13 +121,6 @@
       "thumbnail": "http://www.celuvmedia.com/upimages/gisaimg/202607/1784529944_524276.jpg"
     },
     {
-      "title": "코르티스부터 효리수까지…‘2026 케이월드 드림 어워즈’ 인기상 예선...",
-      "url": "http://www.tvdaily.co.kr/read.php3?aid=17845253231794426010",
-      "date": "2026.07.20",
-      "source": "tvdaily.co.kr",
-      "thumbnail": "http://image.tvdaily.co.kr/upimages/gisaimg/202607/201794426.jpg"
-    },
-    {
       "title": "'똥 밟았네' 리센느 제나, 과거 영상 줄줄이 파묘…본인도 \"큰일 난 것 ...",
       "url": "https://www.xportsnews.com/article/2174088",
       "date": "2026.07.20",
@@ -140,6 +133,13 @@
       "date": "2026.07.20",
       "source": "metroseoul.co.kr",
       "thumbnail": null
+    },
+    {
+      "title": "리센느, 리메이크 싱글 ‘Pretty Girl’ 활동 성료..커리어 하이 달성",
+      "url": "http://www.breaknews.com/1222710",
+      "date": "2026.07.20",
+      "source": "breaknews.com",
+      "thumbnail": "https://www.breaknews.com/imgdata/breaknews_com/202607/2026072044022843.jpg"
     }
   ]
 }
