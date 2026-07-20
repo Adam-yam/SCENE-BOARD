@@ -1,6 +1,13 @@
 {
-  "updated": "2026-07-20T14:00:50Z",
+  "updated": "2026-07-20T15:00:49Z",
   "articles": [
+    {
+      "title": "[광화문·뷰] 조국의 야호, 청년의 한숨",
+      "url": "https://www.chosun.com/opinion/column/2026/07/20/FE6OR7DA7VDRNGCXUTGPH4BGBU/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+      "date": "2026.07.20",
+      "source": "chosun.com",
+      "thumbnail": "https://www.chosun.com/resizer/v2/TY2R6KRDXZGSFNQSMUXV3VMCXE.png?auth=5259882a7fbfd53329295a5a696dc7f11b4f016d5f2e14a6a50384fe1713d36e&amp;width=500&amp;height=262&amp;smart=true"
+    },
     {
       "title": "아이오아이, '인기가요' 1위…'갑자기' 음악방송 5관왕 달성",
       "url": "https://www.topstarnews.net/news/articleView.html?idxno=16140600",
@@ -76,14 +83,14 @@
       "url": "https://www.techm.kr/news/articleView.html?idxno=153510",
       "date": "2026.07.20",
       "source": "techm.kr",
-      "thumbnail": "https://www.techm.kr/news/thumbnail/202607/153510_216693_121_v150.jpg"
+      "thumbnail": "https://cdn.techm.kr/news/thumbnail/202607/153510_216693_121_v150.jpg"
     },
     {
       "title": "'2026 케이월드 드림 어워즈' 인기상 예선 투표, 스트레이 키즈부터 하츠...",
       "url": "http://www.stoo.com/article.php?aid=107830347169",
       "date": "2026.07.20",
       "source": "stoo.com",
-      "thumbnail": "https://www.stoo.com/upimages/gisaimg/202607/20_1078303_47169.jpg"
+      "thumbnail": null
     },
     {
       "title": "맨시티 vs 아틀레티코 ‘티켓 오픈 D-1’ 예매 가이드 공개, 5주년 기념...",
@@ -133,13 +140,6 @@
       "date": "2026.07.20",
       "source": "socialvalue.kr",
       "thumbnail": "http://www.socialvalue.kr/news/data/20260720/p1065587653320102_256_thum.jpg"
-    },
-    {
-      "title": "\"고양에서 자란 메이가 들려준 고향 이야기\"…홍보대사 리센느가 만난 ...",
-      "url": "https://www.joongboo.com/news/articleView.html?idxno=363731778",
-      "date": "2026.07.20",
-      "source": "joongboo.com",
-      "thumbnail": "https://cdn.joongboo.com/news/photo/202607/363731778_2507406_2303.jpg"
     }
   ]
 }
