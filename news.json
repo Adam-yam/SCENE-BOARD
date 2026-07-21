@@ -1,6 +1,13 @@
 {
-  "updated": "2026-07-21T20:00:40Z",
+  "updated": "2026-07-21T21:00:47Z",
   "articles": [
+    {
+      "title": "‘섬의 날’ 홍보대사 리센느·정이랑 등 위촉",
+      "url": "https://www.seoul.co.kr/news/peoples/2026/07/22/20260722019004?wlog_tag3=naver",
+      "date": "2026.07.21",
+      "source": "seoul.co.kr",
+      "thumbnail": "https://img.seoul.co.kr//img/n24/seoul_share.png"
+    },
     {
       "title": "리센느 원이, 첫 정산 얘기에 눈물 \"엄마 소고기 사주고 싶어\"",
       "url": "https://www.topstarnews.net/news/articleView.html?idxno=16142179",
@@ -27,7 +34,7 @@
       "url": "https://www.thepowernews.co.kr/view.php?ud=20260721235752717861d72a7352_7",
       "date": "2026.07.21",
       "source": "thepowernews.co.kr",
-      "thumbnail": null
+      "thumbnail": "https://cliimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&amp;idx=999&amp;simg=2026072200214703765061d72a7352491720167.jpg&amp;nmt=7"
     },
     {
       "title": "리센느 메이-리브, kt 치어리더들과 함께 아웃송 챌린지 [포토엔HD]",
@@ -133,13 +140,6 @@
       "date": "2026.07.21",
       "source": "newsworks.co.kr",
       "thumbnail": "https://cdn.newsworks.co.kr/news/thumbnail/202607/847771_806920_2156_v150.jpg"
-    },
-    {
-      "title": "“도미노 야호~!” 리센느 효과 톡톡…도미노피자 광고 4일 만에 1,700만...",
-      "url": "https://www.viva100.com/article/20260721501292",
-      "date": "2026.07.21",
-      "source": "viva100.com",
-      "thumbnail": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/07/21/.cache/512/20260721501287.jpg?v=20260722050039"
     }
   ]
 }
