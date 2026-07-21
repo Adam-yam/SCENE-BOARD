@@ -1,6 +1,14 @@
 {
-  "updated": "2026-07-21T13:10:31Z",
+  "updated": "2026-07-21T14:10:28Z",
   "videos": [
+    {
+      "id": "UEo2q8k1TNw",
+      "title": "까엉TV 왔다잉🤍",
+      "url": "https://www.youtube.com/watch?v=UEo2q8k1TNw",
+      "thumbnail": "https://i.ytimg.com/vi/UEo2q8k1TNw/mqdefault.jpg",
+      "date": "2026.07.21",
+      "type": "long"
+    },
     {
       "id": "hcCz-RVTC58",
       "title": "메라디오는 그립감이 좋다~!😚",
@@ -39,14 +47,6 @@
       "url": "https://www.youtube.com/watch?v=sa29RXO7ruM",
       "thumbnail": "https://i.ytimg.com/vi/sa29RXO7ruM/mqdefault.jpg",
       "date": "2026.07.05",
-      "type": "long"
-    },
-    {
-      "id": "4E6aUYPMmas",
-      "title": "음방 오이데 오이데 마떼루용~⭐️ | RESCENE (리센느) ‘LOVE ATTACK’ 갸루 ver. 음악방송 Behind",
-      "url": "https://www.youtube.com/watch?v=4E6aUYPMmas",
-      "thumbnail": "https://i.ytimg.com/vi/4E6aUYPMmas/mqdefault.jpg",
-      "date": "2026.07.04",
       "type": "long"
     },
     {
