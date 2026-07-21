@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-21T09:10:30Z",
+  "updated": "2026-07-21T10:10:30Z",
   "videos": [
     {
       "id": "hcCz-RVTC58",
@@ -50,6 +50,14 @@
       "type": "long"
     },
     {
+      "id": "kalnsqjQD0Y",
+      "title": "#YEONJUN 선배님과 익숙한 deja vu 🌱",
+      "url": "https://www.youtube.com/shorts/kalnsqjQD0Y",
+      "thumbnail": "https://i.ytimg.com/vi/kalnsqjQD0Y/mqdefault.jpg",
+      "date": "2026.07.21",
+      "type": "short"
+    },
+    {
       "id": "ryP8YpNgvLY",
       "title": "프리티걸 막방의 아쉬움을 표현해봤습니다",
       "url": "https://www.youtube.com/shorts/ryP8YpNgvLY",
@@ -86,14 +94,6 @@
       "title": "#선미 선배님과 어디서나 당당하게 걷기 🎀",
       "url": "https://www.youtube.com/shorts/Fuv_YNCpcCc",
       "thumbnail": "https://i.ytimg.com/vi/Fuv_YNCpcCc/mqdefault.jpg",
-      "date": "2026.07.19",
-      "type": "short"
-    },
-    {
-      "id": "VclyPaU0X2k",
-      "title": "프리티걸 💙🩵",
-      "url": "https://www.youtube.com/shorts/VclyPaU0X2k",
-      "thumbnail": "https://i.ytimg.com/vi/VclyPaU0X2k/mqdefault.jpg",
       "date": "2026.07.19",
       "type": "short"
     }
