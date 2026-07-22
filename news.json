@@ -1,6 +1,20 @@
 {
-  "updated": "2026-07-22T15:00:51Z",
+  "updated": "2026-07-22T16:01:01Z",
   "articles": [
+    {
+      "title": "여름 휴가 중입니까? [ER 1324호 라이프 스토리]",
+      "url": "https://www.econovill.com/news/articleView.html?idxno=745156",
+      "date": "2026.07.22",
+      "source": "econovill.com",
+      "thumbnail": "https://cdn.econovill.com/news/thumbnail/202607/745156_718659_2436_v150.jpg"
+    },
+    {
+      "title": "[양성희의 문화참견] 음원 사전검열 논란 법안은 철회됐지만…",
+      "url": "https://www.joongang.co.kr/article/25447317",
+      "date": "2026.07.22",
+      "source": "joongang.co.kr",
+      "thumbnail": "https://assets.joongang.co.kr/images/share/ja-opengraph-img.png"
+    },
     {
       "title": "\"리센느 저점매수 실패했다고 욕먹어\"…김영광, 소속사 대표와 나눈 문...",
       "url": "https://mhnse.com/news/articleView.html?idxno=1467565",
@@ -41,7 +55,7 @@
       "url": "https://www.sportsseoul.com/news/read/1624118?ref=naver",
       "date": "2026.07.22",
       "source": "sportsseoul.com",
-      "thumbnail": null
+      "thumbnail": "https://file.sportsseoul.com/news/cms/2026/07/22/news-p.v1.20260722.47fb000c79a1406da39144b93ceb7b67_P1.jpg"
     },
     {
       "title": "프로야구 KT, 2026 워터 페스티벌 한 달간 개최",
@@ -111,21 +125,14 @@
       "url": "http://www.stoo.com/article.php?aid=107871427900",
       "date": "2026.07.22",
       "source": "stoo.com",
-      "thumbnail": null
+      "thumbnail": "https://www.stoo.com/upimages/gisaimg/202607/221078714.jpg"
     },
     {
-      "title": "강원랜드 하이원리조트, 리센느 방문 담긴 KBS WORLD TV 프로그램으로 해...",
-      "url": "http://www.newsmaker.or.kr/news/articleView.html?idxno=179473",
+      "title": "전남광주통합특별시, 배우 정이랑·가수 하현우 등 '섬의 날' 홍보대사...",
+      "url": "http://www.newsmaker.or.kr/news/articleView.html?idxno=179488",
       "date": "2026.07.22",
       "source": "newsmaker.or.kr",
       "thumbnail": null
-    },
-    {
-      "title": "UDTT, 5세대 대세 행보…7월 지상파 3사 음방 출연횟수 1위",
-      "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=830035",
-      "date": "2026.07.22",
-      "source": "spotvnews.co.kr",
-      "thumbnail": "https://cdn.spotvnews.co.kr/news/thumbnail/202607/830035_1363451_5443_v150.jpg"
     },
     {
       "title": "캐릭터부터 보드게임까지…콘텐츠 IP 축제 4만 명 몰렸다",
@@ -133,13 +140,6 @@
       "date": "2026.07.22",
       "source": "nocutnews.co.kr",
       "thumbnail": "https://file2.nocutnews.co.kr/newsroom/image/2026/07/22/202607221619078211_0.jpg"
-    },
-    {
-      "title": "UDTT, 음방 출연 횟수 1위 찍었다",
-      "url": "https://sports.khan.co.kr/article/202607221539003?pt=nv",
-      "date": "2026.07.22",
-      "source": "sports.khan.co.kr",
-      "thumbnail": null
     }
   ]
 }
