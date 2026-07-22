@@ -1,6 +1,13 @@
 {
-  "updated": "2026-07-22T16:01:01Z",
+  "updated": "2026-07-22T17:00:50Z",
   "articles": [
+    {
+      "title": "이찬원, '영주 시원 나잇 페스타' 출격",
+      "url": "https://enter.etoday.co.kr/news/view/300085",
+      "date": "2026.07.22",
+      "source": "enter.etoday.co.kr",
+      "thumbnail": "https://img.etoday.co.kr/pto_db/2026/04/600/20260404002616_2317351_682_1024.jpg"
+    },
     {
       "title": "여름 휴가 중입니까? [ER 1324호 라이프 스토리]",
       "url": "https://www.econovill.com/news/articleView.html?idxno=745156",
@@ -55,7 +62,7 @@
       "url": "https://www.sportsseoul.com/news/read/1624118?ref=naver",
       "date": "2026.07.22",
       "source": "sportsseoul.com",
-      "thumbnail": "https://file.sportsseoul.com/news/cms/2026/07/22/news-p.v1.20260722.47fb000c79a1406da39144b93ceb7b67_P1.jpg"
+      "thumbnail": null
     },
     {
       "title": "프로야구 KT, 2026 워터 페스티벌 한 달간 개최",
@@ -100,11 +107,11 @@
       "thumbnail": "https://cdn.gukjenews.com/news/thumbnail/202607/3643171_3808060_1324_v150.jpg"
     },
     {
-      "title": "[포토] 캐리비안 베이 ‘워터 뮤직 풀파티’",
+      "title": "[포토] 캐리비안 베이 ‘워터 뮤직 풀파티’ ﻿",
       "url": "https://www.hankyung.com/article/2026072201021",
       "date": "2026.07.22",
       "source": "hankyung.com",
-      "thumbnail": "https://img.hankyung.com/photo/202607/AA.45114377.1.jpg"
+      "thumbnail": "https://img.hankyung.com/photo/202607/AA.45116239.1.jpg"
     },
     {
       "title": "승격팀 부천의 안방, '유명 여자 아이돌' 프로미스나인 신곡 뮤비에 깜...",
@@ -126,13 +133,6 @@
       "date": "2026.07.22",
       "source": "stoo.com",
       "thumbnail": "https://www.stoo.com/upimages/gisaimg/202607/221078714.jpg"
-    },
-    {
-      "title": "전남광주통합특별시, 배우 정이랑·가수 하현우 등 '섬의 날' 홍보대사...",
-      "url": "http://www.newsmaker.or.kr/news/articleView.html?idxno=179488",
-      "date": "2026.07.22",
-      "source": "newsmaker.or.kr",
-      "thumbnail": null
     },
     {
       "title": "캐릭터부터 보드게임까지…콘텐츠 IP 축제 4만 명 몰렸다",
