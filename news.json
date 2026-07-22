@@ -1,6 +1,20 @@
 {
-  "updated": "2026-07-22T22:00:38Z",
+  "updated": "2026-07-22T23:00:42Z",
   "articles": [
+    {
+      "title": "[주동식 칼럼] 우리는 지금 5.18의 황혼을 목도하고 있다",
+      "url": "https://www.pennmike.com/news/articleView.html?idxno=124199",
+      "date": "2026.07.22",
+      "source": "pennmike.com",
+      "thumbnail": "https://cdn.pennmike.com/news/thumbnail/202607/124199_169059_3255_v150.jpg"
+    },
+    {
+      "title": "리센느 메이-리브 '메트와 리트가 선보이는 아웃송'[엑's 숏폼]",
+      "url": "https://www.xportsnews.com/article/2175013",
+      "date": "2026.07.22",
+      "source": "xportsnews.com",
+      "thumbnail": "https://image.xportsnews.com/contents/images/upload/article/2026/0723/1784733097835723.webp"
+    },
     {
       "title": "여기가 야구장인가, 수영장인가…KT 올해도 워터페스티벌 실시, 걸그룹...",
       "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=830150",
@@ -69,7 +83,7 @@
       "url": "https://www.segye.com/newsView/20260722519519?OutUrl=naver",
       "date": "2026.07.22",
       "source": "segye.com",
-      "thumbnail": "https://www.segye.com/content/image/2026/07/22/20260722521010.jpg"
+      "thumbnail": null
     },
     {
       "title": "김영광, 리센느 저점매수 실패‥대표에 협업 제안받았는데 못 했다(라스...",
@@ -126,20 +140,6 @@
       "date": "2026.07.22",
       "source": "thefirstmedia.net",
       "thumbnail": "http://www.thefirstmedia.net/news/thumbnail/202607/204405_188325_1536_v150.jpg"
-    },
-    {
-      "title": "‘거제야호’ 열풍 타고…천안~거제 버스 8월 1일 첫 운행",
-      "url": "http://www.sisanews24.co.kr/19087",
-      "date": "2026.07.22",
-      "source": "sisanews24.co.kr",
-      "thumbnail": "https://www.sisanews24.co.kr/data/sisanews24_co_kr/mainimages/202607/600_486_2026072221544199.jpg"
-    },
-    {
-      "title": "'한블리' 14개월 아이 덮친 차량...사과도 처벌도 없는 가해자",
-      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3643171",
-      "date": "2026.07.22",
-      "source": "gukjenews.com",
-      "thumbnail": "https://cdn.gukjenews.com/news/thumbnail/202607/3643171_3808060_1324_v150.jpg"
     }
   ]
 }
