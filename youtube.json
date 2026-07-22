@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-22T04:10:28Z",
+  "updated": "2026-07-22T05:10:25Z",
   "videos": [
     {
       "id": "UEo2q8k1TNw",
@@ -50,6 +50,14 @@
       "type": "long"
     },
     {
+      "id": "ix6RkeDawsU",
+      "title": "다이죠부이데쇼 🐘💛",
+      "url": "https://www.youtube.com/shorts/ix6RkeDawsU",
+      "thumbnail": "https://i.ytimg.com/vi/ix6RkeDawsU/mqdefault.jpg",
+      "date": "2026.07.22",
+      "type": "short"
+    },
+    {
       "id": "kalnsqjQD0Y",
       "title": "#YEONJUN 선배님과 익숙한 deja vu 🌱",
       "url": "https://www.youtube.com/shorts/kalnsqjQD0Y",
@@ -87,14 +95,6 @@
       "url": "https://www.youtube.com/shorts/rik_WepVLLE",
       "thumbnail": "https://i.ytimg.com/vi/rik_WepVLLE/mqdefault.jpg",
       "date": "2026.07.20",
-      "type": "short"
-    },
-    {
-      "id": "Fuv_YNCpcCc",
-      "title": "#선미 선배님과 어디서나 당당하게 걷기 🎀",
-      "url": "https://www.youtube.com/shorts/Fuv_YNCpcCc",
-      "thumbnail": "https://i.ytimg.com/vi/Fuv_YNCpcCc/mqdefault.jpg",
-      "date": "2026.07.19",
       "type": "short"
     }
   ]
