@@ -1,19 +1,54 @@
 {
-  "updated": "2026-07-23T06:00:44Z",
+  "updated": "2026-07-23T07:00:42Z",
   "articles": [
+    {
+      "title": "이정재, 황동혁 감독 정호연과 거제 ‘야호’…‘오징어게임’ 의리 지...",
+      "url": "https://www.newsen.com/news_view.php?uid=202607231539082310",
+      "date": "2026.07.23",
+      "source": "newsen.com",
+      "thumbnail": "https://photo.newsen.com/news_photo/2026/07/23/202607231539082310_1.jpg"
+    },
+    {
+      "title": "‘오징어 게임’ 황동혁 감독·이정재, 정호연과 ‘호프 야호~’ [IS하이...",
+      "url": "https://isplus.com/article/view/isp202607230138",
+      "date": "2026.07.23",
+      "source": "isplus.com",
+      "thumbnail": "https://isplus.com/data/isp/image/2026/07/23/isp20260723000259.800x.0.jpg"
+    },
+    {
+      "title": "리센느, MBC ‘2026 아시안게임’ 방송 홍보대사 위촉..“기쁘고 영광”",
+      "url": "http://www.breaknews.com/1223917",
+      "date": "2026.07.23",
+      "source": "breaknews.com",
+      "thumbnail": "https://www.breaknews.com/imgdata/breaknews_com/202607/2026072344296200.jpg"
+    },
+    {
+      "title": "K-콘텐츠 IP 영토 넓힌 '캐릭터 라이선싱 페어 2026'…콘진원, 367억 비즈...",
+      "url": "https://www.g-enews.com/view.php?ud=202607231418346117a9fc143920_1",
+      "date": "2026.07.23",
+      "source": "g-enews.com",
+      "thumbnail": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&amp;simg=2026072314184705755a9fc1439201062458411.jpg"
+    },
+    {
+      "title": "'Genie Magic' 티저 화제…피프티피프티, 스타트렌드 걸그룹 정상 점령",
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=534764",
+      "date": "2026.07.23",
+      "source": "joongangenews.com",
+      "thumbnail": "https://cdn.joongangenews.com/news/photo/202607/534764_340156_812.png"
+    },
+    {
+      "title": "써클차트, 리센느·코르티스 2관왕",
+      "url": "https://sports.khan.co.kr/article/202607231511003?pt=nv",
+      "date": "2026.07.23",
+      "source": "sports.khan.co.kr",
+      "thumbnail": null
+    },
     {
       "title": "정일영 교수, 리센느 미나미에 “타국 생활, 얼마나 큰 용기인지 안다”...",
       "url": "https://sports.khan.co.kr/article/202607231451003?pt=nv",
       "date": "2026.07.23",
       "source": "sports.khan.co.kr",
       "thumbnail": null
-    },
-    {
-      "title": "정일영, 유재석 만나고 오더니 묘비명 생겼다 “‘유퀴즈’서 뜨고 가다...",
-      "url": "https://www.newsen.com/news_view.php?uid=202607231425262310",
-      "date": "2026.07.23",
-      "source": "newsen.com",
-      "thumbnail": "https://photo.newsen.com/news_photo/2026/07/23/202607231425262310_1.jpg"
     },
     {
       "title": "CU도 GS25도, 편의점 아이돌 IP 경쟁",
@@ -93,27 +128,6 @@
       "thumbnail": "https://img.tf.co.kr/article/home/2026/07/23/202687661784768168.jpg"
     },
     {
-      "title": "지드래곤·카리나 ‘동반 상승’...‘K-브랜드지수’ K-POP 개인 부문 톱...",
-      "url": "https://swtvnews.com/news/newsview.php?ncode=1065571558340704",
-      "date": "2026.07.23",
-      "source": "swtvnews.com",
-      "thumbnail": "https://swtvnews.com/news/data/20260723/p1065571558340704_183_thum.jpg"
-    },
-    {
-      "title": "빅뱅 지드래곤, 'K-브랜드지수' 선정한 K-POP 개인 부문 TOP2 영예",
-      "url": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160270266307968",
-      "date": "2026.07.23",
-      "source": "siminilbo.co.kr",
-      "thumbnail": "https://www.siminilbo.co.kr/news/data/20260723/p1160270266307968_565_thum.jpg"
-    },
-    {
-      "title": "리센느, MBC 아시안게임 방송 홍보대사 위촉 \"기쁘고 영광\"",
-      "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=830174",
-      "date": "2026.07.23",
-      "source": "spotvnews.co.kr",
-      "thumbnail": "https://cdn.spotvnews.co.kr/news/thumbnail/202607/830174_1363731_2126_v150.jpg"
-    },
-    {
       "title": "리센느, MBC ‘2026 아이치-나고야 아시안게임’ 방송 홍보대사 발탁",
       "url": "https://www.bntnews.co.kr/article/view/bnt202607230100",
       "date": "2026.07.23",
@@ -126,20 +140,6 @@
       "date": "2026.07.23",
       "source": "tvreport.co.kr",
       "thumbnail": "https://img.tvreportcdn.de/cms-content/uploads/2026/07/23/d18fe3d0-58b7-4438-989c-f627d36fd63c.jpg"
-    },
-    {
-      "title": "리센느, 2026 아이치-나고야 아시안게임 MBC 홍보대사 위촉...\"선수단 선...",
-      "url": "https://www.ppss.kr/news/articleView.html?idxno=302952",
-      "date": "2026.07.23",
-      "source": "ppss.kr",
-      "thumbnail": "https://cdn.ppss.kr/news/photo/202607/302952_122534_923.jpg"
-    },
-    {
-      "title": "\"키즈카페 하던 대표가 블랙핑크 만들어준다고\"... 리센느 미나미의 폭...",
-      "url": "https://www.insight.co.kr/news/564276",
-      "date": "2026.07.23",
-      "source": "insight.co.kr",
-      "thumbnail": "https://img.insight.co.kr/static/2026/07/23/1200/img_20260723093349_b72tz71t.jpg"
     }
   ]
 }
