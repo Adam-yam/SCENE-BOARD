@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-24T06:10:28Z",
+  "updated": "2026-07-24T07:10:22Z",
   "videos": [
     {
       "id": "NUInBr_Lfq4",
@@ -50,6 +50,14 @@
       "type": "long"
     },
     {
+      "id": "WDuntolfPOU",
+      "title": "POV: This is us every time we’re together.",
+      "url": "https://www.youtube.com/shorts/WDuntolfPOU",
+      "thumbnail": "https://i.ytimg.com/vi/WDuntolfPOU/mqdefault.jpg",
+      "date": "2026.07.24",
+      "type": "short"
+    },
+    {
       "id": "IuhYt6m-Vgk",
       "title": "#해나 님과 어디서나 당당하게 걷기 🎀",
       "url": "https://www.youtube.com/shorts/IuhYt6m-Vgk",
@@ -86,14 +94,6 @@
       "title": "#LEEMINHYUK 선배님과 어디서나 당당하게 걷기 🎀",
       "url": "https://www.youtube.com/shorts/O3q2OA3N1Q0",
       "thumbnail": "https://i.ytimg.com/vi/O3q2OA3N1Q0/mqdefault.jpg",
-      "date": "2026.07.22",
-      "type": "short"
-    },
-    {
-      "id": "DdysLSAO-Kc",
-      "title": "#손주원 #엄지원 님과 온 세상을 물들여 💎",
-      "url": "https://www.youtube.com/shorts/DdysLSAO-Kc",
-      "thumbnail": "https://i.ytimg.com/vi/DdysLSAO-Kc/mqdefault.jpg",
       "date": "2026.07.22",
       "type": "short"
     }
