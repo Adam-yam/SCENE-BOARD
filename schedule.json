@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-24T08:05:22Z",
+  "updated": "2026-07-24T09:05:24Z",
   "events": [
     {
       "date": "2026-07-06",
@@ -303,6 +303,14 @@
       "title": "별방수면회",
       "detail": "",
       "type": "공연",
+      "source": "mnetplus"
+    },
+    {
+      "date": "2026-07-31",
+      "time": "18:30",
+      "title": "롯데자이언츠 시구",
+      "detail": "",
+      "type": "기타",
       "source": "mnetplus"
     },
     {
