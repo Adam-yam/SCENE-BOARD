@@ -1,6 +1,27 @@
 {
-  "updated": "2026-07-24T11:00:55Z",
+  "updated": "2026-07-24T12:00:55Z",
   "articles": [
+    {
+      "title": "[S노트] '작은언니' 등쌀에 연예가는 '착한아이 신드롬'",
+      "url": "https://www.slist.kr/news/articleView.html?idxno=754007",
+      "date": "2026.07.24",
+      "source": "slist.kr",
+      "thumbnail": "https://cdn.slist.kr/news/thumbnail/202607/754007_1156077_3935_v150.jpg"
+    },
+    {
+      "title": "[금융지주 풍향계] 하나금융, ‘청년 인재 양성 프로젝트’ 성과 공유회...",
+      "url": "https://www.ekn.kr/web/view.php?key=20260724021485932",
+      "date": "2026.07.24",
+      "source": "ekn.kr",
+      "thumbnail": null
+    },
+    {
+      "title": "KB금융, 침대에 누워 즐기는 '별방 수면회' 개최",
+      "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2244984",
+      "date": "2026.07.24",
+      "source": "webeconomy.co.kr",
+      "thumbnail": "https://cdn.webeconomy.co.kr/news/photo/202607/2244984_1053606_1821.jpg"
+    },
     {
       "title": "리센느 미나미, 갸루 자신감 “언제든 소화할 수 있게” (‘집대성’)",
       "url": "https://isplus.com/article/view/isp202607240141",
@@ -114,32 +135,11 @@
       "thumbnail": "https://www.sportsworldi.com/content/image/2026/07/24/20260724514217.jpg"
     },
     {
-      "title": "‘롯데 야호~’ 리센느 미나미, 31일 사직 마운드 오른다",
-      "url": "https://www.bntnews.co.kr/article/view/bnt202607240226",
-      "date": "2026.07.24",
-      "source": "bntnews.co.kr",
-      "thumbnail": "https://www.bntnews.co.kr/data/bnt/image/2026/07/24/bnt202607240479.jpg"
-    },
-    {
-      "title": "KB금융, '별이 부르는 방에' 첫 오프라인 콘서트 개최",
-      "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065598667982923",
-      "date": "2026.07.24",
-      "source": "megaeconomy.co.kr",
-      "thumbnail": "https://www.megaeconomy.co.kr/news/data/20260724/p1065598667982923_140_thum.png"
-    },
-    {
       "title": "“지바 아니고 부산 맞습니다” 리센느 미나미, 31일 롯데 시구 출격",
       "url": "https://sports.khan.co.kr/article/202607241644003?pt=nv",
       "date": "2026.07.24",
       "source": "sports.khan.co.kr",
       "thumbnail": null
-    },
-    {
-      "title": "리센느 미나미, 31일 롯데 시구 확정⋯사직 마운드 선다",
-      "url": "https://www.etoday.co.kr/news/view/2607247",
-      "date": "2026.07.24",
-      "source": "etoday.co.kr",
-      "thumbnail": "https://img.etoday.co.kr/pto_db/2026/07/20260724160247_2363785_714_894.png"
     }
   ]
 }
