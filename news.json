@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-24T00:00:50Z",
+  "updated": "2026-07-24T01:00:42Z",
   "articles": [
     {
       "title": "[뮤직컴퍼니100] SM엔터테인먼트 9.2% 1위…에스파·하츠투하츠 견인, 임...",
@@ -16,18 +16,18 @@
       "thumbnail": "https://www.bntnews.co.kr/data/bnt/image/2026/07/24/bnt202607240075.jpg"
     },
     {
-      "title": "[문화 이슈] 연준, 미니 2집으로 커리어 하이 달성…올해 한국 솔로 가수...",
-      "url": "http://www.beyondpost.co.kr/view.php?ud=202607240733124104d3244b4fed_30",
-      "date": "2026.07.23",
-      "source": "beyondpost.co.kr",
-      "thumbnail": "https://cgeimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=20260724073355086920d3244b4fed58141237106.jpg&nmt=30"
-    },
-    {
       "title": "BTS·블랙핑크 끌고 리센느·코르티스 밀고…2026 상반기, K팝 음반 판매...",
       "url": "https://www.slist.kr/news/articleView.html?idxno=753804",
       "date": "2026.07.23",
       "source": "slist.kr",
       "thumbnail": "https://cdn.slist.kr/news/thumbnail/202607/753804_1155817_3936_v150.jpg"
+    },
+    {
+      "title": "[문화 이슈] 연준, 미니 2집으로 커리어 하이 달성…올해 한국 솔로 가수...",
+      "url": "http://www.beyondpost.co.kr/view.php?ud=202607240733124104d3244b4fed_30",
+      "date": "2026.07.23",
+      "source": "beyondpost.co.kr",
+      "thumbnail": null
     },
     {
       "title": "'아이스크림 보이' 연준, 미니 2집 성공→미국 무대로 활동 확대",
