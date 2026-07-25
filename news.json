@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-25T16:00:46Z",
+  "updated": "2026-07-25T17:00:43Z",
   "articles": [
     {
       "title": "\"실감 안 나요\"…리센느, 데뷔 첫 지상파 음방 1위 \"미쳤다구\" [Oh!쎈 이...",
@@ -48,7 +48,7 @@
       "url": "https://www.mydaily.co.kr/page/view/2026072519152396262",
       "date": "2026.07.25",
       "source": "mydaily.co.kr",
-      "thumbnail": null
+      "thumbnail": "https://mydaily.co.kr/photos/2026/07/25/2026072519150514722_l.jpg"
     },
     {
       "title": "리센느가 또 해냈다…‘음중’서 데뷔 첫 지상파 1위",
@@ -76,13 +76,6 @@
       "url": "https://www.mydaily.co.kr/page/view/2026072517121507318",
       "date": "2026.07.25",
       "source": "mydaily.co.kr",
-      "thumbnail": "https://mydaily.co.kr/photos/2026/07/25/2026072517175554294_l.jpg"
-    },
-    {
-      "title": "‘음중’ 1위 리센느…이찬원도 감동했던 ‘1시간 대기’ 미담 재조명",
-      "url": "https://sports.khan.co.kr/article/202607251713003?pt=nv",
-      "date": "2026.07.25",
-      "source": "sports.khan.co.kr",
       "thumbnail": null
     },
     {
@@ -91,6 +84,13 @@
       "date": "2026.07.25",
       "source": "newsis.com",
       "thumbnail": "https://img1.newsis.com/2026/07/25/NISI20260725_0002195792_web.jpg"
+    },
+    {
+      "title": "‘음중’ 1위 리센느…이찬원도 감동했던 ‘1시간 대기’ 미담 재조명",
+      "url": "https://sports.khan.co.kr/article/202607251713003?pt=nv",
+      "date": "2026.07.25",
+      "source": "sports.khan.co.kr",
+      "thumbnail": null
     },
     {
       "title": "리센느 ‘프리티 걸’, 에스파·연준 제치고 1위 (‘쇼! 음악중심’)[셀...",
@@ -104,7 +104,7 @@
       "url": "http://www.stoo.com/article.php?aid=107922833730",
       "date": "2026.07.25",
       "source": "stoo.com",
-      "thumbnail": null
+      "thumbnail": "https://www.stoo.com/upimages/gisaimg/202607/25_1079228_33730.jpg"
     },
     {
       "title": "이찬원, 리센느 ‘깜짝’ 미담 공개…“2시간 기다렸다”",
