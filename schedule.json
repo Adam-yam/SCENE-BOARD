@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-25T08:05:23Z",
+  "updated": "2026-07-25T09:05:22Z",
   "events": [
     {
       "date": "2026-07-06",
@@ -271,6 +271,14 @@
       "title": "JUST MAKEUP IN TOKYO 2027",
       "detail": "",
       "type": "기타",
+      "source": "mnetplus"
+    },
+    {
+      "date": "2026-07-25",
+      "time": "04:30",
+      "title": "SBS <인기가요> 사전녹화",
+      "detail": "",
+      "type": "방송",
       "source": "mnetplus"
     },
     {
