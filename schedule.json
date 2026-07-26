@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-26T04:05:24Z",
+  "updated": "2026-07-26T05:05:25Z",
   "events": [
     {
       "date": "2026-07-06",
@@ -311,6 +311,14 @@
       "title": "2026 캐리비안베이 워터뮤직풀파티",
       "detail": "",
       "type": "기타",
+      "source": "mnetplus"
+    },
+    {
+      "date": "2026-07-26",
+      "time": "15:10",
+      "title": "SBS <인기가요>",
+      "detail": "",
+      "type": "방송",
       "source": "mnetplus"
     },
     {
