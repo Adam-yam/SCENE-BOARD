@@ -1,6 +1,20 @@
 {
-  "updated": "2026-07-26T09:00:42Z",
+  "updated": "2026-07-26T10:00:44Z",
   "articles": [
+    {
+      "title": "'역주행 신화' 리센느, 데뷔 첫 음악방송 1위",
+      "url": "https://news.jtbc.co.kr/article/NB12310244?influxDiv=NAVER",
+      "date": "2026.07.26",
+      "source": "news.jtbc.co.kr",
+      "thumbnail": null
+    },
+    {
+      "title": "손담비, 복근 선명한 갸루걸..리센느 미나미도 놀라겠네",
+      "url": "https://www.heraldmuse.com/article/10820488?ref=naver",
+      "date": "2026.07.26",
+      "source": "heraldmuse.com",
+      "thumbnail": "https://wimg.heraldcorp.com/news/cms/2026/07/26/news-p.v1.20260726.9cb3a920215845369241da1bf9e4b7ec_T1.jpg"
+    },
     {
       "title": "리센느, ‘음악중심’ 이어 ‘인기가요’도 1위…식지 않는 ‘역주행 돌...",
       "url": "https://www.mk.co.kr/article/12107797",
@@ -76,10 +90,10 @@
       "url": "https://www.sportsseoul.com/news/read/1624658?ref=naver",
       "date": "2026.07.26",
       "source": "sportsseoul.com",
-      "thumbnail": "https://file.sportsseoul.com/news/cms/2026/07/26/news-p.v1.20260726.dee437196b8c49428292fb9cc8ff084e_P1.jpg"
+      "thumbnail": null
     },
     {
-      "title": "29년째 여름만 되면 한국 사는 외국인 모두 몰리는 것 같다는 축제 [제철...",
+      "title": "“한국 사는 외국인들 모두 이곳에 오는 것 같아요”…이틀간 21만명 몰...",
       "url": "https://www.mk.co.kr/article/12107602",
       "date": "2026.07.26",
       "source": "mk.co.kr",
