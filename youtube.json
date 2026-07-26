@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-26T06:10:35Z",
+  "updated": "2026-07-26T07:10:22Z",
   "videos": [
     {
       "id": "bd42NE8dFDI",
@@ -50,6 +50,14 @@
       "type": "long"
     },
     {
+      "id": "yuTme7lLho4",
+      "title": "에베베벱베 😝",
+      "url": "https://www.youtube.com/shorts/yuTme7lLho4",
+      "thumbnail": "https://i.ytimg.com/vi/yuTme7lLho4/mqdefault.jpg",
+      "date": "2026.07.26",
+      "type": "short"
+    },
+    {
       "id": "igJq3rvLld8",
       "title": "멜빵 애햄이 등장이요 💙",
       "url": "https://www.youtube.com/shorts/igJq3rvLld8",
@@ -87,14 +95,6 @@
       "url": "https://www.youtube.com/shorts/nAYmW1eiO-I",
       "thumbnail": "https://i.ytimg.com/vi/nAYmW1eiO-I/mqdefault.jpg",
       "date": "2026.07.23",
-      "type": "short"
-    },
-    {
-      "id": "5hVieaykssU",
-      "title": "Pretty Girl 애햄이 🎀",
-      "url": "https://www.youtube.com/shorts/5hVieaykssU",
-      "thumbnail": "https://i.ytimg.com/vi/5hVieaykssU/mqdefault.jpg",
-      "date": "2026.07.22",
       "type": "short"
     }
   ]
