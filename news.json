@@ -1,12 +1,19 @@
 {
-  "updated": "2026-07-27T11:00:45Z",
+  "updated": "2026-07-27T12:00:48Z",
   "articles": [
     {
-      "title": "[HD포토] 키빗업 태환, '즐거운 페스티벌 무대' (보령머드축제 K-POP SUPER...",
-      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16147132",
+      "title": "외국인 늘고 장마 비껴가…북적이는 바다",
+      "url": "https://news.knn.co.kr/news/article/190563",
+      "date": "2026.07.27",
+      "source": "news.knn.co.kr",
+      "thumbnail": "https://kcms.knn.co.kr/mam/data/CI2016123000000000006/CI2017072513315301673/2026/07/27/26072756658/catalog/3.jpg"
+    },
+    {
+      "title": "[HD포토] 키빗업 루키아, '폭염 속 열정 넘치는 비니 패션' (보령머드축...",
+      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16147179",
       "date": "2026.07.27",
       "source": "topstarnews.net",
-      "thumbnail": "https://cdn.topstarnews.net/news/photo/202607/16147132_1972385_5056_crop.jpg"
+      "thumbnail": "https://cdn.topstarnews.net/news/photo/202607/16147179_1972480_4415_crop.jpg"
     },
     {
       "title": "K팝 매출 100배 뛰었다…예상밖 외국인들 '덕질 명소' 떠오른 곳 [트렌드...",
@@ -27,7 +34,7 @@
       "url": "https://sports.donga.com/ent/article/all/20260727/134374346/1",
       "date": "2026.07.27",
       "source": "sports.donga.com",
-      "thumbnail": "https://dimg.donga.com/wps/SPORTS/IMAGE/2026/07/27/134374331.1.jpg"
+      "thumbnail": null
     },
     {
       "title": "뉴비트, 눈물의 첫 수상→'KMA 2026' 무대 장악",
@@ -86,27 +93,6 @@
       "thumbnail": "https://cdn.kyongbuk.co.kr/news/photo/202607/4079370_814288_5600.jpg"
     },
     {
-      "title": "‘인바디 측정 불가’ 신지, ♥문원과 결혼 후 점점 더 뼈말라…거제 야...",
-      "url": "https://www.newsen.com/news_view.php?uid=202607271534262310",
-      "date": "2026.07.27",
-      "source": "newsen.com",
-      "thumbnail": "https://photo.newsen.com/news_photo/2026/07/27/202607271534262310_1.jpg"
-    },
-    {
-      "title": "[TD영상] 아홉, 2년 연속 KWDA와 함께하는 아홉 '어디까지 성장할 지 감...",
-      "url": "http://www.tvdaily.co.kr/read.php3?aid=17851340311795249003",
-      "date": "2026.07.27",
-      "source": "tvdaily.co.kr",
-      "thumbnail": "http://image.tvdaily.co.kr/upimages/gisaimg/202607/1785134031_1795249.png"
-    },
-    {
-      "title": "영주 여름밤이 달라진다…'2026 영주 시원나잇 페스타' 31일 개막",
-      "url": "https://www.hidomin.com/news/articleView.html?idxno=714878",
-      "date": "2026.07.27",
-      "source": "hidomin.com",
-      "thumbnail": "https://cdn.hidomin.com/news/photo/202607/714878_416636_3745.jpg"
-    },
-    {
       "title": "누군가를 꿈꾸던 리센느, 누군가의 꿈이 됐다 [MD포커스]",
       "url": "https://www.mydaily.co.kr/page/view/2026072715131876751",
       "date": "2026.07.27",
@@ -140,6 +126,20 @@
       "date": "2026.07.27",
       "source": "dailian.co.kr",
       "thumbnail": "https://cdnimage.dailian.co.kr/news/202607/news_1785112032_1671083_m_1.png"
+    },
+    {
+      "title": "각종 억까도 이겨낸 리센느, '러브어택'으로 '인기가요' 1위...역주행 신...",
+      "url": "https://www.pennmike.com/news/articleView.html?idxno=124423",
+      "date": "2026.07.27",
+      "source": "pennmike.com",
+      "thumbnail": "https://cdn.pennmike.com/news/thumbnail/202607/124423_169311_2557_v150.jpg"
+    },
+    {
+      "title": "리센느, ‘LOVE ATTACK’로 ‘인기가요’ 눈물의 1위...역주행 신화 대미",
+      "url": "https://www.mk.co.kr/article/12108020",
+      "date": "2026.07.27",
+      "source": "mk.co.kr",
+      "thumbnail": "https://wimg.mk.co.kr/news/cms/202607/27/news-p.v1.20260727.c90344281c524db99f535b064de3b316_P1.png"
     }
   ]
 }
