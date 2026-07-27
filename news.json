@@ -1,12 +1,19 @@
 {
-  "updated": "2026-07-27T13:00:51Z",
+  "updated": "2026-07-27T14:00:46Z",
   "articles": [
     {
-      "title": "리센느 미나미, 트와이스 사나와 만남에…\"나 완전 원스력 보여드리고 ...",
-      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16147185",
+      "title": "존박, 베를린 테크노 클럽 입장 성공 \"핑크 후드에 반바지, 테크노에 미...",
+      "url": "http://www.osen.co.kr/article/G1112847502",
+      "date": "2026.07.27",
+      "source": "osen.co.kr",
+      "thumbnail": "http://file.osen.co.kr/article_thumb/2026/07/27/202607272158771022_6a6759f6c555d_300x.png"
+    },
+    {
+      "title": "[HD포토] 레드벨벳 웬디, '진행도 완벽한 페스티벌 여신 비주얼' (보령머...",
+      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16147193",
       "date": "2026.07.27",
       "source": "topstarnews.net",
-      "thumbnail": "https://cdn.topstarnews.net/news/photo/202607/16147185_1972496_1856_crop.jpg"
+      "thumbnail": "https://cdn.topstarnews.net/news/photo/202607/16147193_1972516_1232_crop.jpg"
     },
     {
       "title": "외국인 늘고 장마 비껴가…북적이는 바다",
@@ -34,7 +41,7 @@
       "url": "https://sports.donga.com/ent/article/all/20260727/134374346/1",
       "date": "2026.07.27",
       "source": "sports.donga.com",
-      "thumbnail": null
+      "thumbnail": "https://dimg.donga.com/wps/SPORTS/IMAGE/2026/07/27/134374331.1.jpg"
     },
     {
       "title": "뉴비트, 눈물의 첫 수상→'KMA 2026' 무대 장악",
@@ -70,20 +77,6 @@
       "date": "2026.07.27",
       "source": "joongangenews.com",
       "thumbnail": "https://cdn.joongangenews.com/news/photo/202607/535716_341175_2411.jpg"
-    },
-    {
-      "title": "2년 전 발매 ‘러브어택’으로 지상파 음방 1위…5060 투표 이끌어낸 리...",
-      "url": "https://www.segye.com/newsView/20260727503838?OutUrl=naver",
-      "date": "2026.07.27",
-      "source": "segye.com",
-      "thumbnail": "https://www.segye.com/content/image/2026/07/27/20260727512849.jpg"
-    },
-    {
-      "title": "뉴비트 “리센느 선배님들 보며 달려가겠다” 뭉클한 수상 소감",
-      "url": "https://sports.khan.co.kr/article/202607271621003?pt=nv",
-      "date": "2026.07.27",
-      "source": "sports.khan.co.kr",
-      "thumbnail": null
     },
     {
       "title": "누군가를 꿈꾸던 리센느, 누군가의 꿈이 됐다 [MD포커스]",
@@ -139,6 +132,13 @@
       "url": "https://www.etnews.com/20260727000018",
       "date": "2026.07.26",
       "source": "etnews.com",
+      "thumbnail": "https://img.etnews.com/news/article/2026/07/27/article_27084328906544.jpg"
+    },
+    {
+      "title": "리센느 ‘러브어택’ 음방 첫 1위···“꿈 이뤘다”",
+      "url": "https://sports.khan.co.kr/article/202607270838003?pt=nv",
+      "date": "2026.07.26",
+      "source": "sports.khan.co.kr",
       "thumbnail": null
     }
   ]
