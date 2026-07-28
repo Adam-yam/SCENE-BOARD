@@ -1,6 +1,13 @@
 {
-  "updated": "2026-07-28T08:00:48Z",
+  "updated": "2026-07-28T09:00:51Z",
   "articles": [
+    {
+      "title": "[TD영상] 에이티즈, 인기상 후보에 오른 'BAD 남성들' KWDA 무대에서 얼...",
+      "url": "http://www.tvdaily.co.kr/read.php3?aid=17852259251795487003",
+      "date": "2026.07.28",
+      "source": "tvdaily.co.kr",
+      "thumbnail": "http://image.tvdaily.co.kr/upimages/gisaimg/202607/1785225925_1795487.png"
+    },
     {
       "title": "BTS 정국, 완판 넘어 극장가까지…확장하는 ‘정국 픽’",
       "url": "https://sports.donga.com/ent/article/all/20260728/134380230/1",
@@ -49,13 +56,6 @@
       "date": "2026.07.28",
       "source": "mediafine.co.kr",
       "thumbnail": "https://cdn.mediafine.co.kr/news/photo/202607/84847_122103_348.jpeg"
-    },
-    {
-      "title": "[TD영상] 윤경호, '락앤롤' 말 많~이 줄인 박진철의 축하인사 'KWDA 10주년...",
-      "url": "http://www.tvdaily.co.kr/read.php3?aid=17852174991795460003",
-      "date": "2026.07.28",
-      "source": "tvdaily.co.kr",
-      "thumbnail": "http://image.tvdaily.co.kr/upimages/gisaimg/202607/1785217499_1795460.png"
     },
     {
       "title": "“얼마나 재밌을지 감도 안 와”…임영웅→라이즈·아일릿, ‘2026 TMA’...",
@@ -128,18 +128,18 @@
       "thumbnail": "https://cdn.ize.co.kr/news/thumbnail/202607/79312_121668_2526_v150.jpg"
     },
     {
-      "title": "‘트와이스 찐팬’ 리센느 미나미, 사나 ‘냉터뷰’ 출격",
-      "url": "https://www.bntnews.co.kr/article/view/bnt202607280137",
-      "date": "2026.07.28",
-      "source": "bntnews.co.kr",
-      "thumbnail": "https://www.bntnews.co.kr/data/bnt/image/2026/07/28/bnt202607280219.jpg"
-    },
-    {
       "title": "라이즈·아일릿·엔믹스·임영웅·트레저, '2026 더팩트 뮤직 어워즈' 3차...",
       "url": "http://www.osen.co.kr/article/G1112847590",
       "date": "2026.07.28",
       "source": "osen.co.kr",
       "thumbnail": "http://file.osen.co.kr/article_thumb/2026/07/28/202607280955779586_6a67ff1c321b4_300x.jpg"
+    },
+    {
+      "title": "라이즈·아일릿·엔믹스·임영웅·트레저, '2026 더팩트 뮤직 어워즈' 출...",
+      "url": "https://www.gpkorea.com/news/articleView.html?idxno=145129",
+      "date": "2026.07.27",
+      "source": "gpkorea.com",
+      "thumbnail": "https://cdn.gpkorea.com/news/photo/202607/145129_308163_4024.jpg"
     }
   ]
 }
