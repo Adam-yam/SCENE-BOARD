@@ -1,6 +1,20 @@
 {
-  "updated": "2026-07-28T20:00:43Z",
+  "updated": "2026-07-28T21:00:45Z",
   "articles": [
+    {
+      "title": "'야호' 한마디에 광고계도 들썩…유통가, 리센느 모시기",
+      "url": "https://www.newsis.com/view/NISX20260728_0003726736",
+      "date": "2026.07.28",
+      "source": "newsis.com",
+      "thumbnail": "https://img1.newsis.com/2026/07/28/NISI20260728_0002198130_web.jpg"
+    },
+    {
+      "title": "결혼식 뷔페 '폭풍 먹방' 목격담, 알고 보니 리센느였다…\"전날 굶어, 원...",
+      "url": "https://www.xportsnews.com/article/2177114",
+      "date": "2026.07.28",
+      "source": "xportsnews.com",
+      "thumbnail": "https://image.xportsnews.com/contents/images/upload/article/2026/0728/1785236363483349.webp"
+    },
     {
       "title": "'살롱드립' 미나미·원이 \"리센느 대표, 블랙핑크 만들어준다고 설득\"",
       "url": "https://www.news1.kr/entertain/broadcast-tv/6241847",
@@ -93,13 +107,6 @@
       "thumbnail": "https://img1.newsis.com/2026/07/28/NISI20260728_0002198385_web.jpg"
     },
     {
-      "title": "장도연, 리센느 원이 “정산받으면 엄마 소고기 사주고 싶어” 말에 결...",
-      "url": "https://isplus.com/article/view/isp202607280178",
-      "date": "2026.07.28",
-      "source": "isplus.com",
-      "thumbnail": "https://isplus.com/data/isp/image/2026/07/28/isp20260728000283.800x.0.png"
-    },
-    {
       "title": "리센느 \"소속사 대표, '블랙핑크 만들어 줄게' 설득..직접 캐스팅\"[살롱...",
       "url": "https://www.starnewskorea.com/star/2026/07/28/2026072818445452703",
       "date": "2026.07.28",
@@ -132,7 +139,7 @@
       "url": "https://mhnse.com/news/articleView.html?idxno=1470567",
       "date": "2026.07.28",
       "source": "mhnse.com",
-      "thumbnail": "https://contents-cdn.viewus.co.kr/creator-cms/image/2026/07/7b88633e-00f3-4ce6-98c8-fed5c1a777fd.jpg"
+      "thumbnail": null
     }
   ]
 }
