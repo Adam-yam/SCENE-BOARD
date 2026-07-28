@@ -1,12 +1,19 @@
 {
-  "updated": "2026-07-28T14:00:54Z",
+  "updated": "2026-07-28T15:00:59Z",
   "articles": [
+    {
+      "title": "[HD포토] 레드벨벳 웬디, '웬디 기분 좋은 밤…완나잇' (보령머드축제 ...",
+      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16148132",
+      "date": "2026.07.28",
+      "source": "topstarnews.net",
+      "thumbnail": "https://cdn.topstarnews.net/news/photo/202607/16148132_1973739_257_crop.jpg"
+    },
     {
       "title": "영주 '시원 축제' 금·토·일 개최..'리센느' 참여",
       "url": "http://andongmbc.co.kr/adboard/NewsView83891",
       "date": "2026.07.28",
       "source": "andongmbc.co.kr",
-      "thumbnail": null
+      "thumbnail": "https://i.ytimg.com/vi/QsEbeewFPOQ/mqdefault.jpg"
     },
     {
       "title": "영주시, '2026 시원나잇 페스타' 개최",
@@ -20,7 +27,7 @@
       "url": "https://www.newsis.com/view/NISX20260728_0003727131",
       "date": "2026.07.28",
       "source": "newsis.com",
-      "thumbnail": "https://img1.newsis.com/2026/07/28/NISI20260728_0002198393_web.jpg"
+      "thumbnail": null
     },
     {
       "title": "임영웅 등 국내외 차트 집어삼킨 특급 아티스트들 ‘2026 더팩트 뮤직 어...",
@@ -28,13 +35,6 @@
       "date": "2026.07.28",
       "source": "sports.khan.co.kr",
       "thumbnail": null
-    },
-    {
-      "title": "[HD포토] 세이마이네임 도희, '사랑스러운 눈빛' (보령머드축제 K-POP SUP...",
-      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16148052",
-      "date": "2026.07.28",
-      "source": "topstarnews.net",
-      "thumbnail": "https://cdn.topstarnews.net/news/photo/202607/16148052_1973618_5328_crop.jpg"
     },
     {
       "title": "\"엄마 소고기 사드리고파\"…리센느 원이, 첫 정산 계획에 '눈물' (살롱드...",
@@ -93,17 +93,17 @@
       "thumbnail": null
     },
     {
-      "title": "리센느 미나미 \"한국어 '죄송합니다' 제일 처음 배워…죄송할 게 많을 ...",
-      "url": "http://enews.imbc.com/News/RetrieveNewsInfo/512928",
-      "date": "2026.07.28",
-      "source": "enews.imbc.com",
-      "thumbnail": "https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2026/07/28/05a50b21-1adb-4c65-8982-25fde7b7154e.png"
-    },
-    {
       "title": "리센느 원이 \"YG·하이브 오디션도 봤다..JYP·SM은 나이 제한으로 못 가...",
       "url": "https://www.starnewskorea.com/star/2026/07/28/2026072818205547277",
       "date": "2026.07.28",
       "source": "starnewskorea.com",
+      "thumbnail": null
+    },
+    {
+      "title": "'살롱드립' 리센느 원이 \"정산받으면 엄마 소고기 사주고 싶어\" 눈물",
+      "url": "https://www.news1.kr/entertain/broadcast-tv/6241846",
+      "date": "2026.07.28",
+      "source": "news1.kr",
       "thumbnail": null
     },
     {
@@ -112,13 +112,6 @@
       "date": "2026.07.28",
       "source": "osen.co.kr",
       "thumbnail": "http://file.osen.co.kr/article_thumb/2026/07/28/202607281829776003_6a687988dbe9f_300x.png"
-    },
-    {
-      "title": "'살롱드립' 리센느 원이 \"정산받으면 엄마 소고기 사주고 싶어\" 눈물",
-      "url": "https://www.news1.kr/entertain/broadcast-tv/6241846",
-      "date": "2026.07.28",
-      "source": "news1.kr",
-      "thumbnail": null
     },
     {
       "title": "'살롱드립' 장도연, 미나미와 5년 전 인연…\"즉석밥 선물 받아\"",
@@ -133,13 +126,6 @@
       "date": "2026.07.28",
       "source": "newsen.com",
       "thumbnail": "https://photo.newsen.com/news_photo/2026/07/28/202607281635580410_1.jpg"
-    },
-    {
-      "title": "동아오츠카, 포카리스웨트 500ml 무라벨 도입…“연간 자원순환 확대”",
-      "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065595664328085",
-      "date": "2026.07.28",
-      "source": "megaeconomy.co.kr",
-      "thumbnail": "https://www.megaeconomy.co.kr/news/data/20260728/p1065595664328085_713_thum.jpg"
     }
   ]
 }
