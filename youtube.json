@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-28T11:10:50Z",
+  "updated": "2026-07-28T12:10:26Z",
   "videos": [
     {
       "id": "bd42NE8dFDI",
@@ -50,6 +50,14 @@
       "type": "long"
     },
     {
+      "id": "Pxh0l3o8H14",
+      "title": "#조은찬 님과 어디서나 당당하게 걷기 🎀",
+      "url": "https://www.youtube.com/shorts/Pxh0l3o8H14",
+      "thumbnail": "https://i.ytimg.com/vi/Pxh0l3o8H14/mqdefault.jpg",
+      "date": "2026.07.28",
+      "type": "short"
+    },
+    {
       "id": "yuTme7lLho4",
       "title": "에베베벱베 😝",
       "url": "https://www.youtube.com/shorts/yuTme7lLho4",
@@ -86,14 +94,6 @@
       "title": "#지석진 #지예은 선배님과 어디서나 당당하게 걷기 🎀",
       "url": "https://www.youtube.com/shorts/9saSBNQlZMs",
       "thumbnail": "https://i.ytimg.com/vi/9saSBNQlZMs/mqdefault.jpg",
-      "date": "2026.07.23",
-      "type": "short"
-    },
-    {
-      "id": "nAYmW1eiO-I",
-      "title": "#임지환 님과 어디서나 당당하게 걷기 🎀",
-      "url": "https://www.youtube.com/shorts/nAYmW1eiO-I",
-      "thumbnail": "https://i.ytimg.com/vi/nAYmW1eiO-I/mqdefault.jpg",
       "date": "2026.07.23",
       "type": "short"
     }
