@@ -1,6 +1,13 @@
 {
-  "updated": "2026-07-29T20:01:13Z",
+  "updated": "2026-07-29T21:00:47Z",
   "articles": [
+    {
+      "title": "AI 시대, 음악은 왜 향수를 입는가 [이선미의 퍼퓸테크]",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092166638",
+      "date": "2026.07.29",
+      "source": "it.chosun.com",
+      "thumbnail": "https://cdn.it.chosun.com/news/thumbnail/202607/2023092166638_448570_241_v150.jpg"
+    },
     {
       "title": "리센느 원이, '무섭노' 논란 심경…\"뉴스에 나와 무서웠다\"",
       "url": "https://www.newsis.com/view/NISX20260729_0003728879",
@@ -83,7 +90,7 @@
       "url": "https://www.mydaily.co.kr/page/view/2026072918421654044",
       "date": "2026.07.29",
       "source": "mydaily.co.kr",
-      "thumbnail": "https://mydaily.co.kr/photos/2026/07/29/2026072918473865793_l.jpg"
+      "thumbnail": null
     },
     {
       "title": "쌀 포대 든 아일릿, 도시 움직인 리센느…공공 홍보 공식이 바뀌었다",
@@ -133,13 +140,6 @@
       "date": "2026.07.29",
       "source": "spotvnews.co.kr",
       "thumbnail": "https://cdn.spotvnews.co.kr/news/thumbnail/202607/831465_1366211_5711_v150.jpg"
-    },
-    {
-      "title": "또 '무섭노' 내걸었다 아차차...리센느+'돈선태' 썸네일 긴급 수정",
-      "url": "https://www.sportschosun.com/entertainment/2026-07-29/202607290100184680011864",
-      "date": "2026.07.29",
-      "source": "sportschosun.com",
-      "thumbnail": "https://www.sportschosun.com/article/html/2026/07/29/2026072901001846800118641_w.jpg"
     }
   ]
 }
