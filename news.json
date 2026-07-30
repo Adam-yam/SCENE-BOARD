@@ -1,6 +1,41 @@
 {
-  "updated": "2026-07-30T11:00:38Z",
+  "updated": "2026-07-30T12:00:45Z",
   "articles": [
+    {
+      "title": "리센느 원이가 창원에 와야하는 이유",
+      "url": "http://www.knnews.co.kr/news/articleView.php?idxno=1547672",
+      "date": "2026.07.30",
+      "source": "knnews.co.kr",
+      "thumbnail": "https://cdn.knnews.co.kr/edb/thumbnail/2026/07/1547672_520_images.jpg"
+    },
+    {
+      "title": "[Opinion] 리센느의 ‘거제, 야호!’가 남긴 질문 [문화 전반]",
+      "url": "https://www.artinsight.co.kr/news/view.php?no=81801",
+      "date": "2026.07.30",
+      "source": "artinsight.co.kr",
+      "thumbnail": "https://www.artinsight.co.kr/data/news/2607/20260728090729_234c4ae223ff.jpg"
+    },
+    {
+      "title": "무뎌진 '나락 센서'...김선태, 독립 150일 천하 끝→첫 시험대 [MD이슈]",
+      "url": "https://www.mydaily.co.kr/page/view/2026073018114995801",
+      "date": "2026.07.30",
+      "source": "mydaily.co.kr",
+      "thumbnail": "https://mydaily.co.kr/photos/2026/07/30/2026073018195725635_l.jpg"
+    },
+    {
+      "title": "원이 “뉴스 나와 무서웠다”는데 또 ‘무섭노’ 요구…김선태 사과",
+      "url": "https://www.mk.co.kr/article/12112446",
+      "date": "2026.07.30",
+      "source": "mk.co.kr",
+      "thumbnail": "https://wimg.mk.co.kr/news/cms/202607/30/news-p.v1.20260730.89f8886719f84f9fbd1119e8bdde2307_P1.png"
+    },
+    {
+      "title": "'서든어택' 아이돌 그룹 '리센느' 캐릭터 출시",
+      "url": "http://www.maniareport.com/view.php?ud=202607302022137411cecffa9387_19",
+      "date": "2026.07.30",
+      "source": "maniareport.com",
+      "thumbnail": "https://cgeimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=20260730203110003580cecffa93871223935165.jpg&nmt=19"
+    },
     {
       "title": "[랭킹뉴스] 리센느 '무섭노' 2차 가해 논란…김선태 결국 사과",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008683426&plink=ORI&cooper=NAVER",
@@ -105,41 +140,6 @@
       "date": "2026.07.30",
       "source": "tvdaily.co.kr",
       "thumbnail": "http://image.tvdaily.co.kr/upimages/gisaimg/202607/1785401824_1795823.png"
-    },
-    {
-      "title": "[넥슨] 던파 한정판 카드 / 서든어택 리센느 캐릭터 / V4 듀얼 시즌",
-      "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2251488",
-      "date": "2026.07.30",
-      "source": "webeconomy.co.kr",
-      "thumbnail": "https://cdn.webeconomy.co.kr/news/photo/202607/2251488_1060190_3711.jpg"
-    },
-    {
-      "title": "2026년 30주차 써클차트, 리센느·프로미스나인·코르티스·헌트릭스 활...",
-      "url": "http://www.breaknews.com/1225788",
-      "date": "2026.07.30",
-      "source": "breaknews.com",
-      "thumbnail": "https://www.breaknews.com/imgdata/breaknews_com/202607/2026073042211917.jpg"
-    },
-    {
-      "title": "넥슨, '서든어택'에 '리센느' 신규 캐릭터 출시",
-      "url": "https://www.cnbnews.com/news/articleView.html?idxno=1009855",
-      "date": "2026.07.30",
-      "source": "cnbnews.com",
-      "thumbnail": "https://cdn.cnbnews.com/news/photo/202607/1009855_510897_546.jpg"
-    },
-    {
-      "title": "넥슨, 서든어택 '리센느' 신규 캐릭터 5인 출시",
-      "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7176678",
-      "date": "2026.07.30",
-      "source": "weekly.hankooki.com",
-      "thumbnail": "https://cdn.weekly.hankooki.com/news/thumbnail/202607/7176678_241709_614_v150.jpg"
-    },
-    {
-      "title": "앤팀·킥플립→알파드라이브원 합류..‘2026 케이 월드 드림 어워즈’ ...",
-      "url": "http://www.osen.co.kr/article/G1112849246",
-      "date": "2026.07.30",
-      "source": "osen.co.kr",
-      "thumbnail": "http://file.osen.co.kr/article_thumb/2026/07/30/202607301726778591_6a6b0db1ba3e8_300x.jpg"
     }
   ]
 }
