@@ -1,6 +1,27 @@
 {
-  "updated": "2026-07-30T13:00:45Z",
+  "updated": "2026-07-30T14:00:47Z",
   "articles": [
+    {
+      "title": "리센느 원이, ‘무섭노’ 논란 첫 심경… “사회면 나와 너무 무서웠다...",
+      "url": "https://www.mediawatch.kr/news/article.html?no=260519",
+      "date": "2026.07.30",
+      "source": "mediawatch.kr",
+      "thumbnail": "https://www.mediawatch.kr/data/photos/20260731/art_17854064659126_bc5ff7.jpg"
+    },
+    {
+      "title": "이찬원 1위·임영웅 2위·안성훈 3위…장민호·김용빈 급등 (독자추천 순...",
+      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16150391",
+      "date": "2026.07.30",
+      "source": "topstarnews.net",
+      "thumbnail": "https://cdn.topstarnews.net/news/photo/202607/16150391_1976081_2237_crop.jpg"
+    },
+    {
+      "title": "영주시, 원나잇 페스타 31일 개막…폭염·인파 대응 막판 점검",
+      "url": "http://www.ttlnews.com/news/articleView.html?idxno=3130323",
+      "date": "2026.07.30",
+      "source": "ttlnews.com",
+      "thumbnail": "https://cdn.ttlnews.com/news/photo/202607/3130323_734312_23.jpg"
+    },
     {
       "title": "서든어택에 '리센느' 떴다",
       "url": "https://www.gametoc.co.kr/news/articleView.html?idxno=110329",
@@ -93,18 +114,18 @@
       "thumbnail": "https://cgeimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=202607301722550097400a47484cf8210113349.jpg&nmt=23"
     },
     {
-      "title": "롯데칠성 펩시 페스티벌·오리온 감자스낵 1조 공략…롯데리아·아웃백...",
-      "url": "https://www.ekn.kr/web/view.php?key=20260730027198072",
-      "date": "2026.07.30",
-      "source": "ekn.kr",
-      "thumbnail": "https://www.ekn.kr/mnt/file/202607/news-p.v1.20260730.5ca021af711243af91b19486832d88f0_R.png"
-    },
-    {
       "title": "넷마블 外(게임 ON)",
       "url": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3070856",
       "date": "2026.07.30",
       "source": "newsclaim.co.kr",
       "thumbnail": "https://cdn.newsclaim.co.kr/news/thumbnail/202607/3070856_112541_2632_v150.jpg"
+    },
+    {
+      "title": "롯데칠성 펩시 페스티벌·오리온 감자스낵 1조 공략…롯데리아·아웃백...",
+      "url": "https://www.ekn.kr/web/view.php?key=20260730027198072",
+      "date": "2026.07.30",
+      "source": "ekn.kr",
+      "thumbnail": null
     },
     {
       "title": "\"서든 야호~\", 넥슨 '서든어택' 대세 아이돌 그룹 '리센느' 캐릭터 출시",
@@ -119,27 +140,6 @@
       "date": "2026.07.30",
       "source": "sportsq.co.kr",
       "thumbnail": "http://www.sportsq.co.kr/news/thumbnail/202607/496979_574197_5148_v150.jpg"
-    },
-    {
-      "title": "수원 출신 리브, 퀴즈로 수원 관광 매력 알린다",
-      "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2454322",
-      "date": "2026.07.30",
-      "source": "enewstoday.co.kr",
-      "thumbnail": "https://cdn.enewstoday.co.kr/news/thumbnail/202607/2454322_1293836_5950_v150.jpg"
-    },
-    {
-      "title": "대통령·뉴진스 태그는 왜?..KBS 유튜브, 댓글 막고 리센느·김선태에 사...",
-      "url": "https://www.starnewskorea.com/broadcast-show/2026/07/30/2026073017013075076",
-      "date": "2026.07.30",
-      "source": "starnewskorea.com",
-      "thumbnail": null
-    },
-    {
-      "title": "안전부터 편의까지… 영주시, '시원나잇페스타' 개막 준비 완료",
-      "url": "https://www.eroun.net/news/articleView.html?idxno=86655",
-      "date": "2026.07.30",
-      "source": "eroun.net",
-      "thumbnail": "https://cdn.eroun.net/news/thumbnail/202607/86655_142968_5423_v150.jpg"
     }
   ]
 }
