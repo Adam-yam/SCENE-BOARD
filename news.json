@@ -1,6 +1,13 @@
 {
-  "updated": "2026-07-30T12:00:45Z",
+  "updated": "2026-07-30T13:00:45Z",
   "articles": [
+    {
+      "title": "서든어택에 '리센느' 떴다",
+      "url": "https://www.gametoc.co.kr/news/articleView.html?idxno=110329",
+      "date": "2026.07.30",
+      "source": "gametoc.co.kr",
+      "thumbnail": "https://cdn.gametoc.co.kr/news/photo/202607/110329_322469_1114.jpg"
+    },
     {
       "title": "리센느 원이가 창원에 와야하는 이유",
       "url": "http://www.knnews.co.kr/news/articleView.php?idxno=1547672",
@@ -86,18 +93,18 @@
       "thumbnail": "https://cgeimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=202607301722550097400a47484cf8210113349.jpg&nmt=23"
     },
     {
-      "title": "넷마블 外(게임 ON)",
-      "url": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3070856",
-      "date": "2026.07.30",
-      "source": "newsclaim.co.kr",
-      "thumbnail": "https://cdn.newsclaim.co.kr/news/thumbnail/202607/3070856_112541_2632_v150.jpg"
-    },
-    {
       "title": "롯데칠성 펩시 페스티벌·오리온 감자스낵 1조 공략…롯데리아·아웃백...",
       "url": "https://www.ekn.kr/web/view.php?key=20260730027198072",
       "date": "2026.07.30",
       "source": "ekn.kr",
       "thumbnail": "https://www.ekn.kr/mnt/file/202607/news-p.v1.20260730.5ca021af711243af91b19486832d88f0_R.png"
+    },
+    {
+      "title": "넷마블 外(게임 ON)",
+      "url": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3070856",
+      "date": "2026.07.30",
+      "source": "newsclaim.co.kr",
+      "thumbnail": "https://cdn.newsclaim.co.kr/news/thumbnail/202607/3070856_112541_2632_v150.jpg"
     },
     {
       "title": "\"서든 야호~\", 넥슨 '서든어택' 대세 아이돌 그룹 '리센느' 캐릭터 출시",
@@ -133,13 +140,6 @@
       "date": "2026.07.30",
       "source": "eroun.net",
       "thumbnail": "https://cdn.eroun.net/news/thumbnail/202607/86655_142968_5423_v150.jpg"
-    },
-    {
-      "title": "[TD영상] 도경수, 'KWDA 10주년 축하합니다~' 장꾸미 하트입으로 전하는...",
-      "url": "http://www.tvdaily.co.kr/read.php3?aid=17854018241795823003",
-      "date": "2026.07.30",
-      "source": "tvdaily.co.kr",
-      "thumbnail": "http://image.tvdaily.co.kr/upimages/gisaimg/202607/1785401824_1795823.png"
     }
   ]
 }
