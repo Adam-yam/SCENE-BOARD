@@ -1,12 +1,19 @@
 {
-  "updated": "2026-07-30T20:00:49Z",
+  "updated": "2026-07-30T21:00:50Z",
   "articles": [
+    {
+      "title": "서든어택에 ‘대세’ 리센느 떴다…신규 캐릭터 출시[오늘의 게임 업데...",
+      "url": "https://www.sedaily.com/article/20074015?ref=naver",
+      "date": "2026.07.30",
+      "source": "sedaily.com",
+      "thumbnail": "https://wimg.sedaily.com/news/cms/2026/07/30/news-p.v1.20260730.a47858888f17421cb191d8f01fb8659f_R.png"
+    },
     {
       "title": "[패트롤] 수원시-성남시-오산시-이천시-평택시",
       "url": "https://www.ekn.kr/web/view.php?key=20260731023538153",
       "date": "2026.07.30",
       "source": "ekn.kr",
-      "thumbnail": null
+      "thumbnail": "https://www.ekn.kr/mnt/file/202607/news-p.v1.20260731.92cdf894f4e94767aca3a45fd518487b_R.jpg"
     },
     {
       "title": "idntt(아이덴티티), 빅크 ‘더케이팝 치얼업’ 출격",
@@ -133,13 +140,6 @@
       "date": "2026.07.30",
       "source": "sports.khan.co.kr",
       "thumbnail": null
-    },
-    {
-      "title": "[게임소식] 넥슨 '서든어택' 리센느 신규 캐릭터, 넷마블 '나혼렙' 업데...",
-      "url": "http://www.thebigdata.co.kr/view.php?ud=2026073017140253200a47484cf8_23",
-      "date": "2026.07.30",
-      "source": "thebigdata.co.kr",
-      "thumbnail": "https://cgeimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=202607301722550097400a47484cf8210113349.jpg&nmt=23"
     }
   ]
 }
