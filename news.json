@@ -1,6 +1,20 @@
 {
-  "updated": "2026-07-30T22:05:37Z",
+  "updated": "2026-07-30T23:00:49Z",
   "articles": [
+    {
+      "title": "리센느, 데뷔 2년 만에 '초동 10만'…한터 \"기적 아닌 데이터의 결과\"",
+      "url": "https://www.slist.kr/news/articleView.html?idxno=755487",
+      "date": "2026.07.30",
+      "source": "slist.kr",
+      "thumbnail": "https://cdn.slist.kr/news/thumbnail/202607/755487_1158158_450_v150.jpg"
+    },
+    {
+      "title": "“시작도 전에 홍역”… ‘돈선태’ 제작진, ‘썸네일, 제목, 해시태그...",
+      "url": "https://www.sportsseoul.com/news/read/1625863?ref=naver",
+      "date": "2026.07.30",
+      "source": "sportsseoul.com",
+      "thumbnail": null
+    },
     {
       "title": "‘또’ 재점화된 리센느 원이 ‘무섭노’ 논란…책임은 김선태에게만 있...",
       "url": "https://www.newsen.com/news_view.php?uid=202607301206372610",
@@ -41,7 +55,7 @@
       "url": "https://www.ekn.kr/web/view.php?key=20260731023538153",
       "date": "2026.07.30",
       "source": "ekn.kr",
-      "thumbnail": "https://www.ekn.kr/mnt/file/202607/news-p.v1.20260731.92cdf894f4e94767aca3a45fd518487b_R.jpg"
+      "thumbnail": null
     },
     {
       "title": "idntt(아이덴티티), 빅크 ‘더케이팝 치얼업’ 출격",
@@ -126,20 +140,6 @@
       "date": "2026.07.30",
       "source": "maniareport.com",
       "thumbnail": "https://cgeimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=20260730203110003580cecffa93871223935165.jpg&nmt=19"
-    },
-    {
-      "title": "[랭킹뉴스] 리센느 '무섭노' 2차 가해 논란…김선태 결국 사과",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008683426&plink=ORI&cooper=NAVER",
-      "date": "2026.07.30",
-      "source": "news.sbs.co.kr",
-      "thumbnail": "https://img.sbs.co.kr/newimg/news/20260730/202207491_1280.jpg"
-    },
-    {
-      "title": "\"블랙핑크 만들어 준다고\"…리센느 원이, YG·하이브 대신 현 소속사 택...",
-      "url": "https://www.xportsnews.com/article/2178186",
-      "date": "2026.07.30",
-      "source": "xportsnews.com",
-      "thumbnail": "https://image.xportsnews.com/contents/images/upload/article/2026/0730/1785404941536406.webp"
     }
   ]
 }
