@@ -1,12 +1,110 @@
 {
-  "updated": "2026-07-30T03:00:39Z",
+  "updated": "2026-07-30T04:00:51Z",
   "articles": [
     {
-      "title": "신선한 이종결합의 화제성…도미노피자 새광고",
-      "url": "https://www.apnews.kr/news/articleView.html?idxno=3050149",
+      "title": "[뮤즈이슈]“리센느에 죄송”‥‘돈선태’ 제작진, ‘무섭노’ 2차 가해...",
+      "url": "https://www.heraldmuse.com/article/10825700?ref=naver",
       "date": "2026.07.30",
-      "source": "apnews.kr",
-      "thumbnail": "https://cdn.apnews.kr/news/thumbnail/202607/3050149_82483_2844_v150.jpg"
+      "source": "heraldmuse.com",
+      "thumbnail": "https://wimg.heraldcorp.com/news/cms/2026/07/30/news-p.v1.20260730.6800f4f7a249402588ca421eb2e65f16_T1.jpg"
+    },
+    {
+      "title": "‘돈선태’ 김선태, 리센느 ‘무섭노’ 2차 가해 논란 사과 “인지하고...",
+      "url": "https://www.sportsseoul.com/news/read/1625715?ref=naver",
+      "date": "2026.07.30",
+      "source": "sportsseoul.com",
+      "thumbnail": null
+    },
+    {
+      "title": "'돈선태' 제작진도 사과 \"제작에 신중했어야 했다, 리센느와 김선태에 ...",
+      "url": "http://www.stoo.com/article.php?aid=108015459912",
+      "date": "2026.07.30",
+      "source": "stoo.com",
+      "thumbnail": null
+    },
+    {
+      "title": "대세 걸그룹 리센느, '서든어택' 캐릭터로 출격",
+      "url": "http://game.dailyesports.com/view.php?ud=20260730111348422643da15d9d2_26",
+      "date": "2026.07.30",
+      "source": "game.dailyesports.com",
+      "thumbnail": "https://cgeimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=2026073011141309655043da15d9d2210921584.jpg&nmt=26"
+    },
+    {
+      "title": "‘돈선태’ 제작진, ‘뭐가 무섭노?’→홍명보·뉴진스 해시태그 논란 ...",
+      "url": "https://isplus.com/article/view/isp202607300144",
+      "date": "2026.07.30",
+      "source": "isplus.com",
+      "thumbnail": "https://isplus.com/data/isp/image/2026/07/30/isp20260730000178.800x.0.png"
+    },
+    {
+      "title": "[전문] ‘돈선태’ 제작진, ‘무섭노’ 2차 가해 논란 사과…“리센느·...",
+      "url": "https://sports.khan.co.kr/article/202607301225003?pt=nv",
+      "date": "2026.07.30",
+      "source": "sports.khan.co.kr",
+      "thumbnail": null
+    },
+    {
+      "title": "[위클리오늘] 넥슨 소식(7.30)",
+      "url": "http://www.weeklytoday.com/news/articleView.html?idxno=788057",
+      "date": "2026.07.30",
+      "source": "weeklytoday.com",
+      "thumbnail": "https://cdn.weeklytoday.com/news/thumbnail/202607/788057_970387_1824_v150.jpg"
+    },
+    {
+      "title": "KBS 유튜브, 리센느 '2차 가해' 후폭풍…김선태 \"명백한 제 잘못\" 사과",
+      "url": "https://news.jtbc.co.kr/article/NB12310901?influxDiv=NAVER",
+      "date": "2026.07.30",
+      "source": "news.jtbc.co.kr",
+      "thumbnail": null
+    },
+    {
+      "title": "[전문] '돈선태' 제작진, 원이 '무섭노' 2차 가해 논란에 사과…\"리센느...",
+      "url": "https://www.xportsnews.com/article/2177973",
+      "date": "2026.07.30",
+      "source": "xportsnews.com",
+      "thumbnail": "https://image.xportsnews.com/contents/images/upload/article/2026/0730/1785380877082903.webp"
+    },
+    {
+      "title": "'돈선태' 제작진 사과문 업로드 \"신중했어야 했다… 반성중\" [전문]",
+      "url": "http://www.tvdaily.co.kr/read.php3?aid=17853809091795756002",
+      "date": "2026.07.30",
+      "source": "tvdaily.co.kr",
+      "thumbnail": "http://image.tvdaily.co.kr/upimages/gisaimg/202607/1785380909_1795756.png"
+    },
+    {
+      "title": "“리센느 멤버들에게 죄송” 김선태, 논란 일자 공식 사과…무슨 일 (영...",
+      "url": "https://www.wikitree.co.kr/articles/1149389",
+      "date": "2026.07.30",
+      "source": "wikitree.co.kr",
+      "thumbnail": "https://cdnweb01.wikitree.co.kr/webdata/editor/202607/30/202607301150316163.JPG"
+    },
+    {
+      "title": "김선태, '무섭노' 2차 가해 논란에 끝내 공개 사죄…\"정말 무책임했습니...",
+      "url": "https://www.tvreport.co.kr/entertainment/article/1064965/",
+      "date": "2026.07.30",
+      "source": "tvreport.co.kr",
+      "thumbnail": "https://img.tvreportcdn.de/cms-content/uploads/2026/07/30/7610d87d-d5f1-4f78-9f2c-6afec962042b.jpg"
+    },
+    {
+      "title": "넥슨 ‘서든어택’, 대세 아이돌 ‘리센느’ 합류",
+      "url": "https://www.mk.co.kr/article/12111830",
+      "date": "2026.07.30",
+      "source": "mk.co.kr",
+      "thumbnail": "https://pimg.mk.co.kr/news/cms/202607/30/news-p.v1.20260730.f543f74eee314cd38ccbb909f09f73d0_R.jpg"
+    },
+    {
+      "title": "넥슨 '서든어택' 리센느 캐릭터 선봬",
+      "url": "https://www.tgdaily.co.kr/news/articleView.html?idxno=406094",
+      "date": "2026.07.30",
+      "source": "tgdaily.co.kr",
+      "thumbnail": "https://cdn.tgdaily.co.kr/news/photo/202607/406094_209446_2621.jpg"
+    },
+    {
+      "title": "[식음료브리핑] CJ푸드빌, 지역아동 초청 '빕스 동행데이' 진행 외",
+      "url": "https://www.seoulfn.com/news/articleView.html?idxno=634494",
+      "date": "2026.07.30",
+      "source": "seoulfn.com",
+      "thumbnail": "https://cdn.seoulfn.com/news/photo/202607/634494_435628_1712.jpg"
     },
     {
       "title": "'충주맨' 김선태, 리센느 '무섭노' 언급 역풍…KBS 채널까지 비공개",
@@ -14,6 +112,13 @@
       "date": "2026.07.30",
       "source": "queen.co.kr",
       "thumbnail": "http://www.queen.co.kr/news/thumbnail/202607/461060_207081_4242_v150.jpg"
+    },
+    {
+      "title": "신선한 이종결합의 화제성…도미노피자 새광고",
+      "url": "https://www.apnews.kr/news/articleView.html?idxno=3050149",
+      "date": "2026.07.30",
+      "source": "apnews.kr",
+      "thumbnail": "https://cdn.apnews.kr/news/thumbnail/202607/3050149_82483_2844_v150.jpg"
     },
     {
       "title": "아이돌 그룹 리센느, '서든어택'에 참전",
@@ -35,111 +140,6 @@
       "date": "2026.07.30",
       "source": "betanews.net",
       "thumbnail": "https://www.betanews.net/data/beta/image/2026/07/30/beta20260730000038.jpg"
-    },
-    {
-      "title": "원이 “뉴스에 나와 무서웠다”…돈선태 ‘무섭노’ 언급 영상 결국 삭...",
-      "url": "https://www.donga.com/news/Culture/article/all/20260730/134393175/2",
-      "date": "2026.07.30",
-      "source": "donga.com",
-      "thumbnail": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/07/30/134393176.2.jpg"
-    },
-    {
-      "title": "[#게임스테이션] '서든어택' 신규캐릭터·'LoL 클래식' 출시·넥슨 현대...",
-      "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=848847",
-      "date": "2026.07.30",
-      "source": "newsworks.co.kr",
-      "thumbnail": "https://cdn.newsworks.co.kr/news/thumbnail/202607/848847_808631_2532_v150.jpg"
-    },
-    {
-      "title": "리센느 원이에 굳이 ‘무섭노?’ 질문…김선태 급사과 “제 잘못”",
-      "url": "https://www.hani.co.kr/arti/society/society_general/1270643.html",
-      "date": "2026.07.30",
-      "source": "hani.co.kr",
-      "thumbnail": "https://flexible.img.hani.co.kr/flexible/normal/924/555/imgdb/original/2026/0730/20260730501323.webp"
-    },
-    {
-      "title": "\"서든 야호\"…넥슨 '서든어택', 리센느 캐릭터 선보인다",
-      "url": "https://www.ddaily.co.kr/page/view/2026073011241279009",
-      "date": "2026.07.30",
-      "source": "ddaily.co.kr",
-      "thumbnail": null
-    },
-    {
-      "title": "한명이 뜨니 그룹도 떴다…‘개인 화제성’이 팀을 끌어올리는 시대[SS...",
-      "url": "https://www.sportsseoul.com/news/read/1625630?ref=naver",
-      "date": "2026.07.30",
-      "source": "sportsseoul.com",
-      "thumbnail": null
-    },
-    {
-      "title": "김선태, 리센느 ‘무섭노?’ 섬네일 사과… “멤버들에게 죄송, 무책임...",
-      "url": "https://isplus.com/article/view/isp202607300105",
-      "date": "2026.07.30",
-      "source": "isplus.com",
-      "thumbnail": "https://isplus.com/data/isp/image/2026/07/30/isp20260730000138.800x.0.png"
-    },
-    {
-      "title": "서든야호! 서든어택 리센느 신규 캐릭터 5인 출시",
-      "url": "https://www.gamemeca.com/mv.php?inflow=naver&gid=1778480",
-      "date": "2026.07.30",
-      "source": "gamemeca.com",
-      "thumbnail": "https://cdn.gamemeca.com/gmdata/0001/778/480/gm301512_thumb___.webp"
-    },
-    {
-      "title": "[유통갤러리] 롯데마트, 2026 추석 사전예약 진행 外",
-      "url": "https://theviewers.co.kr/View.aspx?No=4167859",
-      "date": "2026.07.30",
-      "source": "theviewers.co.kr",
-      "thumbnail": "https://cdn.coenworks.com/Files/30/News/202607/8305_20260730105218042.jpg"
-    },
-    {
-      "title": "넥슨, '서든어택'에 아이돌 그룹 '리센느' 캐릭터 출시",
-      "url": "https://www.sportschosun.com/entertainment/2026-07-30/202607300100190620012290",
-      "date": "2026.07.30",
-      "source": "sportschosun.com",
-      "thumbnail": "https://www.sportschosun.com/article/html/2026/07/30/2026073001001906200122901_w.jpg"
-    },
-    {
-      "title": "넥슨, '서든어택'에 '리센느' 신규 캐릭터 출시",
-      "url": "https://www.thisisgame.com/articles/428355",
-      "date": "2026.07.30",
-      "source": "thisisgame.com",
-      "thumbnail": null
-    },
-    {
-      "title": "KBS, 리센느 불러놓고 웬 대통령·한동훈 태그?…'2차 가해' 논란도",
-      "url": "https://news.jtbc.co.kr/article/NB12310885?influxDiv=NAVER",
-      "date": "2026.07.30",
-      "source": "news.jtbc.co.kr",
-      "thumbnail": null
-    },
-    {
-      "title": "'전 충주맨' 김선태, 리센느에 사과 \"무리한 언급 저의 잘못…무책임했...",
-      "url": "http://www.stoo.com/article.php?aid=108014240338",
-      "date": "2026.07.30",
-      "source": "stoo.com",
-      "thumbnail": "https://www.stoo.com/upimages/gisaimg/202607/30_1080142_40338.jpg"
-    },
-    {
-      "title": "'돈선태' 김선태, 리센느 발언 논란 사과 '명백한 제 잘못'",
-      "url": "https://www.bntnews.co.kr/article/view/bnt202607300156",
-      "date": "2026.07.30",
-      "source": "bntnews.co.kr",
-      "thumbnail": "https://www.bntnews.co.kr/data/bnt/image/2026/07/30/bnt202607300303.png"
-    },
-    {
-      "title": "넥슨, '서든어택'에 아이돌 그룹 '리센느' 캐릭터 출시…팬덤 연계 콘텐...",
-      "url": "https://www.youthdaily.co.kr/news/article.html?no=224139",
-      "date": "2026.07.30",
-      "source": "youthdaily.co.kr",
-      "thumbnail": "https://www.youthdaily.co.kr/data/photos/20260731/art_17853779504305_53ae70.jpg"
-    },
-    {
-      "title": "넥슨 ‘서든어택’, 대세 아이돌 ‘리센느’ 합류",
-      "url": "https://www.mk.co.kr/article/12111830",
-      "date": "2026.07.30",
-      "source": "mk.co.kr",
-      "thumbnail": "https://pimg.mk.co.kr/news/cms/202607/30/news-p.v1.20260730.f543f74eee314cd38ccbb909f09f73d0_R.jpg"
     }
   ]
 }
