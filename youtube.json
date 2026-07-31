@@ -1,6 +1,14 @@
 {
-  "updated": "2026-07-31T11:10:30Z",
+  "updated": "2026-07-31T12:10:31Z",
   "videos": [
+    {
+      "id": "bDE6e40utiY",
+      "title": "까엉TV 가 왔다 🤍🤍",
+      "url": "https://www.youtube.com/watch?v=bDE6e40utiY",
+      "thumbnail": "https://i.ytimg.com/vi/bDE6e40utiY/mqdefault.jpg",
+      "date": "2026.07.31",
+      "type": "long"
+    },
     {
       "id": "sqPUUBJzK1k",
       "title": "고마워 리마인🫶 | RESCENE (리센느) &#39;Pretty Girl&#39; 음악방송 Behind #1",
@@ -42,22 +50,6 @@
       "type": "long"
     },
     {
-      "id": "zDTijSf4UHo",
-      "title": "???: 리센느 영상 다봤다💗 YouTube: 어림도 없지 아직 안 푼 이야기 대방출 갑니다! | YouTube 케봉박두 EP.2 RESCENE(리센느)",
-      "url": "https://www.youtube.com/watch?v=zDTijSf4UHo",
-      "thumbnail": "https://i.ytimg.com/vi/zDTijSf4UHo/mqdefault.jpg",
-      "date": "2026.07.16",
-      "type": "long"
-    },
-    {
-      "id": "bDE6e40utiY",
-      "title": "까엉TV 가 왔다 🤍🤍",
-      "url": "https://www.youtube.com/shorts/bDE6e40utiY",
-      "thumbnail": "https://i.ytimg.com/vi/bDE6e40utiY/mqdefault_live.jpg",
-      "date": "2026.07.31",
-      "type": "short"
-    },
-    {
       "id": "I4ymlF3Rzac",
       "title": "#ACHIRAYA 님과 어디서나 당당하게 걷기 🎀",
       "url": "https://www.youtube.com/shorts/I4ymlF3Rzac",
@@ -94,6 +86,14 @@
       "title": "멜빵 애햄이 등장이요 💙",
       "url": "https://www.youtube.com/shorts/igJq3rvLld8",
       "thumbnail": "https://i.ytimg.com/vi/igJq3rvLld8/mqdefault.jpg",
+      "date": "2026.07.24",
+      "type": "short"
+    },
+    {
+      "id": "WDuntolfPOU",
+      "title": "POV: This is us every time we’re together.",
+      "url": "https://www.youtube.com/shorts/WDuntolfPOU",
+      "thumbnail": "https://i.ytimg.com/vi/WDuntolfPOU/mqdefault.jpg",
       "date": "2026.07.24",
       "type": "short"
     }
