@@ -1,6 +1,13 @@
 {
-  "updated": "2026-07-31T16:00:52Z",
+  "updated": "2026-07-31T17:00:39Z",
   "articles": [
+    {
+      "title": "김선태, KBS 웹 예능 자진 하차...\"리센느에게 사과\"",
+      "url": "https://www.ytn.co.kr/_ln/0106_202608010125339282",
+      "date": "2026.07.31",
+      "source": "ytn.co.kr",
+      "thumbnail": "https://image.ytn.co.kr/general/jpg/2026/0801/202608010125339282_t.jpg"
+    },
     {
       "title": "8월 네티즌 어워즈 출발…지난달 열기 이어 새로운 승부 펼쳐진다",
       "url": "https://www.cbci.co.kr/news/articleView.html?idxno=593675",
@@ -27,14 +34,7 @@
       "url": "https://www.kyeonggi.com/article/20260731580266",
       "date": "2026.07.31",
       "source": "kyeonggi.com",
-      "thumbnail": "https://ypzxxdrj8709.edge.naverncp.com/data2/content/image/2026/07/31/.cache/512/20260731580267.jpg?v=20260801010045"
-    },
-    {
-      "title": "리센느 미나미 ‘갸루귀신 대신 롯데 유니폼 입고’[엑's HD포토]",
-      "url": "https://www.xportsnews.com/article/2178752",
-      "date": "2026.07.31",
-      "source": "xportsnews.com",
-      "thumbnail": "https://image.xportsnews.com/contents/images/upload/article/2026/0731/1785495225913385.webp"
+      "thumbnail": "https://ypzxxdrj8709.edge.naverncp.com/data2/content/image/2026/07/31/.cache/512/20260731580267.jpg?v=20260801020036"
     },
     {
       "title": "리센느 미나미 ‘사직의 야구 열기를 느끼며’[엑's HD포토]",
@@ -49,6 +49,13 @@
       "date": "2026.07.31",
       "source": "xportsnews.com",
       "thumbnail": "https://image.xportsnews.com/contents/images/upload/article/2026/0731/1785495225688968.webp"
+    },
+    {
+      "title": "리센느 미나미 ‘갸루귀신 대신 롯데 유니폼 입고’[엑's HD포토]",
+      "url": "https://www.xportsnews.com/article/2178752",
+      "date": "2026.07.31",
+      "source": "xportsnews.com",
+      "thumbnail": "https://image.xportsnews.com/contents/images/upload/article/2026/0731/1785495225913385.webp"
     },
     {
       "title": "리센느 미나미 ‘시선 사로잡는 비주얼’[엑's HD포토]",
@@ -114,13 +121,6 @@
       "thumbnail": "http://file.osen.co.kr/article_thumb/2026/07/31/202607311919775786_6a6c76c02e890_300x.jpg"
     },
     {
-      "title": "[사진] 리센느 미나미, 완벽한 롯데 승리 기원 시구",
-      "url": "http://www.osen.co.kr/article/G1112850123",
-      "date": "2026.07.31",
-      "source": "osen.co.kr",
-      "thumbnail": "http://file.osen.co.kr/article_thumb/2026/07/31/202607311919776883_6a6c76bd062a0_300x.jpg"
-    },
-    {
       "title": "[사진] 리센느 미나미, 롯데 승리 기원 시구 잘 했어요",
       "url": "http://www.osen.co.kr/article/G1112850126",
       "date": "2026.07.31",
@@ -135,11 +135,11 @@
       "thumbnail": "http://file.osen.co.kr/article_thumb/2026/07/31/202607311919779338_6a6c76b9e3ed2_300x.jpg"
     },
     {
-      "title": "[사진] 리센느 미나미, 롯데 승리 기원 시구 준비 끝",
-      "url": "http://www.osen.co.kr/article/G1112850120",
+      "title": "[사진] 리센느 미나미, 완벽한 롯데 승리 기원 시구",
+      "url": "http://www.osen.co.kr/article/G1112850123",
       "date": "2026.07.31",
       "source": "osen.co.kr",
-      "thumbnail": "http://file.osen.co.kr/article_thumb/2026/07/31/202607311919776804_6a6c76b489ea5_300x.jpg"
+      "thumbnail": "http://file.osen.co.kr/article_thumb/2026/07/31/202607311919776883_6a6c76bd062a0_300x.jpg"
     }
   ]
 }
