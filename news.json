@@ -1,6 +1,27 @@
 {
-  "updated": "2026-08-01T21:00:47Z",
+  "updated": "2026-08-01T22:00:50Z",
   "articles": [
+    {
+      "title": "영주 '시원나잇 페스타' 31일 개막…사흘간 여름밤 달군다",
+      "url": "https://www.bzeronews.com/news/articleView.html?idxno=820790",
+      "date": "2026.08.01",
+      "source": "bzeronews.com",
+      "thumbnail": "https://cdn.bzeronews.com/news/photo/202608/820790_2030019_2626.jpg"
+    },
+    {
+      "title": "[엑's 이슈] 리센느, '전참시' 8년 역사상 최초 단독 게스트",
+      "url": "https://www.xportsnews.com/article/2179209",
+      "date": "2026.08.01",
+      "source": "xportsnews.com",
+      "thumbnail": "https://image.xportsnews.com/contents/images/upload/article/2026/0802/1785605972737515.webp"
+    },
+    {
+      "title": "민감 현안에 \"아차차\"…막강 유튜버들 줄줄이 고개 숙였다",
+      "url": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608010525&t=NN",
+      "date": "2026.08.01",
+      "source": "wowtv.co.kr",
+      "thumbnail": null
+    },
     {
       "title": "[TOP주간이슈] 황정민 사생활 폭로-BJ 철구 원정도박·불법사채 고백-김...",
       "url": "https://www.topstarnews.net/news/articleView.html?idxno=16152533",
@@ -100,20 +121,6 @@
       "thumbnail": "http://www.sportsq.co.kr/news/thumbnail/202608/497040_574315_4419_v150.jpg"
     },
     {
-      "title": "리센느 미나미 ‘손성빈에게 받는 시구 기념구’[엑's HD포토]",
-      "url": "https://www.xportsnews.com/article/2179001",
-      "date": "2026.08.01",
-      "source": "xportsnews.com",
-      "thumbnail": "https://image.xportsnews.com/contents/images/upload/article/2026/0801/1785548927432789.webp"
-    },
-    {
-      "title": "리센느 미나미 ‘보기만해도 행복한 미소’[엑's HD포토]",
-      "url": "https://www.xportsnews.com/article/2179000",
-      "date": "2026.08.01",
-      "source": "xportsnews.com",
-      "thumbnail": "https://image.xportsnews.com/contents/images/upload/article/2026/0801/1785548927933536.webp"
-    },
-    {
       "title": "리센느 미나미 '갸루귀신 등장에 뜨거운 사직'[엑's 숏폼]",
       "url": "https://www.xportsnews.com/article/2178990",
       "date": "2026.08.01",
@@ -133,13 +140,6 @@
       "date": "2026.07.31",
       "source": "segye.com",
       "thumbnail": "https://www.segye.com/content/image/2026/08/01/20260801503028.jpg"
-    },
-    {
-      "title": "[K리그] 이강인 기다리는 '2026 쿠팡플레이 시리즈'…오픈 트레이닝으로...",
-      "url": "https://www.stardailynews.co.kr/news/articleView.html?idxno=544462",
-      "date": "2026.07.31",
-      "source": "stardailynews.co.kr",
-      "thumbnail": "https://cdn.stardailynews.co.kr/news/thumbnail/202607/544462_576496_4355_v150.jpg"
     }
   ]
 }
