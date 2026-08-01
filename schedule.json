@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-31T23:05:26Z",
+  "updated": "2026-08-01T00:05:24Z",
   "events": [
     {
       "date": "2026-07-06",
@@ -381,6 +381,14 @@
       "date": "2026-08-16",
       "time": null,
       "title": "KCON LA 2026",
+      "detail": "",
+      "type": "공연",
+      "source": "mnetplus"
+    },
+    {
+      "date": "2026-09-27",
+      "time": "19:00",
+      "title": "Objet K-pop Festa 2026",
       "detail": "",
       "type": "공연",
       "source": "mnetplus"
