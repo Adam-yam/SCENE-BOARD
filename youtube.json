@@ -1,6 +1,14 @@
 {
-  "updated": "2026-08-01T10:10:30Z",
+  "updated": "2026-08-01T11:10:25Z",
   "videos": [
+    {
+      "id": "KBjYld2nKiw",
+      "title": "🥟와 🐶 출동 | RESCENE (리센느) &#39;Pretty Girl&#39; 음악방송 Behind #2",
+      "url": "https://www.youtube.com/watch?v=KBjYld2nKiw",
+      "thumbnail": "https://i.ytimg.com/vi/KBjYld2nKiw/mqdefault.jpg",
+      "date": "2026.08.01",
+      "type": "long"
+    },
     {
       "id": "bDE6e40utiY",
       "title": "까엉TV 가 왔다 🤍🤍",
@@ -39,14 +47,6 @@
       "url": "https://www.youtube.com/watch?v=XhYthT7FAIY",
       "thumbnail": "https://i.ytimg.com/vi/XhYthT7FAIY/mqdefault.jpg",
       "date": "2026.07.22",
-      "type": "long"
-    },
-    {
-      "id": "UEo2q8k1TNw",
-      "title": "까엉TV 왔다잉🤍",
-      "url": "https://www.youtube.com/watch?v=UEo2q8k1TNw",
-      "thumbnail": "https://i.ytimg.com/vi/UEo2q8k1TNw/mqdefault.jpg",
-      "date": "2026.07.21",
       "type": "long"
     },
     {
