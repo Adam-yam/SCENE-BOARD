@@ -1,6 +1,20 @@
 {
-  "updated": "2026-08-01T06:00:42Z",
+  "updated": "2026-08-01T07:00:37Z",
   "articles": [
+    {
+      "title": "[TD영상] 음문석, '10주년 축하드려유~' 댄서 출신 배우도 기대하는 'KWD...",
+      "url": "http://www.tvdaily.co.kr/read.php3?aid=17855652281796103003",
+      "date": "2026.08.01",
+      "source": "tvdaily.co.kr",
+      "thumbnail": "http://image.tvdaily.co.kr/upimages/gisaimg/202608/1785565228_1796103.png"
+    },
+    {
+      "title": "리센느 미나미 '완벽했던 시구, 불펜 연습현장 직캠'[엑's 영상]",
+      "url": "https://www.xportsnews.com/article/2179024",
+      "date": "2026.08.01",
+      "source": "xportsnews.com",
+      "thumbnail": "https://image.xportsnews.com/contents/images/upload/article/2026/0801/1785564015042272.webp"
+    },
     {
       "title": "포르테 디 콰트로, 최고그룹상 9개월 연속 우승 대기록…크로스오버 최...",
       "url": "https://www.cbci.co.kr/news/articleView.html?idxno=593802",
@@ -14,13 +28,6 @@
       "date": "2026.08.01",
       "source": "sportsq.co.kr",
       "thumbnail": "http://www.sportsq.co.kr/news/thumbnail/202608/497040_574315_4419_v150.jpg"
-    },
-    {
-      "title": "[TD영상] 곽범, '이 정도면 BAD에 중독된 짭산(?)' 끝없이 춤 추는 K-POP ...",
-      "url": "http://www.tvdaily.co.kr/read.php3?aid=17855494191796094003",
-      "date": "2026.08.01",
-      "source": "tvdaily.co.kr",
-      "thumbnail": "http://image.tvdaily.co.kr/upimages/gisaimg/202608/1785549419_1796094.png"
     },
     {
       "title": "리센느 미나미 ‘손성빈에게 받는 시구 기념구’[엑's HD포토]",
@@ -65,13 +72,6 @@
       "thumbnail": "https://image.xportsnews.com/contents/images/upload/article/2026/0801/1785548926458309.webp"
     },
     {
-      "title": "리센느 미나미 ‘선수라고 해도 믿겠어’[엑's HD포토]",
-      "url": "https://www.xportsnews.com/article/2178998",
-      "date": "2026.08.01",
-      "source": "xportsnews.com",
-      "thumbnail": "https://image.xportsnews.com/contents/images/upload/article/2026/0801/1785548926539098.webp"
-    },
-    {
       "title": "리센느 미나미 ‘무결점 클로즈업’[엑's HD포토]",
       "url": "https://www.xportsnews.com/article/2178993",
       "date": "2026.08.01",
@@ -93,6 +93,13 @@
       "thumbnail": "https://image.xportsnews.com/contents/images/upload/article/2026/0801/1785548926931674.webp"
     },
     {
+      "title": "리센느 미나미 ‘선수라고 해도 믿겠어’[엑's HD포토]",
+      "url": "https://www.xportsnews.com/article/2178998",
+      "date": "2026.08.01",
+      "source": "xportsnews.com",
+      "thumbnail": "https://image.xportsnews.com/contents/images/upload/article/2026/0801/1785548926539098.webp"
+    },
+    {
       "title": "\"한여름 밤의 열기, 안심하고 즐기세요\" 영주시, '2026 시원나잇 페스타...",
       "url": "https://www.dkilbo.com/news/articleView.html?idxno=550159",
       "date": "2026.08.01",
@@ -111,7 +118,7 @@
       "url": "https://biz.heraldcorp.com/article/10827729?ref=naver",
       "date": "2026.08.01",
       "source": "biz.heraldcorp.com",
-      "thumbnail": "https://wimg.heraldcorp.com/news/cms/2026/08/01/news-p.v1.20260801.9f1d08668720400b96b9df24f95e209e_T1.png"
+      "thumbnail": null
     },
     {
       "title": "이재준 수원시장 \"수원잘알 리브의 픽\"…리센느와 '찐 수원' 코스 공개",
@@ -128,18 +135,11 @@
       "thumbnail": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26080100296.jpg"
     },
     {
-      "title": "“험한 것들 등장”…딘딘·스윙스·매드클라운, 충격 갸루 변신",
-      "url": "https://www.mk.co.kr/article/12114189",
-      "date": "2026.08.01",
-      "source": "mk.co.kr",
-      "thumbnail": "https://pimg.mk.co.kr/news/cms/202608/01/news-p.v1.20260801.5d6c02b033ad407ca2393e1b7416ace4_R.png"
-    },
-    {
-      "title": "[강대호의 대중문화 읽기] 공영방송의 '어그로'와 수신료의 가치",
-      "url": "http://www.opinionnews.co.kr/news/articleView.html?idxno=142364",
-      "date": "2026.08.01",
-      "source": "opinionnews.co.kr",
-      "thumbnail": "http://www.opinionnews.co.kr/news/thumbnail/202607/142364_104653_394_v150.jpg"
+      "title": "“피자 시키고 포카 받자”…아이돌 팬덤에 꽂힌 외식업계",
+      "url": "https://www.segye.com/newsView/20260801503027?OutUrl=naver",
+      "date": "2026.07.31",
+      "source": "segye.com",
+      "thumbnail": "https://www.segye.com/content/image/2026/08/01/20260801503028.jpg"
     }
   ]
 }
