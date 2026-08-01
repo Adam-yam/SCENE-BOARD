@@ -1,6 +1,13 @@
 {
-  "updated": "2026-08-01T09:00:44Z",
+  "updated": "2026-08-01T10:00:39Z",
   "articles": [
+    {
+      "title": "유튜버 김선태 진행 KBS '돈선태: 성공시대' 폐지",
+      "url": "https://www.mediatoday.co.kr/news/articleView.html?idxno=336169",
+      "date": "2026.08.01",
+      "source": "mediatoday.co.kr",
+      "thumbnail": "https://cdn.mediatoday.co.kr/news/thumbnail/202608/336169_481662_3510_v150.jpg"
+    },
     {
       "title": "'쇼! 음악중심' 프로미스나인, '비타민 미'로 1위…음방 3관왕 달성 [TV캡...",
       "url": "http://www.stoo.com/article.php?aid=108055985335",
@@ -44,11 +51,11 @@
       "thumbnail": "http://www.sportsq.co.kr/news/thumbnail/202608/497040_574315_4419_v150.jpg"
     },
     {
-      "title": "리센느 미나미 ‘손성빈에게 받는 시구 기념구’[엑's HD포토]",
-      "url": "https://www.xportsnews.com/article/2179001",
+      "title": "리센느 미나미 ‘여신이세요?’[엑's HD포토]",
+      "url": "https://www.xportsnews.com/article/2179002",
       "date": "2026.08.01",
       "source": "xportsnews.com",
-      "thumbnail": "https://image.xportsnews.com/contents/images/upload/article/2026/0801/1785548927432789.webp"
+      "thumbnail": "https://image.xportsnews.com/contents/images/upload/article/2026/0801/1785548927212086.webp"
     },
     {
       "title": "리센느 미나미 ‘보기만해도 행복한 미소’[엑's HD포토]",
@@ -58,11 +65,39 @@
       "thumbnail": "https://image.xportsnews.com/contents/images/upload/article/2026/0801/1785548927933536.webp"
     },
     {
-      "title": "리센느 미나미 ‘여신이세요?’[엑's HD포토]",
-      "url": "https://www.xportsnews.com/article/2179002",
+      "title": "리센느 미나미 ‘손성빈에게 받는 시구 기념구’[엑's HD포토]",
+      "url": "https://www.xportsnews.com/article/2179001",
       "date": "2026.08.01",
       "source": "xportsnews.com",
-      "thumbnail": "https://image.xportsnews.com/contents/images/upload/article/2026/0801/1785548927212086.webp"
+      "thumbnail": "https://image.xportsnews.com/contents/images/upload/article/2026/0801/1785548927432789.webp"
+    },
+    {
+      "title": "리센느 미나미 ‘무결점 클로즈업’[엑's HD포토]",
+      "url": "https://www.xportsnews.com/article/2178993",
+      "date": "2026.08.01",
+      "source": "xportsnews.com",
+      "thumbnail": "https://image.xportsnews.com/contents/images/upload/article/2026/0801/1785548926177051.webp"
+    },
+    {
+      "title": "리센느 미나미 ‘선수라고 해도 믿겠어’[엑's HD포토]",
+      "url": "https://www.xportsnews.com/article/2178998",
+      "date": "2026.08.01",
+      "source": "xportsnews.com",
+      "thumbnail": "https://image.xportsnews.com/contents/images/upload/article/2026/0801/1785548926539098.webp"
+    },
+    {
+      "title": "리센느 미나미 ‘하트 선물’[엑's HD포토]",
+      "url": "https://www.xportsnews.com/article/2178994",
+      "date": "2026.08.01",
+      "source": "xportsnews.com",
+      "thumbnail": "https://image.xportsnews.com/contents/images/upload/article/2026/0801/1785548926966402.webp"
+    },
+    {
+      "title": "리센느 미나미 ‘이렇게 예쁘면 반칙’[엑's HD포토]",
+      "url": "https://www.xportsnews.com/article/2178997",
+      "date": "2026.08.01",
+      "source": "xportsnews.com",
+      "thumbnail": "https://image.xportsnews.com/contents/images/upload/article/2026/0801/1785548926931674.webp"
     },
     {
       "title": "리센느 미나미 ‘이 비율 실화야?’[엑's HD포토]",
@@ -86,34 +121,6 @@
       "thumbnail": "https://image.xportsnews.com/contents/images/upload/article/2026/0801/1785548927813097.webp"
     },
     {
-      "title": "리센느 미나미 ‘선수라고 해도 믿겠어’[엑's HD포토]",
-      "url": "https://www.xportsnews.com/article/2178998",
-      "date": "2026.08.01",
-      "source": "xportsnews.com",
-      "thumbnail": "https://image.xportsnews.com/contents/images/upload/article/2026/0801/1785548926539098.webp"
-    },
-    {
-      "title": "리센느 미나미 ‘이렇게 예쁘면 반칙’[엑's HD포토]",
-      "url": "https://www.xportsnews.com/article/2178997",
-      "date": "2026.08.01",
-      "source": "xportsnews.com",
-      "thumbnail": "https://image.xportsnews.com/contents/images/upload/article/2026/0801/1785548926931674.webp"
-    },
-    {
-      "title": "리센느 미나미 ‘하트 선물’[엑's HD포토]",
-      "url": "https://www.xportsnews.com/article/2178994",
-      "date": "2026.08.01",
-      "source": "xportsnews.com",
-      "thumbnail": "https://image.xportsnews.com/contents/images/upload/article/2026/0801/1785548926966402.webp"
-    },
-    {
-      "title": "리센느 미나미 ‘무결점 클로즈업’[엑's HD포토]",
-      "url": "https://www.xportsnews.com/article/2178993",
-      "date": "2026.08.01",
-      "source": "xportsnews.com",
-      "thumbnail": "https://image.xportsnews.com/contents/images/upload/article/2026/0801/1785548926177051.webp"
-    },
-    {
       "title": "\"한여름 밤의 열기, 안심하고 즐기세요\" 영주시, '2026 시원나잇 페스타...",
       "url": "https://www.dkilbo.com/news/articleView.html?idxno=550159",
       "date": "2026.08.01",
@@ -126,13 +133,6 @@
       "date": "2026.08.01",
       "source": "xportsnews.com",
       "thumbnail": "https://image.xportsnews.com/contents/images/upload/article/2026/0801/1785547452322153.webp"
-    },
-    {
-      "title": "김선태, 야심차게 KBS MC 도전했는데…‘돈선태’ 1회 공개도 못해보고...",
-      "url": "https://biz.heraldcorp.com/article/10827729?ref=naver",
-      "date": "2026.08.01",
-      "source": "biz.heraldcorp.com",
-      "thumbnail": "https://wimg.heraldcorp.com/news/cms/2026/08/01/news-p.v1.20260801.9f1d08668720400b96b9df24f95e209e_T1.png"
     },
     {
       "title": "이재준 수원시장 \"수원잘알 리브의 픽\"…리센느와 '찐 수원' 코스 공개",
