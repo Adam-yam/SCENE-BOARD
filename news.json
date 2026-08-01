@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-01T15:00:41Z",
+  "updated": "2026-08-01T16:00:43Z",
   "articles": [
     {
       "title": "딘딘X매드클라운X스윙스, 갸루 유행 탑승 \"엄마 슬퍼할 듯\" ('딘딘은 딘...",
@@ -34,7 +34,7 @@
       "url": "http://www.stoo.com/article.php?aid=108061967577",
       "date": "2026.08.01",
       "source": "stoo.com",
-      "thumbnail": null
+      "thumbnail": "https://www.stoo.com/upimages/gisaimg/202608/01_1080619_67577.jpg"
     },
     {
       "title": "김원희, '워니들' 정모 제안 \"아일릿 원희·리센느 원이 잘나가는데 나...",
@@ -107,13 +107,6 @@
       "thumbnail": "https://image.xportsnews.com/contents/images/upload/article/2026/0801/1785548927212086.webp"
     },
     {
-      "title": "리센느 미나미 ‘보기만해도 행복한 미소’[엑's HD포토]",
-      "url": "https://www.xportsnews.com/article/2179000",
-      "date": "2026.08.01",
-      "source": "xportsnews.com",
-      "thumbnail": "https://image.xportsnews.com/contents/images/upload/article/2026/0801/1785548927933536.webp"
-    },
-    {
       "title": "리센느 미나미 ‘손성빈에게 받는 시구 기념구’[엑's HD포토]",
       "url": "https://www.xportsnews.com/article/2179001",
       "date": "2026.08.01",
@@ -121,11 +114,18 @@
       "thumbnail": "https://image.xportsnews.com/contents/images/upload/article/2026/0801/1785548927432789.webp"
     },
     {
-      "title": "리센느 미나미 ‘선수라고 해도 믿겠어’[엑's HD포토]",
-      "url": "https://www.xportsnews.com/article/2178998",
+      "title": "리센느 미나미 ‘보기만해도 행복한 미소’[엑's HD포토]",
+      "url": "https://www.xportsnews.com/article/2179000",
       "date": "2026.08.01",
       "source": "xportsnews.com",
-      "thumbnail": "https://image.xportsnews.com/contents/images/upload/article/2026/0801/1785548926539098.webp"
+      "thumbnail": "https://image.xportsnews.com/contents/images/upload/article/2026/0801/1785548927933536.webp"
+    },
+    {
+      "title": "리센느 미나미 ‘하트 선물’[엑's HD포토]",
+      "url": "https://www.xportsnews.com/article/2178994",
+      "date": "2026.08.01",
+      "source": "xportsnews.com",
+      "thumbnail": "https://image.xportsnews.com/contents/images/upload/article/2026/0801/1785548926966402.webp"
     },
     {
       "title": "리센느 미나미 '갸루귀신 등장에 뜨거운 사직'[엑's 숏폼]",
