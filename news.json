@@ -1,6 +1,13 @@
 {
-  "updated": "2026-08-01T16:00:43Z",
+  "updated": "2026-08-01T17:00:53Z",
   "articles": [
+    {
+      "title": "프로미스나인, '비타민 미'로 '뮤직뱅크'-'쇼! 음악중심' 1위…음악방송...",
+      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16152463",
+      "date": "2026.08.01",
+      "source": "topstarnews.net",
+      "thumbnail": "https://cdn.topstarnews.net/news/photo/202608/16152463_1978203_3325_crop.png"
+    },
     {
       "title": "딘딘X매드클라운X스윙스, 갸루 유행 탑승 \"엄마 슬퍼할 듯\" ('딘딘은 딘...",
       "url": "http://www.osen.co.kr/article/G1112850904",
@@ -9,18 +16,11 @@
       "thumbnail": "http://file.osen.co.kr/article_thumb/2026/08/01/202608012210771122_6a6df3bc7f5d4_300x.png"
     },
     {
-      "title": "이찬원, 영주 '시원나잇 페스타'서 무더위 잊게 한 무대",
-      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16152398",
-      "date": "2026.08.01",
-      "source": "topstarnews.net",
-      "thumbnail": "https://cdn.topstarnews.net/news/photo/202608/16152398_1978177_500_crop.jpg"
-    },
-    {
       "title": "리센느 리브가 퀴즈로 소개한 수원…먹거리부터 축제까지 한눈에",
       "url": "https://www.etnews.com/20260801000067",
       "date": "2026.08.01",
       "source": "etnews.com",
-      "thumbnail": "https://img.etnews.com/news/article/2026/08/01/news-p.v1.20260801.6ea0895647d14ba6a039865898580287_P1.jpg"
+      "thumbnail": null
     },
     {
       "title": "‘거제 야호’ ‘얼마나 좋아’…대박은 ‘밈’을 타고 온다 [스페셜리...",
@@ -107,13 +107,6 @@
       "thumbnail": "https://image.xportsnews.com/contents/images/upload/article/2026/0801/1785548927212086.webp"
     },
     {
-      "title": "리센느 미나미 ‘손성빈에게 받는 시구 기념구’[엑's HD포토]",
-      "url": "https://www.xportsnews.com/article/2179001",
-      "date": "2026.08.01",
-      "source": "xportsnews.com",
-      "thumbnail": "https://image.xportsnews.com/contents/images/upload/article/2026/0801/1785548927432789.webp"
-    },
-    {
       "title": "리센느 미나미 ‘보기만해도 행복한 미소’[엑's HD포토]",
       "url": "https://www.xportsnews.com/article/2179000",
       "date": "2026.08.01",
@@ -121,11 +114,11 @@
       "thumbnail": "https://image.xportsnews.com/contents/images/upload/article/2026/0801/1785548927933536.webp"
     },
     {
-      "title": "리센느 미나미 ‘하트 선물’[엑's HD포토]",
-      "url": "https://www.xportsnews.com/article/2178994",
+      "title": "리센느 미나미 ‘손성빈에게 받는 시구 기념구’[엑's HD포토]",
+      "url": "https://www.xportsnews.com/article/2179001",
       "date": "2026.08.01",
       "source": "xportsnews.com",
-      "thumbnail": "https://image.xportsnews.com/contents/images/upload/article/2026/0801/1785548926966402.webp"
+      "thumbnail": "https://image.xportsnews.com/contents/images/upload/article/2026/0801/1785548927432789.webp"
     },
     {
       "title": "리센느 미나미 '갸루귀신 등장에 뜨거운 사직'[엑's 숏폼]",
@@ -139,7 +132,14 @@
       "url": "https://www.etoday.co.kr/news/view/2609965",
       "date": "2026.08.01",
       "source": "etoday.co.kr",
-      "thumbnail": "https://img.etoday.co.kr/pto_db/2026/08/20260801100439_2367334_480_250.jpg"
+      "thumbnail": null
+    },
+    {
+      "title": "“피자 시키고 포카 받자”…아이돌 팬덤에 꽂힌 외식업계",
+      "url": "https://www.segye.com/newsView/20260801503027?OutUrl=naver",
+      "date": "2026.07.31",
+      "source": "segye.com",
+      "thumbnail": "https://www.segye.com/content/image/2026/08/01/20260801503028.jpg"
     }
   ]
 }
