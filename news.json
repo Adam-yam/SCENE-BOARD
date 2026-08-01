@@ -1,6 +1,13 @@
 {
-  "updated": "2026-08-01T12:00:53Z",
+  "updated": "2026-08-01T13:00:41Z",
   "articles": [
+    {
+      "title": "‘거제 야호’ ‘얼마나 좋아’…대박은 ‘밈’을 타고 온다 [스페셜리...",
+      "url": "https://www.mk.co.kr/article/12106463",
+      "date": "2026.08.01",
+      "source": "mk.co.kr",
+      "thumbnail": "https://wimg.mk.co.kr/news/cms/202607/31/news-p.v1.20260724.f5eba01fc8a4481487610cce6d11d5a8_R.png"
+    },
     {
       "title": "'놀면 뭐하니?' 김원희, 아일릿 원희·리센느 원이 샤라웃 \"워니들 정모...",
       "url": "http://www.stoo.com/article.php?aid=108061967577",
@@ -121,13 +128,6 @@
       "thumbnail": "https://image.xportsnews.com/contents/images/upload/article/2026/0801/1785548926539098.webp"
     },
     {
-      "title": "리센느 미나미 ‘오똑한 콧날’[엑's HD포토]",
-      "url": "https://www.xportsnews.com/article/2178995",
-      "date": "2026.08.01",
-      "source": "xportsnews.com",
-      "thumbnail": "https://image.xportsnews.com/contents/images/upload/article/2026/0801/1785548926160260.webp"
-    },
-    {
       "title": "리센느 미나미 '갸루귀신 등장에 뜨거운 사직'[엑's 숏폼]",
       "url": "https://www.xportsnews.com/article/2178990",
       "date": "2026.08.01",
@@ -139,7 +139,7 @@
       "url": "https://www.etoday.co.kr/news/view/2609965",
       "date": "2026.08.01",
       "source": "etoday.co.kr",
-      "thumbnail": null
+      "thumbnail": "https://img.etoday.co.kr/pto_db/2026/08/20260801100439_2367334_480_250.jpg"
     }
   ]
 }
