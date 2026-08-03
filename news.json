@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-03T18:00:45Z",
+  "updated": "2026-08-03T19:00:39Z",
   "articles": [
     {
       "title": "'대세 걸그룹' 리센느, 신라공주로 대변신… 천년고도 경주 널리 알린다",
@@ -55,7 +55,7 @@
       "url": "http://www.phmbc.co.kr/www/news/desk_news?idx=203848&mode=view",
       "date": "2026.08.03",
       "source": "phmbc.co.kr",
-      "thumbnail": null
+      "thumbnail": "http://img.youtube.com/vi/XnHHq9pnr9w/mqdefault.jpg"
     },
     {
       "title": "리센느, 신라공주 변신…경주 홍보대사로 첫발",
@@ -76,7 +76,7 @@
       "url": "https://mhnse.com/news/articleView.html?idxno=1477657",
       "date": "2026.08.03",
       "source": "mhnse.com",
-      "thumbnail": null
+      "thumbnail": "https://contents-cdn.viewus.co.kr/creator-cms/image/2026/07/0f2b9819-7a34-4077-a642-5836e4dbd981.jpg"
     },
     {
       "title": "리센느, 명예 신라공주증 받았다",
@@ -100,13 +100,6 @@
       "thumbnail": "https://cdn.weeklytoday.com/news/thumbnail/202608/788619_971429_045_v150.jpg"
     },
     {
-      "title": "[금융픽] BNK금융, 무더위 극복 위해 지역밀착 지원 외",
-      "url": "http://www.newsian.co.kr/news/articleView.html?idxno=93202",
-      "date": "2026.08.03",
-      "source": "newsian.co.kr",
-      "thumbnail": "https://cdn.newsian.co.kr/news/thumbnail/202608/93202_86707_187_v150.jpg"
-    },
-    {
       "title": "[카드뉴스] 경주 홍보대사 리센느의 첫 공식 활동 시작!",
       "url": "http://news.lghellovision.net/news/articleView.html?idxno=550096",
       "date": "2026.08.03",
@@ -114,11 +107,25 @@
       "thumbnail": "https://cdn.news.lghellovision.net/news/thumbnail/202608/550096_186591_5050_v150.jpg"
     },
     {
+      "title": "[금융픽] BNK금융, 무더위 극복 위해 지역밀착 지원 외",
+      "url": "http://www.newsian.co.kr/news/articleView.html?idxno=93202",
+      "date": "2026.08.03",
+      "source": "newsian.co.kr",
+      "thumbnail": "https://cdn.newsian.co.kr/news/thumbnail/202608/93202_86707_187_v150.jpg"
+    },
+    {
       "title": "경주시, 관광 홍보에 K팝 접목…리센느 첫 콘텐츠 ‘라원’서 촬영",
       "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=04716646645543712",
       "date": "2026.08.03",
       "source": "edaily.co.kr",
       "thumbnail": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26080301124.jpg"
+    },
+    {
+      "title": "일베도 일진도 아닙니다…'대세' 원이 또 몸살 [MD이슈]",
+      "url": "https://www.mydaily.co.kr/page/view/2026080317085882108",
+      "date": "2026.08.03",
+      "source": "mydaily.co.kr",
+      "thumbnail": "https://mydaily.co.kr/photos/2026/08/03/2026080318344418964_l.jpg"
     },
     {
       "title": "리센느 원이 ‘일진설’ 잠재운 은사의 묵직한 마지막 인사",
@@ -133,13 +140,6 @@
       "date": "2026.08.03",
       "source": "donga.com",
       "thumbnail": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/03/134413516.1.jpg"
-    },
-    {
-      "title": "‘日도 야호~!’... 갸루들도 “난 파라파라나 춰야겠다” 숏폼 열풍",
-      "url": "https://www.munhwa.com/article/11606909?ref=naver",
-      "date": "2026.08.03",
-      "source": "munhwa.com",
-      "thumbnail": "https://wimg.munhwa.com/news/cms/2026/08/03/news-p.v1.20260803.fb521480ec6f4c47a00f44cea703dc45_R.png"
     }
   ]
 }
