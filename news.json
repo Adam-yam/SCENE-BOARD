@@ -1,12 +1,19 @@
 {
-  "updated": "2026-08-03T13:00:41Z",
+  "updated": "2026-08-03T14:00:50Z",
   "articles": [
     {
-      "title": "임영웅 1위·이찬원 2위·황정민 3위…임수향 급등 (MSN 좋아요·열독률...",
-      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16153927",
+      "title": "양준일 1위·빈예서 2위·김중연 3위…김의영 1만원 증가한 8주 누적 (기...",
+      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16153953",
       "date": "2026.08.03",
       "source": "topstarnews.net",
-      "thumbnail": "https://cdn.topstarnews.net/news/photo/202608/16153927_1979833_4028_crop.jpg"
+      "thumbnail": "https://cdn.topstarnews.net/news/photo/202608/16153953_1979916_1559_crop.jpg"
+    },
+    {
+      "title": "리센느처럼 ‘역주행 신드롬’ 고영표-소형준의 “KT 야호!”",
+      "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8627497&ref=A",
+      "date": "2026.08.03",
+      "source": "news.kbs.co.kr",
+      "thumbnail": "http://news.kbs.co.kr/data/news/2026/08/03/20260803_wCEVIZ.png"
     },
     {
       "title": "진짜는 사라지고, 사건만 남는다 — 갸루의 야호, 그리고 이병한",
@@ -86,18 +93,18 @@
       "thumbnail": "https://cdn.weeklytoday.com/news/thumbnail/202608/788619_971429_045_v150.jpg"
     },
     {
-      "title": "[금융픽] BNK금융, 무더위 극복 위해 지역밀착 지원 외",
-      "url": "http://www.newsian.co.kr/news/articleView.html?idxno=93202",
-      "date": "2026.08.03",
-      "source": "newsian.co.kr",
-      "thumbnail": "https://cdn.newsian.co.kr/news/thumbnail/202608/93202_86707_187_v150.jpg"
-    },
-    {
       "title": "[카드뉴스] 경주 홍보대사 리센느의 첫 공식 활동 시작!",
       "url": "http://news.lghellovision.net/news/articleView.html?idxno=550096",
       "date": "2026.08.03",
       "source": "news.lghellovision.net",
       "thumbnail": "https://cdn.news.lghellovision.net/news/thumbnail/202608/550096_186591_5050_v150.jpg"
+    },
+    {
+      "title": "[금융픽] BNK금융, 무더위 극복 위해 지역밀착 지원 외",
+      "url": "http://www.newsian.co.kr/news/articleView.html?idxno=93202",
+      "date": "2026.08.03",
+      "source": "newsian.co.kr",
+      "thumbnail": "https://cdn.newsian.co.kr/news/thumbnail/202608/93202_86707_187_v150.jpg"
     },
     {
       "title": "경주시, 관광 홍보에 K팝 접목…리센느 첫 콘텐츠 ‘라원’서 촬영",
@@ -114,20 +121,6 @@
       "thumbnail": "https://mydaily.co.kr/photos/2026/08/03/2026080318344418964_l.jpg"
     },
     {
-      "title": "IBK기업은행 '2026 입크페스티벌' 10월 개최, \"개인 고객에 새로운 경험...",
-      "url": "https://www.businesspost.co.kr/BP?command=article_view&num=443844",
-      "date": "2026.08.03",
-      "source": "businesspost.co.kr",
-      "thumbnail": null
-    },
-    {
-      "title": "글로벌 K-POP 입은 천년고도… 경주시, 리센느와 관광 홍보 나섰다",
-      "url": "https://www.eroun.net/news/articleView.html?idxno=86918",
-      "date": "2026.08.03",
-      "source": "eroun.net",
-      "thumbnail": "https://cdn.eroun.net/news/thumbnail/202608/86918_143265_318_v150.jpg"
-    },
-    {
       "title": "리센느 원이 ‘일진설’ 잠재운 은사의 묵직한 마지막 인사",
       "url": "https://sports.khan.co.kr/article/202608031722003?pt=nv",
       "date": "2026.08.03",
@@ -140,6 +133,13 @@
       "date": "2026.08.03",
       "source": "donga.com",
       "thumbnail": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/03/134413516.1.jpg"
+    },
+    {
+      "title": "‘日도 야호~!’... 갸루들도 “난 파라파라나 춰야겠다” 숏폼 열풍",
+      "url": "https://www.munhwa.com/article/11606909?ref=naver",
+      "date": "2026.08.03",
+      "source": "munhwa.com",
+      "thumbnail": "https://wimg.munhwa.com/news/cms/2026/08/03/news-p.v1.20260803.fb521480ec6f4c47a00f44cea703dc45_R.png"
     }
   ]
 }
