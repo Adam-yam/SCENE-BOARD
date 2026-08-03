@@ -1,6 +1,13 @@
 {
-  "updated": "2026-08-03T14:00:50Z",
+  "updated": "2026-08-03T15:00:48Z",
   "articles": [
+    {
+      "title": "'대세 걸그룹' 리센느, 신라공주로 대변신… 천년고도 경주 널리 알린다",
+      "url": "https://www.segye.com/newsView/20260803520430?OutUrl=naver",
+      "date": "2026.08.03",
+      "source": "segye.com",
+      "thumbnail": null
+    },
     {
       "title": "양준일 1위·빈예서 2위·김중연 3위…김의영 1만원 증가한 8주 누적 (기...",
       "url": "https://www.topstarnews.net/news/articleView.html?idxno=16153953",
@@ -41,7 +48,7 @@
       "url": "https://biz.heraldcorp.com/article/10829621?ref=naver",
       "date": "2026.08.03",
       "source": "biz.heraldcorp.com",
-      "thumbnail": "https://wimg.heraldcorp.com/news/cms/2026/08/03/news-p.v1.20260803.ab54bbd7048e4a47ba6d20c235d38f3a_T1.jpg"
+      "thumbnail": null
     },
     {
       "title": "경주시 리센느 홍보대사...영상 콘텐츠 홍보",
@@ -133,13 +140,6 @@
       "date": "2026.08.03",
       "source": "donga.com",
       "thumbnail": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/03/134413516.1.jpg"
-    },
-    {
-      "title": "‘日도 야호~!’... 갸루들도 “난 파라파라나 춰야겠다” 숏폼 열풍",
-      "url": "https://www.munhwa.com/article/11606909?ref=naver",
-      "date": "2026.08.03",
-      "source": "munhwa.com",
-      "thumbnail": "https://wimg.munhwa.com/news/cms/2026/08/03/news-p.v1.20260803.fb521480ec6f4c47a00f44cea703dc45_R.png"
     }
   ]
 }
