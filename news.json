@@ -1,6 +1,97 @@
 {
-  "updated": "2026-08-03T08:00:45Z",
+  "updated": "2026-08-03T09:01:08Z",
   "articles": [
+    {
+      "title": "'전참시' 박진영, JYP 수장 넘어 청와대 위원장까지",
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=537417",
+      "date": "2026.08.03",
+      "source": "joongangenews.com",
+      "thumbnail": "https://cdn.joongangenews.com/news/photo/202608/537417_342964_4718.jpg"
+    },
+    {
+      "title": "IBK기업은행, 금융 지원부터 문화·포상까지…중소기업·소상공인 지원...",
+      "url": "http://www.dailypop.kr/news/articleView.html?idxno=101193",
+      "date": "2026.08.03",
+      "source": "dailypop.kr",
+      "thumbnail": "http://www.dailypop.kr/news/thumbnail/202608/101193_168279_2946_v150.jpg"
+    },
+    {
+      "title": "4대 엔터·정부 뭉쳤다… K팝 '한국판 코첼라' 탄생",
+      "url": "https://www.mhns.co.kr/news/articleView.html?idxno=755333",
+      "date": "2026.08.03",
+      "source": "mhns.co.kr",
+      "thumbnail": "https://cdn.mhns.co.kr/news/thumbnail/202608/755333_888799_2628_v150.jpg"
+    },
+    {
+      "title": "리센느, 신라공주 변신…경주 홍보 첫걸음",
+      "url": "http://news.lghellovision.net/news/articleView.html?idxno=550069",
+      "date": "2026.08.03",
+      "source": "news.lghellovision.net",
+      "thumbnail": "https://cdn.news.lghellovision.net/news/thumbnail/202608/550069_186544_5650_v150.jpg"
+    },
+    {
+      "title": "리센느 원이 '일진설'에 담임 직접 해명…폭로글 삭제",
+      "url": "https://news.jtbc.co.kr/article/NB12311512?influxDiv=NAVER",
+      "date": "2026.08.03",
+      "source": "news.jtbc.co.kr",
+      "thumbnail": null
+    },
+    {
+      "title": "리센느 원이 ‘일진설’ 잠재운 은사의 묵직한 마지막 인사",
+      "url": "https://sports.khan.co.kr/article/202608031722003?pt=nv",
+      "date": "2026.08.03",
+      "source": "sports.khan.co.kr",
+      "thumbnail": null
+    },
+    {
+      "title": "\"god부터 전소미까지\" IBK기업은행, 10월 킨텍스서 역대급 '입크페스티벌...",
+      "url": "http://www.dailysmart.co.kr/news/articleView.html?idxno=127778",
+      "date": "2026.08.03",
+      "source": "dailysmart.co.kr",
+      "thumbnail": "https://cdn.dailysmart.co.kr/news/photo/202608/127778_127108_1149.png"
+    },
+    {
+      "title": "[퇴근길이슈] 원이 담임교사·정준원 놀뭐·김도윤 셰프 김서연·한서희...",
+      "url": "http://www.joynews24.com/view/1991465",
+      "date": "2026.08.03",
+      "source": "joynews24.com",
+      "thumbnail": "https://image.inews24.com/v1/c10dd769454d22.jpg"
+    },
+    {
+      "title": "리센느 원이 난데없는 일진설에 담임교사가 직접 반박…의혹 순식간 해...",
+      "url": "https://www.news1.kr/entertain/celebrity-topic/6247744",
+      "date": "2026.08.03",
+      "source": "news1.kr",
+      "thumbnail": null
+    },
+    {
+      "title": "이찬원·임영웅·황정민 TOP3, 공효진 149계단 상승 (기사열독순위)",
+      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16153759",
+      "date": "2026.08.03",
+      "source": "topstarnews.net",
+      "thumbnail": "https://cdn.topstarnews.net/news/photo/202608/16153759_1979579_5832_crop.jpg"
+    },
+    {
+      "title": "[이슈] 도미노피자 '리센느' 포토카드 대박 예감",
+      "url": "https://www.startuptoday.co.kr/news/articleView.html?idxno=808603",
+      "date": "2026.08.03",
+      "source": "startuptoday.co.kr",
+      "thumbnail": "https://cdn.startuptoday.co.kr/news/photo/202608/808603_608192_5344.jpg"
+    },
+    {
+      "title": "리센느, '신라공주'로 변신...경주 품은 K팝 관광 콘텐츠 출격",
+      "url": "https://www.nc.press/news/articleView.html?idxno=622518",
+      "date": "2026.08.03",
+      "source": "nc.press",
+      "thumbnail": "https://cdn.nc.press/news/photo/202608/622518_849436_09.jpg"
+    },
+    {
+      "title": "[경주시 소식] 홍보대사 '리센느' 첫 공식 홍보활동·예비비 긴급 투입...",
+      "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=849253",
+      "date": "2026.08.03",
+      "source": "newsworks.co.kr",
+      "thumbnail": "https://cdn.newsworks.co.kr/news/thumbnail/202608/849253_809240_4959_v150.jpg"
+    },
     {
       "title": "‘2026 영주 시원나잇 페스타’ 성황리 마무리…야간 체류형 축제로 가...",
       "url": "http://www.breaknews.com/1226344",
@@ -27,7 +118,7 @@
       "url": "https://www.ekn.kr/web/view.php?key=20260803028408986",
       "date": "2026.08.03",
       "source": "ekn.kr",
-      "thumbnail": null
+      "thumbnail": "https://www.ekn.kr/mnt/file/202608/news-p.v1.20260803.1237ba8ad71841699ea09fb0cfd13bcb_R.jpg"
     },
     {
       "title": "'리센느' 신라공주로 변신···경주시 홍보대사 첫 공식 활동",
@@ -44,102 +135,11 @@
       "thumbnail": "https://cdn.kyongbuk.co.kr/news/photo/202608/4080073_815330_3140.jpg"
     },
     {
-      "title": "이찬원 5주 연속 1위·황정민 130계단 상승 (독자추천 순위)",
-      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16153704",
-      "date": "2026.08.03",
-      "source": "topstarnews.net",
-      "thumbnail": "https://cdn.topstarnews.net/news/photo/202608/16153704_1979525_2757_crop.jpg"
-    },
-    {
-      "title": "[더밸류 브리핑] 오늘의 IBK기업은행 소식...중소기업 금융지원·입크페...",
-      "url": "http://www.thevaluenews.co.kr/news/view.php?idx=200493",
-      "date": "2026.08.03",
-      "source": "thevaluenews.co.kr",
-      "thumbnail": null
-    },
-    {
       "title": "IBK기업은행, 10월 킨텍스서 입크(IBK)페스티벌 개최… 리센느·지오디(...",
       "url": "https://www.donga.com/news/Culture/article/all/20260803/134413528/1",
       "date": "2026.08.03",
       "source": "donga.com",
       "thumbnail": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/03/134413516.1.jpg"
-    },
-    {
-      "title": "‘日도 야호~!’... 갸루들도 “난 파라파라나 춰야겠다” 숏폼 열풍",
-      "url": "https://www.munhwa.com/article/11606909?ref=naver",
-      "date": "2026.08.03",
-      "source": "munhwa.com",
-      "thumbnail": "https://wimg.munhwa.com/news/cms/2026/08/03/news-p.v1.20260803.fb521480ec6f4c47a00f44cea703dc45_R.png"
-    },
-    {
-      "title": "‘리센느’ 원이 담임, ‘일진설’ 해결되자…계정 삭제 전 마지막 글 ...",
-      "url": "https://www.seoul.co.kr/news/entertainment/starinterN/2026/08/03/20260803500198?wlog_tag3=naver",
-      "date": "2026.08.03",
-      "source": "seoul.co.kr",
-      "thumbnail": "https://img.seoul.co.kr/img/upload/2026/08/03/SSC_20260803161013.jpg.webp"
-    },
-    {
-      "title": "\"리센느·god 총출동\"...기업은행, 입크페스티벌' 10월 개최",
-      "url": "http://www.fnnews.com/news/202608031316116804",
-      "date": "2026.08.03",
-      "source": "fnnews.com",
-      "thumbnail": "https://image.fnnews.com/resource/media/image/2026/08/03/202608031321236202_l.png"
-    },
-    {
-      "title": "경주시 홍보대사 리센느, 신라공주 행차 등 홍보콘덴츠 촬영으로 홍보대...",
-      "url": "https://www.pressian.com/pages/articles/2026080316010253634?utm_source=naver&utm_medium=search",
-      "date": "2026.08.03",
-      "source": "pressian.com",
-      "thumbnail": null
-    },
-    {
-      "title": "유아유, 'iMBC어워즈 왕관' 이세계아이돌에게 내어주나 [이슈in]",
-      "url": "http://enews.imbc.com/News/RetrieveNewsInfo/513545",
-      "date": "2026.08.03",
-      "source": "enews.imbc.com",
-      "thumbnail": "https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2026/08/03/e3d2a2e0-706d-4360-9fb4-cc266bc9d0f3.jpg"
-    },
-    {
-      "title": "리센느 원이 담임, '일진설' 해명 끝→쿨하게 '계정 삭제'..\"예쁘게 봐달...",
-      "url": "http://www.osen.co.kr/article/G1112851602",
-      "date": "2026.08.03",
-      "source": "osen.co.kr",
-      "thumbnail": "http://file.osen.co.kr/article_thumb/2026/08/03/202608031437772452_6a7037512dcc1_300x.jpg"
-    },
-    {
-      "title": "‘리센느’ 신라공주 됐다…영상 콘텐츠로 ‘경주 매력’ 홍보한다",
-      "url": "https://www.seoul.co.kr/news/society/2026/08/03/20260803500176?wlog_tag3=naver",
-      "date": "2026.08.03",
-      "source": "seoul.co.kr",
-      "thumbnail": "https://img.seoul.co.kr//img/upload/2026/08/03/SSC_20260803153658_O2.jpg"
-    },
-    {
-      "title": "최민희 '한표줍쇼' 한민수 '야호'…최고위원 투표 열기도 후끈",
-      "url": "https://www.hankyung.com/article/202608031827H",
-      "date": "2026.08.03",
-      "source": "hankyung.com",
-      "thumbnail": "https://img.hankyung.com/photo/202608/01.45231143.1.png"
-    },
-    {
-      "title": "신라공주로 변신한 '리센느', 경주 지역 홍보 나서",
-      "url": "https://www.insight.co.kr/news/566147",
-      "date": "2026.08.03",
-      "source": "insight.co.kr",
-      "thumbnail": "https://img.insight.co.kr/static/2026/08/03/1200/img_20260803144659_336ma03y.jpg"
-    },
-    {
-      "title": "리센느 원이 ‘일진설’ 해명한 담임 교사, 계정 삭제…그가 당부한 말...",
-      "url": "https://biz.heraldcorp.com/article/10829373?ref=naver",
-      "date": "2026.08.03",
-      "source": "biz.heraldcorp.com",
-      "thumbnail": "https://wimg.heraldcorp.com/news/cms/2026/08/03/news-p.v1.20260720.01d5cd9e2484436f82e5e29a16dcd122_T1.jpg"
-    },
-    {
-      "title": "\"일이 잘 해결된 듯하니\"…원이 '일진설'에 직접 반박한 담임교사 계정...",
-      "url": "http://www.fnnews.com/news/202608031350554999",
-      "date": "2026.08.03",
-      "source": "fnnews.com",
-      "thumbnail": "https://image.fnnews.com/resource/media/image/2026/07/06/202607060925386557_l.jpg"
     }
   ]
 }
