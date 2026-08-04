@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-04T03:05:24Z",
+  "updated": "2026-08-04T04:05:25Z",
   "events": [
     {
       "date": "2026-07-06",
@@ -389,6 +389,14 @@
       "date": "2026-09-02",
       "time": null,
       "title": "2026 천안 K-컬처 박람회",
+      "detail": "",
+      "type": "기타",
+      "source": "mnetplus"
+    },
+    {
+      "date": "2026-09-04",
+      "time": "19:00",
+      "title": "One Summer Night with K-POP Concert Season 2",
       "detail": "",
       "type": "기타",
       "source": "mnetplus"
