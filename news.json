@@ -1,6 +1,13 @@
 {
-  "updated": "2026-08-05T20:00:39Z",
+  "updated": "2026-08-05T21:00:50Z",
   "articles": [
+    {
+      "title": "“거제 야호” 제대로 통했다…해수욕장 북적이더니 편의점 매출 105% 급...",
+      "url": "https://www.sedaily.com/article/20076150?ref=naver",
+      "date": "2026.08.05",
+      "source": "sedaily.com",
+      "thumbnail": "https://wimg.sedaily.com/news/cms/2026/08/05/news-p.v1.20260804.c5845ba8de0f4af3af2e6f22b7073952_R.jpg"
+    },
     {
       "title": "'신라공주' 리센느 떴다… 경주 관광 홍보 본격 시동",
       "url": "https://www.ggilbo.com/news/articleView.html?idxno=1172990",
@@ -13,7 +20,7 @@
       "url": "https://www.mydaily.co.kr/page/view/2026080523024579383",
       "date": "2026.08.05",
       "source": "mydaily.co.kr",
-      "thumbnail": "https://mydaily.co.kr/photos/2026/08/06/2026080600404156323_l.jpg"
+      "thumbnail": null
     },
     {
       "title": "티오더, 리센느 파트너십 기념 특별 프로모션 진행",
@@ -133,13 +140,6 @@
       "date": "2026.08.05",
       "source": "osen.co.kr",
       "thumbnail": "http://file.osen.co.kr/article_thumb/2026/08/05/202608051706771938_6a72f1856b84b_300x.jpg"
-    },
-    {
-      "title": "[News Today] Average K-pop group lasts 4 years",
-      "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8629273&ref=A",
-      "date": "2026.08.05",
-      "source": "news.kbs.co.kr",
-      "thumbnail": "http://news.kbs.co.kr/data/fckeditor/vod/2026/08/05/169721785943507883.png"
     }
   ]
 }
