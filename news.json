@@ -1,6 +1,27 @@
 {
-  "updated": "2026-08-05T14:00:49Z",
+  "updated": "2026-08-05T15:00:42Z",
   "articles": [
+    {
+      "title": "\"추석엔 무료입장, 학생은 시민할인\"…경주 라원, 파격 혜택 가동",
+      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3656926",
+      "date": "2026.08.05",
+      "source": "gukjenews.com",
+      "thumbnail": "https://cdn.gukjenews.com/news/thumbnail/202608/3656926_3823517_1336_v150.jpg"
+    },
+    {
+      "title": "방탄소년단(BTS), 에이티즈, 이찬원, 베이비몬스터, 코르티스, 하데스 K...",
+      "url": "https://sports.khan.co.kr/article/202608052332003?pt=nv",
+      "date": "2026.08.05",
+      "source": "sports.khan.co.kr",
+      "thumbnail": null
+    },
+    {
+      "title": "티오더, 경기·경상 소상공인 대상 상생 프로모션…AI 매장 운영 지원 확...",
+      "url": "https://www.venturesquare.net/1103889/",
+      "date": "2026.08.05",
+      "source": "venturesquare.net",
+      "thumbnail": "https://www.venturesquare.net/wp-content/uploads/2026/08/image-90.png"
+    },
     {
       "title": "“중학생이었는데 벌써 21살” 리센느 미나미, 아이들 소연과 눈물의 재...",
       "url": "https://sports.khan.co.kr/article/202608052255003?pt=nv",
@@ -34,7 +55,7 @@
       "url": "http://www.newstown.co.kr/news/articleView.html?idxno=711472",
       "date": "2026.08.05",
       "source": "newstown.co.kr",
-      "thumbnail": "https://cdn.newstown.co.kr/news/thumbnail/202608/711472_666029_5740_v150.jpg"
+      "thumbnail": "http://www.newstown.co.kr/news/thumbnail/202608/711472_666029_5740_v150.jpg"
     },
     {
       "title": "KB국민은행 9월 'KB 조이올팍 페스티벌' 열어, 에픽하이 로이킴 청하 출...",
@@ -76,7 +97,7 @@
       "url": "https://news.mtn.co.kr/news-detail/2026080508054618559",
       "date": "2026.08.05",
       "source": "news.mtn.co.kr",
-      "thumbnail": "https://menu.mtn.co.kr/upload/article/2026/08/05/2026080508054618559_00_848.jpg"
+      "thumbnail": null
     },
     {
       "title": "선미, 'Forever July' 챌린지…에이티즈·세븐틴·트와이스·김재원 지원...",
@@ -107,27 +128,6 @@
       "thumbnail": "https://www.kbsm.net/data/newsThumb/1785910883ADD_thumb780.JPG"
     },
     {
-      "title": "\"음원 1위 넘어 글로벌로\"…한국벤처투자, 리센느 성공사례 조명",
-      "url": "https://www.m-i.kr/news/articleView.html?idxno=1399264",
-      "date": "2026.08.05",
-      "source": "m-i.kr",
-      "thumbnail": "https://cdn.m-i.kr/news/thumbnail/202608/1399264_1187103_78_v150.jpg"
-    },
-    {
-      "title": "8월 내 홀드백 제도 윤곽·복합형 돔구장은 2개 지역 공모…'K컬처' 지역...",
-      "url": "https://www.newspim.com/news/view/20260805000270",
-      "date": "2026.08.05",
-      "source": "newspim.com",
-      "thumbnail": "https://img.newspim.com/news/2026/03/20/260320143719515_341_tc.jpg"
-    },
-    {
-      "title": "[TD영상] 하츠투하츠, '인사부터 상큼함이 팡팡' KWDA 무대 하츄들도 기...",
-      "url": "http://www.tvdaily.co.kr/read.php3?aid=17859120861796546003",
-      "date": "2026.08.05",
-      "source": "tvdaily.co.kr",
-      "thumbnail": "http://image.tvdaily.co.kr/upimages/gisaimg/202608/1785912086_1796546.png"
-    },
-    {
       "title": "[News Today] Average K-pop group lasts 4 years",
       "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8629273&ref=A",
       "date": "2026.08.05",
@@ -135,11 +135,11 @@
       "thumbnail": "http://news.kbs.co.kr/data/fckeditor/vod/2026/08/05/169721785943507883.png"
     },
     {
-      "title": "'AAA 2026', 김선호-고윤정 이어 배우 변우석·김재원·안효섭·추영우 합...",
-      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16155375",
+      "title": "\"음원 1위 넘어 글로벌로\"…한국벤처투자, 리센느 성공사례 조명",
+      "url": "https://www.m-i.kr/news/articleView.html?idxno=1399264",
       "date": "2026.08.05",
-      "source": "topstarnews.net",
-      "thumbnail": "https://cdn.topstarnews.net/news/photo/202608/16155375_1981841_1332_crop.jpg"
+      "source": "m-i.kr",
+      "thumbnail": "https://cdn.m-i.kr/news/thumbnail/202608/1399264_1187103_78_v150.jpg"
     }
   ]
 }
