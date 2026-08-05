@@ -1,6 +1,14 @@
 {
-  "updated": "2026-08-05T10:10:24Z",
+  "updated": "2026-08-05T11:10:33Z",
   "videos": [
+    {
+      "id": "1oa2lvQAfUM",
+      "title": "챌린지 열차 출발🚂 | RESCENE (리센느) &#39;Pretty Girl&#39; 챌린지 Behind",
+      "url": "https://www.youtube.com/watch?v=1oa2lvQAfUM",
+      "thumbnail": "https://i.ytimg.com/vi/1oa2lvQAfUM/mqdefault.jpg",
+      "date": "2026.08.05",
+      "type": "long"
+    },
     {
       "id": "dgUOLHElpJg",
       "title": "원쨩먹짱X메라디오XCU😘",
@@ -42,22 +50,6 @@
       "type": "long"
     },
     {
-      "id": "NUInBr_Lfq4",
-      "title": "리브지롱 ~~",
-      "url": "https://www.youtube.com/watch?v=NUInBr_Lfq4",
-      "thumbnail": "https://i.ytimg.com/vi/NUInBr_Lfq4/mqdefault.jpg",
-      "date": "2026.07.22",
-      "type": "long"
-    },
-    {
-      "id": "dglF9_PJqto",
-      "title": "RESCENE (리센느) &#39;Pretty Girl&#39; Dance Practice",
-      "url": "https://www.youtube.com/watch?v=dglF9_PJqto",
-      "thumbnail": "https://i.ytimg.com/vi/dglF9_PJqto/mqdefault.jpg",
-      "date": "2026.07.16",
-      "type": "short"
-    },
-    {
       "id": "hO2eASCpOnY",
       "title": "#영재 선배님과 어디서나 당당하게 걷기 🎀",
       "url": "https://www.youtube.com/shorts/hO2eASCpOnY",
@@ -90,11 +82,19 @@
       "type": "short"
     },
     {
-      "id": "kalnsqjQD0Y",
-      "title": "#YEONJUN 선배님과 익숙한 deja vu 🌱",
-      "url": "https://www.youtube.com/shorts/kalnsqjQD0Y",
-      "thumbnail": "https://i.ytimg.com/vi/kalnsqjQD0Y/mqdefault.jpg",
-      "date": "2026.07.21",
+      "id": "p_bkxiOLI8E",
+      "title": "#제아 선배님과 어디서나 당당하게 걷기 🎀",
+      "url": "https://www.youtube.com/shorts/p_bkxiOLI8E",
+      "thumbnail": "https://i.ytimg.com/vi/p_bkxiOLI8E/mqdefault.jpg",
+      "date": "2026.07.10",
+      "type": "short"
+    },
+    {
+      "id": "9MKEwltZPmY",
+      "title": "리센느 두 살 ✌️😚",
+      "url": "https://www.youtube.com/shorts/9MKEwltZPmY",
+      "thumbnail": "https://i.ytimg.com/vi/9MKEwltZPmY/mqdefault.jpg",
+      "date": "2026.03.26",
       "type": "short"
     }
   ]
