@@ -1,6 +1,41 @@
 {
-  "updated": "2026-08-05T04:00:53Z",
+  "updated": "2026-08-05T05:00:39Z",
   "articles": [
+    {
+      "title": "리센느, 티오더 파트너십 프로모션 진행... 혜택 대상은?",
+      "url": "https://www.ggilbo.com/news/articleView.html?idxno=1173584",
+      "date": "2026.08.05",
+      "source": "ggilbo.com",
+      "thumbnail": "https://cdn.ggilbo.com/news/photo/202608/1173584_1025906_4532.png"
+    },
+    {
+      "title": "선미 'Forever July', 에이티즈→리센느까지 챌린지 열풍",
+      "url": "https://www.newsinside.kr/news/articleView.html?idxno=4894293",
+      "date": "2026.08.05",
+      "source": "newsinside.kr",
+      "thumbnail": "https://cdn.newsinside.kr/news/photo/202608/4894293_938921_2341.jpg"
+    },
+    {
+      "title": "'AAA 2026', 김선호-고윤정 이어 배우 변우석·김재원·안효섭·추영우 합...",
+      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16155375",
+      "date": "2026.08.05",
+      "source": "topstarnews.net",
+      "thumbnail": "https://cdn.topstarnews.net/news/photo/202608/16155375_1981841_1332_crop.jpg"
+    },
+    {
+      "title": "'빠'와'까'…스타 향한 관심의 양면성, 장원영·원이도 예외 없어",
+      "url": "https://www.sidae.com/article/2026080509521424302",
+      "date": "2026.08.05",
+      "source": "sidae.com",
+      "thumbnail": "https://menu.sidae.com/moneyweek/thumb/2026/08/05/06/2026080509521424302_1.jpg"
+    },
+    {
+      "title": "선미, 에이티즈→리센느 동참 '포에버 줄라이' 챌린지 전개",
+      "url": "https://enter.etoday.co.kr/news/view/300634",
+      "date": "2026.08.05",
+      "source": "enter.etoday.co.kr",
+      "thumbnail": "https://img.etoday.co.kr/pto_db/2026/08/600/20260805111529_2368951_961_1440.jpg"
+    },
     {
       "title": "\"모태펀드 결실\"…한벤투, 더뮤즈 리센느 명예홍보대사 임명",
       "url": "https://www.ajunews.com/view/20260805121925552",
@@ -9,18 +44,18 @@
       "thumbnail": "https://image.ajunews.com/content/image/2026/08/05/20260805125053195444.jpg"
     },
     {
+      "title": "K-팝 아이돌 평균 활동 기간은 4.12년",
+      "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8629175&ref=A",
+      "date": "2026.08.05",
+      "source": "news.kbs.co.kr",
+      "thumbnail": "http://news.kbs.co.kr/data/news/title_image/newsmp4/news12/2026/08/05/330_8629175.jpg"
+    },
+    {
       "title": "제7회 '섬의 날' 여수에서 막올라… 9일까지 문화·체험행사 풍성",
       "url": "https://news.bbsi.co.kr/news/articleView.html?idxno=4098986",
       "date": "2026.08.05",
       "source": "news.bbsi.co.kr",
       "thumbnail": "https://cdn.news.bbsi.co.kr/news/thumbnail/202608/4098986_752718_4822_v150.jpg"
-    },
-    {
-      "title": "이찬원, \"여름 대표곡으로 무더위 날렸다\"…보령머드축제 K-팝 무대 활약",
-      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16155363",
-      "date": "2026.08.05",
-      "source": "topstarnews.net",
-      "thumbnail": "https://cdn.topstarnews.net/news/photo/202608/16155363_1981779_1142_crop.jpg"
     },
     {
       "title": "섬의날 기념식 6일 여수서 개최… 인기가수부터 티니핑까지 이벤트 다양",
@@ -37,13 +72,6 @@
       "thumbnail": "https://img.newspim.com/news/2026/07/21/260721162219501_t1.jpg"
     },
     {
-      "title": "여수서 6~9일 '섬의 날' 행사…리센느·하현우 축하공연",
-      "url": "https://www.newsis.com/view/NISX20260805_0003736807",
-      "date": "2026.08.05",
-      "source": "newsis.com",
-      "thumbnail": "https://img1.newsis.com/2026/07/21/NISI20260721_0021372482_web.jpg"
-    },
-    {
       "title": "6일 여수서 제7회 섬의 날 기념식…하현우·리센느 등 축하공연",
       "url": "https://www.yna.co.kr/view/AKR20260805036700530?input=1195m",
       "date": "2026.08.05",
@@ -56,6 +84,13 @@
       "date": "2026.08.05",
       "source": "news1.kr",
       "thumbnail": null
+    },
+    {
+      "title": "여수서 6~9일 '섬의 날' 행사…리센느·하현우 축하공연",
+      "url": "https://www.newsis.com/view/NISX20260805_0003736807",
+      "date": "2026.08.05",
+      "source": "newsis.com",
+      "thumbnail": "https://img1.newsis.com/2026/07/21/NISI20260721_0021372482_web.jpg"
     },
     {
       "title": "선미, 'Forever July' 챌린지 화제몰이 중!",
@@ -76,7 +111,7 @@
       "url": "https://www.sedaily.com/article/20075970?ref=naver",
       "date": "2026.08.05",
       "source": "sedaily.com",
-      "thumbnail": null
+      "thumbnail": "https://wimg.sedaily.com/news/cms/2026/08/05/news-p.v1.20260805.ebf71ba461904d6aa4de8abd48393515_R.jpg"
     },
     {
       "title": "경주시, 라원 하반기 할인 확대…관광객 유치 나선다",
@@ -93,53 +128,18 @@
       "thumbnail": "https://pimg.mk.co.kr/news/cms/202608/05/news-p.v1.20260805.da789ab0c8d5458a907f9d308b873b2f_R.jpg"
     },
     {
+      "title": "'Bansanka', 'Pretty Girl'... Làn sóng remake bùng nổ trong làng nhạ...",
+      "url": "https://vn.asiatoday.co.kr/view.php?key=20260805000925097",
+      "date": "2026.08.05",
+      "source": "vn.asiatoday.co.kr",
+      "thumbnail": "https://img.asiatoday.co.kr/social/empty_en.png"
+    },
+    {
       "title": "리센느 원이 1위, 8월 신인 아이돌 개인 브랜드평판 정상..2위 코르티스...",
       "url": "http://www.breaknews.com/1226800",
       "date": "2026.08.05",
       "source": "breaknews.com",
-      "thumbnail": null
-    },
-    {
-      "title": "\"우리가 키웠어요\"…'이곳' 홍보대사 된 리센느",
-      "url": "https://www.newsis.com/view/NISX20260805_0003737056",
-      "date": "2026.08.05",
-      "source": "newsis.com",
-      "thumbnail": "https://img1.newsis.com/2026/08/05/NISI20260805_0002204780_web.jpg"
-    },
-    {
-      "title": "선미, ‘포에버 줄라이’ 챌린지 열풍…‘에이티즈→리센느’ 인기 아티...",
-      "url": "https://swtvnews.com/news/newsview.php?ncode=1065574028387631",
-      "date": "2026.08.05",
-      "source": "swtvnews.com",
-      "thumbnail": "https://swtvnews.com/news/data/20260805/p1065574028387631_648_thum.jpg"
-    },
-    {
-      "title": "티오더, 외식업 소상공인 상생 프로모션",
-      "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=854636",
-      "date": "2026.08.05",
-      "source": "hansbiz.co.kr",
-      "thumbnail": "https://cdn.hansbiz.co.kr/news/thumbnail/202608/854636_874027_442_v150.jpg"
-    },
-    {
-      "title": "변우석 안효섭 추영우 김재원 다 나온다고? ‘AAA 2026’ 총출동",
-      "url": "https://www.newsen.com/news_view.php?uid=202608050954321910",
-      "date": "2026.08.05",
-      "source": "newsen.com",
-      "thumbnail": "https://photo.newsen.com/news_photo/2026/08/05/202608050954321910_1.jpg"
-    },
-    {
-      "title": "K-팝 아이돌 평균 활동 기간은 4.12년",
-      "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8628948&ref=A",
-      "date": "2026.08.05",
-      "source": "news.kbs.co.kr",
-      "thumbnail": "http://news.kbs.co.kr/data/news/title_image/newsmp4/news930/2026/08/05/180_8628948.jpg"
-    },
-    {
-      "title": "\"벤처투자 야호\" 리센느, KVIC 명예홍보대사 맡는다",
-      "url": "https://www.mt.co.kr/future/2026/08/05/2026080508362292891",
-      "date": "2026.08.05",
-      "source": "mt.co.kr",
-      "thumbnail": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/08/2026080508362292891_1.jpg"
+      "thumbnail": "https://www.breaknews.com/imgdata/breaknews_com/202608/2026080545441448.jpg"
     }
   ]
 }
