@@ -1,6 +1,13 @@
 {
-  "updated": "2026-08-05T12:00:43Z",
+  "updated": "2026-08-05T13:00:46Z",
   "articles": [
+    {
+      "title": "제 7회 섬의 날 행사, 여수 엑스포장 6-9일 개최",
+      "url": "https://ysmbc.co.kr/NewsArticle/1530866",
+      "date": "2026.08.05",
+      "source": "ysmbc.co.kr",
+      "thumbnail": "https://img.youtube.com/vi/ID2PlrUNROs/maxresdefault.jpg"
+    },
     {
       "title": "“빌보드 딱 기다려라” 효연, 스키즈도 탐낸 자작곡 공개",
       "url": "https://sports.khan.co.kr/article/202608052049003?pt=nv",
@@ -13,7 +20,7 @@
       "url": "http://www.newstown.co.kr/news/articleView.html?idxno=711472",
       "date": "2026.08.05",
       "source": "newstown.co.kr",
-      "thumbnail": "https://cdn.newstown.co.kr/news/thumbnail/202608/711472_666029_5740_v150.jpg"
+      "thumbnail": "http://www.newstown.co.kr/news/thumbnail/202608/711472_666029_5740_v150.jpg"
     },
     {
       "title": "KB국민은행 9월 'KB 조이올팍 페스티벌' 열어, 에픽하이 로이킴 청하 출...",
@@ -63,13 +70,6 @@
       "date": "2026.08.05",
       "source": "osen.co.kr",
       "thumbnail": "http://file.osen.co.kr/article_thumb/2026/08/05/202608051706771938_6a72f1856b84b_300x.jpg"
-    },
-    {
-      "title": "제 7회 섬의 날 행사, 여수 엑스포장 6-9일 개최",
-      "url": "https://ysmbc.co.kr/NewsArticle/1530794",
-      "date": "2026.08.05",
-      "source": "ysmbc.co.kr",
-      "thumbnail": "https://ysmbc.co.kr/main/images/news/ys1.jpg"
     },
     {
       "title": "[단독] 악뮤 수현, 태연·한로로 이어 ‘J-팝 리메이크’ 가창자 낙점",
@@ -128,18 +128,18 @@
       "thumbnail": "https://img.hankyung.com/photo/202608/01.45251945.1.jpg"
     },
     {
-      "title": "엔씨 '왕뚜껑·열혈강호' 컬래버..외부 IP로 이용자 접점 확대",
-      "url": "http://www.4th.kr/news/articleView.html?idxno=2115847",
-      "date": "2026.08.05",
-      "source": "4th.kr",
-      "thumbnail": "https://cdn.4th.kr/news/thumbnail/202608/2115847_212710_2739_v150.jpg"
-    },
-    {
       "title": "[News Today] Average K-pop group lasts 4 years",
       "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8629273&ref=A",
       "date": "2026.08.05",
       "source": "news.kbs.co.kr",
       "thumbnail": "http://news.kbs.co.kr/data/fckeditor/vod/2026/08/05/169721785943507883.png"
+    },
+    {
+      "title": "'AAA 2026', 김선호-고윤정 이어 배우 변우석·김재원·안효섭·추영우 합...",
+      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16155375",
+      "date": "2026.08.05",
+      "source": "topstarnews.net",
+      "thumbnail": "https://cdn.topstarnews.net/news/photo/202608/16155375_1981841_1332_crop.jpg"
     }
   ]
 }
