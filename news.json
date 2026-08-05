@@ -1,6 +1,83 @@
 {
-  "updated": "2026-08-05T00:00:43Z",
+  "updated": "2026-08-05T01:00:39Z",
   "articles": [
+    {
+      "title": "역주행 '차트 1위' 리센느 키운 중소 기획사 뒤엔 벤처투자",
+      "url": "https://biz.sbs.co.kr/article_hub/20000326721?division=NAVER",
+      "date": "2026.08.05",
+      "source": "biz.sbs.co.kr",
+      "thumbnail": "https://img.biz.sbs.co.kr/upload/2026/08/05/FTv1785891247642-850.jpg"
+    },
+    {
+      "title": "모태펀드 투자 힘입은 리센느…한국벤처투자 \"K-콘텐츠 성장 사례\"",
+      "url": "https://www.news1.kr/industry/sb-founded/6249522",
+      "date": "2026.08.05",
+      "source": "news1.kr",
+      "thumbnail": null
+    },
+    {
+      "title": "한국벤처투자, '리센느' 명예홍보대사 위촉...K-콘텐츠 성장사례 조명",
+      "url": "https://www.newstopkorea.com/news/articleView.html?idxno=46784",
+      "date": "2026.08.05",
+      "source": "newstopkorea.com",
+      "thumbnail": "https://cdn.newstopkorea.com/news/photo/202608/46784_47793_354.jpg"
+    },
+    {
+      "title": "선미, 신곡 ‘Forever July’ 챌린지 열풍",
+      "url": "https://www.bntnews.co.kr/article/view/bnt202608050114",
+      "date": "2026.08.05",
+      "source": "bntnews.co.kr",
+      "thumbnail": "https://www.bntnews.co.kr/data/bnt/image/2026/08/05/bnt202608050162.jpg"
+    },
+    {
+      "title": "티오더, '소상공인 상생 프로모션' 진행...신규 매장 최대 30만원 지원",
+      "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=363082",
+      "date": "2026.08.05",
+      "source": "ftoday.co.kr",
+      "thumbnail": "https://cdn.ftoday.co.kr/news/thumbnail/202608/363082_371993_2128_v150.jpg"
+    },
+    {
+      "title": "티오더, 경기·경상 소상공인에 상생 지원금 30만원 지원",
+      "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=274152",
+      "date": "2026.08.05",
+      "source": "businesskorea.co.kr",
+      "thumbnail": "https://www.businesskorea.co.kr/news/thumbnail/202608/274152_281472_2051_v150.jpg"
+    },
+    {
+      "title": "선미, 'Forever July' 챌린지로 여름 강타…케이팝 아티스트까지 합류",
+      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16155134",
+      "date": "2026.08.05",
+      "source": "topstarnews.net",
+      "thumbnail": "https://cdn.topstarnews.net/news/photo/202608/16155134_1981530_1712_crop.jpg"
+    },
+    {
+      "title": "'차트 1위' 리센느 키운 중소 기획사 뒤엔 벤처투자 있었다",
+      "url": "https://www.yna.co.kr/view/AKR20260805035500030?input=1195m",
+      "date": "2026.08.05",
+      "source": "yna.co.kr",
+      "thumbnail": "https://img4.yna.co.kr/etc/inner/KR/2026/08/05/AKR20260805035500030_01_i_P4.jpg"
+    },
+    {
+      "title": "선미 '포에버 줄라이' 챌린지 열풍…에이티즈·트와이스 등 동참",
+      "url": "https://www.slist.kr/news/articleView.html?idxno=756610",
+      "date": "2026.08.05",
+      "source": "slist.kr",
+      "thumbnail": "https://cdn.slist.kr/news/thumbnail/202608/756610_1159781_1533_v150.jpg"
+    },
+    {
+      "title": "리센느 키운 더뮤즈엔터, ‘K콘텐츠 성장기업’ 도약…한국벤처투자 첫...",
+      "url": "https://biz.chosun.com/industry/business-venture/2026/08/05/B6PDIQKXGBDIZIJWILFZCI3R2M/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+      "date": "2026.08.05",
+      "source": "biz.chosun.com",
+      "thumbnail": "https://biz.chosun.com/resizer/v2/7T65QPQK2RGQFGM7LA77ZULJ6I.jpg?auth=9a0347c120d5be911018d845717979fb8fc942a88c1b3d20f0ed029b48baead6&amp;width=1200&amp;height=630&amp;smart=true"
+    },
+    {
+      "title": "'제20회 거제섬꽃축제' 자문위원회 성료...'전국구 체류형 축제' 선언",
+      "url": "https://www.tournews21.com/news/articleView.html?idxno=140222",
+      "date": "2026.08.05",
+      "source": "tournews21.com",
+      "thumbnail": "https://cdn.tournews21.com/news/photo/202608/140222_264382_590.jpeg"
+    },
     {
       "title": "'중소의 기적' 리센느, 한국벤처투자 명예홍보대사 맡는다",
       "url": "https://view.asiae.co.kr/article/2026080508562434418",
@@ -63,83 +140,6 @@
       "date": "2026.08.04",
       "source": "osen.co.kr",
       "thumbnail": "http://file.osen.co.kr/article_thumb/2026/08/05/202608050732775312_6a726b2bee2f7_300x.jpg"
-    },
-    {
-      "title": "리센느→제로베이스원에 변우석·안효섭·김재원·추영우 더했다 ('AAA 2...",
-      "url": "https://www.nc.press/news/articleView.html?idxno=622653",
-      "date": "2026.08.04",
-      "source": "nc.press",
-      "thumbnail": "https://cdn.nc.press/news/photo/202608/622653_849782_3940.jpg"
-    },
-    {
-      "title": "[뮤직컴퍼니100] SM엔터 0.64% 상승, 레드벨벳 94계단 급등·에스파-하츠...",
-      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16155015",
-      "date": "2026.08.04",
-      "source": "topstarnews.net",
-      "thumbnail": "https://cdn.topstarnews.net/news/photo/202608/16155015_1981357_4048_crop.jpg"
-    },
-    {
-      "title": "K-팝 아이돌 평균 활동 기간은 4.12년",
-      "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8628787&ref=A",
-      "date": "2026.08.04",
-      "source": "news.kbs.co.kr",
-      "thumbnail": "http://news.kbs.co.kr/data/news/2026/08/05/20260805_Yct4R2.jpg"
-    },
-    {
-      "title": "“통통했던 과거 봐도 탈덕 금지”…리센느 원이, 학폭 루머 속 쿨한 한...",
-      "url": "https://www.sportsseoul.com/news/read/1626683?ref=naver",
-      "date": "2026.08.04",
-      "source": "sportsseoul.com",
-      "thumbnail": null
-    },
-    {
-      "title": "방탄소년단→베이비몬스터, KM차트 7월 월간 차트 올킬",
-      "url": "http://www.osen.co.kr/article/G1112852308",
-      "date": "2026.08.04",
-      "source": "osen.co.kr",
-      "thumbnail": "http://file.osen.co.kr/article_thumb/2026/08/05/202608050719779359_6a72672e9168f_300x.jpg"
-    },
-    {
-      "title": "KM차트, 7월 부문별 1위 발표...방탄소년단·에이티즈·이찬원 外",
-      "url": "https://www.slist.kr/news/articleView.html?idxno=756530",
-      "date": "2026.08.04",
-      "source": "slist.kr",
-      "thumbnail": "https://cdn.slist.kr/news/thumbnail/202608/756530_1159664_1455_v150.jpg"
-    },
-    {
-      "title": "KM차트 7월…방탄소년단·에이티즈 1위",
-      "url": "https://www.bntnews.co.kr/article/view/bnt202608050023",
-      "date": "2026.08.04",
-      "source": "bntnews.co.kr",
-      "thumbnail": "https://www.bntnews.co.kr/data/bnt/image/2026/08/05/bnt202608050025.jpg"
-    },
-    {
-      "title": "김재원·변우석·안효섭·추영우, 'AAA 2026' 참석 [공식]",
-      "url": "https://www.starnewskorea.com/star/2026/08/05/2026080304093830882",
-      "date": "2026.08.04",
-      "source": "starnewskorea.com",
-      "thumbnail": null
-    },
-    {
-      "title": "1위 리센느 원이, 2위 코르티스 건호, 3위 아일릿 원희",
-      "url": "https://www.starnewskorea.com/music/2026/08/05/2026080506440855610",
-      "date": "2026.08.04",
-      "source": "starnewskorea.com",
-      "thumbnail": null
-    },
-    {
-      "title": "“이강인 야호!” 韓에서 열리는 AT·마드리드 데뷔전 ‘리센느’ 원이...",
-      "url": "https://sports.khan.co.kr/article/202608050302003?pt=nv",
-      "date": "2026.08.04",
-      "source": "sports.khan.co.kr",
-      "thumbnail": null
-    },
-    {
-      "title": "\"무대 위의 Pretty Girl\" 리센느, 비하인드 영상으로 팬심 공략...스타트...",
-      "url": "https://www.joongangenews.com/news/articleView.html?idxno=537682",
-      "date": "2026.08.04",
-      "source": "joongangenews.com",
-      "thumbnail": "https://cdn.joongangenews.com/news/photo/202608/537682_343257_2940.png"
     }
   ]
 }
