@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05T17:10:30Z",
+  "updated": "2026-08-05T18:10:25Z",
   "videos": [
     {
       "id": "1oa2lvQAfUM",
@@ -50,6 +50,14 @@
       "type": "long"
     },
     {
+      "id": "dglF9_PJqto",
+      "title": "RESCENE (리센느) &#39;Pretty Girl&#39; Dance Practice",
+      "url": "https://www.youtube.com/watch?v=dglF9_PJqto",
+      "thumbnail": "https://i.ytimg.com/vi/dglF9_PJqto/mqdefault.jpg",
+      "date": "2026.07.16",
+      "type": "short"
+    },
+    {
       "id": "hO2eASCpOnY",
       "title": "#영재 선배님과 어디서나 당당하게 걷기 🎀",
       "url": "https://www.youtube.com/shorts/hO2eASCpOnY",
@@ -86,14 +94,6 @@
       "title": "#YEONJUN 선배님과 익숙한 deja vu 🌱",
       "url": "https://www.youtube.com/shorts/kalnsqjQD0Y",
       "thumbnail": "https://i.ytimg.com/vi/kalnsqjQD0Y/mqdefault.jpg",
-      "date": "2026.07.21",
-      "type": "short"
-    },
-    {
-      "id": "ryP8YpNgvLY",
-      "title": "프리티걸 막방의 아쉬움을 표현해봤습니다",
-      "url": "https://www.youtube.com/shorts/ryP8YpNgvLY",
-      "thumbnail": "https://i.ytimg.com/vi/ryP8YpNgvLY/mqdefault.jpg",
       "date": "2026.07.21",
       "type": "short"
     }
