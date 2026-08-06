@@ -1,6 +1,27 @@
 {
-  "updated": "2026-08-06T05:00:45Z",
+  "updated": "2026-08-06T06:00:41Z",
   "articles": [
+    {
+      "title": "'아이돌등판' 나우즈, 알고 보니 예능돌?…TMI 대방출",
+      "url": "http://www.joynews24.com/view/1992576",
+      "date": "2026.08.06",
+      "source": "joynews24.com",
+      "thumbnail": "https://image.inews24.com/v1/70f1e4bbbcf536.jpg"
+    },
+    {
+      "title": "거제·해남까지 간 케이팝 오디션…기존 캐스팅망 밖 ‘원석’ 찾기 [가...",
+      "url": "https://www.dailian.co.kr/news/view/1674986/?sc=Naver",
+      "date": "2026.08.06",
+      "source": "dailian.co.kr",
+      "thumbnail": null
+    },
+    {
+      "title": "[TD영상] 김혜준, '정지안... 아니 남다름?' 요즘 가장 바쁜 김혜준이 전...",
+      "url": "http://www.tvdaily.co.kr/read.php3?aid=17859924951796691003",
+      "date": "2026.08.06",
+      "source": "tvdaily.co.kr",
+      "thumbnail": "http://image.tvdaily.co.kr/upimages/gisaimg/202608/1785992495_1796691.png"
+    },
     {
       "title": "‘전참시 첫 단독 게스트’ 리센느, 연예인 다 됐다…원이 “입금해라”...",
       "url": "https://www.newsen.com/news_view.php?uid=202608061338352310",
@@ -37,18 +58,18 @@
       "thumbnail": "https://cdn.newsdream.kr/news/thumbnail/202608/115809_88444_345_v150.jpg"
     },
     {
-      "title": "히트는 리센느처럼, 장수는 트와이스처럼",
-      "url": "https://sports.donga.com/ent/article/all/20260806/134430230/1",
-      "date": "2026.08.06",
-      "source": "sports.donga.com",
-      "thumbnail": "https://dimg.donga.com/wps/SPORTS/IMAGE/2026/07/21/134281828.1.jpeg"
-    },
-    {
       "title": "'AAA 2026' 추가 라인업 공개... 이번엔 누구?",
       "url": "https://www.ggilbo.com/news/articleView.html?idxno=1173880",
       "date": "2026.08.06",
       "source": "ggilbo.com",
       "thumbnail": "https://cdn.ggilbo.com/news/photo/202608/1173880_1026200_2747.jpg"
+    },
+    {
+      "title": "히트는 리센느처럼, 장수는 트와이스처럼",
+      "url": "https://sports.donga.com/ent/article/all/20260806/134430230/1",
+      "date": "2026.08.06",
+      "source": "sports.donga.com",
+      "thumbnail": "https://dimg.donga.com/wps/SPORTS/IMAGE/2026/07/21/134281828.1.jpeg"
     },
     {
       "title": "6일 여수서 제7회 섬의날 기념식",
@@ -107,25 +128,11 @@
       "thumbnail": "https://www.ikbc.co.kr/data/kbc/image/2026/08/06/kbc202608060058.jpg"
     },
     {
-      "title": "넥슨, ‘서든어택’ 서비스 21주년…올해 업데이트 내용은?",
-      "url": "https://www.mk.co.kr/article/12119042",
+      "title": "K-pop's toughest stage comes after debut",
+      "url": "https://www.koreaherald.com/article/10833057?ref=naver",
       "date": "2026.08.06",
-      "source": "mk.co.kr",
-      "thumbnail": "https://pimg.mk.co.kr/news/cms/202608/06/news-p.v1.20260806.c2ee697dd09a44df8bfe84112eedc38f_R.jpg"
-    },
-    {
-      "title": "광고 문의 100건 돌파... 대박 난 리센느, 원이가 '연예인병 단속반' 자...",
-      "url": "https://www.insight.co.kr/news/566767",
-      "date": "2026.08.06",
-      "source": "insight.co.kr",
-      "thumbnail": "https://img.insight.co.kr/static/2026/08/06/1200/img_20260806111456_96uh09os.jpg"
-    },
-    {
-      "title": "광고모델 브랜드평판 8월, 방탄소년단 1위…임영웅·유재석 뒤이어",
-      "url": "https://www.cbci.co.kr/news/articleView.html?idxno=595212",
-      "date": "2026.08.06",
-      "source": "cbci.co.kr",
-      "thumbnail": "https://www.cbci.co.kr/news/thumbnail/202608/595212_405926_1217_v150.jpg"
+      "source": "koreaherald.com",
+      "thumbnail": "https://wimg.heraldcorp.com/news/cms/2026/08/06/news-p.v1.20260806.f52426e6e2dc419f9fe2d129860414af_T1.jpg"
     },
     {
       "title": "キム・ヨンビン、RESCENE、イ・チャンウォンらが麗水に集結 「島の日」...",
@@ -133,13 +140,6 @@
       "date": "2026.08.06",
       "source": "nc.press",
       "thumbnail": "https://cdn.nc.press/news/photo/202608/622791_850142_139.jpg"
-    },
-    {
-      "title": "리센느, '전참시' 최초 단독 게스트 출격…8일 방송",
-      "url": "https://news.tf.co.kr/read/entertain/2351209.htm",
-      "date": "2026.08.06",
-      "source": "news.tf.co.kr",
-      "thumbnail": "https://img.tf.co.kr/article/home/2026/08/06/20263281785980769.jpg"
     }
   ]
 }
