@@ -1,6 +1,20 @@
 {
-  "updated": "2026-08-06T11:00:47Z",
+  "updated": "2026-08-06T12:00:41Z",
   "articles": [
+    {
+      "title": "'왕사남' 장항준 “박찬욱·봉준호 많이 졸라 영화제 개막식 섭외…우리...",
+      "url": "https://www.khan.co.kr/article/202608062043005",
+      "date": "2026.08.06",
+      "source": "khan.co.kr",
+      "thumbnail": "https://img.khan.co.kr/news/2026/08/06/l_2026080701000171800019471.jpg"
+    },
+    {
+      "title": "섬의 날 행사에 관광객 '북적'…D-30 섬박람회 기대감도",
+      "url": "https://kjmbc.co.kr/NewsArticle/1531043",
+      "date": "2026.08.06",
+      "source": "kjmbc.co.kr",
+      "thumbnail": "https://kjmbc.co.kr/main/images/news/kj1.jpg"
+    },
     {
       "title": "'낭만 충전' 제7회 섬의 날 기념식 여수서 개최",
       "url": "https://www.yna.co.kr/view/AKR20260806140800054?input=1195m",
@@ -20,7 +34,7 @@
       "url": "http://www.breaknews.com/1227288",
       "date": "2026.08.06",
       "source": "breaknews.com",
-      "thumbnail": null
+      "thumbnail": "https://www.breaknews.com/imgdata/breaknews_com/202608/2026080643018391.jpg"
     },
     {
       "title": "'음원' 코르티스·'음반' 연준 1위…7월 써클차트 '글로벌 쌍끌이'",
@@ -30,18 +44,18 @@
       "thumbnail": "https://cdn.nc.press/news/photo/202608/622863_850404_3910.jpg"
     },
     {
-      "title": "봉준호→손석희까지 전부 모인다…제천국제음악영화제, 역대 최대 규모...",
-      "url": "https://www.tvreport.co.kr/star/article/1066887/",
-      "date": "2026.08.06",
-      "source": "tvreport.co.kr",
-      "thumbnail": "https://img.tvreportcdn.de/cms-content/uploads/2026/08/06/c736a531-55a4-4840-ba1a-379f87378dd3.jpg"
-    },
-    {
       "title": "리센느 미나미 보고 있나? 잊고 있었던 ‘원조 갸루’ 등장 초토화(미스...",
       "url": "https://www.newsen.com/news_view.php?uid=202608061731196710",
       "date": "2026.08.06",
       "source": "newsen.com",
       "thumbnail": "https://photo.newsen.com/news_photo/2026/08/06/202608061731196710_2.jpg"
+    },
+    {
+      "title": "봉준호→손석희까지 전부 모인다…제천국제음악영화제, 역대 최대 규모...",
+      "url": "https://www.tvreport.co.kr/star/article/1066887/",
+      "date": "2026.08.06",
+      "source": "tvreport.co.kr",
+      "thumbnail": "https://img.tvreportcdn.de/cms-content/uploads/2026/08/06/c736a531-55a4-4840-ba1a-379f87378dd3.jpg"
     },
     {
       "title": "“박찬욱·봉준호는 악당 아냐” JIMFF, 거장에 리센느까지 ‘역대급 라...",
@@ -69,7 +83,7 @@
       "url": "http://www.breaknews.com/1227275",
       "date": "2026.08.06",
       "source": "breaknews.com",
-      "thumbnail": null
+      "thumbnail": "https://www.breaknews.com/imgdata/breaknews_com/202608/2026080654442535.jpg"
     },
     {
       "title": "‘서든어택’ 서비스 21주년 기념, ‘UP투게더’ 업데이트",
@@ -90,7 +104,7 @@
       "url": "http://www.breaknews.com/1227235",
       "date": "2026.08.06",
       "source": "breaknews.com",
-      "thumbnail": null
+      "thumbnail": "https://www.breaknews.com/imgdata/breaknews_com/202608/2026080624287466.jpg"
     },
     {
       "title": "CORTIS·연준, 7월 써클차트 2관왕…HUNTR/X·i-dle도 정상",
@@ -121,25 +135,11 @@
       "thumbnail": "https://image.xportsnews.com/contents/images/upload/article/2026/0806/1786000142060460.webp"
     },
     {
-      "title": "소녀시대 유리, 효리수 등판..스타랭킹 女 아이돌 3위",
-      "url": "https://www.starnewskorea.com/star/2026/08/06/2026080615370930183",
-      "date": "2026.08.06",
-      "source": "starnewskorea.com",
-      "thumbnail": null
-    },
-    {
       "title": "임영웅→BTS 진·블핑 제니…‘TMA 마이스타상’ 초대 수상자는",
       "url": "https://www.sportsworldi.com/newsView/20260806517226",
       "date": "2026.08.06",
       "source": "sportsworldi.com",
       "thumbnail": "https://www.sportsworldi.com/content/image/2026/08/06/20260806517225.jpg"
-    },
-    {
-      "title": "리센느, '전참시' 역대 최초 단독 게스트→완전체 출격…일베 논란에도...",
-      "url": "https://www.tvreport.co.kr/broadcast/article/1066827/",
-      "date": "2026.08.06",
-      "source": "tvreport.co.kr",
-      "thumbnail": "https://img.tvreportcdn.de/cms-content/uploads/2026/08/06/5935c524-f682-4f0c-9312-98261a6205bd.jpg"
     }
   ]
 }
