@@ -1,6 +1,13 @@
 {
-  "updated": "2026-08-06T14:01:02Z",
+  "updated": "2026-08-06T15:00:40Z",
   "articles": [
+    {
+      "title": "'AAA 2026', 라인업 화려…있지 유나→몬스타엑스-엔믹스 합류",
+      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16156832",
+      "date": "2026.08.06",
+      "source": "topstarnews.net",
+      "thumbnail": "https://cdn.topstarnews.net/news/photo/202608/16156832_1983836_458_crop.jpg"
+    },
     {
       "title": "'미스트롯 포유' 박성호, 리센느 미나미에 발끈...\"갸루는 내가 원조\"",
       "url": "https://www.slist.kr/news/articleView.html?idxno=757080",
@@ -34,7 +41,7 @@
       "url": "https://www.yna.co.kr/view/AKR20260806140800054?input=1195m",
       "date": "2026.08.06",
       "source": "yna.co.kr",
-      "thumbnail": "https://img2.yna.co.kr/etc/inner/KR/2026/08/06/AKR20260806140800054_01_i_P4.jpg"
+      "thumbnail": null
     },
     {
       "title": "갸루가 유행이라고요? 요즘 갸루는 이것이 다릅니다",
@@ -121,25 +128,18 @@
       "thumbnail": "https://www.breaknews.com/imgdata/breaknews_com/202608/2026080624287466.jpg"
     },
     {
-      "title": "CORTIS·연준, 7월 써클차트 2관왕…HUNTR/X·i-dle도 정상",
-      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16156546",
-      "date": "2026.08.06",
-      "source": "topstarnews.net",
-      "thumbnail": "https://cdn.topstarnews.net/news/photo/202608/16156546_1983398_1840_crop.jpg"
-    },
-    {
-      "title": "“무턱대고 전화했더니...” 장항준, 봉준호·박찬욱 제천음악영화제 섭...",
-      "url": "https://www.khan.co.kr/article/202608061614001",
-      "date": "2026.08.06",
-      "source": "khan.co.kr",
-      "thumbnail": "https://img.khan.co.kr/news/2026/08/06/news-p.v1.20260806.ce570e72d15e4fd183db234cb75399f9_P1.jpeg"
-    },
-    {
       "title": "K-pop's toughest stage comes after debut",
       "url": "https://www.koreaherald.com/article/10833057?ref=naver",
       "date": "2026.08.06",
       "source": "koreaherald.com",
       "thumbnail": "https://wimg.heraldcorp.com/news/cms/2026/08/06/news-p.v1.20260806.f52426e6e2dc419f9fe2d129860414af_T1.jpg"
+    },
+    {
+      "title": "거제·해남까지 간 케이팝 오디션…기존 캐스팅망 밖 ‘원석’ 찾기 [가...",
+      "url": "https://www.dailian.co.kr/news/view/1674986/?sc=Naver",
+      "date": "2026.08.06",
+      "source": "dailian.co.kr",
+      "thumbnail": null
     }
   ]
 }
