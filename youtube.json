@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07T06:10:27Z",
+  "updated": "2026-08-07T07:10:31Z",
   "videos": [
     {
       "id": "1oa2lvQAfUM",
@@ -50,6 +50,14 @@
       "type": "long"
     },
     {
+      "id": "dglF9_PJqto",
+      "title": "RESCENE (리센느) &#39;Pretty Girl&#39; Dance Practice",
+      "url": "https://www.youtube.com/watch?v=dglF9_PJqto",
+      "thumbnail": "https://i.ytimg.com/vi/dglF9_PJqto/mqdefault.jpg",
+      "date": "2026.07.16",
+      "type": "short"
+    },
+    {
       "id": "TbcgAtfA13Y",
       "title": "on my mind",
       "url": "https://www.youtube.com/shorts/TbcgAtfA13Y",
@@ -87,14 +95,6 @@
       "url": "https://www.youtube.com/shorts/Pxh0l3o8H14",
       "thumbnail": "https://i.ytimg.com/vi/Pxh0l3o8H14/mqdefault.jpg",
       "date": "2026.07.28",
-      "type": "short"
-    },
-    {
-      "id": "kalnsqjQD0Y",
-      "title": "#YEONJUN 선배님과 익숙한 deja vu 🌱",
-      "url": "https://www.youtube.com/shorts/kalnsqjQD0Y",
-      "thumbnail": "https://i.ytimg.com/vi/kalnsqjQD0Y/mqdefault.jpg",
-      "date": "2026.07.21",
       "type": "short"
     }
   ]
