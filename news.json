@@ -1,6 +1,13 @@
 {
-  "updated": "2026-08-07T22:00:46Z",
+  "updated": "2026-08-07T23:00:44Z",
   "articles": [
+    {
+      "title": "경남 해수욕객 84% 거제로 몰렸다…폭염에 '리센느 효과'까지",
+      "url": "https://www.news1.kr/local/busan-gyeongnam/6252487",
+      "date": "2026.08.07",
+      "source": "news1.kr",
+      "thumbnail": null
+    },
     {
       "title": "[전지적 참견시점]리센느, 개인기 大방출",
       "url": "http://www.kjdaily.com/article.php?aid=1786139702684055227",
@@ -86,18 +93,18 @@
       "thumbnail": "https://www.ikbc.co.kr/data/kbc/image/2026/08/07/kbc202608070151.jpg"
     },
     {
-      "title": "'리센느 논란' 김선태, 수척해진 근황…술병 뒹구는 방서 \"고독하구만\"...",
-      "url": "https://mhnse.com/news/articleView.html?idxno=1482690",
-      "date": "2026.08.07",
-      "source": "mhnse.com",
-      "thumbnail": "https://contents-cdn.viewus.co.kr/creator-cms/image/2026/08/12f4f83e-5525-4f3a-9bfb-19519bedf75b.jpg"
-    },
-    {
       "title": "로컬ESC]섬의 날 개막에 '들썩'…휴가철 전시·영화 '풍성'",
       "url": "https://ysmbc.co.kr/NewsArticle/1531253",
       "date": "2026.08.07",
       "source": "ysmbc.co.kr",
       "thumbnail": "https://img.youtube.com/vi/I6uCccObBoY/maxresdefault.jpg"
+    },
+    {
+      "title": "'리센느 논란' 김선태, 수척해진 근황…술병 뒹구는 방서 \"고독하구만\"...",
+      "url": "https://mhnse.com/news/articleView.html?idxno=1482690",
+      "date": "2026.08.07",
+      "source": "mhnse.com",
+      "thumbnail": "https://contents-cdn.viewus.co.kr/creator-cms/image/2026/08/12f4f83e-5525-4f3a-9bfb-19519bedf75b.jpg"
     },
     {
       "title": "'리센느 논란' 김선태, 술병 나뒹구는 방 안서 수염 기르고 \"고독\"",
@@ -133,13 +140,6 @@
       "date": "2026.08.07",
       "source": "heraldmuse.com",
       "thumbnail": "https://wimg.heraldcorp.com/news/cms/2026/08/07/news-p.v1.20260807.9de64acd3a9a409b972abe5d0f0b6ae9_T1.png"
-    },
-    {
-      "title": "[써클차트 2026]코르티스·연준, 7월 써클차트 정상 오름 동시 2관왕 등...",
-      "url": "https://www.nspna.com/news/?mode=view&newsid=823542",
-      "date": "2026.08.07",
-      "source": "nspna.com",
-      "thumbnail": "https://file.nspna.com/news/2026/08/07/20260807163730_823542_1.jpg"
     }
   ]
 }
