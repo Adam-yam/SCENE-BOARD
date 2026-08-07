@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07T07:10:31Z",
+  "updated": "2026-08-07T08:10:29Z",
   "videos": [
     {
       "id": "1oa2lvQAfUM",
@@ -50,14 +50,6 @@
       "type": "long"
     },
     {
-      "id": "dglF9_PJqto",
-      "title": "RESCENE (리센느) &#39;Pretty Girl&#39; Dance Practice",
-      "url": "https://www.youtube.com/watch?v=dglF9_PJqto",
-      "thumbnail": "https://i.ytimg.com/vi/dglF9_PJqto/mqdefault.jpg",
-      "date": "2026.07.16",
-      "type": "short"
-    },
-    {
       "id": "TbcgAtfA13Y",
       "title": "on my mind",
       "url": "https://www.youtube.com/shorts/TbcgAtfA13Y",
@@ -95,6 +87,14 @@
       "url": "https://www.youtube.com/shorts/Pxh0l3o8H14",
       "thumbnail": "https://i.ytimg.com/vi/Pxh0l3o8H14/mqdefault.jpg",
       "date": "2026.07.28",
+      "type": "short"
+    },
+    {
+      "id": "p_bkxiOLI8E",
+      "title": "#제아 선배님과 어디서나 당당하게 걷기 🎀",
+      "url": "https://www.youtube.com/shorts/p_bkxiOLI8E",
+      "thumbnail": "https://i.ytimg.com/vi/p_bkxiOLI8E/mqdefault.jpg",
+      "date": "2026.07.10",
       "type": "short"
     }
   ]
