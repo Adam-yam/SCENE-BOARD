@@ -1,12 +1,138 @@
 {
-  "updated": "2026-08-07T01:00:40Z",
+  "updated": "2026-08-07T02:00:38Z",
   "articles": [
     {
-      "title": "[뮤지션100] 뱁찌·송하예·황인욱 급등…중하위권 재편, 리센느 다곡 분...",
-      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16157256",
+      "title": "\"나랑드로 와\" 동아오츠카, 리센느와 '나랑드사이다' 신규 광고 공개",
+      "url": "https://www.widedaily.com/news/articleView.html?idxno=299031",
+      "date": "2026.08.07",
+      "source": "widedaily.com",
+      "thumbnail": "https://cdn.widedaily.com/news/thumbnail/202608/299031_306610_5058_v150.jpg"
+    },
+    {
+      "title": "\"낭만 가득 섬으로 떠나요\" 여수에서 9일까지 섬의 날 행사",
+      "url": "http://www.mbn.co.kr/pages/vod/programContents.php?progCode=683&menuCode=4385&bcastSeqNo=1426033",
+      "date": "2026.08.07",
+      "source": "mbn.co.kr",
+      "thumbnail": null
+    },
+    {
+      "title": "리센느, '전참시' 출격 앞두고 팬심 집중...스타트렌드 걸그룹 정상으로...",
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=538455",
+      "date": "2026.08.07",
+      "source": "joongangenews.com",
+      "thumbnail": "https://cdn.joongangenews.com/news/photo/202608/538455_344083_5124.png"
+    },
+    {
+      "title": "'전참시' 리센느, 99평 새 숙소 공개",
+      "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=05615366645545024",
+      "date": "2026.08.07",
+      "source": "edaily.co.kr",
+      "thumbnail": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26080700961.jpg"
+    },
+    {
+      "title": "리센느, '전참시'서 99평 새 숙소 공개",
+      "url": "https://www.newsinside.kr/news/articleView.html?idxno=4901351",
+      "date": "2026.08.07",
+      "source": "newsinside.kr",
+      "thumbnail": "https://cdn.newsinside.kr/news/photo/202608/4901351_939030_309.jpg"
+    },
+    {
+      "title": "[오늘의 유통가] 현대百, 콘텐츠진흥원과 K패션 글로벌 판로 확대 맞손...",
+      "url": "https://dealsite.co.kr/articles/166772",
+      "date": "2026.08.07",
+      "source": "dealsite.co.kr",
+      "thumbnail": "https://dtd31o1ybbmk8.cloudfront.net/photos/2026/08/07/91f749a6dd7f4da9869dda6b81471b24/thumb.jpg"
+    },
+    {
+      "title": "리센느 숙소가 99평이래…\"너무 넓어서 무전기 고민 중\"",
+      "url": "http://www.atstar1.com/news/articleView.html?idxno=6037368",
+      "date": "2026.08.07",
+      "source": "atstar1.com",
+      "thumbnail": "https://cdn.atstar1.com/news/thumbnail/202608/6037368_115100_3010_v150.jpg"
+    },
+    {
+      "title": "동아오츠카, 리센느와 함께한 나랑드사이다 신규 캠페인 공개",
+      "url": "https://www.redian.org/news/articleView.html?idxno=257089",
+      "date": "2026.08.07",
+      "source": "redian.org",
+      "thumbnail": "https://cdn.redian.org/news/thumbnail/202608/257089_63791_2026_v150.jpg"
+    },
+    {
+      "title": "“무전기까지?”... 리센느, 99평 새 보금자리 전격 공개 (전참시)",
+      "url": "https://www.sportsseoul.com/news/read/1627198?ref=naver",
+      "date": "2026.08.07",
+      "source": "sportsseoul.com",
+      "thumbnail": "https://file.sportsseoul.com/news/cms/2026/08/07/news-p.v1.20260807.4035f1f096b14652905ed8ddc151752e_P1.png"
+    },
+    {
+      "title": "'전참시' 리센느, 99평 새 숙소 첫 공개…화장실 3개·무전기 고민까지",
+      "url": "https://www.gpkorea.com/news/articleView.html?idxno=145462",
+      "date": "2026.08.07",
+      "source": "gpkorea.com",
+      "thumbnail": "https://cdn.gpkorea.com/news/photo/202608/145462_308853_1547.jpg"
+    },
+    {
+      "title": "동아오츠카, '나랑드사이다' 새 모델 리센느와 신규 광고 공개",
+      "url": "https://www.newsmap.co.kr/news/articleView.html?idxno=2068",
+      "date": "2026.08.07",
+      "source": "newsmap.co.kr",
+      "thumbnail": "https://cdn.newsmap.co.kr/news/photo/202608/2068_3097_1415.jpg"
+    },
+    {
+      "title": "동아오츠카, 걸그룹 리센느와 함께한 나랑드사이다 신규 광고 공개",
+      "url": "http://www.popcornnews.net/news/articleView.html?idxno=128975",
+      "date": "2026.08.07",
+      "source": "popcornnews.net",
+      "thumbnail": "https://cdn.popcornnews.net/news/thumbnail/202608/128975_153764_1424_v150.jpg"
+    },
+    {
+      "title": "동아오츠카, 나랑드사이다 새 모델 '리센느' 광고 공개",
+      "url": "https://www.etnews.com/20260807000082",
+      "date": "2026.08.07",
+      "source": "etnews.com",
+      "thumbnail": "https://img.etnews.com/news/article/2026/08/07/news-p.v1.20260807.af55708de4264cda97b95f3c5886d5b7_P1.png"
+    },
+    {
+      "title": "\"드로와, 나랑드로 와\"...동아오츠카, 리센느 신규 광고 공개",
+      "url": "https://www.techm.kr/news/articleView.html?idxno=154086",
+      "date": "2026.08.07",
+      "source": "techm.kr",
+      "thumbnail": "https://cdn.techm.kr/news/thumbnail/202608/154086_217969_1015_v150.jpg"
+    },
+    {
+      "title": "[뮤직컴퍼니100] 리센느 더뮤즈엔터테인먼트 5.8%로 상승…방탄소년단·...",
+      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16157295",
       "date": "2026.08.07",
       "source": "topstarnews.net",
-      "thumbnail": "https://cdn.topstarnews.net/news/photo/202608/16157256_1984219_5443_crop.jpg"
+      "thumbnail": "https://cdn.topstarnews.net/news/photo/202608/16157295_1984247_614_crop.jpg"
+    },
+    {
+      "title": "리센느 신드롬의 시작 '안원잘부', 오늘(7일) 경주 편...불과 한 달 사이...",
+      "url": "https://www.nc.press/news/articleView.html?idxno=622914",
+      "date": "2026.08.07",
+      "source": "nc.press",
+      "thumbnail": "https://cdn.nc.press/news/photo/202608/622914_850548_5426.jpg"
+    },
+    {
+      "title": "[TD영상] 노정의, 'KWDA 10주년 축하드립니다~' 눈이 맑아지는 청순 여신...",
+      "url": "http://www.tvdaily.co.kr/read.php3?aid=17860642961796813003",
+      "date": "2026.08.07",
+      "source": "tvdaily.co.kr",
+      "thumbnail": "http://image.tvdaily.co.kr/upimages/gisaimg/202608/1786064296_1796813.png"
+    },
+    {
+      "title": "‘전참시’ 리센느, 99평 새 숙소 공개..“너무 넓어 무전기 써야 하나...",
+      "url": "https://www.heraldmuse.com/article/10833806?ref=naver",
+      "date": "2026.08.07",
+      "source": "heraldmuse.com",
+      "thumbnail": "https://wimg.heraldcorp.com/news/cms/2026/08/07/news-p.v1.20260807.9561e5676d98448b9a275f2323eb5dea_T1.jpg"
+    },
+    {
+      "title": "[이번주 뭐보지] 봉주르빵집·도라이버6 등 예능&스포츠 공개",
+      "url": "https://www.newscj.com/news/articleView.html?idxno=3423221",
+      "date": "2026.08.07",
+      "source": "newscj.com",
+      "thumbnail": "https://cdn.newscj.com/news/thumbnail/202608/3423221_3534371_2955_v150.jpg"
     },
     {
       "title": "동아오츠카, 나랑드사이다 새 얼굴 리센느와 신규 광고 온에어",
@@ -14,132 +140,6 @@
       "date": "2026.08.07",
       "source": "intn.co.kr",
       "thumbnail": "http://www.intn.co.kr/news/thumbnail/202608/2052411_737596_537_v150.jpg"
-    },
-    {
-      "title": "'낭만 충전, 섬' 여수에서 특별한 추억…모레까지 섬의 날 행사",
-      "url": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5210877",
-      "date": "2026.08.07",
-      "source": "mbn.co.kr",
-      "thumbnail": "http://img.vod.mbn.co.kr/vod2/689/2026/08/07/20260807094307_20_689_1426030_1080_7.jpg"
-    },
-    {
-      "title": "리센느, 99평 NEW 숙소에도 '러그버그' 생활 \"각자 방 생겼지만, 한 공간...",
-      "url": "https://www.sportschosun.com/entertainment/2026-08-07/202608070100041330002560",
-      "date": "2026.08.07",
-      "source": "sportschosun.com",
-      "thumbnail": "https://www.sportschosun.com/article/html/2026/08/07/2026080701000413300025601_w.jpg"
-    },
-    {
-      "title": "동아오츠카, '나랑드사이다' 새 모델 리센느 출연 신규 TV CF 공개",
-      "url": "https://www.stardailynews.co.kr/news/articleView.html?idxno=545078",
-      "date": "2026.08.07",
-      "source": "stardailynews.co.kr",
-      "thumbnail": "https://cdn.stardailynews.co.kr/news/thumbnail/202608/545078_577155_4016_v150.jpg"
-    },
-    {
-      "title": "리센느, 대박나더니 99평 숙소로 이사…\"화장실만 3개\" [전참시]",
-      "url": "https://www.mydaily.co.kr/page/view/2026080709214115743",
-      "date": "2026.08.07",
-      "source": "mydaily.co.kr",
-      "thumbnail": "https://mydaily.co.kr/photos/2026/08/07/2026080709301757425_l.jpg"
-    },
-    {
-      "title": "\"낭만 가득 섬으로 떠나요\" 여수에서 9일까지 섬의 날 행사",
-      "url": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5210881",
-      "date": "2026.08.07",
-      "source": "mbn.mk.co.kr",
-      "thumbnail": "https://img.mbn.co.kr/newmbn/news/new_logo250.png"
-    },
-    {
-      "title": "동아오츠카, 나랑드사이다 모델 리센느 광고 공개",
-      "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=05323446645545024",
-      "date": "2026.08.07",
-      "source": "edaily.co.kr",
-      "thumbnail": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26080700835.jpg"
-    },
-    {
-      "title": "역주행하더니 숙소 옮겼다…리센느, 방 3개 된 일상 (‘전참시’)",
-      "url": "https://www.mk.co.kr/article/12120646",
-      "date": "2026.08.07",
-      "source": "mk.co.kr",
-      "thumbnail": "https://pimg.mk.co.kr/news/cms/202608/07/news-p.v1.20260807.a18a632f38d64b1a91168411841847a8_R.jpg"
-    },
-    {
-      "title": "리센느, 대박 나더니 새 숙소는 '으리으리' 99평 \"무전기 필요할 정도\"(...",
-      "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=833345",
-      "date": "2026.08.07",
-      "source": "spotvnews.co.kr",
-      "thumbnail": "https://cdn.spotvnews.co.kr/news/thumbnail/202608/833345_1369961_280_v150.jpg"
-    },
-    {
-      "title": "역주행 기적 리센느, 99평 숙소 최초 공개 \"너무 넓어 무전기 고민\" (전...",
-      "url": "http://enews.imbc.com/News/RetrieveNewsInfo/513976",
-      "date": "2026.08.07",
-      "source": "enews.imbc.com",
-      "thumbnail": "https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2026/08/07/30660321-1d25-4998-acf0-38cb48833563.jpg"
-    },
-    {
-      "title": "[식음료브리핑] hy 프로바이오틱스 연구 논문, SCI급 논문 게재 외",
-      "url": "https://www.seoulfn.com/news/articleView.html?idxno=635164",
-      "date": "2026.08.07",
-      "source": "seoulfn.com",
-      "thumbnail": "https://cdn.seoulfn.com/news/photo/202608/635164_436474_418.jpg"
-    },
-    {
-      "title": "동아오츠카, ‘대세’ 리센느와 함께한 나랑드사이다 광고 공개",
-      "url": "https://biz.heraldcorp.com/article/10833697?ref=naver",
-      "date": "2026.08.07",
-      "source": "biz.heraldcorp.com",
-      "thumbnail": null
-    },
-    {
-      "title": "안재홍과 함께하는 제22회 제천국제음악영화제, 역대 최대 규모 45개국 ...",
-      "url": "http://www.movist.com/movist3d/view.asp?type=13&id=atc000000012980",
-      "date": "2026.08.07",
-      "source": "movist.com",
-      "thumbnail": "https://m.movist.com/upload/image/img_20260807091519.jpg"
-    },
-    {
-      "title": "\"나랑드로 와\" 동아오츠카, 리센느와 '나랑드사이다' 신규 광고 공개",
-      "url": "https://www.newsis.com/view/NISX20260807_0003739915",
-      "date": "2026.08.07",
-      "source": "newsis.com",
-      "thumbnail": "https://img1.newsis.com/2026/08/07/NISI20260807_0002206521_web.jpg"
-    },
-    {
-      "title": "'역주행' 리센느, 99평 새 숙소 공개…화장실 1개→3개",
-      "url": "https://www.newsis.com/view/NISX20260807_0003739892",
-      "date": "2026.08.07",
-      "source": "newsis.com",
-      "thumbnail": "https://img1.newsis.com/2026/08/07/NISI20260807_0002206507_web.jpg"
-    },
-    {
-      "title": "리센느, 역주행 후 확 달라졌다…99평 숙소 최초 공개 (전참시)",
-      "url": "https://sports.donga.com/ent/article/all/20260807/134435773/1",
-      "date": "2026.08.07",
-      "source": "sports.donga.com",
-      "thumbnail": "https://dimg.donga.com/wps/SPORTS/IMAGE/2026/08/07/134435767.1.jpg"
-    },
-    {
-      "title": "리센느 성공 체감 제대로…“99평 숙소, 무전기 필요할 정도” (전참시...",
-      "url": "https://isplus.com/article/view/isp202608070012",
-      "date": "2026.08.07",
-      "source": "isplus.com",
-      "thumbnail": "https://isplus.com/data/isp/image/2026/08/07/isp20260807000011.800x.0.jpg"
-    },
-    {
-      "title": "리센느, 역주행에도 끈끈한 케미…“99평 새 숙소, 그래도 한 방 집합”...",
-      "url": "https://sports.khan.co.kr/article/202608070900003?pt=nv",
-      "date": "2026.08.07",
-      "source": "sports.khan.co.kr",
-      "thumbnail": null
-    },
-    {
-      "title": "동아오츠카, 리센느와 나랑드사이다 새 광고 공개…중독성 CM송 눈길",
-      "url": "https://www.joongangenews.com/news/articleView.html?idxno=538406",
-      "date": "2026.08.07",
-      "source": "joongangenews.com",
-      "thumbnail": "https://cdn.joongangenews.com/news/photo/202608/538406_344035_3054.png"
     }
   ]
 }
