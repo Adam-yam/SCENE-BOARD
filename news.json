@@ -1,12 +1,19 @@
 {
-  "updated": "2026-08-08T09:00:45Z",
+  "updated": "2026-08-08T10:00:50Z",
   "articles": [
     {
-      "title": "파죽지세 리센느, 제니·에이티즈 꺾고 '음악중심' 1위",
-      "url": "http://www.tvdaily.co.kr/read.php3?aid=17861763121796959010",
+      "title": "'돈선태' 하차 후 수척해진 김선태…충주시장 \"돌아와요\" 복직 권유에 3...",
+      "url": "https://view.asiae.co.kr/article/2026080818015891696",
+      "date": "2026.08.08",
+      "source": "view.asiae.co.kr",
+      "thumbnail": "https://cphoto.asiae.co.kr/listimglink/1/2026080817524473998_1786179164.jpg"
+    },
+    {
+      "title": "[TD영상] 키키, '벌써 기대되는 레트로 젠지 소녀들의 무대' 10주년 KWDA에...",
+      "url": "http://www.tvdaily.co.kr/read.php3?aid=17861798541796961003",
       "date": "2026.08.08",
       "source": "tvdaily.co.kr",
-      "thumbnail": "http://image.tvdaily.co.kr/upimages/gisaimg/202608/081796959.jpg"
+      "thumbnail": "http://image.tvdaily.co.kr/upimages/gisaimg/202608/1786179854_1796961.png"
     },
     {
       "title": "리센느, 제니·에이티즈 제치고 ‘음중’ 정상... ‘프리티 걸’ 1위",
@@ -34,7 +41,7 @@
       "url": "http://www.stoo.com/article.php?aid=108215067900",
       "date": "2026.08.08",
       "source": "stoo.com",
-      "thumbnail": "https://www.stoo.com/upimages/gisaimg/202608/08_1082150_67900.jpg"
+      "thumbnail": null
     },
     {
       "title": "\"희망 안 보여서 탈퇴 결심\" 3관왕 싹쓸이한 리센느 메이, 데뷔 전 파격...",
@@ -79,18 +86,18 @@
       "thumbnail": "https://img.tenasia.co.kr/photo/202608/BF.45277931.1.jpg"
     },
     {
-      "title": "'무섭노' 논란 김선태, 수척 근황…충주시장 \"돌아올 생각은?\"",
-      "url": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5211116",
-      "date": "2026.08.08",
-      "source": "mbn.mk.co.kr",
-      "thumbnail": "http://img.mbn.co.kr/filewww/news/2026/08/08/17861676626a76c16e488d1.png"
-    },
-    {
       "title": "'돈선태' 하차 김선태, 수척해진 근황…충주시장 댓글 봤더니",
       "url": "https://www.hankyung.com/article/2026080819237",
       "date": "2026.08.08",
       "source": "hankyung.com",
       "thumbnail": "https://img.hankyung.com/photo/202608/01.45278775.1.png"
+    },
+    {
+      "title": "'무섭노' 논란 김선태, 수척 근황…충주시장 \"돌아올 생각은?\"",
+      "url": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5211116",
+      "date": "2026.08.08",
+      "source": "mbn.mk.co.kr",
+      "thumbnail": "http://img.mbn.co.kr/filewww/news/2026/08/08/17861676626a76c16e488d1.png"
     },
     {
       "title": "자숙중인 김선태에 신임 시장 러브콜... “충주시청 다시 돌아오실래요...",
@@ -105,20 +112,6 @@
       "date": "2026.08.08",
       "source": "news1.kr",
       "thumbnail": null
-    },
-    {
-      "title": "르센느, 알고보니 탈퇴 위기 있었다…\"희망 보이지 않아, 원이가 부모님...",
-      "url": "https://www.tenasia.co.kr/article/2026080818644",
-      "date": "2026.08.08",
-      "source": "tenasia.co.kr",
-      "thumbnail": "https://img.tenasia.co.kr/photo/202608/BF.45278712.1.jpg"
-    },
-    {
-      "title": "‘전참시’ 원이, 메이 탈퇴 막았다…리센느 다음 활동 계획은?",
-      "url": "http://enews.imbc.com/News/RetrieveNewsInfo/514104",
-      "date": "2026.08.08",
-      "source": "enews.imbc.com",
-      "thumbnail": "https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2026/08/08/09b4749e-dd65-4a67-b829-cfbec1dafab2.jpeg"
     },
     {
       "title": "리센느 \"포기하려던 순간도\"… '전참시'서 진심 고백",
@@ -140,6 +133,13 @@
       "date": "2026.08.08",
       "source": "sportsworldi.com",
       "thumbnail": "https://www.sportsworldi.com/content/image/2026/08/08/20260808506035.jpg"
+    },
+    {
+      "title": "[주간 쿠팡플레이] '지금 불륜이 문제가 아닙니다'와 '맨체스터 시티 VS...",
+      "url": "https://www.mediapen.com/news/view/1115059",
+      "date": "2026.08.08",
+      "source": "mediapen.com",
+      "thumbnail": "https://image.mediapen.com/news/202608/news_1115059_1786109795_m.jpg"
     }
   ]
 }
