@@ -1,6 +1,27 @@
 {
-  "updated": "2026-08-08T02:00:43Z",
+  "updated": "2026-08-08T03:00:45Z",
   "articles": [
+    {
+      "title": "'충주맨' 김선태, 충주시장 복직 제안 받아",
+      "url": "https://www.mediafine.co.kr/news/articleView.html?idxno=86039",
+      "date": "2026.08.08",
+      "source": "mediafine.co.kr",
+      "thumbnail": "https://cdn.mediafine.co.kr/news/photo/202608/86039_123505_5541.png"
+    },
+    {
+      "title": "'음악방송 첫 1위' 리센느, 팬들에 설렁탕 역조공(전참시)",
+      "url": "http://www.osen.co.kr/article/G1112853743",
+      "date": "2026.08.08",
+      "source": "osen.co.kr",
+      "thumbnail": "http://file.osen.co.kr/article_thumb/2026/08/08/202608081102774789_6a7692dbbf755_300x.jpeg"
+    },
+    {
+      "title": "현 충주시장, '논란' 김선태에게 \"시청 돌아올 생각 없냐\"",
+      "url": "https://www.mydaily.co.kr/page/view/2026080811132417940",
+      "date": "2026.08.08",
+      "source": "mydaily.co.kr",
+      "thumbnail": "https://mydaily.co.kr/photos/2026/08/08/2026080811124903770_l.png"
+    },
     {
       "title": "새벽 급습부터 회사 탈출까지…유튜브 사로잡은 '날것'의 일상",
       "url": "https://www.yna.co.kr/view/AKR20260808022200005?input=1195m",
@@ -34,21 +55,21 @@
       "url": "http://www.stoo.com/article.php?aid=108204126472",
       "date": "2026.08.08",
       "source": "stoo.com",
-      "thumbnail": "https://www.stoo.com/upimages/gisaimg/202608/08_1082041_26472.jpg"
-    },
-    {
-      "title": "리센느 원이 '2차 가해' 논란 김선태, 초췌한 근황…\"고독하구만\"",
-      "url": "https://www.sidae.com/article/2026080810204721568",
-      "date": "2026.08.08",
-      "source": "sidae.com",
-      "thumbnail": "https://menu.sidae.com/moneyweek/thumb/2026/08/08/06/2026080810204721568_1.jpg"
+      "thumbnail": null
     },
     {
       "title": "‘전참시’ 리센느, 음방 1위 후보에 감격..“엔딩 때 맨 앞줄 서서 행복...",
       "url": "https://www.heraldmuse.com/article/10834682?ref=naver",
       "date": "2026.08.08",
       "source": "heraldmuse.com",
-      "thumbnail": "https://wimg.heraldcorp.com/news/cms/2026/08/08/news-p.v1.20260808.9b1a15aca3e542bab85bd779558ce673_T1.jpeg"
+      "thumbnail": null
+    },
+    {
+      "title": "리센느 원이 '2차 가해' 논란 김선태, 초췌한 근황…\"고독하구만\"",
+      "url": "https://www.sidae.com/article/2026080810204721568",
+      "date": "2026.08.08",
+      "source": "sidae.com",
+      "thumbnail": null
     },
     {
       "title": "'전참시' 리센느, 데뷔 3년 만 1위 후보…감격의 무대 비화",
@@ -62,7 +83,7 @@
       "url": "https://www.sportsseoul.com/news/read/1627308?ref=naver",
       "date": "2026.08.08",
       "source": "sportsseoul.com",
-      "thumbnail": "https://file.sportsseoul.com/news/cms/2026/08/08/news-p.v1.20260808.ed40145273684c1ab4e4b7fe6698f8e7_P1.png"
+      "thumbnail": null
     },
     {
       "title": "무명 설움에 눈물 흘렸던 리센느… 3년 만에 에스파와 ‘1위 후보’ (전...",
@@ -119,27 +140,6 @@
       "date": "2026.08.08",
       "source": "sportschosun.com",
       "thumbnail": "https://www.sportschosun.com/article/html/2026/08/08/2026080801000447400027771_w.jpg"
-    },
-    {
-      "title": "'리센느 논란→자진 하차' 김선태, 술병 나뒹구는 방에서 \"정말 고독해...",
-      "url": "https://www.insight.co.kr/news/567131",
-      "date": "2026.08.08",
-      "source": "insight.co.kr",
-      "thumbnail": "https://img.insight.co.kr/static/2026/08/08/1200/img_20260808091428_3191aaz3.jpg"
-    },
-    {
-      "title": "'전참시' 음악방송 1위 후보 오른 리센느의 꿈같은 하루 공개",
-      "url": "https://www.ize.co.kr/news/articleView.html?idxno=79664",
-      "date": "2026.08.08",
-      "source": "ize.co.kr",
-      "thumbnail": "https://cdn.ize.co.kr/news/thumbnail/202608/79664_122377_1039_v150.jpg"
-    },
-    {
-      "title": "리센느 원이도 \"갤럭시 야호~\"⋯아이폰 쓰던 女 돌변한 까닭 [홍민성의...",
-      "url": "https://www.hankyung.com/article/202608079983g",
-      "date": "2026.08.08",
-      "source": "hankyung.com",
-      "thumbnail": "https://img.hankyung.com/photo/202608/01.45268521.1.jpg"
     }
   ]
 }
