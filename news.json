@@ -1,6 +1,41 @@
 {
-  "updated": "2026-08-09T04:00:49Z",
+  "updated": "2026-08-09T05:00:46Z",
   "articles": [
+    {
+      "title": "리센느, 방송 출연없이 '음중' 1위 'Pretty Girl' 인기 계속",
+      "url": "https://news.jtbc.co.kr/article/NB12312397?influxDiv=NAVER",
+      "date": "2026.08.09",
+      "source": "news.jtbc.co.kr",
+      "thumbnail": null
+    },
+    {
+      "title": "홈구장보다 서울에서 먼저...AT 마드리드 '7번' 이강인, 상암서 특급 입...",
+      "url": "http://www.spochoo.com/news/articleView.html?idxno=128575",
+      "date": "2026.08.09",
+      "source": "spochoo.com",
+      "thumbnail": "https://cdn.spochoo.com/news/thumbnail/202608/128575_255906_2212_v150.jpg"
+    },
+    {
+      "title": "필릭스 밀어낸 제이엘…세훈·박지현 가세, '2026 KWDA' 남자 솔로 인기...",
+      "url": "http://www.tvdaily.co.kr/read.php3?aid=17862484431796988010",
+      "date": "2026.08.09",
+      "source": "tvdaily.co.kr",
+      "thumbnail": "http://image.tvdaily.co.kr/upimages/gisaimg/202608/091796988.jpg"
+    },
+    {
+      "title": "빌리, 유아유 제치고 2위 우뚝…'iMBC어워즈 퀸' 노린다 [이슈in]",
+      "url": "http://enews.imbc.com/News/RetrieveNewsInfo/514161",
+      "date": "2026.08.09",
+      "source": "enews.imbc.com",
+      "thumbnail": "https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2026/08/09/672d92b5-068a-4d60-b7e9-e9de821ab63d.jpg"
+    },
+    {
+      "title": "\"아재폰? 이번엔 잘 나왔다\"…BTS·리센느도 쓰더니 '대반전' [유지희의...",
+      "url": "https://www.hankyung.com/article/202608070431i",
+      "date": "2026.08.09",
+      "source": "hankyung.com",
+      "thumbnail": "https://img.hankyung.com/photo/202608/01.45273313.1.png"
+    },
     {
       "title": "리센느 원이·리브·제나, 다음주 '놀토' 접수 예고",
       "url": "https://enter.etoday.co.kr/news/view/300794",
@@ -34,7 +69,7 @@
       "url": "https://mhnse.com/news/articleView.html?idxno=1483674",
       "date": "2026.08.09",
       "source": "mhnse.com",
-      "thumbnail": null
+      "thumbnail": "https://contents-cdn.viewus.co.kr/creator-cms/image/2026/08/04efad99-6ae6-4fbb-a5af-51ddf38d3dc9.jpg"
     },
     {
       "title": "‘7번 이강인’ 서울서 먼저 입단식… 다비드 비야가 특별 유니폼 전달",
@@ -44,7 +79,7 @@
       "thumbnail": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26080900187.jpg"
     },
     {
-      "title": "‘무섭노’ 질문했다 하차한 김선태에…충주시장 “돌아올 생각?”",
+      "title": "‘무섭노’ 질문했다 하차한 김선태…충주시장 “돌아올 생각?”",
       "url": "https://www.hani.co.kr/arti/society/society_general/1272028.html",
       "date": "2026.08.09",
       "source": "hani.co.kr",
@@ -86,32 +121,11 @@
       "thumbnail": "https://cdn.topstarnews.net/news/photo/202608/16158962_1985980_352_crop.jpg"
     },
     {
-      "title": "[TD영상] 류승룡, 'KWDA 10주년 축하드립니다' 믿고 보는 배우의 축하 인...",
-      "url": "http://www.tvdaily.co.kr/read.php3?aid=17862408681796985003",
-      "date": "2026.08.09",
-      "source": "tvdaily.co.kr",
-      "thumbnail": "http://image.tvdaily.co.kr/upimages/gisaimg/202608/1786240868_1796985.png"
-    },
-    {
       "title": "‘국민 걸그룹’ 리센느, ‘쇼! 음악중심’까지 점령…음악방송 3관왕",
       "url": "https://www.sportsseoul.com/news/read/1627411?ref=naver",
       "date": "2026.08.09",
       "source": "sportsseoul.com",
       "thumbnail": "https://file.sportsseoul.com/news/cms/2026/08/09/news-p.v1.20260809.15682446eb6a4d49a74e2a90a1f7832b_P1.jpg"
-    },
-    {
-      "title": "‘전설의 7번’ 이강인, 한국서 첫 입단식 특급대우",
-      "url": "https://sports.khan.co.kr/article/202608091051003?pt=nv",
-      "date": "2026.08.09",
-      "source": "sports.khan.co.kr",
-      "thumbnail": null
-    },
-    {
-      "title": "쿠플, 이강인 오늘 아틀레티코 데뷔전…한국서 '7번' 입단식 먼저 연다",
-      "url": "http://www.metroseoul.co.kr/article/20260809500059",
-      "date": "2026.08.09",
-      "source": "metroseoul.co.kr",
-      "thumbnail": null
     },
     {
       "title": "'광고 제의만 100건' 리센느 원이, 연예인병 단속까지 [전참시]",
@@ -121,25 +135,11 @@
       "thumbnail": "https://cdn.gukjenews.com/news/thumbnail/202608/3659638_3826529_1147_v150.jpg"
     },
     {
-      "title": "리센느 ‘Pretty Girl’ 인기 계속…출연 없이 1위 트로피 획득",
-      "url": "https://sports.donga.com/ent/article/all/20260809/134442620/1",
+      "title": "‘전설의 7번’ 이강인, 한국서 첫 입단식 특급대우",
+      "url": "https://sports.khan.co.kr/article/202608091051003?pt=nv",
       "date": "2026.08.09",
-      "source": "sports.donga.com",
-      "thumbnail": "https://dimg.donga.com/wps/SPORTS/IMAGE/2026/08/09/134442663.1.jpg"
-    },
-    {
-      "title": "리센느, ‘Pretty Girl’로 ‘음중’ 출연 없이 1위..음방 3관왕",
-      "url": "https://www.heraldmuse.com/article/10835008?ref=naver",
-      "date": "2026.08.09",
-      "source": "heraldmuse.com",
+      "source": "sports.khan.co.kr",
       "thumbnail": null
-    },
-    {
-      "title": "“화장실 1개 쓰다 99평으로”…리센느, 대박 후 달라진 새 숙소 공개 [...",
-      "url": "https://www.sportsworldi.com/newsView/20260809505664",
-      "date": "2026.08.09",
-      "source": "sportsworldi.com",
-      "thumbnail": "https://www.sportsworldi.com/content/image/2026/08/09/20260809505663.jpg"
     }
   ]
 }
