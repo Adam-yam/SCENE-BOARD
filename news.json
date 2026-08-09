@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-09T20:00:36Z",
+  "updated": "2026-08-09T21:00:34Z",
   "articles": [
     {
       "title": "리센느, 버클리 음대 출신 대표·이사와 가족애‥보너스 받은 매니저까...",
@@ -9,11 +9,18 @@
       "thumbnail": "https://photo.newsen.com/news_photo/2026/08/09/202608091717096110_1.jpg"
     },
     {
-      "title": "[포토] 리센느 등장에 맨시티 시선 집중",
-      "url": "http://www.footballist.co.kr/news/articleView.html?idxno=213385",
+      "title": "[포토] 쿠팡플레이 시리즈에서도 대세 확인한 리센느",
+      "url": "http://www.footballist.co.kr/news/articleView.html?idxno=213387",
       "date": "2026.08.09",
       "source": "footballist.co.kr",
-      "thumbnail": "https://cdn.footballist.co.kr/news/thumbnail/202608/213385_177268_350_v150.jpg"
+      "thumbnail": "https://cdn.footballist.co.kr/news/thumbnail/202608/213387_177270_3717_v150.jpg"
+    },
+    {
+      "title": "리센느 미나미, 하프타임 공연 마친 뒤 환한 미소",
+      "url": "https://www.news1.kr/photos/8047925",
+      "date": "2026.08.09",
+      "source": "news1.kr",
+      "thumbnail": null
     },
     {
       "title": "리센느 원이, 귀엽게 손인사",
@@ -23,8 +30,8 @@
       "thumbnail": null
     },
     {
-      "title": "리센느 미나미, 하프타임 공연 마친 뒤 환한 미소",
-      "url": "https://www.news1.kr/photos/8047925",
+      "title": "리센느 원이, 아름다운 미소",
+      "url": "https://www.news1.kr/photos/8047922",
       "date": "2026.08.09",
       "source": "news1.kr",
       "thumbnail": null
@@ -44,13 +51,6 @@
       "thumbnail": null
     },
     {
-      "title": "리센느 원이, 아름다운 미소",
-      "url": "https://www.news1.kr/photos/8047922",
-      "date": "2026.08.09",
-      "source": "news1.kr",
-      "thumbnail": null
-    },
-    {
       "title": "[포토] 르센느, '하프타임의 주인공'",
       "url": "https://www.polinews.co.kr/news/articleView.html?idxno=739251",
       "date": "2026.08.09",
@@ -58,15 +58,29 @@
       "thumbnail": "https://cdn.polinews.co.kr/news/thumbnail/202608/739251_560987_1321_v150.jpg"
     },
     {
-      "title": "[포토]리센느, 월드컵경기장을 뜨겁게!",
-      "url": "https://www.sportsseoul.com/news/read/1627572?ref=naver",
+      "title": "[포토]축구장 분위기를 더 뜨겁게 달구는 리센느",
+      "url": "https://www.sportsseoul.com/news/read/1627577?ref=naver",
+      "date": "2026.08.09",
+      "source": "sportsseoul.com",
+      "thumbnail": "https://file.sportsseoul.com/news/cms/2026/08/10/news-p.v1.20260810.cc41f2beaba94f709a23969aff573668_P1.jpg"
+    },
+    {
+      "title": "[포토]‘대세’ 리센느, 하트 타임 공연까지",
+      "url": "https://www.sportsseoul.com/news/read/1627576?ref=naver",
+      "date": "2026.08.09",
+      "source": "sportsseoul.com",
+      "thumbnail": "https://file.sportsseoul.com/news/cms/2026/08/10/news-p.v1.20260810.2b1665ba31df445fbbcfd41307820543_P1.jpg"
+    },
+    {
+      "title": "[포토]그라운드 무대 위에 선 리센느",
+      "url": "https://www.sportsseoul.com/news/read/1627574?ref=naver",
       "date": "2026.08.09",
       "source": "sportsseoul.com",
       "thumbnail": null
     },
     {
-      "title": "[포토]리센느의 하프 타임 공연",
-      "url": "https://www.sportsseoul.com/news/read/1627571?ref=naver",
+      "title": "[포토]리센느, 맨시티-AT마드리드 하프 타임 공연",
+      "url": "https://www.sportsseoul.com/news/read/1627575?ref=naver",
       "date": "2026.08.09",
       "source": "sportsseoul.com",
       "thumbnail": null
@@ -77,20 +91,6 @@
       "date": "2026.08.09",
       "source": "sportsseoul.com",
       "thumbnail": null
-    },
-    {
-      "title": "[포토]리센느, 맨시티-AT마드리드 하프 타임 공연",
-      "url": "https://www.sportsseoul.com/news/read/1627575?ref=naver",
-      "date": "2026.08.09",
-      "source": "sportsseoul.com",
-      "thumbnail": "https://file.sportsseoul.com/news/cms/2026/08/10/news-p.v1.20260810.4669d7b92335475e837d4eea38c9dc39_P1.jpg"
-    },
-    {
-      "title": "[포토]‘대세’ 리센느, 하트 타임 공연까지",
-      "url": "https://www.sportsseoul.com/news/read/1627576?ref=naver",
-      "date": "2026.08.09",
-      "source": "sportsseoul.com",
-      "thumbnail": "https://file.sportsseoul.com/news/cms/2026/08/10/news-p.v1.20260810.2b1665ba31df445fbbcfd41307820543_P1.jpg"
     },
     {
       "title": "축구장 달군 리센느…맨시티-AT 마드리드전 하프타임 장식 [쿠키포토]",
@@ -139,7 +139,7 @@
       "url": "https://www.mydaily.co.kr/page/view/2026080923171494134",
       "date": "2026.08.09",
       "source": "mydaily.co.kr",
-      "thumbnail": "https://mydaily.co.kr/photos/2026/08/09/2026080923171202573_l.jpg"
+      "thumbnail": null
     }
   ]
 }
