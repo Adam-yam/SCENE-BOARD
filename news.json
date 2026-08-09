@@ -1,6 +1,27 @@
 {
-  "updated": "2026-08-09T22:00:37Z",
+  "updated": "2026-08-09T23:00:38Z",
   "articles": [
+    {
+      "title": "리센느 원이, 광고 100건에도 “연예인병 조심”…이강인 데뷔전서 축하...",
+      "url": "https://www.mk.co.kr/article/12122423",
+      "date": "2026.08.09",
+      "source": "mk.co.kr",
+      "thumbnail": "https://wimg.mk.co.kr/news/cms/202608/10/news-p.v1.20260810.b0b191153e5d473db93a746ee0eb3234_P1.jpg"
+    },
+    {
+      "title": "“내 고장으로 오세요”…‘공튜버’가 뜬다",
+      "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8632437&ref=A",
+      "date": "2026.08.09",
+      "source": "news.kbs.co.kr",
+      "thumbnail": "http://news.kbs.co.kr/data/news/title_image/newsmp4/newsplaza/2026/08/10/250_8632437.jpg"
+    },
+    {
+      "title": "리센느 원이·제나, 데뷔 초 다이어트 실패 고백..“그때보다 8kg 빠져”...",
+      "url": "http://www.osen.co.kr/article/G1112854470",
+      "date": "2026.08.09",
+      "source": "osen.co.kr",
+      "thumbnail": "http://file.osen.co.kr/article_thumb/2026/08/09/202608092330776352_6a7893d4a676d_300x.png"
+    },
     {
       "title": "블랙핑크 제쳤다…리센느 809만으로 8월 걸그룹 브랜드평판 1위",
       "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=475708",
@@ -27,7 +48,7 @@
       "url": "https://www.mydaily.co.kr/page/view/2026080921475584476",
       "date": "2026.08.09",
       "source": "mydaily.co.kr",
-      "thumbnail": "https://mydaily.co.kr/photos/2026/08/09/2026080921473348873_l.png"
+      "thumbnail": null
     },
     {
       "title": "[포토] 대세 리센느 공연에도 훈련에 집중하는 이강인",
@@ -44,29 +65,8 @@
       "thumbnail": "https://www.yeongnam.com/mnt/file/202608/news-p.v1.20260311.273296f528334e64b1df022dc64549e6_R.png"
     },
     {
-      "title": "리센느 원이, 귀엽게 손인사",
-      "url": "https://www.news1.kr/photos/8047924",
-      "date": "2026.08.09",
-      "source": "news1.kr",
-      "thumbnail": null
-    },
-    {
       "title": "리센느 미나미, 하프타임 공연 마친 뒤 환한 미소",
       "url": "https://www.news1.kr/photos/8047925",
-      "date": "2026.08.09",
-      "source": "news1.kr",
-      "thumbnail": null
-    },
-    {
-      "title": "리센느 미나미, 귀엽게 브이",
-      "url": "https://www.news1.kr/photos/8047923",
-      "date": "2026.08.09",
-      "source": "news1.kr",
-      "thumbnail": null
-    },
-    {
-      "title": "리센느 원이, 아름다운 미소",
-      "url": "https://www.news1.kr/photos/8047922",
       "date": "2026.08.09",
       "source": "news1.kr",
       "thumbnail": null
@@ -90,7 +90,7 @@
       "url": "https://www.mydaily.co.kr/page/view/2026080923213451094",
       "date": "2026.08.09",
       "source": "mydaily.co.kr",
-      "thumbnail": "https://mydaily.co.kr/photos/2026/08/09/2026080923213084834_l.jpg"
+      "thumbnail": null
     },
     {
       "title": "리센느, '프리티 걸'로 '쇼! 음악중심' 1위…음악방송 3관왕",
@@ -107,18 +107,18 @@
       "thumbnail": "https://mydaily.co.kr/photos/2026/08/09/2026080923185685473_l.jpg"
     },
     {
-      "title": "[MD포토] 리센느 원이-제나, '상큼한 하프타임 공연'",
-      "url": "https://www.mydaily.co.kr/page/view/2026080923171494134",
-      "date": "2026.08.09",
-      "source": "mydaily.co.kr",
-      "thumbnail": "https://mydaily.co.kr/photos/2026/08/09/2026080923171202573_l.jpg"
-    },
-    {
       "title": "[MD포토] 리센느, '순백의 소녀들'",
       "url": "https://www.mydaily.co.kr/page/view/2026080923175795699",
       "date": "2026.08.09",
       "source": "mydaily.co.kr",
       "thumbnail": "https://mydaily.co.kr/photos/2026/08/09/2026080923175521959_l.jpg"
+    },
+    {
+      "title": "[MD포토] 리센느 원이-제나, '상큼한 하프타임 공연'",
+      "url": "https://www.mydaily.co.kr/page/view/2026080923171494134",
+      "date": "2026.08.09",
+      "source": "mydaily.co.kr",
+      "thumbnail": "https://mydaily.co.kr/photos/2026/08/09/2026080923171202573_l.jpg"
     },
     {
       "title": "[MD포토] 리센느 원이, '사랑스럽게 브이~'",
@@ -132,14 +132,14 @@
       "url": "https://www.mydaily.co.kr/page/view/2026080923143273405",
       "date": "2026.08.09",
       "source": "mydaily.co.kr",
-      "thumbnail": null
+      "thumbnail": "https://mydaily.co.kr/photos/2026/08/09/2026080923141661013_l.jpg"
     },
     {
       "title": "[MD포토] 리센느 원이, '상큼한 하프타임 공연'",
       "url": "https://www.mydaily.co.kr/page/view/2026080923121561492",
       "date": "2026.08.09",
       "source": "mydaily.co.kr",
-      "thumbnail": "https://mydaily.co.kr/photos/2026/08/09/2026080923121382438_l.jpg"
+      "thumbnail": null
     }
   ]
 }
