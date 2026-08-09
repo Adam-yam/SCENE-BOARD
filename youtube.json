@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-09T07:10:20Z",
+  "updated": "2026-08-09T08:10:22Z",
   "videos": [
     {
       "id": "1oa2lvQAfUM",
@@ -50,6 +50,14 @@
       "type": "long"
     },
     {
+      "id": "dglF9_PJqto",
+      "title": "RESCENE (리센느) &#39;Pretty Girl&#39; Dance Practice",
+      "url": "https://www.youtube.com/watch?v=dglF9_PJqto",
+      "thumbnail": "https://i.ytimg.com/vi/dglF9_PJqto/mqdefault.jpg",
+      "date": "2026.07.16",
+      "type": "short"
+    },
+    {
       "id": "7DDsEVYWAwc",
       "title": "얼딩이 프리티걸 🎀",
       "url": "https://www.youtube.com/shorts/7DDsEVYWAwc",
@@ -87,14 +95,6 @@
       "url": "https://www.youtube.com/shorts/ryP8YpNgvLY",
       "thumbnail": "https://i.ytimg.com/vi/ryP8YpNgvLY/mqdefault.jpg",
       "date": "2026.07.21",
-      "type": "short"
-    },
-    {
-      "id": "amIUmWfalBo",
-      "title": "교복 애햄이 💜",
-      "url": "https://www.youtube.com/shorts/amIUmWfalBo",
-      "thumbnail": "https://i.ytimg.com/vi/amIUmWfalBo/mqdefault.jpg",
-      "date": "2026.07.18",
       "type": "short"
     }
   ]
