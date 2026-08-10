@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-10T06:10:23Z",
+  "updated": "2026-08-10T07:10:22Z",
   "videos": [
     {
       "id": "1oa2lvQAfUM",
@@ -50,6 +50,14 @@
       "type": "long"
     },
     {
+      "id": "8VT11lkGggg",
+      "title": "하지하지마",
+      "url": "https://www.youtube.com/shorts/8VT11lkGggg",
+      "thumbnail": "https://i.ytimg.com/vi/8VT11lkGggg/mqdefault.jpg",
+      "date": "2026.08.10",
+      "type": "short"
+    },
+    {
       "id": "XA3zJwWrsIk",
       "title": "#최홍만 선배님과 어디서나 당당하게 걷기 🎀",
       "url": "https://www.youtube.com/shorts/XA3zJwWrsIk",
@@ -82,19 +90,11 @@
       "type": "short"
     },
     {
-      "id": "kalnsqjQD0Y",
-      "title": "#YEONJUN 선배님과 익숙한 deja vu 🌱",
-      "url": "https://www.youtube.com/shorts/kalnsqjQD0Y",
-      "thumbnail": "https://i.ytimg.com/vi/kalnsqjQD0Y/mqdefault.jpg",
-      "date": "2026.07.21",
-      "type": "short"
-    },
-    {
-      "id": "ryP8YpNgvLY",
-      "title": "프리티걸 막방의 아쉬움을 표현해봤습니다",
-      "url": "https://www.youtube.com/shorts/ryP8YpNgvLY",
-      "thumbnail": "https://i.ytimg.com/vi/ryP8YpNgvLY/mqdefault.jpg",
-      "date": "2026.07.21",
+      "id": "p_bkxiOLI8E",
+      "title": "#제아 선배님과 어디서나 당당하게 걷기 🎀",
+      "url": "https://www.youtube.com/shorts/p_bkxiOLI8E",
+      "thumbnail": "https://i.ytimg.com/vi/p_bkxiOLI8E/mqdefault.jpg",
+      "date": "2026.07.10",
       "type": "short"
     }
   ]
