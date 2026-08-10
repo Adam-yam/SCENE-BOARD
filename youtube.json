@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-10T07:10:22Z",
+  "updated": "2026-08-10T08:10:22Z",
   "videos": [
     {
       "id": "1oa2lvQAfUM",
@@ -50,6 +50,14 @@
       "type": "long"
     },
     {
+      "id": "i_shJetSp-o",
+      "title": "바이바이바이올린 🎻",
+      "url": "https://www.youtube.com/shorts/i_shJetSp-o",
+      "thumbnail": "https://i.ytimg.com/vi/i_shJetSp-o/mqdefault.jpg",
+      "date": "2026.08.10",
+      "type": "short"
+    },
+    {
       "id": "8VT11lkGggg",
       "title": "하지하지마",
       "url": "https://www.youtube.com/shorts/8VT11lkGggg",
@@ -87,14 +95,6 @@
       "url": "https://www.youtube.com/shorts/hO2eASCpOnY",
       "thumbnail": "https://i.ytimg.com/vi/hO2eASCpOnY/mqdefault.jpg",
       "date": "2026.08.01",
-      "type": "short"
-    },
-    {
-      "id": "p_bkxiOLI8E",
-      "title": "#제아 선배님과 어디서나 당당하게 걷기 🎀",
-      "url": "https://www.youtube.com/shorts/p_bkxiOLI8E",
-      "thumbnail": "https://i.ytimg.com/vi/p_bkxiOLI8E/mqdefault.jpg",
-      "date": "2026.07.10",
       "type": "short"
     }
   ]
