@@ -1,6 +1,20 @@
 {
-  "updated": "2026-08-11T22:00:37Z",
+  "updated": "2026-08-11T23:00:39Z",
   "articles": [
+    {
+      "title": "[뮤직컴퍼니100] 스타쉽엔터테인먼트 0.72%↑·키키 673점↑…아이브와...",
+      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16161143",
+      "date": "2026.08.11",
+      "source": "topstarnews.net",
+      "thumbnail": "https://cdn.topstarnews.net/news/photo/202608/16161143_1988998_3452_crop.jpg"
+    },
+    {
+      "title": "상승세 탄 리센느, 2연속 1위…대세 등극 [스타1픽]",
+      "url": "https://www.news1.kr/entertain/music/6255619",
+      "date": "2026.08.11",
+      "source": "news1.kr",
+      "thumbnail": null
+    },
     {
       "title": "[편의점 새 기준③] 다양성의 일본, 트렌드의 한국…경쟁 2막 '콘텐츠'",
       "url": "https://www.ngetnews.com/news/articleView.html?idxno=552283",
@@ -114,20 +128,6 @@
       "thumbnail": "https://image.xportsnews.com/contents/images/upload/article/2026/0811/1786432358224208.webp"
     },
     {
-      "title": "\"서로 성공하자\" 약속하더니... 이선민, 리센느 하프타임 무대 직관하며...",
-      "url": "https://www.insight.co.kr/news/567596",
-      "date": "2026.08.11",
-      "source": "insight.co.kr",
-      "thumbnail": "https://img.insight.co.kr/static/2026/08/11/1200/img_20260811132532_4006j9g6.jpg"
-    },
-    {
-      "title": "다시 유행이라고? 추억의 ‘판도라 팔찌’가 돌아왔다",
-      "url": "https://www.harpersbazaar.co.kr/article/1907782",
-      "date": "2026.08.11",
-      "source": "harpersbazaar.co.kr",
-      "thumbnail": "https://www.harpersbazaar.co.kr/resources/online/thumbnail/hf/2026/08/10/426a5cc3-aba9-4585-9317-18fb719a3fa1.jpg"
-    },
-    {
       "title": "상생협력재단, KCON LA 연계 ‘K컬렉션’ 개최…中企 40개사 참가",
       "url": "https://www.sentv.co.kr/article/view/sentv202608110151",
       "date": "2026.08.11",
@@ -139,7 +139,7 @@
       "url": "https://www.viva100.com/article/20260811500940",
       "date": "2026.08.11",
       "source": "viva100.com",
-      "thumbnail": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/08/11/.cache/512/20260811500934.jpg?v=20260812070036"
+      "thumbnail": null
     }
   ]
 }
