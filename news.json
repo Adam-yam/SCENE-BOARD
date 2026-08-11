@@ -1,12 +1,89 @@
 {
-  "updated": "2026-08-10T23:00:35Z",
+  "updated": "2026-08-11T00:00:46Z",
   "articles": [
     {
-      "title": "[뮤직컴퍼니100] 임영웅 318점↑ 물고기뮤직 0.34%↑…SM엔터테인먼트 9...",
-      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16160165",
+      "title": "여수시, 제7회 섬의 날 행사 성황리에 마쳐",
+      "url": "http://www.netongs.com/news/articleView.html?idxno=334603",
+      "date": "2026.08.10",
+      "source": "netongs.com",
+      "thumbnail": "https://cdn.netongs.com/news/thumbnail/202608/334603_144637_574_v150.jpg"
+    },
+    {
+      "title": "\"LA에서 중기 해외진출 지원\"…'K-컬렉션' 개막",
+      "url": "https://www.newsis.com/view/NISX20260811_0003743837",
+      "date": "2026.08.10",
+      "source": "newsis.com",
+      "thumbnail": "https://img1.newsis.com/2026/08/11/NISI20260811_0002209125_web.jpg"
+    },
+    {
+      "title": "KCON 타고 美시장 뚫는다…中企 40개사, LA서 북미 판로 개척",
+      "url": "https://www.m-i.kr/news/articleView.html?idxno=1400822",
+      "date": "2026.08.10",
+      "source": "m-i.kr",
+      "thumbnail": "https://cdn.m-i.kr/news/thumbnail/202608/1400822_1188715_854_v150.jpg"
+    },
+    {
+      "title": "'리센느' 하프 타임 쇼 보더니…대세 男 스타, 연신 환호→감동 가득한...",
+      "url": "https://mhnse.com/news/articleView.html?idxno=1485251",
+      "date": "2026.08.10",
+      "source": "mhnse.com",
+      "thumbnail": "https://cdn.mhnse.com/mhnsports/2026/08/11085620/thumb_ccms_39524.jpg"
+    },
+    {
+      "title": "박지훈→올데이 프로젝트·최예나 출연…‘AAA 2026’ 가수 5차 라인업 ...",
+      "url": "https://swtvnews.com/news/newsview.php?ncode=1065570263496949",
+      "date": "2026.08.10",
+      "source": "swtvnews.com",
+      "thumbnail": "https://swtvnews.com/news/data/20260811/p1065570263496949_440_thum.jpg"
+    },
+    {
+      "title": "김선호·추영우·김가영 등, '2026 케이 월드 드림 어워즈' 시상자로 참...",
+      "url": "https://www.stardailynews.co.kr/news/articleView.html?idxno=545537",
+      "date": "2026.08.10",
+      "source": "stardailynews.co.kr",
+      "thumbnail": "https://cdn.stardailynews.co.kr/news/thumbnail/202608/545537_577671_3719_v150.jpg"
+    },
+    {
+      "title": "김선호·이채민·이설·김가영 등 ‘2026 KWDA’ 시상자 합류",
+      "url": "https://enter.etoday.co.kr/news/view/300882",
+      "date": "2026.08.10",
+      "source": "enter.etoday.co.kr",
+      "thumbnail": "https://img.etoday.co.kr/pto_db/2026/08/600/20260811084552_2371356_1000_667.jpg"
+    },
+    {
+      "title": "상생협력재단, KCON LA서 'K컬렉션' 개최...中企 40곳 판로 지원",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=476129",
+      "date": "2026.08.10",
+      "source": "pinpointnews.co.kr",
+      "thumbnail": "https://cdn.pinpointnews.co.kr/news/thumbnail/202608/476129_463190_3313_v150.jpg"
+    },
+    {
+      "title": "K팝 공연장에 中企 제품 뜬다…LA서 2026 K-컬렉션 개최",
+      "url": "https://www.news1.kr/industry/sb-founded/6254925",
+      "date": "2026.08.10",
+      "source": "news1.kr",
+      "thumbnail": null
+    },
+    {
+      "title": "'AAA 2026', 넥스지·박지훈·슈퍼주니어-D&E·올데이 프로젝트·최예나 ...",
+      "url": "https://www.ize.co.kr/news/articleView.html?idxno=79728",
+      "date": "2026.08.10",
+      "source": "ize.co.kr",
+      "thumbnail": "https://cdn.ize.co.kr/news/thumbnail/202608/79728_122533_137_v150.jpg"
+    },
+    {
+      "title": "플레이브, 더팩트 뮤직 어워즈 '글로벌 핫스타' 2년 연속 수상",
+      "url": "https://news.tf.co.kr/read/entertain/2352630.htm",
+      "date": "2026.08.10",
+      "source": "news.tf.co.kr",
+      "thumbnail": "https://img.tf.co.kr/article/home/2026/08/11/202682671786401526.jpg"
+    },
+    {
+      "title": "[뮤직100] 임영웅 '순간을 영원처럼' 41계단 급등·321점 증가…프로미스...",
+      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16160162",
       "date": "2026.08.10",
       "source": "topstarnews.net",
-      "thumbnail": "https://cdn.topstarnews.net/news/photo/202608/16160165_1987837_420_crop.jpg"
+      "thumbnail": "https://cdn.topstarnews.net/news/photo/202608/16160162_1987826_4014_crop.jpg"
     },
     {
       "title": "플레이브·넥스지·아홉, '2026 TMA' 글로벌 핫스타상 톱3",
@@ -23,39 +100,11 @@
       "thumbnail": "https://www.bntnews.co.kr/data/bnt/image/2026/08/11/bnt202608110014.jpg"
     },
     {
-      "title": "‘더팩트 뮤직 어워즈’ 플레이브 2연패",
-      "url": "https://www.bntnews.co.kr/article/view/bnt202608110011",
-      "date": "2026.08.10",
-      "source": "bntnews.co.kr",
-      "thumbnail": "https://www.bntnews.co.kr/data/bnt/image/2026/08/11/bnt202608110013.jpg"
-    },
-    {
-      "title": "오디세이·I.O.I·사랑온다·오싹연애·이런엿같은사랑, 1위 [한눈에 보...",
-      "url": "https://www.news1.kr/entertain/celebrity-topic/6254194",
-      "date": "2026.08.10",
-      "source": "news1.kr",
-      "thumbnail": null
-    },
-    {
       "title": "넥스지·박지훈·슈퍼주니어-D&E·올데이 프로젝트·최예나, 'AAA 2026' 빛...",
       "url": "https://www.starnewskorea.com/music/2026/08/11/2026081005053790693",
       "date": "2026.08.10",
       "source": "starnewskorea.com",
       "thumbnail": null
-    },
-    {
-      "title": "'7번 이강인' 서울이 들썩였다…아틀레티코 데뷔전부터 특별 입단식까지",
-      "url": "https://www.stardailynews.co.kr/news/articleView.html?idxno=545517",
-      "date": "2026.08.10",
-      "source": "stardailynews.co.kr",
-      "thumbnail": "https://cdn.stardailynews.co.kr/news/thumbnail/202608/545517_577626_1151_v150.jpg"
-    },
-    {
-      "title": "태연·리센느부터 앳하트까지…시대 넘어 더 뜨거워진 ‘리메이크’ 열...",
-      "url": "https://isplus.com/article/view/isp202608100053",
-      "date": "2026.08.10",
-      "source": "isplus.com",
-      "thumbnail": "https://isplus.com/data/isp/image/2026/08/10/isp20260810000075.800x.0.jpg"
     },
     {
       "title": "‘스포티파이 하우스 서울’ 라인업 공개",
@@ -72,32 +121,11 @@
       "thumbnail": "https://cdn.gukjenews.com/news/thumbnail/202608/3660991_3828040_3025_v150.jpg"
     },
     {
-      "title": "기업은행, '2026 입크페스티벌' 개최…최정상급 아티스트 총출동",
-      "url": "http://www.bizwnews.com/news/articleView.html?idxno=142742",
-      "date": "2026.08.10",
-      "source": "bizwnews.com",
-      "thumbnail": "https://cdn.bizwnews.com/news/thumbnail/202608/142742_159590_4851_v150.jpg"
-    },
-    {
-      "title": "\"성공하자\" 약속했던 이선민, 리센느 하프타임 무대 보며 \"원이야\" 울컥",
-      "url": "http://www.celuvmedia.com/article.php?aid=1786369998525514006",
-      "date": "2026.08.10",
-      "source": "celuvmedia.com",
-      "thumbnail": "http://www.celuvmedia.com/upimages/gisaimg/202608/1786369998_525514.jpg"
-    },
-    {
       "title": "아우파 알레띠! 새로운 ‘7번’ 이강인, 한국 팬들과 함께한 성대한 신...",
       "url": "https://sports.khan.co.kr/article/202608102125003?pt=nv",
       "date": "2026.08.10",
       "source": "sports.khan.co.kr",
       "thumbnail": null
-    },
-    {
-      "title": "억대 수입 찍겠네…리센느, 광고 문의만 100건→화장실 3개 달린 99평 숙...",
-      "url": "https://www.tenasia.co.kr/article/2026080922614",
-      "date": "2026.08.10",
-      "source": "tenasia.co.kr",
-      "thumbnail": "https://img.tenasia.co.kr/photo/202608/BF.45282852.1.jpg"
     },
     {
       "title": "리센느 1위, 8월 걸그룹 브랜드평판 정상..2위 아이브·3위 레드벨벳",
@@ -112,34 +140,6 @@
       "date": "2026.08.10",
       "source": "marieclairekorea.com",
       "thumbnail": "https://img.marieclairekorea.com/2026/08/mck_6a79a47c7e76f.jpg"
-    },
-    {
-      "title": "\"원이야!\" 이선민, 5만 관중 앞 리센느 하프타임쇼에 벅찬 감격…눈시울...",
-      "url": "https://www.xportsnews.com/article/2182128",
-      "date": "2026.08.10",
-      "source": "xportsnews.com",
-      "thumbnail": "https://image.xportsnews.com/contents/images/upload/article/2026/0810/1786346677245154.webp"
-    },
-    {
-      "title": "이선민, 리센느 하프타임 무대 직관…“원이야” 외치며 ‘울컥’",
-      "url": "https://sports.khan.co.kr/article/202608101432003?pt=nv",
-      "date": "2026.08.10",
-      "source": "sports.khan.co.kr",
-      "thumbnail": null
-    },
-    {
-      "title": "AT 마드리드 새로운 ‘7번’ 이강인, 한국 팬들과 함께한 성대한 신고식...",
-      "url": "https://www.kukinews.com/article/view/kuk202608100107",
-      "date": "2026.08.10",
-      "source": "kukinews.com",
-      "thumbnail": null
-    },
-    {
-      "title": "'아우파 알레띠' AT마드리드 '새로운 7번’ 이강인, 한국 팬들과 함께 성...",
-      "url": "https://swtvnews.com/news/newsview.php?ncode=1065587673074390",
-      "date": "2026.08.10",
-      "source": "swtvnews.com",
-      "thumbnail": "https://swtvnews.com/news/data/20260810/p1065587673074390_602_thum.jpg"
     }
   ]
 }
