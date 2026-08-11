@@ -1,6 +1,13 @@
 {
-  "updated": "2026-08-11T10:00:37Z",
+  "updated": "2026-08-11T11:00:41Z",
   "articles": [
+    {
+      "title": "[아침숲길] 한 다리 건너온 마음",
+      "url": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=1700&key=20260812.22018001898",
+      "date": "2026.08.11",
+      "source": "kookje.co.kr",
+      "thumbnail": null
+    },
     {
       "title": "데뷔 무대는 ‘전국노래자랑’…세븐틴 디노, K팝 최초 ‘부캐 앨범’ ...",
       "url": "https://www.newsen.com/news_view.php?uid=202608111733092610",
@@ -41,7 +48,7 @@
       "url": "https://www.mk.co.kr/article/12124136",
       "date": "2026.08.11",
       "source": "mk.co.kr",
-      "thumbnail": "https://pimg.mk.co.kr/news/cms/202608/12/20260812_01110128000003_L00.jpg"
+      "thumbnail": "https://pimg.mk.co.kr/news/cms/202608/12/20260812_01160128000001_L00.jpg"
     },
     {
       "title": "김선호·이설·이채민·정려원까지…'2026 케이 월드 드림 어워즈' 시상...",
@@ -62,7 +69,7 @@
       "url": "https://www.harpersbazaar.co.kr/article/1907782",
       "date": "2026.08.11",
       "source": "harpersbazaar.co.kr",
-      "thumbnail": "https://www.harpersbazaar.co.kr/resources/online/thumbnail/hf/2026/08/10/426a5cc3-aba9-4585-9317-18fb719a3fa1.jpg"
+      "thumbnail": null
     },
     {
       "title": "상생협력재단, KCON LA 연계 ‘K컬렉션’ 개최…中企 40개사 참가",
@@ -76,7 +83,7 @@
       "url": "https://www.viva100.com/article/20260811500940",
       "date": "2026.08.11",
       "source": "viva100.com",
-      "thumbnail": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/08/11/.cache/512/20260811500934.jpg?v=20260811190035"
+      "thumbnail": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/08/11/.cache/512/20260811500934.jpg?v=20260811200035"
     },
     {
       "title": "조여정, 리센느 만나 거제 야호 \"우리 팀 모두 흥분\"",
@@ -86,18 +93,18 @@
       "thumbnail": "https://img1.newsis.com/2026/08/11/NISI20260811_0002209722_web.jpg"
     },
     {
-      "title": "라이즈·에이티즈·르세라핌·아일릿·리센느 출연 ‘K-WORLD DREAM AWARDS’...",
-      "url": "https://www.seoul.co.kr/news/economy/2026/08/11/20260811500169?wlog_tag3=naver",
-      "date": "2026.08.11",
-      "source": "seoul.co.kr",
-      "thumbnail": "https://img.seoul.co.kr//img/upload/2026/08/11/SSC_20260811144019_O2.png"
-    },
-    {
       "title": "조여정도 못 참았다…리센느 만나 '거제 야~호' 포즈 [★해시태그]",
       "url": "https://www.xportsnews.com/article/2182341",
       "date": "2026.08.11",
       "source": "xportsnews.com",
       "thumbnail": "https://image.xportsnews.com/contents/images/upload/article/2026/0811/1786425904971526.webp"
+    },
+    {
+      "title": "라이즈·에이티즈·르세라핌·아일릿·리센느 출연 ‘K-WORLD DREAM AWARDS’...",
+      "url": "https://www.seoul.co.kr/news/economy/2026/08/11/20260811500169?wlog_tag3=naver",
+      "date": "2026.08.11",
+      "source": "seoul.co.kr",
+      "thumbnail": null
     },
     {
       "title": "오락으로 세탁된 10대의 혐오, 거름망 없는 사회가 자초한 ‘강제 규제...",
@@ -119,13 +126,6 @@
       "date": "2026.08.11",
       "source": "mt.co.kr",
       "thumbnail": "https://thumb.mt.co.kr/cdn-cgi/image/w=1200,h=363,fit=cover,bg=white,f=auto,quality=high,sharpen=2,g=face/21/2026/08/2026081110185519974_1.jpg"
-    },
-    {
-      "title": "한류 타고 미국시장 진출한다",
-      "url": "https://www.naeil.com/news/read/598469?ref=naver",
-      "date": "2026.08.11",
-      "source": "naeil.com",
-      "thumbnail": "https://static.naeil.com/img/rect_logo.jpg"
     },
     {
       "title": "'살롱드립', 8월 게스트 라인업 보니…영케이-정해인→허경환-송강 방문",
