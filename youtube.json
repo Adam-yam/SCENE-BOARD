@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-11T08:10:30Z",
+  "updated": "2026-08-11T09:10:35Z",
   "videos": [
     {
       "id": "1oa2lvQAfUM",
@@ -50,6 +50,14 @@
       "type": "long"
     },
     {
+      "id": "_sO0s5vkm3E",
+      "title": "#케리아 선수님과 어디서나 당당하게 걷기 🎀",
+      "url": "https://www.youtube.com/shorts/_sO0s5vkm3E",
+      "thumbnail": "https://i.ytimg.com/vi/_sO0s5vkm3E/mqdefault.jpg",
+      "date": "2026.08.11",
+      "type": "short"
+    },
+    {
       "id": "JqEGmAzW11o",
       "title": "⚽",
       "url": "https://www.youtube.com/shorts/JqEGmAzW11o",
@@ -87,14 +95,6 @@
       "url": "https://www.youtube.com/shorts/XA3zJwWrsIk",
       "thumbnail": "https://i.ytimg.com/vi/XA3zJwWrsIk/mqdefault.jpg",
       "date": "2026.08.09",
-      "type": "short"
-    },
-    {
-      "id": "7DDsEVYWAwc",
-      "title": "얼딩이 프리티걸 🎀",
-      "url": "https://www.youtube.com/shorts/7DDsEVYWAwc",
-      "thumbnail": "https://i.ytimg.com/vi/7DDsEVYWAwc/mqdefault.jpg",
-      "date": "2026.08.08",
       "type": "short"
     }
   ]
