@@ -1,6 +1,20 @@
 {
-  "updated": "2026-08-11T04:00:42Z",
+  "updated": "2026-08-11T05:00:43Z",
   "articles": [
+    {
+      "title": "한류 타고 미국시장 진출한다",
+      "url": "https://www.naeil.com/news/read/598469?ref=naver",
+      "date": "2026.08.11",
+      "source": "naeil.com",
+      "thumbnail": "https://static.naeil.com/img/rect_logo.jpg"
+    },
+    {
+      "title": "[스타트렌드] 리센느, K-POP 여자 그룹 인기투표 1위",
+      "url": "http://www.koreastocknews.com/news/articleView.html?idxno=120476",
+      "date": "2026.08.11",
+      "source": "koreastocknews.com",
+      "thumbnail": "https://cdn.koreastocknews.com/news/thumbnail/202608/120476_100759_5411_v150.jpg"
+    },
     {
       "title": "'살롱드립', 8월 게스트 라인업 보니…영케이-정해인→허경환-송강 방문",
       "url": "https://www.topstarnews.net/news/articleView.html?idxno=16160482",
@@ -51,18 +65,18 @@
       "thumbnail": "https://image.inews24.com/v1/b7b317fd1dab8e.jpg"
     },
     {
-      "title": "‘원이 삼촌’ 이선민, 리센느 하프타임쇼 무대에 감격 “야 원이야”",
-      "url": "https://www.newsen.com/news_view.php?uid=202608111057050410",
-      "date": "2026.08.11",
-      "source": "newsen.com",
-      "thumbnail": "https://photo.newsen.com/news_photo/2026/08/11/202608111057050410_1.jpg"
-    },
-    {
       "title": "김선호·이설·이채민·정려원·정성일·진기주·추영우·김가영…10주년...",
       "url": "http://www.stoo.com/article.php?aid=108266095678",
       "date": "2026.08.11",
       "source": "stoo.com",
       "thumbnail": "https://www.stoo.com/upimages/gisaimg/202608/11_1082660_95678.jpg"
+    },
+    {
+      "title": "‘원이 삼촌’ 이선민, 리센느 하프타임쇼 무대에 감격 “야 원이야”",
+      "url": "https://www.newsen.com/news_view.php?uid=202608111057050410",
+      "date": "2026.08.11",
+      "source": "newsen.com",
+      "thumbnail": "https://photo.newsen.com/news_photo/2026/08/11/202608111057050410_1.jpg"
     },
     {
       "title": "김선호·이채민·추영우 뜬다…‘2026 케이 월드 드림 어워즈’ 시상자...",
@@ -86,13 +100,6 @@
       "thumbnail": "https://dimg.donga.com/wps/SPORTS/IMAGE/2026/08/11/134455960.1.jpg"
     },
     {
-      "title": "키오프·킥플립→키키·클유아…'2026 SKA' 2차 라인업 공개",
-      "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=834042",
-      "date": "2026.08.11",
-      "source": "spotvnews.co.kr",
-      "thumbnail": null
-    },
-    {
       "title": "LA서 'K컬렉션'... 중소기업 40개사 수출상담·판촉전",
       "url": "https://weeklytrade.co.kr/news/view.html?section=1&category=5&item=&no=100998",
       "date": "2026.08.11",
@@ -100,18 +107,11 @@
       "thumbnail": "https://weeklytrade.co.kr/PEG/17864130769024.jpg"
     },
     {
-      "title": "키키→전유진… ‘2026 SKA’ 2차 라인업 공개",
-      "url": "https://www.bntnews.co.kr/article/view/bnt202608110171",
+      "title": "키오프·킥플립→키키·클유아…'2026 SKA' 2차 라인업 공개",
+      "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=834042",
       "date": "2026.08.11",
-      "source": "bntnews.co.kr",
-      "thumbnail": "https://www.bntnews.co.kr/data/bnt/image/2026/08/11/bnt202608110309.jpg"
-    },
-    {
-      "title": "리센느 원이 만난 '케리아' 류민석, \"저도 '부산 불주먹'\"",
-      "url": "http://www.dailyesports.com/view.php?ud=202608111036078046b91e133c1f_27",
-      "date": "2026.08.11",
-      "source": "dailyesports.com",
-      "thumbnail": "https://cgeimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=20260811103649004980b91e133c1f11015245119.jpg&nmt=27"
+      "source": "spotvnews.co.kr",
+      "thumbnail": null
     },
     {
       "title": "Spotify House returns to Seoul in its biggest pop-up yet",
