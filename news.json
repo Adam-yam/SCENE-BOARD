@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-12T12:00:39Z",
+  "updated": "2026-08-12T13:00:43Z",
   "articles": [
     {
       "title": "[오늘, 금강일보] 8월 13일",
@@ -58,13 +58,6 @@
       "thumbnail": "http://www.celuvmedia.com/upimages/gisaimg/202608/12525645.jpg"
     },
     {
-      "title": "[영상] 리센느 향해 \"쌩까네? 뭘 째려봐\" 발언한 기자",
-      "url": "https://www.ajunews.com/view/20260812172107622",
-      "date": "2026.08.12",
-      "source": "ajunews.com",
-      "thumbnail": "https://image.ajunews.com/content/image/2026/08/12/20260812172938334210.gif"
-    },
-    {
       "title": "KISS OF LIFE(키스오브라이프), 천군만마 얻는다",
       "url": "https://sports.khan.co.kr/article/202608121712003?pt=nv",
       "date": "2026.08.12",
@@ -76,7 +69,7 @@
       "url": "https://www.segye.com/newsView/20260812517553?OutUrl=naver",
       "date": "2026.08.12",
       "source": "segye.com",
-      "thumbnail": null
+      "thumbnail": "https://www.segye.com/content/image/2026/08/12/20260812519725.jpg"
     },
     {
       "title": "리센느·효리수 만든 일등공신…지금은 '자컨' 시대 [MD포커스]",
@@ -140,6 +133,13 @@
       "date": "2026.08.12",
       "source": "imaeil.com",
       "thumbnail": "https://www.imaeil.com/photos/2026/08/09/2026080917404887651_l.png"
+    },
+    {
+      "title": "월드클래스 '맨체스터 시티'와 걸 그룹 '리센느' 예능 만남",
+      "url": "https://www.imaeil.com/page/view/2026081213495966358",
+      "date": "2026.08.12",
+      "source": "imaeil.com",
+      "thumbnail": "https://www.imaeil.com/photos/2026/08/12/2026081213483026912_l.jpg"
     }
   ]
 }
