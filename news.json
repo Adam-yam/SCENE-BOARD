@@ -1,6 +1,13 @@
 {
-  "updated": "2026-08-12T01:00:44Z",
+  "updated": "2026-08-12T02:00:44Z",
   "articles": [
+    {
+      "title": "'리센느의 맨시티 어택!', 8월 14일 공개 확정",
+      "url": "https://news.tf.co.kr/read/entertain/2353191.htm",
+      "date": "2026.08.12",
+      "source": "news.tf.co.kr",
+      "thumbnail": "https://img.tf.co.kr/article/home/2026/08/12/202652041786496919.jpg"
+    },
     {
       "title": "‘야호’ 포즈 취하는 맨시티 선수들이라니‥리센느와 깜짝 만남(맨시티...",
       "url": "https://www.newsen.com/news_view.php?uid=202608120944206310",
@@ -13,7 +20,7 @@
       "url": "https://www.heraldmuse.com/article/10838331?ref=naver",
       "date": "2026.08.12",
       "source": "heraldmuse.com",
-      "thumbnail": null
+      "thumbnail": "https://wimg.heraldcorp.com/news/cms/2026/08/12/news-p.v1.20260812.a97eef43b0e743dd97924d1d3060624f_T1.jpg"
     },
     {
       "title": "맨시티 야호… ‘리센느의 맨시티 어택’ 14일 공개",
@@ -37,18 +44,18 @@
       "thumbnail": "https://image.mediapen.com/news/202608/news_1115801_1786493988_m.jpg"
     },
     {
-      "title": "쿠팡, 리센느와 맨시티 대표선수들 주선…14일 공개",
-      "url": "https://www.newsis.com/view/NISX20260812_0003745533",
-      "date": "2026.08.12",
-      "source": "newsis.com",
-      "thumbnail": "https://img1.newsis.com/2026/08/12/NISI20260812_0002210217_web.jpg"
-    },
-    {
       "title": "로드리, 월드컵 우승하면 뭐해..리센느도 못 만났는데 ('리센느의 맨시...",
       "url": "http://www.osen.co.kr/article/G1112855611",
       "date": "2026.08.12",
       "source": "osen.co.kr",
       "thumbnail": "http://file.osen.co.kr/article_thumb/2026/08/12/202608120912777675_6a7bbbb00bdce_300x.jpg"
+    },
+    {
+      "title": "쿠팡, 리센느와 맨시티 대표선수들 주선…14일 공개",
+      "url": "https://www.newsis.com/view/NISX20260812_0003745533",
+      "date": "2026.08.12",
+      "source": "newsis.com",
+      "thumbnail": "https://img1.newsis.com/2026/08/12/NISI20260812_0002210217_web.jpg"
     },
     {
       "title": "리센느, 맨시티 선수들과 예능 ‘야호’",
@@ -133,13 +140,6 @@
       "date": "2026.08.11",
       "source": "sentv.co.kr",
       "thumbnail": "https://www.sentv.co.kr/data/sentv/image/2026/08/11/sentv20260811000132.png"
-    },
-    {
-      "title": "K-컬처 타고 K-중소기업도 미국행…‘K컬렉션 위드 케이콘 엘에이’ 14일...",
-      "url": "https://www.viva100.com/article/20260811500940",
-      "date": "2026.08.11",
-      "source": "viva100.com",
-      "thumbnail": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/08/11/.cache/512/20260811500934.jpg?v=20260812100043"
     }
   ]
 }
