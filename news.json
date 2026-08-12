@@ -1,12 +1,19 @@
 {
-  "updated": "2026-08-11T23:00:39Z",
+  "updated": "2026-08-12T00:00:44Z",
   "articles": [
     {
-      "title": "[뮤직컴퍼니100] 스타쉽엔터테인먼트 0.72%↑·키키 673점↑…아이브와...",
-      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16161143",
+      "title": "KISS OF LIFE(키스오브라이프), 글로벌 팬 참여형 서포트 프로젝트 참여",
+      "url": "https://www.stardailynews.co.kr/news/articleView.html?idxno=545657",
+      "date": "2026.08.11",
+      "source": "stardailynews.co.kr",
+      "thumbnail": "https://cdn.stardailynews.co.kr/news/thumbnail/202608/545657_577782_1617_v150.jpg"
+    },
+    {
+      "title": "키스오브라이프, 글로벌 팬과 함께 '더케이팝 치얼업' 네 번째 주인공 ...",
+      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16161177",
       "date": "2026.08.11",
       "source": "topstarnews.net",
-      "thumbnail": "https://cdn.topstarnews.net/news/photo/202608/16161143_1988998_3452_crop.jpg"
+      "thumbnail": "https://cdn.topstarnews.net/news/photo/202608/16161177_1989084_229_crop.jpg"
     },
     {
       "title": "상승세 탄 리센느, 2연속 1위…대세 등극 [스타1픽]",
@@ -62,7 +69,7 @@
       "url": "https://mhnse.com/news/articleView.html?idxno=1485904",
       "date": "2026.08.11",
       "source": "mhnse.com",
-      "thumbnail": "https://contents-cdn.viewus.co.kr/creator-cms/image/2026/08/b54546cb-a338-473a-b5cd-c38878b1a598.jpg"
+      "thumbnail": null
     },
     {
       "title": "김선호·이설·이채민·정려원·정성일·진기주·추영우·김가영, 10주년...",
@@ -114,20 +121,6 @@
       "thumbnail": "https://image.inews24.com/v1/143f8059368e50.jpg"
     },
     {
-      "title": "리센느·제베원·트레저…K팝 대세돌 美 달군다",
-      "url": "https://www.mk.co.kr/article/12124136",
-      "date": "2026.08.11",
-      "source": "mk.co.kr",
-      "thumbnail": "https://pimg.mk.co.kr/news/cms/202608/12/20260812_01160128000001_L00.jpg"
-    },
-    {
-      "title": "김선호·이설·이채민·정려원까지…'2026 케이 월드 드림 어워즈' 시상...",
-      "url": "https://www.xportsnews.com/article/2182368",
-      "date": "2026.08.11",
-      "source": "xportsnews.com",
-      "thumbnail": "https://image.xportsnews.com/contents/images/upload/article/2026/0811/1786432358224208.webp"
-    },
-    {
       "title": "상생협력재단, KCON LA 연계 ‘K컬렉션’ 개최…中企 40개사 참가",
       "url": "https://www.sentv.co.kr/article/view/sentv202608110151",
       "date": "2026.08.11",
@@ -139,7 +132,14 @@
       "url": "https://www.viva100.com/article/20260811500940",
       "date": "2026.08.11",
       "source": "viva100.com",
-      "thumbnail": null
+      "thumbnail": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/08/11/.cache/512/20260811500934.jpg?v=20260812090043"
+    },
+    {
+      "title": "리센느, '전참시' 효과 톡톡…TV-OTT 비드라마 출연자 화제성 1위",
+      "url": "https://www.slist.kr/news/articleView.html?idxno=758065",
+      "date": "2026.08.11",
+      "source": "slist.kr",
+      "thumbnail": "https://cdn.slist.kr/news/thumbnail/202608/758065_1161789_4136_v150.jpg"
     }
   ]
 }
