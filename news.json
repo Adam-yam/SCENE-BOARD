@@ -1,6 +1,20 @@
 {
-  "updated": "2026-08-13T08:00:46Z",
+  "updated": "2026-08-13T09:00:46Z",
   "articles": [
+    {
+      "title": "[인터뷰] '지금 불륜' 이창희 감독 \"7화, 40분간 리얼타임 연출 시도\"",
+      "url": "http://www.srtimes.kr/news/articleView.html?idxno=209987",
+      "date": "2026.08.13",
+      "source": "srtimes.kr",
+      "thumbnail": "https://cdn.srtimes.kr/news/thumbnail/202608/209987_214871_3639_v150.jpg"
+    },
+    {
+      "title": "아일릿·하츠투하츠 접전…'2026 케이 월드 드림 어워즈' 여자그룹 인기...",
+      "url": "http://www.celuvmedia.com/article.php?aid=1786604373525715007",
+      "date": "2026.08.13",
+      "source": "celuvmedia.com",
+      "thumbnail": "http://www.celuvmedia.com/upimages/gisaimg/202608/1786604373_525715.jpg"
+    },
     {
       "title": "평균 17세 데뷔, 케이팝 아동 청소년 연습생의 현실과 과제",
       "url": "https://www.marieclairekorea.com/celebrity/2026/08/teengirls/?utm_source=naver&utm_medium=partnership",
@@ -62,7 +76,7 @@
       "url": "http://www.stoo.com/article.php?aid=108312472746",
       "date": "2026.08.13",
       "source": "stoo.com",
-      "thumbnail": "https://www.stoo.com/upimages/gisaimg/202608/13_1083124_72746.jpg"
+      "thumbnail": null
     },
     {
       "title": "세계 누빈 방탄·대중 홀린 리센느·Chill 스키즈…32주차 써클차트 최상...",
@@ -83,7 +97,7 @@
       "url": "https://www.sportsseoul.com/news/read/1628472?ref=naver",
       "date": "2026.08.13",
       "source": "sportsseoul.com",
-      "thumbnail": null
+      "thumbnail": "https://file.sportsseoul.com/news/cms/2026/08/13/news-p.v1.20260728.0e0e60c5684d4e82b86ad9998d98b379_T1.jpg"
     },
     {
       "title": "[뷰티업계 이모저모] 아이소이, 약국 B2B 플랫폼 ‘바로팜’ 입점 外",
@@ -100,11 +114,11 @@
       "thumbnail": "https://image.mediapen.com/news/202608/news_1116099_1786580815_m.jpg"
     },
     {
-      "title": "에이페, 리센느 브랜드 모델 발탁",
-      "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=856514",
+      "title": "일본 여자들이 '스고이!' 외친 갤럭시 Z 폴드8의 이 기능[요즘컷]",
+      "url": "https://www.newsway.co.kr/news/view?ud=2026081311485841216",
       "date": "2026.08.13",
-      "source": "hansbiz.co.kr",
-      "thumbnail": "https://cdn.hansbiz.co.kr/news/thumbnail/202608/856514_876820_2834_v150.jpg"
+      "source": "newsway.co.kr",
+      "thumbnail": "https://nimage.newsway.co.kr/photo/2026/08/13/20260813000038_1200.jpg"
     },
     {
       "title": "에이페, 리센느 브랜드 모델 발탁… Z세대 공략 강화",
@@ -112,13 +126,6 @@
       "date": "2026.08.13",
       "source": "fashionbiz.co.kr",
       "thumbnail": "https://www.fashionbiz.co.kr/images/articleImg/mainImg/1786580358030-[%EC%82%AC%EC%A7%84%EC%9E%90%EB%A3%8C]%20%EC%97%90%EC%9D%B4%ED%8E%98%EC%9D%98%20%EC%83%88%EB%A1%9C%EC%9A%B4%20%EB%B8%8C%EB%9E%9C%EB%93%9C%20%EB%AA%A8%EB%8D%B8%EB%A1%9C%20%EB%B0%9C%ED%83%81%EB%90%9C%20%EB%A6%AC%EC%84%BC%EB%8A%90.jpg"
-    },
-    {
-      "title": "일본 여자들이 '스고이!' 외친 갤럭시 Z 폴드8의 이 기능[요즘컷]",
-      "url": "https://www.newsway.co.kr/news/view?ud=2026081311485841216",
-      "date": "2026.08.13",
-      "source": "newsway.co.kr",
-      "thumbnail": "https://nimage.newsway.co.kr/photo/2026/08/13/20260813000038_1200.jpg"
     },
     {
       "title": "리센느 '러브 어택', 2년 만에 써클차트 정상…'프리티 걸'도 6위",
@@ -133,13 +140,6 @@
       "date": "2026.08.12",
       "source": "swtvnews.com",
       "thumbnail": "https://www.swtvnews.com/news/data/20260813/p1065570024363846_931_thum.jpg"
-    },
-    {
-      "title": "7개월 만에 50만개 팔린 두피 앰플…에이페, 리센느와 팬덤 확장",
-      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=476898",
-      "date": "2026.08.12",
-      "source": "pinpointnews.co.kr",
-      "thumbnail": "https://cdn.pinpointnews.co.kr/news/thumbnail/202608/476898_463895_4032_v150.jpg"
     }
   ]
 }
