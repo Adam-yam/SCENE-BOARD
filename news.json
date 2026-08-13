@@ -1,6 +1,20 @@
 {
-  "updated": "2026-08-13T22:00:42Z",
+  "updated": "2026-08-13T23:00:40Z",
   "articles": [
+    {
+      "title": "‘1박 2일’ 김종민, 거제서 ‘야호’ 외쳤지만 아재력만 들통",
+      "url": "https://www.newsen.com/news_view.php?uid=202608140753172410",
+      "date": "2026.08.13",
+      "source": "newsen.com",
+      "thumbnail": "https://photo.newsen.com/news_photo/2026/08/14/202608140753172410_1.jpg"
+    },
+    {
+      "title": "[뮤직컴퍼니100] 빅히트 뮤직 0.14%↑·JYP엔터테인먼트 0.29%↓…코르티...",
+      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16163193",
+      "date": "2026.08.13",
+      "source": "topstarnews.net",
+      "thumbnail": "https://cdn.topstarnews.net/news/photo/202608/16163193_1991470_1658_crop.jpg"
+    },
     {
       "title": "리센느, 요즘 나오는 차트마다 정상…이번엔 아차랭킹 1위",
       "url": "https://www.mydaily.co.kr/page/view/2026081316502925640",
@@ -100,13 +114,6 @@
       "thumbnail": "https://www.bntnews.co.kr/data/bnt/image/2026/08/13/bnt202608130544.jpg"
     },
     {
-      "title": "32주차 써클차트 조선힙합 선두·스트레이 키즈 4위, 레드벨벳·피철인...",
-      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16162662",
-      "date": "2026.08.13",
-      "source": "topstarnews.net",
-      "thumbnail": "https://cdn.topstarnews.net/news/photo/202608/16162662_1990759_192_crop.jpg"
-    },
-    {
       "title": "'확신의 기혼상'인데…이선민, 미혼에 엄친아였어?",
       "url": "http://www.atstar1.com/news/articleView.html?idxno=6037591",
       "date": "2026.08.13",
@@ -114,18 +121,11 @@
       "thumbnail": "https://cdn.atstar1.com/news/thumbnail/202608/6037591_115497_652_v150.jpg"
     },
     {
-      "title": "[TD영상] 이세영, '꽃미모로 전하는 축하 인사' 10주년이 된 KWDA 축하해...",
-      "url": "http://www.tvdaily.co.kr/read.php3?aid=17865962481797704003",
+      "title": "일본 여자들이 '스고이!' 외친 갤럭시 Z 폴드8의 이 기능[요즘컷]",
+      "url": "https://www.newsway.co.kr/news/view?ud=2026081311485841216",
       "date": "2026.08.13",
-      "source": "tvdaily.co.kr",
-      "thumbnail": "http://image.tvdaily.co.kr/upimages/gisaimg/202608/1786596248_1797704.png"
-    },
-    {
-      "title": "'2026 KWDA' 인기상 치열한 막판 추격전, 아일릿·에이티즈 1위 지킬까",
-      "url": "http://www.stoo.com/article.php?aid=108312472746",
-      "date": "2026.08.13",
-      "source": "stoo.com",
-      "thumbnail": null
+      "source": "newsway.co.kr",
+      "thumbnail": "https://nimage.newsway.co.kr/photo/2026/08/13/20260813000038_1200.jpg"
     },
     {
       "title": "세계 누빈 방탄·대중 홀린 리센느·Chill 스키즈…32주차 써클차트 최상...",
@@ -135,11 +135,11 @@
       "thumbnail": "https://cdn.nc.press/news/photo/202608/623564_852228_363.jpg"
     },
     {
-      "title": "일본 여자들이 '스고이!' 외친 갤럭시 Z 폴드8의 이 기능[요즘컷]",
-      "url": "https://www.newsway.co.kr/news/view?ud=2026081311485841216",
+      "title": "에이페, 걸그룹 리센느 브랜드 모델 발탁",
+      "url": "http://www.ktnews.com/news/articleView.html?idxno=147705",
       "date": "2026.08.13",
-      "source": "newsway.co.kr",
-      "thumbnail": "https://nimage.newsway.co.kr/photo/2026/08/13/20260813000038_1200.jpg"
+      "source": "ktnews.com",
+      "thumbnail": "http://www.ktnews.com/news/thumbnail/202608/147705_128636_318_v150.jpg"
     }
   ]
 }
