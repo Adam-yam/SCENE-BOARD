@@ -1,6 +1,27 @@
 {
-  "updated": "2026-08-14T05:00:38Z",
+  "updated": "2026-08-14T06:00:40Z",
   "articles": [
+    {
+      "title": "'봉화사과 맛있지만 광고 안 합니다'… 뉴욕 타임스퀘어 띄운 역발상",
+      "url": "https://www.imaeil.com/page/view/2026081414505599403",
+      "date": "2026.08.14",
+      "source": "imaeil.com",
+      "thumbnail": "https://www.imaeil.com/photos/2026/08/14/2026081414481442398_l.jpg"
+    },
+    {
+      "title": "[방송소식] 웨이브, 4년 만에 '레벨업 프로젝트' 시즌6 공개",
+      "url": "https://www.yna.co.kr/view/AKR20260814101200005?input=1195m",
+      "date": "2026.08.14",
+      "source": "yna.co.kr",
+      "thumbnail": "https://img2.yna.co.kr/etc/inner/KR/2026/08/14/AKR20260814101200005_02_i_P4.jpg"
+    },
+    {
+      "title": "[TD영상] 변요한, '10주년 KWDA 화이팅!' 연기파 배우도 기대하는 화려한...",
+      "url": "http://www.tvdaily.co.kr/read.php3?aid=17866830391797911003",
+      "date": "2026.08.14",
+      "source": "tvdaily.co.kr",
+      "thumbnail": "http://image.tvdaily.co.kr/upimages/gisaimg/202608/1786683039_1797911.png"
+    },
     {
       "title": "에이티즈vs스트레이키즈 초접전…‘2026 KWDA’ 남자 그룹 인기상 혈투",
       "url": "http://www.osen.co.kr/article/G1112857135",
@@ -41,7 +62,7 @@
       "url": "https://enter.etoday.co.kr/news/view/301045",
       "date": "2026.08.14",
       "source": "enter.etoday.co.kr",
-      "thumbnail": "https://img.etoday.co.kr/pto_db/2026/08/600/20260814115516_2373390_1200_800.jpg"
+      "thumbnail": null
     },
     {
       "title": "‘2026 케이 월드 드림 어워즈’ 남자 그룹 인기상 초접전…글로벌 팬덤...",
@@ -56,13 +77,6 @@
       "date": "2026.08.14",
       "source": "celuvmedia.com",
       "thumbnail": "http://www.celuvmedia.com/upimages/gisaimg/202608/14525776.jpg"
-    },
-    {
-      "title": "에이티즈·스트레이키즈 동률, 아홉·라이즈·앤더블 추격…'2026 KWDA' 인...",
-      "url": "http://www.tvdaily.co.kr/read.php3?aid=17866752381797856010",
-      "date": "2026.08.14",
-      "source": "tvdaily.co.kr",
-      "thumbnail": "http://image.tvdaily.co.kr/upimages/gisaimg/202608/1786674758_1797856.jpg"
     },
     {
       "title": "에이티즈vs스키즈 쫓고 쫓기는 추격전, '2026 KWDA' 인기상 투표 마지막...",
@@ -114,32 +128,18 @@
       "thumbnail": "https://www.bntnews.co.kr/data/bnt/image/2026/08/14/bnt202608140320.jpg"
     },
     {
-      "title": "바이오던스, 리센느 원이 앰버서더 발탁…콜라겐 캠페인 전개",
-      "url": "http://www.beyondpost.co.kr/view.php?ud=20260814095342851546a9e4dd7f_30",
-      "date": "2026.08.14",
-      "source": "beyondpost.co.kr",
-      "thumbnail": null
-    },
-    {
-      "title": "'장기하♥' 윤가이, 반전 일상 공개 \"사주에 물 부족해\" (전참시)",
-      "url": "http://enews.imbc.com/News/RetrieveNewsInfo/514731",
-      "date": "2026.08.14",
-      "source": "enews.imbc.com",
-      "thumbnail": "https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2026/08/14/7d808e65-263f-473b-9728-89c82a27722e.jpg"
-    },
-    {
-      "title": "도미노피자, SKT 고객 방문포장 50% 할인·적립…17일부터 5일간",
-      "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=761512",
-      "date": "2026.08.14",
-      "source": "consumernews.co.kr",
-      "thumbnail": "http://www.consumernews.co.kr/news/thumbnail/202608/761512_316583_5522_v150.jpg"
-    },
-    {
       "title": "바이오던스, 리센느 원이 앰버서더 발탁… 'My First Collagen' 캠페인",
       "url": "https://www.fashionbiz.co.kr/article/228607",
       "date": "2026.08.14",
       "source": "fashionbiz.co.kr",
       "thumbnail": "https://www.fashionbiz.co.kr/images/articleImg/mainImg/1786666251674-%EB%B0%94%EC%9D%B4%EC%98%A4%EB%8D%98%EC%8A%A4x%EB%A6%AC%EC%84%BC%EB%8A%90%20%EC%9B%90%EC%9D%B4_1.jpg"
+    },
+    {
+      "title": "리센느 원이, 바이오던스 새 얼굴 됐다…“성장 서사와 밝고 친근한 매...",
+      "url": "https://swtvnews.com/news/newsview.php?ncode=1065570507948893",
+      "date": "2026.08.13",
+      "source": "swtvnews.com",
+      "thumbnail": "https://swtvnews.com/news/data/20260814/p1065570507948893_223_thum.jpg"
     }
   ]
 }
