@@ -1,19 +1,26 @@
 {
-  "updated": "2026-08-15T10:00:36Z",
+  "updated": "2026-08-15T11:00:42Z",
   "articles": [
+    {
+      "title": "리센느 제나, 그룹 내 꼰대 폭로…원이 \"너 몇 년생이야\" 샤우팅('놀토'...",
+      "url": "http://www.celuvmedia.com/article.php?aid=1786791382525840010",
+      "date": "2026.08.15",
+      "source": "celuvmedia.com",
+      "thumbnail": "http://www.celuvmedia.com/upimages/gisaimg/202608/1786791382_525840.jpg"
+    },
+    {
+      "title": "'놀라운 토요일' 평택 지산동 맛집, 물회 횟집 & 생망고자몽요거트 디저...",
+      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16163943",
+      "date": "2026.08.15",
+      "source": "topstarnews.net",
+      "thumbnail": "https://cdn.topstarnews.net/news/photo/202608/16163943_1992474_1447_crop.jpg"
+    },
     {
       "title": "리센느, 섭외 못해서 안달인데..막상 나왔더니 토크 금지령(놀토)",
       "url": "http://www.osen.co.kr/article/G1112857884",
       "date": "2026.08.15",
       "source": "osen.co.kr",
       "thumbnail": "http://file.osen.co.kr/article_thumb/2026/08/15/202608151814774846_6a802e2f4a928_300x.jpg"
-    },
-    {
-      "title": "리센느, 방송출연 없이 'Pretty Girl' 1위…데뷔 첫 트리플 크라운('음악...",
-      "url": "http://www.celuvmedia.com/article.php?aid=1786779917525834007",
-      "date": "2026.08.15",
-      "source": "celuvmedia.com",
-      "thumbnail": "http://www.celuvmedia.com/upimages/gisaimg/202608/1786779917_525834.jpg"
     },
     {
       "title": "리센느, 출연 없이 '쇼! 음악중심' 1위 수성 [TV캡처]",
@@ -72,13 +79,6 @@
       "thumbnail": "https://cdn.gpkorea.com/news/photo/202608/145700_309455_4054.jpg"
     },
     {
-      "title": "조유리 \"윤가이는 나의 첫 연기 선생님\"…10년 우정 고교 연극부 추억 소...",
-      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16164366",
-      "date": "2026.08.15",
-      "source": "topstarnews.net",
-      "thumbnail": "https://cdn.topstarnews.net/news/photo/202608/16164366_1992865_3455_crop.jpg"
-    },
-    {
       "title": "리센느 원이, 꼰대력 발산 “너 지금 몇 년생이야?” (놀토)",
       "url": "https://sports.donga.com/ent/article/all/20260815/134483107/1",
       "date": "2026.08.15",
@@ -98,20 +98,6 @@
       "date": "2026.08.15",
       "source": "mediafine.co.kr",
       "thumbnail": "https://cdn.mediafine.co.kr/news/photo/202608/86782_124373_229.jpeg"
-    },
-    {
-      "title": "리센느 '놀토' 출격…04년생 원이, 막내 제나에 \"너 몇년생이야\"",
-      "url": "https://www.news1.kr/entertain/broadcast-tv/6260149",
-      "date": "2026.08.15",
-      "source": "news1.kr",
-      "thumbnail": null
-    },
-    {
-      "title": "'이동하♥' 걸스데이 소진, 알고보니 본식 웨딩드레스 30만원 \"청첩장 직...",
-      "url": "http://www.osen.co.kr/article/G1112857741",
-      "date": "2026.08.15",
-      "source": "osen.co.kr",
-      "thumbnail": "http://file.osen.co.kr/article_thumb/2026/08/15/202608151021779305_6a7fc26e36681_300x.jpeg"
     },
     {
       "title": "리센느 원이, 막내 제나에 “몇 년생이야”…꼰대력 폭발",
@@ -140,6 +126,20 @@
       "date": "2026.08.14",
       "source": "etoday.co.kr",
       "thumbnail": "https://img.etoday.co.kr/pto_db/2026/08/20260814161944_2373607_1110_620.jpeg"
+    },
+    {
+      "title": "바이오던스, 리센느 원이와 '첫 콜라겐 루틴' 메시지 확장",
+      "url": "http://www.ktnews.com/news/articleView.html?idxno=147722",
+      "date": "2026.08.14",
+      "source": "ktnews.com",
+      "thumbnail": "http://www.ktnews.com/news/thumbnail/202608/147722_128665_2115_v150.jpg"
+    },
+    {
+      "title": "Rescene gives Manchester City a K-pop lesson",
+      "url": "https://www.koreaherald.com/article/10841718?ref=naver",
+      "date": "2026.08.14",
+      "source": "koreaherald.com",
+      "thumbnail": null
     }
   ]
 }
