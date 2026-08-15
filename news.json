@@ -1,6 +1,13 @@
 {
-  "updated": "2026-08-15T03:00:40Z",
+  "updated": "2026-08-15T04:00:37Z",
   "articles": [
+    {
+      "title": "리센느 원이, 꼰대력 발산 “너 지금 몇 년생이야?” (놀토)",
+      "url": "https://sports.donga.com/ent/article/all/20260815/134483107/1",
+      "date": "2026.08.15",
+      "source": "sports.donga.com",
+      "thumbnail": "https://dimg.donga.com/wps/SPORTS/IMAGE/2026/08/15/134483103.1.jpg"
+    },
     {
       "title": "홍현희 하와이행, 알고 보니 송은이 ‘용돈’ 있었다 “부담 많이 됐니...",
       "url": "https://www.newsen.com/news_view.php?uid=202608150737262110",
@@ -100,13 +107,6 @@
       "thumbnail": "https://image.xportsnews.com/contents/images/upload/article/2026/0814/1786701974015559.webp"
     },
     {
-      "title": "\"가슴 아프다\" 김선태, 독립유공자 후손에 1000만원 기부",
-      "url": "http://www.fnnews.com/news/202608142222381377",
-      "date": "2026.08.14",
-      "source": "fnnews.com",
-      "thumbnail": "https://image.fnnews.com/resource/media/image/2026/08/14/202608142224078389_l.jpg"
-    },
-    {
       "title": "리센느, 맨시티 유니폼 입자마자 ‘러브 어택’…상큼발랄 비주얼 폭발",
       "url": "https://www.sportsseoul.com/news/read/1628733?ref=naver",
       "date": "2026.08.14",
@@ -139,7 +139,7 @@
       "url": "https://www.koreaherald.com/article/10841718?ref=naver",
       "date": "2026.08.14",
       "source": "koreaherald.com",
-      "thumbnail": null
+      "thumbnail": "https://wimg.heraldcorp.com/news/cms/2026/08/14/news-p.v1.20260814.a6a8d58043ec4c6e8feb044fa798dd59_T1.jpg"
     }
   ]
 }
