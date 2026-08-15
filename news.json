@@ -1,6 +1,13 @@
 {
-  "updated": "2026-08-15T09:00:51Z",
+  "updated": "2026-08-15T10:00:36Z",
   "articles": [
+    {
+      "title": "리센느, 섭외 못해서 안달인데..막상 나왔더니 토크 금지령(놀토)",
+      "url": "http://www.osen.co.kr/article/G1112857884",
+      "date": "2026.08.15",
+      "source": "osen.co.kr",
+      "thumbnail": "http://file.osen.co.kr/article_thumb/2026/08/15/202608151814774846_6a802e2f4a928_300x.jpg"
+    },
     {
       "title": "리센느, 방송출연 없이 'Pretty Girl' 1위…데뷔 첫 트리플 크라운('음악...",
       "url": "http://www.celuvmedia.com/article.php?aid=1786779917525834007",
@@ -107,13 +114,6 @@
       "thumbnail": "http://file.osen.co.kr/article_thumb/2026/08/15/202608151021779305_6a7fc26e36681_300x.jpeg"
     },
     {
-      "title": "‘놀라운토요일’ 리센느 원이x리브x제나 출격",
-      "url": "https://www.bntnews.co.kr/article/view/bnt202608150094",
-      "date": "2026.08.15",
-      "source": "bntnews.co.kr",
-      "thumbnail": "https://www.bntnews.co.kr/data/bnt/image/2026/08/15/bnt202608150161.jpg"
-    },
-    {
       "title": "리센느 원이, 막내 제나에 “몇 년생이야”…꼰대력 폭발",
       "url": "https://sports.donga.com/ent/article/all/20260815/134482972/1",
       "date": "2026.08.15",
@@ -125,7 +125,7 @@
       "url": "https://www.sportsseoul.com/news/read/1628733?ref=naver",
       "date": "2026.08.14",
       "source": "sportsseoul.com",
-      "thumbnail": "https://file.sportsseoul.com/news/cms/2026/08/14/news-a.v1.20260814.2731e84de2d64043992c6ecfe618e566_T1.png"
+      "thumbnail": null
     },
     {
       "title": "미나미부터 장원영까지, 아이돌들이 빠진 사이드 메시번",
