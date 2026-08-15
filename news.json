@@ -1,6 +1,20 @@
 {
-  "updated": "2026-08-15T04:00:37Z",
+  "updated": "2026-08-15T05:00:41Z",
   "articles": [
+    {
+      "title": "대세 걸그룹 리센느, '놀라운 토요일' 무대서 예능 본능 폭발",
+      "url": "https://www.gpkorea.com/news/articleView.html?idxno=145700",
+      "date": "2026.08.15",
+      "source": "gpkorea.com",
+      "thumbnail": "https://cdn.gpkorea.com/news/photo/202608/145700_309455_4054.jpg"
+    },
+    {
+      "title": "조유리 \"윤가이는 나의 첫 연기 선생님\"…10년 우정 고교 연극부 추억 소...",
+      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16164366",
+      "date": "2026.08.15",
+      "source": "topstarnews.net",
+      "thumbnail": "https://cdn.topstarnews.net/news/photo/202608/16164366_1992865_3455_crop.jpg"
+    },
     {
       "title": "리센느 원이, 꼰대력 발산 “너 지금 몇 년생이야?” (놀토)",
       "url": "https://sports.donga.com/ent/article/all/20260815/134483107/1",
@@ -20,7 +34,7 @@
       "url": "http://www.tvdaily.co.kr/read.php3?aid=17867596741797972003",
       "date": "2026.08.15",
       "source": "tvdaily.co.kr",
-      "thumbnail": "http://image.tvdaily.co.kr/upimages/gisaimg/202608/1786759674_1797972.png"
+      "thumbnail": null
     },
     {
       "title": "04년생 리센느 원이, 막내 제나에 \"몇 년생이야?\" 꼰대짓",
@@ -72,13 +86,6 @@
       "thumbnail": "https://cdn.slist.kr/news/thumbnail/202608/758994_1163014_1017_v150.jpg"
     },
     {
-      "title": "리센느 제나, \"너 지금 몇 년생이야\"…'놀토'에서 막내 답 없는 속마음...",
-      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16164301",
-      "date": "2026.08.15",
-      "source": "topstarnews.net",
-      "thumbnail": "https://cdn.topstarnews.net/news/photo/202608/16164301_1992761_615_crop.jpg"
-    },
-    {
       "title": "김용빈 VS 박서진, 트로트 강자끼리 맞대결…8월 '아티스트탑텐 K-팝 장...",
       "url": "https://www.tenasia.co.kr/article/2026081407834",
       "date": "2026.08.15",
@@ -93,20 +100,6 @@
       "thumbnail": null
     },
     {
-      "title": "이동하, ♥소진과 '초절약 결혼' 꿀팁 공개 \"30만 원대 드레스+쓰던 가구...",
-      "url": "https://www.sportschosun.com/entertainment/2026-08-15/202608150100088560005602",
-      "date": "2026.08.14",
-      "source": "sportschosun.com",
-      "thumbnail": "https://www.sportschosun.com/article/html/2026/08/15/2026081501000885600056021.jpg"
-    },
-    {
-      "title": "홍현희, 리센느 보며 울컥…\"잘되려고 했던 우리의 옛날 모습 생각나\" (...",
-      "url": "https://www.xportsnews.com/article/2183844",
-      "date": "2026.08.14",
-      "source": "xportsnews.com",
-      "thumbnail": "https://image.xportsnews.com/contents/images/upload/article/2026/0814/1786701974015559.webp"
-    },
-    {
       "title": "리센느, 맨시티 유니폼 입자마자 ‘러브 어택’…상큼발랄 비주얼 폭발",
       "url": "https://www.sportsseoul.com/news/read/1628733?ref=naver",
       "date": "2026.08.14",
@@ -118,7 +111,7 @@
       "url": "https://www.harpersbazaar.co.kr/article/1907996",
       "date": "2026.08.14",
       "source": "harpersbazaar.co.kr",
-      "thumbnail": "https://www.harpersbazaar.co.kr/resources/online/thumbnail/hf/2026/08/14/52ecadb8-5a58-4d08-9e96-0fcc6ec1c297.jpg"
+      "thumbnail": null
     },
     {
       "title": "미나미 첫 시구에 日 가족도 부산행⋯\"사직 열기 대단해\"",
@@ -140,6 +133,13 @@
       "date": "2026.08.14",
       "source": "koreaherald.com",
       "thumbnail": "https://wimg.heraldcorp.com/news/cms/2026/08/14/news-p.v1.20260814.a6a8d58043ec4c6e8feb044fa798dd59_T1.jpg"
+    },
+    {
+      "title": "[이번주 뭐보지] 가요대전·나만의 아이 등 예능&스포츠 공개",
+      "url": "https://www.newscj.com/news/articleView.html?idxno=3425106",
+      "date": "2026.08.14",
+      "source": "newscj.com",
+      "thumbnail": "https://cdn.newscj.com/news/thumbnail/202608/3425106_3537223_1235_v150.jpg"
     }
   ]
 }
