@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16T06:10:28Z",
+  "updated": "2026-08-16T07:10:23Z",
   "videos": [
     {
       "id": "qHIW70JZwsQ",
@@ -50,6 +50,14 @@
       "type": "long"
     },
     {
+      "id": "k1WgN5t8BCs",
+      "title": "#TAEYEON #GirlsGeneration 선배님과 어디서나 당당하게 걷기 🎀",
+      "url": "https://www.youtube.com/shorts/k1WgN5t8BCs",
+      "thumbnail": "https://i.ytimg.com/vi/k1WgN5t8BCs/mqdefault.jpg",
+      "date": "2026.08.16",
+      "type": "short"
+    },
+    {
       "id": "mYPwa8wufbU",
       "title": "#YoungK 선배님과 어디서나 당당하게 걷기 🎀",
       "url": "https://www.youtube.com/shorts/mYPwa8wufbU",
@@ -86,14 +94,6 @@
       "title": "😉💛",
       "url": "https://www.youtube.com/shorts/4JGsHqPE5dc",
       "thumbnail": "https://i.ytimg.com/vi/4JGsHqPE5dc/mqdefault.jpg",
-      "date": "2026.08.10",
-      "type": "short"
-    },
-    {
-      "id": "i_shJetSp-o",
-      "title": "바이바이바이올린 🎻",
-      "url": "https://www.youtube.com/shorts/i_shJetSp-o",
-      "thumbnail": "https://i.ytimg.com/vi/i_shJetSp-o/mqdefault.jpg",
       "date": "2026.08.10",
       "type": "short"
     }
