@@ -1,32 +1,25 @@
 {
-  "updated": "2026-08-16T08:00:40Z",
+  "updated": "2026-08-16T09:00:43Z",
   "articles": [
     {
-      "title": "AI도 작성 거부한 ‘이진숙 5·18 포럼’…“설움 당해” 농담까지",
+      "title": "리센느, 개인 휴대전화 없어…“한눈팔면 큰일”",
+      "url": "https://www.segye.com/newsView/20260816510735?OutUrl=naver",
+      "date": "2026.08.16",
+      "source": "segye.com",
+      "thumbnail": "https://www.segye.com/content/image/2026/08/16/20260816511076.jpg"
+    },
+    {
+      "title": "AI도 작성 거부한 ‘이진숙 5·18 포럼’…“호남에 이렇게 부정적” 이...",
       "url": "https://www.hani.co.kr/arti/politics/politics_general/1273128.html",
       "date": "2026.08.16",
       "source": "hani.co.kr",
-      "thumbnail": "https://flexible.img.hani.co.kr/flexible/normal/902/541/imgdb/original/2026/0816/20260816501559.webp"
+      "thumbnail": null
     },
     {
       "title": "“국민 걸그룹이 만났다” 리센느 원이X소녀시대 태연 깜짝 ‘프리티걸...",
       "url": "https://sports.khan.co.kr/article/202608161639003?pt=nv",
       "date": "2026.08.16",
       "source": "sports.khan.co.kr",
-      "thumbnail": null
-    },
-    {
-      "title": "'인기가요' 리센느, 이번엔 '러브 어택'이다…1위 추가요 [TV캡처]",
-      "url": "http://www.stoo.com/article.php?aid=108357156626",
-      "date": "2026.08.16",
-      "source": "stoo.com",
-      "thumbnail": "https://www.stoo.com/upimages/gisaimg/202608/16_1083571_56626.jpg"
-    },
-    {
-      "title": "리센느, 출연 없이도 '인기가요' 1위..대세 걸그룹 입증",
-      "url": "https://www.starnewskorea.com/music/2026/08/16/2026081616195548868",
-      "date": "2026.08.16",
-      "source": "starnewskorea.com",
       "thumbnail": null
     },
     {
@@ -37,7 +30,21 @@
       "thumbnail": "http://www.celuvmedia.com/upimages/gisaimg/202608/1786865195_525857.jpg"
     },
     {
-      "title": "리센느, ‘프리티 걸’로 음악방송 네 번째 1위…트로피 5개로 늘어",
+      "title": "리센느, 출연 없이도 '인기가요' 1위..대세 걸그룹 입증",
+      "url": "https://www.starnewskorea.com/music/2026/08/16/2026081616195548868",
+      "date": "2026.08.16",
+      "source": "starnewskorea.com",
+      "thumbnail": null
+    },
+    {
+      "title": "'인기가요' 리센느, 이번엔 '러브 어택'이다…1위 추가요 [TV캡처]",
+      "url": "http://www.stoo.com/article.php?aid=108357156626",
+      "date": "2026.08.16",
+      "source": "stoo.com",
+      "thumbnail": "https://www.stoo.com/upimages/gisaimg/202608/16_1083571_56626.jpg"
+    },
+    {
+      "title": "리센느, '러브 어택'·프리티 걸’로 음악방송 잇따라 1위…'트로프 6개...",
       "url": "http://www.yonhapnewstv.co.kr/news/AKR20260816162213pGS",
       "date": "2026.08.16",
       "source": "yonhapnewstv.co.kr",
@@ -55,7 +62,7 @@
       "url": "https://mhnse.com/news/articleView.html?idxno=1492030",
       "date": "2026.08.16",
       "source": "mhnse.com",
-      "thumbnail": "https://contents-cdn.viewus.co.kr/creator-cms/image/2026/08/dbea943d-0ead-40bd-83bd-6859f669ea5c.jpg"
+      "thumbnail": null
     },
     {
       "title": "리센느, ‘프리티 걸’로 음방 4관왕 달성..‘5세대 대세 걸그룹’다운...",
@@ -111,7 +118,7 @@
       "url": "https://www.elle.co.kr/article/1908011",
       "date": "2026.08.16",
       "source": "elle.co.kr",
-      "thumbnail": null
+      "thumbnail": "https://www.elle.co.kr/resources/online/thumbnail/hf/2026/08/16/673b7a6d-814d-42ef-b786-f26a7c4affbb.jpg"
     },
     {
       "title": "RESCENE、「Pretty Girl」で音楽番組4冠 「ショー！音楽中心」3度目の1位",
@@ -133,13 +140,6 @@
       "date": "2026.08.16",
       "source": "sportsworldi.com",
       "thumbnail": "https://www.sportsworldi.com/content/image/2026/08/16/20260816505425.jpg"
-    },
-    {
-      "title": "BTS 진과 참치 먹고 리센느 원이와 피부 가꿔볼까[유통가 새 얼굴]",
-      "url": "https://www.newsis.com/view/NISX20260814_0003750289",
-      "date": "2026.08.16",
-      "source": "newsis.com",
-      "thumbnail": "https://img1.newsis.com/2026/08/13/NISI20260813_0002211288_web.jpg"
     }
   ]
 }
