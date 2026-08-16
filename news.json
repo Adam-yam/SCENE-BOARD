@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16T20:00:49Z",
+  "updated": "2026-08-16T21:00:43Z",
   "articles": [
     {
       "title": "코르티스, 'REDRED' 창작력 빛났다…음악소비가 브랜드가치 견인",
@@ -27,7 +27,7 @@
       "url": "https://www.segye.com/newsView/20260816510735?OutUrl=naver",
       "date": "2026.08.16",
       "source": "segye.com",
-      "thumbnail": null
+      "thumbnail": "https://www.segye.com/content/image/2026/08/16/20260816511076.jpg"
     },
     {
       "title": "AI도 작성 거부한 ‘이진숙 5·18 포럼’…“이걸론 못 만들어”",
@@ -62,7 +62,7 @@
       "url": "http://www.stoo.com/article.php?aid=108357156626",
       "date": "2026.08.16",
       "source": "stoo.com",
-      "thumbnail": null
+      "thumbnail": "https://www.stoo.com/upimages/gisaimg/202608/16_1083571_56626.jpg"
     },
     {
       "title": "리센느, '러브 어택'·프리티 걸’로 음악방송 잇따라 1위…'트로프 6개...",
@@ -79,18 +79,18 @@
       "thumbnail": "https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2026/08/16/8bd4726b-b33f-403a-9c90-dd292c889898.jpg"
     },
     {
-      "title": "리센느 원이, 장원영·제니 제쳤다…8월 걸그룹 개인 브랜드평판 '1위' ...",
-      "url": "https://mhnse.com/news/articleView.html?idxno=1492030",
-      "date": "2026.08.16",
-      "source": "mhnse.com",
-      "thumbnail": "https://contents-cdn.viewus.co.kr/creator-cms/image/2026/08/dbea943d-0ead-40bd-83bd-6859f669ea5c.jpg"
-    },
-    {
       "title": "리센느, ‘프리티 걸’로 음방 4관왕 달성..‘5세대 대세 걸그룹’다운...",
       "url": "http://www.breaknews.com/1229314",
       "date": "2026.08.16",
       "source": "breaknews.com",
       "thumbnail": "https://www.breaknews.com/imgdata/breaknews_com/202608/2026081014324448.jpg"
+    },
+    {
+      "title": "리센느 원이, 장원영·제니 제쳤다…8월 걸그룹 개인 브랜드평판 '1위' ...",
+      "url": "https://mhnse.com/news/articleView.html?idxno=1492030",
+      "date": "2026.08.16",
+      "source": "mhnse.com",
+      "thumbnail": "https://contents-cdn.viewus.co.kr/creator-cms/image/2026/08/dbea943d-0ead-40bd-83bd-6859f669ea5c.jpg"
     },
     {
       "title": "리센느 원이 1위, 8월 걸그룹 개인 브랜드평판 정상..2위 아이브 장원영",
