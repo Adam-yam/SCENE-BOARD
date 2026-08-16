@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16T19:00:43Z",
+  "updated": "2026-08-16T20:00:49Z",
   "articles": [
     {
       "title": "코르티스, 'REDRED' 창작력 빛났다…음악소비가 브랜드가치 견인",
@@ -27,7 +27,7 @@
       "url": "https://www.segye.com/newsView/20260816510735?OutUrl=naver",
       "date": "2026.08.16",
       "source": "segye.com",
-      "thumbnail": "https://www.segye.com/content/image/2026/08/16/20260816511076.jpg"
+      "thumbnail": null
     },
     {
       "title": "AI도 작성 거부한 ‘이진숙 5·18 포럼’…“이걸론 못 만들어”",
@@ -51,17 +51,17 @@
       "thumbnail": "http://www.celuvmedia.com/upimages/gisaimg/202608/1786865195_525857.jpg"
     },
     {
-      "title": "'인기가요' 리센느, 이번엔 '러브 어택'이다…1위 추가요 [TV캡처]",
-      "url": "http://www.stoo.com/article.php?aid=108357156626",
-      "date": "2026.08.16",
-      "source": "stoo.com",
-      "thumbnail": "https://www.stoo.com/upimages/gisaimg/202608/16_1083571_56626.jpg"
-    },
-    {
       "title": "리센느, 출연 없이도 '인기가요' 1위..대세 걸그룹 입증",
       "url": "https://www.starnewskorea.com/music/2026/08/16/2026081616195548868",
       "date": "2026.08.16",
       "source": "starnewskorea.com",
+      "thumbnail": null
+    },
+    {
+      "title": "'인기가요' 리센느, 이번엔 '러브 어택'이다…1위 추가요 [TV캡처]",
+      "url": "http://www.stoo.com/article.php?aid=108357156626",
+      "date": "2026.08.16",
+      "source": "stoo.com",
       "thumbnail": null
     },
     {
@@ -90,14 +90,14 @@
       "url": "http://www.breaknews.com/1229314",
       "date": "2026.08.16",
       "source": "breaknews.com",
-      "thumbnail": null
+      "thumbnail": "https://www.breaknews.com/imgdata/breaknews_com/202608/2026081014324448.jpg"
     },
     {
       "title": "리센느 원이 1위, 8월 걸그룹 개인 브랜드평판 정상..2위 아이브 장원영",
       "url": "http://www.breaknews.com/1229313",
       "date": "2026.08.16",
       "source": "breaknews.com",
-      "thumbnail": null
+      "thumbnail": "https://www.breaknews.com/imgdata/breaknews_com/202608/2026080545441448.jpg"
     },
     {
       "title": "[TD영상] 서은수, '숏단발 귀여움 가득 비주얼로 전하는 축하 인...",
