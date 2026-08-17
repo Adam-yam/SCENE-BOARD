@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T14:00:44Z",
+  "updated": "2026-08-17T15:00:42Z",
   "articles": [
     {
       "title": "리센느, '쇼! 음악중심' 이어 '인기가요'도 1위…음악방송 6관왕",
@@ -90,7 +90,7 @@
       "url": "http://www.stoo.com/article.php?aid=108361083990",
       "date": "2026.08.17",
       "source": "stoo.com",
-      "thumbnail": "https://www.stoo.com/upimages/gisaimg/202608/1786933079_20260715175206-2399.jpg"
+      "thumbnail": null
     },
     {
       "title": "리센느, '인기가요' 또 1위…\"'러브어택' 열풍 식지 않는다\"",
@@ -105,6 +105,13 @@
       "date": "2026.08.17",
       "source": "gpkorea.com",
       "thumbnail": "https://cdn.gpkorea.com/news/photo/202608/145722_309480_143.jpg"
+    },
+    {
+      "title": "리센느 대세 행보 어디까지? 역주행 '러브어택' 통산 2번째 1위 트로피",
+      "url": "https://www.mydaily.co.kr/page/view/2026081710003567130",
+      "date": "2026.08.17",
+      "source": "mydaily.co.kr",
+      "thumbnail": "https://mydaily.co.kr/photos/2026/08/17/2026081709523606786_l.jpg"
     },
     {
       "title": "리센느, ‘러브 어택’으로 음방 1위 행진",
@@ -133,13 +140,6 @@
       "date": "2026.08.16",
       "source": "osen.co.kr",
       "thumbnail": "http://file.osen.co.kr/article_thumb/2026/08/17/202608170849775884_6a824db9c0ae7_300x.jpg"
-    },
-    {
-      "title": "“국민 걸그룹이 만났다” 리센느 원이X소녀시대 태연 깜짝 ‘프리티걸...",
-      "url": "https://sports.khan.co.kr/article/202608161639003?pt=nv",
-      "date": "2026.08.16",
-      "source": "sports.khan.co.kr",
-      "thumbnail": null
     }
   ]
 }
