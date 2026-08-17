@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T11:00:41Z",
+  "updated": "2026-08-17T12:00:49Z",
   "articles": [
     {
       "title": "[콘텐츠큐레이션]설산 등반부터 축구, 야구까지… 몸으로 부딪치는 3선",
@@ -34,7 +34,7 @@
       "url": "https://www.heraldmuse.com/article/10843065?ref=naver",
       "date": "2026.08.17",
       "source": "heraldmuse.com",
-      "thumbnail": "https://wimg.heraldcorp.com/news/cms/2026/08/17/news-p.v1.20260817.58950b08abea499f951ad082bd7fbcb7_T1.png"
+      "thumbnail": null
     },
     {
       "title": "'대세' 리센느, 역주행 곡 '러브 어택'으로 '인기가요' 또 1위",
@@ -83,7 +83,7 @@
       "url": "http://www.stoo.com/article.php?aid=108361083990",
       "date": "2026.08.17",
       "source": "stoo.com",
-      "thumbnail": "https://www.stoo.com/upimages/gisaimg/202608/1786933079_20260715175206-2399.jpg"
+      "thumbnail": null
     },
     {
       "title": "리센느, '인기가요' 또 1위…\"'러브어택' 열풍 식지 않는다\"",
@@ -100,18 +100,18 @@
       "thumbnail": "https://cdn.gpkorea.com/news/photo/202608/145722_309480_143.jpg"
     },
     {
-      "title": "리센느 대세 행보 어디까지? 역주행 '러브어택' 통산 2번째 1위 트로피",
-      "url": "https://www.mydaily.co.kr/page/view/2026081710003567130",
-      "date": "2026.08.17",
-      "source": "mydaily.co.kr",
-      "thumbnail": "https://mydaily.co.kr/photos/2026/08/17/2026081709523606786_l.jpg"
-    },
-    {
       "title": "리센느, ‘러브 어택’으로 음방 1위 행진",
       "url": "https://www.bntnews.co.kr/article/view/bnt202608170110",
       "date": "2026.08.17",
       "source": "bntnews.co.kr",
       "thumbnail": "https://www.bntnews.co.kr/data/bnt/image/2026/08/17/bnt202608170188.jpg"
+    },
+    {
+      "title": "리센느 대세 행보 어디까지? 역주행 '러브어택' 통산 2번째 1위 트로피",
+      "url": "https://www.mydaily.co.kr/page/view/2026081710003567130",
+      "date": "2026.08.17",
+      "source": "mydaily.co.kr",
+      "thumbnail": "https://mydaily.co.kr/photos/2026/08/17/2026081709523606786_l.jpg"
     },
     {
       "title": "리센느, '인기가요'서 또 1위⋯음악방송 6번째 트로피 수집",
