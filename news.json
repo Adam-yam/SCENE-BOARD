@@ -1,6 +1,13 @@
 {
-  "updated": "2026-08-18T09:00:38Z",
+  "updated": "2026-08-18T10:00:39Z",
   "articles": [
+    {
+      "title": "[TD영상] 미야오, KWDA 10주년 무대를 더 화려하게~ '등장만으로 후끈하...",
+      "url": "http://www.tvdaily.co.kr/read.php3?aid=17870448661798198003",
+      "date": "2026.08.18",
+      "source": "tvdaily.co.kr",
+      "thumbnail": "http://image.tvdaily.co.kr/upimages/gisaimg/202608/1787044866_1798198.png"
+    },
     {
       "title": "할리스, 창사 28년 만에 첫 브랜드 모델…걸그룹 '리센느' 발탁",
       "url": "http://www.youngnong.co.kr/news/articleView.html?idxno=61634",
@@ -62,7 +69,7 @@
       "url": "http://www.lawissue.co.kr/view.php?ud=202608181615419515204ead0791_12",
       "date": "2026.08.18",
       "source": "lawissue.co.kr",
-      "thumbnail": "https://cliimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=20260818161603069790204ead079118023320059.jpg&nmt=12"
+      "thumbnail": null
     },
     {
       "title": "[프랜차이즈 Pick] 여름 소비 겨냥한 메뉴·협업 선봬",
@@ -133,13 +140,6 @@
       "date": "2026.08.18",
       "source": "insight.co.kr",
       "thumbnail": "https://img.insight.co.kr/static/2026/08/18/1200/img_20260818142134_z8whuxw3.jpg"
-    },
-    {
-      "title": "리센느 향기로 물든 LA…KCON 현장 분위기 어땠나",
-      "url": "http://www.osen.co.kr/article/G1112859210",
-      "date": "2026.08.18",
-      "source": "osen.co.kr",
-      "thumbnail": "http://file.osen.co.kr/article_thumb/2026/08/18/202608181426772093_6a83ef2a65668_300x.jpg"
     }
   ]
 }
