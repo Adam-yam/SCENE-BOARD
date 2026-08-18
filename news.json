@@ -1,19 +1,61 @@
 {
-  "updated": "2026-08-18T06:00:43Z",
+  "updated": "2026-08-18T07:00:39Z",
   "articles": [
+    {
+      "title": "딘딘, 무더위에 문세윤에게 딱 붙었다...\"옆에 있으면 햇빛 안 와\"",
+      "url": "https://www.insight.co.kr/news/568649",
+      "date": "2026.08.18",
+      "source": "insight.co.kr",
+      "thumbnail": "https://img.insight.co.kr/static/2026/08/18/1200/img_20260818102336_3614mmfs.jpg"
+    },
+    {
+      "title": "우즈·주헌·엑디즈까지…'AAA 2026' 라인업 추가 공개",
+      "url": "http://www.atstar1.com/news/articleView.html?idxno=6037733",
+      "date": "2026.08.18",
+      "source": "atstar1.com",
+      "thumbnail": "https://cdn.atstar1.com/news/thumbnail/202608/6037733_115787_4821_v150.jpg"
+    },
+    {
+      "title": "미나미 ‘파라파라’ 췄던 “거제 야호” 그 바다, 흙탕물에 초토화됐다",
+      "url": "https://www.seoul.co.kr/news/society/2026/08/18/20260818500168?wlog_tag3=naver",
+      "date": "2026.08.18",
+      "source": "seoul.co.kr",
+      "thumbnail": "https://img.seoul.co.kr//img/upload/2026/08/18/SSC_20260818154413_O2.jpg"
+    },
+    {
+      "title": "[뷰티 트렌드] 바이오던스, 리센느 원이 앰버서더 발탁…'My First Collagen...",
+      "url": "https://www.ibabynews.com/news/articleView.html?idxno=153760",
+      "date": "2026.08.18",
+      "source": "ibabynews.com",
+      "thumbnail": "https://www.ibabynews.com/news/photo/202608/153760_119745_533.jpg"
+    },
+    {
+      "title": "할리스, 대세 아이돌 '리센느' 잡았다…창사 28년 만에 첫 모델 발탁",
+      "url": "http://www.inews24.com/view/1995887",
+      "date": "2026.08.18",
+      "source": "inews24.com",
+      "thumbnail": "https://image.inews24.com/v1/3fc56d3e1de2de.jpg"
+    },
+    {
+      "title": "엑디즈·우즈→트리플에스 합류…‘아시아 아티스트 어워즈’ 출연 라인...",
+      "url": "https://swtvnews.com/news/newsview.php?ncode=1065591721896156",
+      "date": "2026.08.18",
+      "source": "swtvnews.com",
+      "thumbnail": "https://swtvnews.com/news/data/20260818/p1065591721896156_820_thum.jpg"
+    },
+    {
+      "title": "윤일상, '중소의 기적' 리센느에 입덕 \"공짜로 작업해 드리겠습니다\" [마...",
+      "url": "https://www.mydaily.co.kr/page/view/2026081316030535870",
+      "date": "2026.08.18",
+      "source": "mydaily.co.kr",
+      "thumbnail": "https://mydaily.co.kr/photos/2026/08/13/2026081316004138902_l.jpg"
+    },
     {
       "title": "\"28년 만에 첫 얼굴\"... 대세 걸그룹 리센느, 할리스 1호 모델 됐다",
       "url": "https://www.insight.co.kr/news/568704",
       "date": "2026.08.18",
       "source": "insight.co.kr",
       "thumbnail": "https://img.insight.co.kr/static/2026/08/18/1200/img_20260818142134_z8whuxw3.jpg"
-    },
-    {
-      "title": "리센느 향기로 물든 LA…KCON 현장 분위기 어땠나",
-      "url": "http://www.osen.co.kr/article/G1112859210",
-      "date": "2026.08.18",
-      "source": "osen.co.kr",
-      "thumbnail": "http://file.osen.co.kr/article_thumb/2026/08/18/202608181426772093_6a83ef2a65668_300x.jpg"
     },
     {
       "title": "BGF리테일, 폭우 피해 거제 지역 긴급 구호물품 지원",
@@ -23,11 +65,11 @@
       "thumbnail": "https://www.sentv.co.kr/data/sentv/image/2026/08/18/sentv20260818000116.jpg"
     },
     {
-      "title": "송진우 \"BTS 정국 제쳐\" 공항 뒤집은 파격 패션",
-      "url": "https://www.mediafine.co.kr/news/articleView.html?idxno=87112",
+      "title": "리센느 향기로 물든 LA…KCON 현장 분위기 어땠나",
+      "url": "http://www.osen.co.kr/article/G1112859210",
       "date": "2026.08.18",
-      "source": "mediafine.co.kr",
-      "thumbnail": "https://cdn.mediafine.co.kr/news/photo/202608/87112_124799_3528.jpg"
+      "source": "osen.co.kr",
+      "thumbnail": "http://file.osen.co.kr/article_thumb/2026/08/18/202608181426772093_6a83ef2a65668_300x.jpg"
     },
     {
       "title": "'거제 야호' 해외까지 퍼졌다...리센느 타고 외국인 관광객 관심↑",
@@ -35,6 +77,13 @@
       "date": "2026.08.18",
       "source": "nc.press",
       "thumbnail": "https://cdn.nc.press/news/photo/202608/623999_853373_2750.jpg"
+    },
+    {
+      "title": "송진우 \"BTS 정국 제쳐\" 공항 뒤집은 파격 패션",
+      "url": "https://www.mediafine.co.kr/news/articleView.html?idxno=87112",
+      "date": "2026.08.18",
+      "source": "mediafine.co.kr",
+      "thumbnail": "https://cdn.mediafine.co.kr/news/photo/202608/87112_124799_3528.jpg"
     },
     {
       "title": "\"리센느도 응원”...K중기 제품 미국서 완판 릴레이",
@@ -91,55 +140,6 @@
       "date": "2026.08.18",
       "source": "stardailynews.co.kr",
       "thumbnail": "https://cdn.stardailynews.co.kr/news/thumbnail/202608/546250_578443_1132_v150.jpg"
-    },
-    {
-      "title": "\"너무 예쁘다\"...리센느 원이·미나미 그림으로 팬들 사이 반응 터진 83...",
-      "url": "https://www.wikitree.co.kr/articles/1153040",
-      "date": "2026.08.18",
-      "source": "wikitree.co.kr",
-      "thumbnail": "https://cdnweb01.wikitree.co.kr/webdata/editor/202608/18/202608181107023649.jpg"
-    },
-    {
-      "title": "영유 안 보낸다더니…'제이쓴♥' 홍현희, '5세 子' 수준급 영어 실력에...",
-      "url": "https://www.tvreport.co.kr/entertainment/article/1069461/",
-      "date": "2026.08.18",
-      "source": "tvreport.co.kr",
-      "thumbnail": "https://img.tvreportcdn.de/cms-content/uploads/2026/08/18/0257af7c-c4ae-44f2-9816-dc8fa6b33df0.jpg"
-    },
-    {
-      "title": "\"내가 BTS 정국 이겨\"…'미나미♥' 송진우, 파격 공항패션 선보였다 (동...",
-      "url": "https://www.xportsnews.com/article/2184694",
-      "date": "2026.08.18",
-      "source": "xportsnews.com",
-      "thumbnail": "https://image.xportsnews.com/contents/images/upload/article/2026/0818/1787019512617156.webp"
-    },
-    {
-      "title": "클릭비 재결합 콘서트와 K팝 장수 그룹 시대의 변화",
-      "url": "https://www.marieclairekorea.com/culture/2026/08/lovelasts/?utm_source=naver&utm_medium=partnership",
-      "date": "2026.08.18",
-      "source": "marieclairekorea.com",
-      "thumbnail": null
-    },
-    {
-      "title": "할리스, 첫 브랜드 모델로 걸그룹 리센느 발탁",
-      "url": "https://www.inthenews.co.kr/news/article.html?no=90600",
-      "date": "2026.08.18",
-      "source": "inthenews.co.kr",
-      "thumbnail": null
-    },
-    {
-      "title": "원이·미나미 다녀간 해수욕장 흙탕물…리센느 팬 “눈물의 거제 야호 ...",
-      "url": "https://www.hani.co.kr/arti/area/yeongnam/1273356.html",
-      "date": "2026.08.18",
-      "source": "hani.co.kr",
-      "thumbnail": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/original/2026/0818/20260818501250.webp"
-    },
-    {
-      "title": "할리스, 창립 이래 첫 모델 발탁…'리센느' 함께한 광고 공개",
-      "url": "https://www.cstimes.com/news/articleView.html?idxno=717073",
-      "date": "2026.08.18",
-      "source": "cstimes.com",
-      "thumbnail": "https://www.cstimes.com/news/photo/202608/717073_637507_3753.jpg"
     }
   ]
 }
