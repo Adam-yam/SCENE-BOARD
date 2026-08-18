@@ -1,26 +1,124 @@
 {
-  "updated": "2026-08-17T23:00:38Z",
+  "updated": "2026-08-18T00:00:37Z",
   "articles": [
     {
-      "title": "[뮤직컴퍼니100] 데이식스·엔믹스 JYP엔터테인먼트 -0.41%…아이브·키...",
-      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16165727",
+      "title": "할리스, 브랜드 첫 모델로 걸그룹 '리센느' 발탁",
+      "url": "https://www.newsis.com/view/NISX20260818_0003751971",
+      "date": "2026.08.17",
+      "source": "newsis.com",
+      "thumbnail": "https://img1.newsis.com/2026/08/18/NISI20260818_0002214400_web.jpg"
+    },
+    {
+      "title": "'송진우♥' 미나미 \"내가 원조 갸루\"..리센느 위협한 '충격 비주얼' [동...",
+      "url": "https://www.starnewskorea.com/broadcast-show/2026/08/18/2026081808493581111",
+      "date": "2026.08.17",
+      "source": "starnewskorea.com",
+      "thumbnail": null
+    },
+    {
+      "title": "리센느 응원 美 'K-컬렉션' 행사에 14.2만명 방문 '성황'",
+      "url": "http://www.metroseoul.co.kr/article/20260818500019",
+      "date": "2026.08.17",
+      "source": "metroseoul.co.kr",
+      "thumbnail": null
+    },
+    {
+      "title": "리센느, 역주행 신드롬 美까지… ‘러브 어택’ 케이콘 LA 무대 장악",
+      "url": "https://isplus.com/article/view/isp202608180030",
+      "date": "2026.08.17",
+      "source": "isplus.com",
+      "thumbnail": "https://isplus.com/data/isp/image/2026/08/18/isp20260818000033.800x.0.jpg"
+    },
+    {
+      "title": "‘리센느 성지‘ 덕포해수욕장 풍비박산",
+      "url": "https://www.knnews.co.kr/news/articleView.php?idxno=1548838",
+      "date": "2026.08.17",
+      "source": "knnews.co.kr",
+      "thumbnail": "https://cdn.knnews.co.kr/edb/thumbnail/2026/08/1548838_520_images.jpg"
+    },
+    {
+      "title": "'동상이몽2' 송진우-미나미, 파격 비주얼 공개... BTS 정국 이긴 공항패...",
+      "url": "https://www.stardailynews.co.kr/news/articleView.html?idxno=546182",
+      "date": "2026.08.17",
+      "source": "stardailynews.co.kr",
+      "thumbnail": "https://cdn.stardailynews.co.kr/news/thumbnail/202608/546182_578372_448_v150.jpg"
+    },
+    {
+      "title": "할리스, 최초의 브랜드 모델로 걸그룹 ‘리센느’ 발탁",
+      "url": "http://www.beyondpost.co.kr/view.php?ud=20260818084044127946a9e4dd7f_30",
+      "date": "2026.08.17",
+      "source": "beyondpost.co.kr",
+      "thumbnail": null
+    },
+    {
+      "title": "중기부·상생협력재단, LA서 中企 40곳 판로 지원",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=478091",
+      "date": "2026.08.17",
+      "source": "pinpointnews.co.kr",
+      "thumbnail": "https://cdn.pinpointnews.co.kr/news/thumbnail/202608/478091_464945_3122_v150.jpg"
+    },
+    {
+      "title": "할리스, 창립 28년 만에 첫 브랜드 모델…걸그룹 ‘리센느’ 발탁",
+      "url": "https://www.etoday.co.kr/news/view/2615265",
+      "date": "2026.08.17",
+      "source": "etoday.co.kr",
+      "thumbnail": "https://img.etoday.co.kr/pto_db/2026/08/20260818083623_2374241_1030_1030.jpg"
+    },
+    {
+      "title": "‘송진우♥’ 미나미 “내가 원조 갸루” 역대급 과거사 공개(동상이몽...",
+      "url": "https://www.newsen.com/news_view.php?uid=202608180827490410",
+      "date": "2026.08.17",
+      "source": "newsen.com",
+      "thumbnail": "https://photo.newsen.com/news_photo/2026/08/18/202608180827490410_1.jpg"
+    },
+    {
+      "title": "K뷰티·푸드 中企, 美 LA서 흥행…수출 MOU 113억원",
+      "url": "https://www.m-i.kr/news/articleView.html?idxno=1402977",
+      "date": "2026.08.17",
+      "source": "m-i.kr",
+      "thumbnail": "https://cdn.m-i.kr/news/thumbnail/202608/1402977_1190970_271_v150.jpg"
+    },
+    {
+      "title": "리센느, ‘KCON LA 2026’ 접수",
+      "url": "https://www.bntnews.co.kr/article/view/bnt202608180080",
+      "date": "2026.08.17",
+      "source": "bntnews.co.kr",
+      "thumbnail": "https://www.bntnews.co.kr/data/bnt/image/2026/08/18/bnt202608180133.jpg"
+    },
+    {
+      "title": "‘동상이몽2’ 송진우의 공항패션",
+      "url": "https://www.bntnews.co.kr/article/view/bnt202608180091",
+      "date": "2026.08.17",
+      "source": "bntnews.co.kr",
+      "thumbnail": "https://www.bntnews.co.kr/data/bnt/image/2026/08/18/bnt202608180124.jpg"
+    },
+    {
+      "title": "“BTS 정국 이겼다” 사상 초유 공항패션…미나미 갸루 비주얼도 놀라워...",
+      "url": "https://sports.donga.com/ent/article/all/20260818/134492531/1",
+      "date": "2026.08.17",
+      "source": "sports.donga.com",
+      "thumbnail": "https://dimg.donga.com/wps/SPORTS/IMAGE/2026/08/18/134492528.1.jpg"
+    },
+    {
+      "title": "어큐즈파이브·엑스디너리 히어로즈·우즈·주헌·트리플에스, 'AAA 2026'...",
+      "url": "https://www.ize.co.kr/news/articleView.html?idxno=79938",
+      "date": "2026.08.17",
+      "source": "ize.co.kr",
+      "thumbnail": "https://cdn.ize.co.kr/news/thumbnail/202608/79938_122933_184_v150.jpg"
+    },
+    {
+      "title": "리센느, 'KCON LA 2026'서 편곡 'LOVE ATTACK'으로 현장 달궜다",
+      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16165770",
       "date": "2026.08.17",
       "source": "topstarnews.net",
-      "thumbnail": "https://cdn.topstarnews.net/news/photo/202608/16165727_1994688_3232_crop.jpg"
+      "thumbnail": "https://cdn.topstarnews.net/news/photo/202608/16165770_1994769_1846_crop.jpg"
     },
     {
-      "title": "AAA 2026, 어큐즈파이브·엑디즈·우즈·주헌·트리플에스 합류",
-      "url": "https://www.slist.kr/news/articleView.html?idxno=759327",
+      "title": "리센느, 이번엔 LA 야호? 스페셜 편곡 무대로 'KCON' 접수",
+      "url": "https://www.slist.kr/news/articleView.html?idxno=759372",
       "date": "2026.08.17",
       "source": "slist.kr",
-      "thumbnail": "https://cdn.slist.kr/news/thumbnail/202608/759327_1163454_1242_v150.jpg"
-    },
-    {
-      "title": "오디세이·리센느·사랑이온다·오싹한연애·아파트, 1위 [한눈에 보는 ...",
-      "url": "https://www.news1.kr/entertain/celebrity-topic/6260845",
-      "date": "2026.08.17",
-      "source": "news1.kr",
-      "thumbnail": null
+      "thumbnail": "https://cdn.slist.kr/news/thumbnail/202608/759372_1163506_1810_v150.jpg"
     },
     {
       "title": "어큐즈파이브(告五人)·엑스디너리 히어로즈·우즈·주헌·트리플에스,...",
@@ -28,55 +126,6 @@
       "date": "2026.08.17",
       "source": "starnewskorea.com",
       "thumbnail": null
-    },
-    {
-      "title": "방탄소년단 턱밑까지 쫓아온 리센느…브랜드평판 40.50% 급등",
-      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=478040",
-      "date": "2026.08.17",
-      "source": "pinpointnews.co.kr",
-      "thumbnail": "https://cdn.pinpointnews.co.kr/news/thumbnail/202608/478040_464898_4858_v150.jpg"
-    },
-    {
-      "title": "볕이 들기 시작한 유스피어… 이제 피어날 시간 [RE스타]",
-      "url": "https://isplus.com/article/view/isp202608170027",
-      "date": "2026.08.17",
-      "source": "isplus.com",
-      "thumbnail": "https://isplus.com/data/isp/image/2026/08/17/isp20260817000038.800x.0.jpg"
-    },
-    {
-      "title": "“이렇게 심각한 줄 몰랐다”…장성규, 거제 집중호우 피해 언급",
-      "url": "https://www.sportsseoul.com/news/read/1629055?ref=naver",
-      "date": "2026.08.17",
-      "source": "sportsseoul.com",
-      "thumbnail": "https://file.sportsseoul.com/news/cms/2026/08/18/news-p.v1.20260818.4abb5cd2dbbe420cb82c716ea7b8ed9c_T1.jpg"
-    },
-    {
-      "title": "핸드폰 반납한 10대 소녀들, 성적으로 보답받다",
-      "url": "https://www.joongang.co.kr/article/25453944",
-      "date": "2026.08.17",
-      "source": "joongang.co.kr",
-      "thumbnail": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202608/18/c2f479c8-62ad-465b-8d66-e6cc7f67a3b0.jpg"
-    },
-    {
-      "title": "이준, 최다니엘과 의외의 인연 공개 \"오정세와 보드게임해\" ('워크맨')",
-      "url": "http://www.osen.co.kr/article/G1112858957",
-      "date": "2026.08.17",
-      "source": "osen.co.kr",
-      "thumbnail": "http://file.osen.co.kr/article_thumb/2026/08/17/202608172216771094_6a830cf88a781_300x.png"
-    },
-    {
-      "title": "[콘텐츠큐레이션]설산 등반부터 축구, 야구까지… 몸으로 부딪치는 3선",
-      "url": "https://www.bloter.net/news/articleView.html?idxno=671099",
-      "date": "2026.08.17",
-      "source": "bloter.net",
-      "thumbnail": "https://cdn.bloter.net/news/thumbnail/202608/671099_284288_234_v150.jpg"
-    },
-    {
-      "title": "[노트북 단상] 리센느 원이와 고교학점제",
-      "url": "https://www.busan.com/view/busan/view.php?code=2026081718100857381",
-      "date": "2026.08.17",
-      "source": "busan.com",
-      "thumbnail": "https://www.busan.com/nas/wcms/wcms_data/photos/2026/08/17/2026081718100846119_s.jpg"
     },
     {
       "title": "리센느, 음방 6관왕",
@@ -91,55 +140,6 @@
       "date": "2026.08.17",
       "source": "news.jtbc.co.kr",
       "thumbnail": null
-    },
-    {
-      "title": "리센느, 기세 어디까지…2년 전 발매 곡 ‘LOVE ATTACK’으로 인기가요 ...",
-      "url": "https://www.heraldmuse.com/article/10843065?ref=naver",
-      "date": "2026.08.17",
-      "source": "heraldmuse.com",
-      "thumbnail": "https://wimg.heraldcorp.com/news/cms/2026/08/17/news-p.v1.20260817.58950b08abea499f951ad082bd7fbcb7_T1.png"
-    },
-    {
-      "title": "'대세' 리센느, 역주행 곡 '러브 어택'으로 '인기가요' 또 1위",
-      "url": "https://www.nocutnews.co.kr/news/6563712?utm_source=naver&utm_medium=article&utm_campaign=20260817010506",
-      "date": "2026.08.17",
-      "source": "nocutnews.co.kr",
-      "thumbnail": "https://file2.nocutnews.co.kr/newsroom/image/2026/08/17/202608171302145640_0.jpg"
-    },
-    {
-      "title": "리센느, ‘러브 어택’·‘프리티 걸’로 음방 6관왕..‘5세대 대세 걸그...",
-      "url": "http://www.breaknews.com/1229356",
-      "date": "2026.08.17",
-      "source": "breaknews.com",
-      "thumbnail": "https://www.breaknews.com/imgdata/breaknews_com/202607/2026070146037003.jpg"
-    },
-    {
-      "title": "리센느 ‘러브 어택’ 역주행 안 끝났다 ‘인기가요’서 또 1위",
-      "url": "https://www.newsen.com/news_view.php?uid=202608171146545710",
-      "date": "2026.08.17",
-      "source": "newsen.com",
-      "thumbnail": "https://photo.newsen.com/news_photo/2026/08/17/202608171146545710_2.jpg"
-    },
-    {
-      "title": "BTS 다음이 이 그룹이라고?… 아이브마저 제치고 '2위' 폭격한 대세 걸그...",
-      "url": "https://www.wikitree.co.kr/articles/1152872",
-      "date": "2026.08.17",
-      "source": "wikitree.co.kr",
-      "thumbnail": "https://cdnweb01.wikitree.co.kr/webdata/editor/202608/17/img_20260817112528_dce21894.jpg"
-    },
-    {
-      "title": "리센느의 강렬한 향기, 음방 넘어 그라운드까지…전방위 존재감 [ST이슈...",
-      "url": "http://www.stoo.com/article.php?aid=108361083990",
-      "date": "2026.08.17",
-      "source": "stoo.com",
-      "thumbnail": "https://www.stoo.com/upimages/gisaimg/202608/1786933079_20260715175206-2399.jpg"
-    },
-    {
-      "title": "리센느, ‘러브 어택’으로 음방 1위 행진",
-      "url": "https://www.bntnews.co.kr/article/view/bnt202608170110",
-      "date": "2026.08.17",
-      "source": "bntnews.co.kr",
-      "thumbnail": "https://www.bntnews.co.kr/data/bnt/image/2026/08/17/bnt202608170188.jpg"
     }
   ]
 }
