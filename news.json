@@ -1,6 +1,13 @@
 {
-  "updated": "2026-08-18T10:00:39Z",
+  "updated": "2026-08-18T11:00:37Z",
   "articles": [
+    {
+      "title": "[유통가 NOW] 대상그룹, 샘표, 아리, 동서식품, 할리스, 윌비플레이, 예...",
+      "url": "https://www.ekn.kr/web/view.php?key=20260818021243750",
+      "date": "2026.08.18",
+      "source": "ekn.kr",
+      "thumbnail": "https://www.ekn.kr/mnt/file/202608/news-p.v1.20260818.352d3486bf454b4fa628cddf1112c7ae_R.jpg"
+    },
     {
       "title": "[TD영상] 미야오, KWDA 10주년 무대를 더 화려하게~ '등장만으로 후끈하...",
       "url": "http://www.tvdaily.co.kr/read.php3?aid=17870448661798198003",
@@ -13,7 +20,7 @@
       "url": "http://www.youngnong.co.kr/news/articleView.html?idxno=61634",
       "date": "2026.08.18",
       "source": "youngnong.co.kr",
-      "thumbnail": "http://cdn.youngnong.co.kr/news/photo/202608/61634_53174_2948.jpg"
+      "thumbnail": "http://www.youngnong.co.kr/news/photo/202608/61634_53174_2948.jpg"
     },
     {
       "title": "할리스, ‘리센느’ 창사 이래 첫 광고 모델로…이달 말 광고 공개",
@@ -65,18 +72,18 @@
       "thumbnail": "https://media.yonhapnewstv.co.kr/article/MYH/20260818/MYH20260818162804uxh.jpg"
     },
     {
-      "title": "할리스, 창립 28년 만에 첫 브랜드 모델로 리센느 발탁",
-      "url": "http://www.lawissue.co.kr/view.php?ud=202608181615419515204ead0791_12",
-      "date": "2026.08.18",
-      "source": "lawissue.co.kr",
-      "thumbnail": null
-    },
-    {
       "title": "[프랜차이즈 Pick] 여름 소비 겨냥한 메뉴·협업 선봬",
       "url": "https://www.lcnews.co.kr/news/articleView.html?idxno=206704",
       "date": "2026.08.18",
       "source": "lcnews.co.kr",
       "thumbnail": "https://cdn.lcnews.co.kr/news/photo/202608/206704_208734_1645.jpg"
+    },
+    {
+      "title": "할리스, 창립 28년 만에 첫 브랜드 모델로 리센느 발탁",
+      "url": "http://www.lawissue.co.kr/view.php?ud=202608181615419515204ead0791_12",
+      "date": "2026.08.18",
+      "source": "lawissue.co.kr",
+      "thumbnail": "https://cliimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=20260818161603069790204ead079118023320059.jpg&nmt=12"
     },
     {
       "title": "송진우 \"BTS 정국도 이겼다\"...충격 공항패션 '시선 강탈'",
@@ -133,13 +140,6 @@
       "date": "2026.08.18",
       "source": "mydaily.co.kr",
       "thumbnail": "https://mydaily.co.kr/photos/2026/08/13/2026081316004138902_l.jpg"
-    },
-    {
-      "title": "\"28년 만에 첫 얼굴\"... 대세 걸그룹 리센느, 할리스 1호 모델 됐다",
-      "url": "https://www.insight.co.kr/news/568704",
-      "date": "2026.08.18",
-      "source": "insight.co.kr",
-      "thumbnail": "https://img.insight.co.kr/static/2026/08/18/1200/img_20260818142134_z8whuxw3.jpg"
     }
   ]
 }
