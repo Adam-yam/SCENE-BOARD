@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T10:10:24Z",
+  "updated": "2026-08-18T11:10:22Z",
   "videos": [
     {
       "id": "qHIW70JZwsQ",
@@ -50,6 +50,14 @@
       "type": "long"
     },
     {
+      "id": "K3W7Rpu76Bg",
+      "title": "대기실에서 러브 다이브",
+      "url": "https://www.youtube.com/shorts/K3W7Rpu76Bg",
+      "thumbnail": "https://i.ytimg.com/vi/K3W7Rpu76Bg/mqdefault.jpg",
+      "date": "2026.08.18",
+      "type": "short"
+    },
+    {
       "id": "APsQuHhnFvM",
       "title": "🤧",
       "url": "https://www.youtube.com/shorts/APsQuHhnFvM",
@@ -87,14 +95,6 @@
       "url": "https://www.youtube.com/shorts/mYPwa8wufbU",
       "thumbnail": "https://i.ytimg.com/vi/mYPwa8wufbU/mqdefault.jpg",
       "date": "2026.08.15",
-      "type": "short"
-    },
-    {
-      "id": "CSIJgpCNoO4",
-      "title": "#산 선배님과 어디서나 당당하게 걷기 🎀",
-      "url": "https://www.youtube.com/shorts/CSIJgpCNoO4",
-      "thumbnail": "https://i.ytimg.com/vi/CSIJgpCNoO4/mqdefault.jpg",
-      "date": "2026.08.11",
       "type": "short"
     }
   ]
