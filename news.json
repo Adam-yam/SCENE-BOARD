@@ -1,6 +1,41 @@
 {
-  "updated": "2026-08-18T08:00:37Z",
+  "updated": "2026-08-18T09:00:38Z",
   "articles": [
+    {
+      "title": "할리스, 창사 28년 만에 첫 브랜드 모델…걸그룹 '리센느' 발탁",
+      "url": "http://www.youngnong.co.kr/news/articleView.html?idxno=61634",
+      "date": "2026.08.18",
+      "source": "youngnong.co.kr",
+      "thumbnail": "http://cdn.youngnong.co.kr/news/photo/202608/61634_53174_2948.jpg"
+    },
+    {
+      "title": "할리스, ‘리센느’ 창사 이래 첫 광고 모델로…이달 말 광고 공개",
+      "url": "https://www.mydaily.co.kr/page/view/2026081817292414398",
+      "date": "2026.08.18",
+      "source": "mydaily.co.kr",
+      "thumbnail": "https://mydaily.co.kr/photos/2026/08/18/2026081817292374575_l.jpg"
+    },
+    {
+      "title": "K뷰티 들고 LA 갔더니 8곳 ‘완판’…113억원 수출 MOU",
+      "url": "https://biz.sbs.co.kr/article_hub/20000329279?division=NAVER",
+      "date": "2026.08.18",
+      "source": "biz.sbs.co.kr",
+      "thumbnail": "https://img.biz.sbs.co.kr/upload/2026/08/18/fvE1787041988172-850.jpg"
+    },
+    {
+      "title": "리센느, 이번엔 커피다…할리스 브랜드 모델 발탁",
+      "url": "https://www.ddaily.co.kr/page/view/2026081817050568051",
+      "date": "2026.08.18",
+      "source": "ddaily.co.kr",
+      "thumbnail": null
+    },
+    {
+      "title": "홍현희 “아들 준범, 모든 걸 흡수하는 거 같다”",
+      "url": "https://www.segye.com/newsView/20260818518316?OutUrl=naver",
+      "date": "2026.08.18",
+      "source": "segye.com",
+      "thumbnail": "https://www.segye.com/content/image/2026/08/18/20260818518324.png"
+    },
     {
       "title": "올여름 韓 찾는 유럽 관광객 급증…영국 1위·거제 ‘돌풍’",
       "url": "https://www.sentv.co.kr/article/view/sentv202608180182",
@@ -62,7 +97,7 @@
       "url": "https://www.seoul.co.kr/news/society/2026/08/18/20260818500168?wlog_tag3=naver",
       "date": "2026.08.18",
       "source": "seoul.co.kr",
-      "thumbnail": null
+      "thumbnail": "https://img.seoul.co.kr//img/upload/2026/08/18/SSC_20260818154413_O2.jpg"
     },
     {
       "title": "[뷰티 트렌드] 바이오던스, 리센느 원이 앰버서더 발탁…'My First Collagen...",
@@ -100,46 +135,11 @@
       "thumbnail": "https://img.insight.co.kr/static/2026/08/18/1200/img_20260818142134_z8whuxw3.jpg"
     },
     {
-      "title": "BGF리테일, 폭우 피해 거제 지역 긴급 구호물품 지원",
-      "url": "https://www.sentv.co.kr/article/view/sentv202608180131",
-      "date": "2026.08.18",
-      "source": "sentv.co.kr",
-      "thumbnail": "https://www.sentv.co.kr/data/sentv/image/2026/08/18/sentv20260818000116.jpg"
-    },
-    {
       "title": "리센느 향기로 물든 LA…KCON 현장 분위기 어땠나",
       "url": "http://www.osen.co.kr/article/G1112859210",
       "date": "2026.08.18",
       "source": "osen.co.kr",
       "thumbnail": "http://file.osen.co.kr/article_thumb/2026/08/18/202608181426772093_6a83ef2a65668_300x.jpg"
-    },
-    {
-      "title": "'거제 야호' 해외까지 퍼졌다...리센느 타고 외국인 관광객 관심↑",
-      "url": "https://www.nc.press/news/articleView.html?idxno=623999",
-      "date": "2026.08.18",
-      "source": "nc.press",
-      "thumbnail": "https://cdn.nc.press/news/photo/202608/623999_853373_2750.jpg"
-    },
-    {
-      "title": "송진우 \"BTS 정국 제쳐\" 공항 뒤집은 파격 패션",
-      "url": "https://www.mediafine.co.kr/news/articleView.html?idxno=87112",
-      "date": "2026.08.18",
-      "source": "mediafine.co.kr",
-      "thumbnail": "https://cdn.mediafine.co.kr/news/photo/202608/87112_124799_3528.jpg"
-    },
-    {
-      "title": "\"리센느도 응원”...K중기 제품 미국서 완판 릴레이",
-      "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=03906486645548632",
-      "date": "2026.08.18",
-      "source": "edaily.co.kr",
-      "thumbnail": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26081800815.jpg"
-    },
-    {
-      "title": "\"BTS 정국도 있었는데, 내가 이겼다\"…역대급 파격 공항 패션에 출연진...",
-      "url": "https://www.tenasia.co.kr/article/2026081858974",
-      "date": "2026.08.18",
-      "source": "tenasia.co.kr",
-      "thumbnail": "https://img.tenasia.co.kr/photo/202608/BF.45368639.1.jpg"
     }
   ]
 }
