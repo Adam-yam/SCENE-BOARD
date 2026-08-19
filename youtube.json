@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T08:10:25Z",
+  "updated": "2026-08-19T09:10:23Z",
   "videos": [
     {
       "id": "ccnNVyPu2Gw",
@@ -50,6 +50,14 @@
       "type": "long"
     },
     {
+      "id": "4Wa2GNJLe_Y",
+      "title": "💓",
+      "url": "https://www.youtube.com/shorts/4Wa2GNJLe_Y",
+      "thumbnail": "https://i.ytimg.com/vi/4Wa2GNJLe_Y/mqdefault.jpg",
+      "date": "2026.08.19",
+      "type": "short"
+    },
+    {
       "id": "nWWM7m0t6y4",
       "title": "😉🫶",
       "url": "https://www.youtube.com/shorts/nWWM7m0t6y4",
@@ -86,14 +94,6 @@
       "title": "막내들의 반란",
       "url": "https://www.youtube.com/shorts/Kudseb848Lw",
       "thumbnail": "https://i.ytimg.com/vi/Kudseb848Lw/mqdefault.jpg",
-      "date": "2026.08.16",
-      "type": "short"
-    },
-    {
-      "id": "Fj_5OIRNMdM",
-      "title": "너 오늘부터 내 남자친구야 😉",
-      "url": "https://www.youtube.com/shorts/Fj_5OIRNMdM",
-      "thumbnail": "https://i.ytimg.com/vi/Fj_5OIRNMdM/mqdefault.jpg",
       "date": "2026.08.16",
       "type": "short"
     }
