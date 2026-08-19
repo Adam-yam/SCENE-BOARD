@@ -1,6 +1,90 @@
 {
-  "updated": "2026-08-19T10:00:45Z",
+  "updated": "2026-08-19T11:00:43Z",
   "articles": [
+    {
+      "title": "리센느, ‘거제 집중호우 피해 복구’ 5천만 원 기부",
+      "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8640755&ref=A",
+      "date": "2026.08.19",
+      "source": "news.kbs.co.kr",
+      "thumbnail": "http://news.kbs.co.kr/data/news/title_image/newsmp4/changwon/news7/2026/08/19/70_8640755.jpg"
+    },
+    {
+      "title": "리센느, 거제 수해복구 위해 5천만 원 기부",
+      "url": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5213497",
+      "date": "2026.08.19",
+      "source": "mbn.mk.co.kr",
+      "thumbnail": "http://img.mbn.co.kr/filewww/news/2026/08/19/17871352806a8585304e2c7.png"
+    },
+    {
+      "title": "리센느, '원이 고향' 거제 수해복구 위해 5천만원 기부",
+      "url": "https://www.slist.kr/news/articleView.html?idxno=759838",
+      "date": "2026.08.19",
+      "source": "slist.kr",
+      "thumbnail": "https://cdn.slist.kr/news/thumbnail/202608/759838_1164088_2537_v150.jpg"
+    },
+    {
+      "title": "흙탕물에 온갖 쓰레기까지…아수라장 된 거제 해수욕장",
+      "url": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5213489",
+      "date": "2026.08.19",
+      "source": "mbn.co.kr",
+      "thumbnail": "http://img.vod.mbn.co.kr/vod2/552/2026/08/19/20260819192252_20_552_1426944_1080_7.jpg"
+    },
+    {
+      "title": "리센느, 거제 집중호우에 5000만원 기부…팬들도 자발적 동참 \"거제야호...",
+      "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1002675",
+      "date": "2026.08.19",
+      "source": "spotvnews.co.kr",
+      "thumbnail": null
+    },
+    {
+      "title": "\"거제 야호\" 리센느, 팬과 함께 수해 복구 5000만원 기부",
+      "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003260375&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+      "date": "2026.08.19",
+      "source": "ohmynews.com",
+      "thumbnail": "https://ojsfile.ohmynews.com/BIG_IMG_FILE/2026/0819/IE003661347_BIG.jpg"
+    },
+    {
+      "title": "박해수 무대로 '300만' 찍더니…리센느·포레스텔라 총출동하면서 피날...",
+      "url": "https://mhnse.com/news/articleView.html?idxno=1494346",
+      "date": "2026.08.19",
+      "source": "mhnse.com",
+      "thumbnail": "https://contents-cdn.viewus.co.kr/creator-cms/image/2026/08/70758109-f1ab-494d-bc45-898498787b4d.jpg"
+    },
+    {
+      "title": "\"원이 고향\" 리센느, 거제시 이재민에 5천 기부 [공식]",
+      "url": "http://www.tvdaily.co.kr/read.php3?aid=17871340161798391010",
+      "date": "2026.08.19",
+      "source": "tvdaily.co.kr",
+      "thumbnail": "http://image.tvdaily.co.kr/upimages/gisaimg/202608/1787134016_1798391.jpg"
+    },
+    {
+      "title": "독립기념관 물들이는 K-컬처, 2026 천안 K-컬처박람회 내달 2일 개막",
+      "url": "http://www.gocj.net/news/articleView.html?idxno=151422",
+      "date": "2026.08.19",
+      "source": "gocj.net",
+      "thumbnail": "https://cdn.gocj.net/news/thumbnail/202608/151422_101096_4747_v150.jpg"
+    },
+    {
+      "title": "‘거제 홍보대사’ 리센느, 수해 성금 5000만원 기부",
+      "url": "https://www.donga.com/news/Culture/article/all/20260819/134507128/2",
+      "date": "2026.08.19",
+      "source": "donga.com",
+      "thumbnail": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/19/134507129.2.jpg"
+    },
+    {
+      "title": "수마 할퀸 거제·통영 복구 땀방울... 걸그룹 리센느도 5000만원 기부",
+      "url": "https://www.chosun.com/national/2026/08/19/ZU63D3KEKBHCJAPOQ5GPUD47NA/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+      "date": "2026.08.19",
+      "source": "chosun.com",
+      "thumbnail": "https://www.chosun.com/resizer/v2/KEBSQ5YWNRLVTAMD7PAZUUOJ5Y.JPG?auth=0d931dc9ce2122adac46514a42f009c4908f1c0b1802d76665bfe295f1582cc2&amp;width=1200&amp;height=630&amp;smart=true"
+    },
+    {
+      "title": "리센느·팬덤, 거제 수해복구에 5000만 원 기부",
+      "url": "https://www.idomin.com/news/articleView.html?idxno=2012732",
+      "date": "2026.08.19",
+      "source": "idomin.com",
+      "thumbnail": "https://cdn.idomin.com/news/photo/202608/2012732_719469_0010.jpg"
+    },
     {
       "title": "리센느, 거제시 호우 피해 복구에 5천만 원 기부",
       "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=04887206645548960",
@@ -23,13 +107,6 @@
       "thumbnail": null
     },
     {
-      "title": "리센느, ‘원이 고향’ 거제 수해 복구 위해 5천만원 기부 [이런뉴스]",
-      "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8640620&ref=A",
-      "date": "2026.08.19",
-      "source": "news.kbs.co.kr",
-      "thumbnail": "http://news.kbs.co.kr/data/fckeditor/vod/2026/08/19/174091787131202107.png"
-    },
-    {
       "title": "‘거제 홍보대사’ 리센느, 수해 복구 위해 나섰다…5000만 원 기부",
       "url": "https://sports.khan.co.kr/article/202608191832003?pt=nv",
       "date": "2026.08.19",
@@ -37,74 +114,11 @@
       "thumbnail": null
     },
     {
-      "title": "\"거제 야호\" 리센느가 불러온 '선행 나비효과'…수해 복구에 쏟아진 기...",
-      "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1002660",
-      "date": "2026.08.19",
-      "source": "spotvnews.co.kr",
-      "thumbnail": null
-    },
-    {
-      "title": "\"원이 고향 거제 도와주세요\"…리센느도, 삼성·LG도 나섰다",
-      "url": "https://www.hankyung.com/article/202608190290g",
-      "date": "2026.08.19",
-      "source": "hankyung.com",
-      "thumbnail": "https://img.hankyung.com/photo/202608/ZN.45051526.1.jpg"
-    },
-    {
-      "title": "‘거제 홍보대사’ 리센느, 수해 복구 위해 5천만원 기부",
-      "url": "https://www.mk.co.kr/article/12131538",
-      "date": "2026.08.19",
-      "source": "mk.co.kr",
-      "thumbnail": null
-    },
-    {
-      "title": "\"거제 야호\" 리센느, 수해 복구 위해 5000만원 기부",
-      "url": "http://www.inews24.com/view/1996431",
-      "date": "2026.08.19",
-      "source": "inews24.com",
-      "thumbnail": "https://image.inews24.com/v1/e863ba2cd11d4a.jpg"
-    },
-    {
-      "title": "리센느, 원이 고향 거제 폭우 피해 복구에 5000만원 기부",
-      "url": "https://www.news1.kr/local/busan-gyeongnam/6263570",
-      "date": "2026.08.19",
-      "source": "news1.kr",
-      "thumbnail": null
-    },
-    {
-      "title": "“거제 야호” 외치던 리센느, 고향 수해 복구에 5000만원 기부",
-      "url": "https://www.joongang.co.kr/article/25454531",
-      "date": "2026.08.19",
-      "source": "joongang.co.kr",
-      "thumbnail": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202608/19/db8677c2-62bb-4bdf-9368-48e73fe14771.jpg"
-    },
-    {
-      "title": "리센느, '원이 고향' 거제 수해 복구 위해 5천만원 기부",
-      "url": "https://www.ytn.co.kr/_ln/0106_202608191814343186",
-      "date": "2026.08.19",
-      "source": "ytn.co.kr",
-      "thumbnail": "https://www.ytn.co.kr/img/comm/ytn_sns_default.jpg"
-    },
-    {
-      "title": "‘거제시 홍보대사’ 리센느, 집중호우 피해에 5천만원 기부‥광고주도...",
-      "url": "https://www.newsen.com/news_view.php?uid=202608191754166310",
-      "date": "2026.08.19",
-      "source": "newsen.com",
-      "thumbnail": "https://photo.newsen.com/news_photo/2026/08/19/202608191754166310_1.jpg"
-    },
-    {
       "title": "‘거제의 딸’ 리센느, 팬덤 ‘리마인’과 수해복구 성금 5천만원 쾌척",
       "url": "https://www.kyeonggi.com/article/20260819580487",
       "date": "2026.08.19",
       "source": "kyeonggi.com",
-      "thumbnail": "https://ypzxxdrj8709.edge.naverncp.com/data2/content/image/2026/08/19/.cache/512/20260819580488.png?v=20260819190035"
-    },
-    {
-      "title": "\"거제 야호\" 외치던 리센느, 수해 복구에 5000만원 기부",
-      "url": "https://www.kado.net/news/articleView.html?idxno=2067461",
-      "date": "2026.08.19",
-      "source": "kado.net",
-      "thumbnail": "https://cdn.kado.net/news/photo/202608/2067461_875875_0638.jpg"
+      "thumbnail": "https://ypzxxdrj8709.edge.naverncp.com/data2/content/image/2026/08/19/.cache/512/20260819580488.png?v=20260819200037"
     },
     {
       "title": "리센느, '원이 고향' 거제에 5000만원 기부…\"수해 복구 위해\"",
@@ -119,20 +133,6 @@
       "date": "2026.08.19",
       "source": "insight.co.kr",
       "thumbnail": "https://img.insight.co.kr/static/2026/08/19/1200/img_20260819162010_w6zqn2wy.jpg"
-    },
-    {
-      "title": "'거제 홍보대사' 리센느, 집중호우 피해에 발 벗고 나섰다…5천만 원 기...",
-      "url": "https://www.xportsnews.com/article/2185452",
-      "date": "2026.08.19",
-      "source": "xportsnews.com",
-      "thumbnail": "https://image.xportsnews.com/contents/images/upload/article/2026/0819/1787129978449780.webp"
-    },
-    {
-      "title": "‘해피투게더’ 시청자들과 한강서 만난다..리센느-포레스텔라 스페셜...",
-      "url": "https://www.heraldmuse.com/article/10845843?ref=naver",
-      "date": "2026.08.19",
-      "source": "heraldmuse.com",
-      "thumbnail": "https://wimg.heraldcorp.com/news/cms/2026/08/19/news-p.v1.20260819.cfe00db3b3404ab8bc34afe9a44b225f_T1.jpg"
     },
     {
       "title": "\"거제 야호! 거제 구호\"…리센느, 폭우 피해에 5천만원 기부 [공식]",
