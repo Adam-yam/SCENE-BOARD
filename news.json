@@ -1,6 +1,20 @@
 {
-  "updated": "2026-08-19T11:00:43Z",
+  "updated": "2026-08-19T12:00:45Z",
   "articles": [
+    {
+      "title": "'거제 홍보대사' 걸그룹 리센느, 수해 피해 복구에 5천만원 기부",
+      "url": "http://www.yonhapnewstv.co.kr/news/AKR202608192044591xh",
+      "date": "2026.08.19",
+      "source": "yonhapnewstv.co.kr",
+      "thumbnail": "https://media.yonhapnewstv.co.kr/article/AKR/20260819/AKR202608192044591xh_01_i.jpg"
+    },
+    {
+      "title": "“리센느(RESCENE) 팬덤 화력 이 정도였어?” 메이, 팬 서포트 130% 조기...",
+      "url": "https://sports.khan.co.kr/article/202608192044003?pt=nv",
+      "date": "2026.08.19",
+      "source": "sports.khan.co.kr",
+      "thumbnail": null
+    },
     {
       "title": "리센느, ‘거제 집중호우 피해 복구’ 5천만 원 기부",
       "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8640755&ref=A",
@@ -34,7 +48,7 @@
       "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1002675",
       "date": "2026.08.19",
       "source": "spotvnews.co.kr",
-      "thumbnail": null
+      "thumbnail": "https://7lgigmttrjuyfehsudec15072.edge.naverncp.com/news/photo/202608/1002675_2004180_7972.jpg"
     },
     {
       "title": "\"거제 야호\" 리센느, 팬과 함께 수해 복구 5000만원 기부",
@@ -107,18 +121,11 @@
       "thumbnail": null
     },
     {
-      "title": "‘거제 홍보대사’ 리센느, 수해 복구 위해 나섰다…5000만 원 기부",
-      "url": "https://sports.khan.co.kr/article/202608191832003?pt=nv",
-      "date": "2026.08.19",
-      "source": "sports.khan.co.kr",
-      "thumbnail": null
-    },
-    {
       "title": "‘거제의 딸’ 리센느, 팬덤 ‘리마인’과 수해복구 성금 5천만원 쾌척",
       "url": "https://www.kyeonggi.com/article/20260819580487",
       "date": "2026.08.19",
       "source": "kyeonggi.com",
-      "thumbnail": "https://ypzxxdrj8709.edge.naverncp.com/data2/content/image/2026/08/19/.cache/512/20260819580488.png?v=20260819200037"
+      "thumbnail": "https://ypzxxdrj8709.edge.naverncp.com/data2/content/image/2026/08/19/.cache/512/20260819580488.png?v=20260819210039"
     },
     {
       "title": "리센느, '원이 고향' 거제에 5000만원 기부…\"수해 복구 위해\"",
@@ -133,13 +140,6 @@
       "date": "2026.08.19",
       "source": "insight.co.kr",
       "thumbnail": "https://img.insight.co.kr/static/2026/08/19/1200/img_20260819162010_w6zqn2wy.jpg"
-    },
-    {
-      "title": "\"거제 야호! 거제 구호\"…리센느, 폭우 피해에 5천만원 기부 [공식]",
-      "url": "http://www.osen.co.kr/article/G1112859969",
-      "date": "2026.08.19",
-      "source": "osen.co.kr",
-      "thumbnail": "http://file.osen.co.kr/article_thumb/2026/08/19/202608191742774794_6a856dd335e04_300x.jpg"
     }
   ]
 }
