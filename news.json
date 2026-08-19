@@ -1,12 +1,19 @@
 {
-  "updated": "2026-08-19T14:00:48Z",
+  "updated": "2026-08-19T15:00:41Z",
   "articles": [
     {
+      "title": "\"거제 야호\" 리센느 수해 성금 5000만원…팬들도 하루 만에 4000만원",
+      "url": "http://weekly.chosun.com/news/articleView.html?idxno=54454",
+      "date": "2026.08.19",
+      "source": "weekly.chosun.com",
+      "thumbnail": "https://cdn.weekly.chosun.com/news/thumbnail/202608/54454_84412_924_v150.jpg"
+    },
+    {
       "title": "‘관광’ 훈풍 거제?…역대급 극한 호우가 찬물",
-      "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8641031&ref=A",
+      "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8641057&ref=A",
       "date": "2026.08.19",
       "source": "news.kbs.co.kr",
-      "thumbnail": "http://news.kbs.co.kr/data/news/title_image/newsmp4/changwon/news9/2026/08/19/40_8641031.jpg"
+      "thumbnail": "http://news.kbs.co.kr/data/news/title_image/newsmp4/newsline/2026/08/19/80_8641057.jpg"
     },
     {
       "title": "리센느 팬클럽·프로게이머·금융권…수해피해 이웃돕기 기부 행렬",
@@ -72,18 +79,18 @@
       "thumbnail": "https://7lgigmttrjuyfehsudec15072.edge.naverncp.com/news/photo/202608/1002675_2004180_7972.jpg"
     },
     {
-      "title": "\"거제 야호\" 리센느, 팬과 함께 수해 복구 5000만원 기부",
-      "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003260375&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
-      "date": "2026.08.19",
-      "source": "ohmynews.com",
-      "thumbnail": "https://ojsfile.ohmynews.com/BIG_IMG_FILE/2026/0819/IE003661347_BIG.jpg"
-    },
-    {
       "title": "박해수 무대로 '300만' 찍더니…리센느·포레스텔라 총출동하면서 피날...",
       "url": "https://mhnse.com/news/articleView.html?idxno=1494346",
       "date": "2026.08.19",
       "source": "mhnse.com",
       "thumbnail": "https://contents-cdn.viewus.co.kr/creator-cms/image/2026/08/70758109-f1ab-494d-bc45-898498787b4d.jpg"
+    },
+    {
+      "title": "\"거제 야호\" 리센느, 팬과 함께 수해 복구 5000만원 기부",
+      "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003260375&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+      "date": "2026.08.19",
+      "source": "ohmynews.com",
+      "thumbnail": "https://ojsfile.ohmynews.com/BIG_IMG_FILE/2026/0819/IE003661347_BIG.jpg"
     },
     {
       "title": "독립기념관 물들이는 K-컬처, 2026 천안 K-컬처박람회 내달 2일 개막",
@@ -105,13 +112,6 @@
       "date": "2026.08.19",
       "source": "donga.com",
       "thumbnail": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/19/134507129.2.jpg"
-    },
-    {
-      "title": "수마 할퀸 거제·통영 복구 땀방울... 걸그룹 리센느도 5000만원 기부",
-      "url": "https://www.chosun.com/national/2026/08/19/ZU63D3KEKBHCJAPOQ5GPUD47NA/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-      "date": "2026.08.19",
-      "source": "chosun.com",
-      "thumbnail": "https://www.chosun.com/resizer/v2/KEBSQ5YWNRLVTAMD7PAZUUOJ5Y.JPG?auth=0d931dc9ce2122adac46514a42f009c4908f1c0b1802d76665bfe295f1582cc2&amp;width=1200&amp;height=630&amp;smart=true"
     },
     {
       "title": "Rescene, fans raise 90 million won for flood-hit Geoje",
@@ -139,7 +139,7 @@
       "url": "https://www.kyeonggi.com/article/20260819580487",
       "date": "2026.08.19",
       "source": "kyeonggi.com",
-      "thumbnail": "https://ypzxxdrj8709.edge.naverncp.com/data2/content/image/2026/08/19/.cache/512/20260819580488.png?v=20260819230047"
+      "thumbnail": "https://ypzxxdrj8709.edge.naverncp.com/data2/content/image/2026/08/19/.cache/512/20260819580488.png?v=20260820000041"
     }
   ]
 }
