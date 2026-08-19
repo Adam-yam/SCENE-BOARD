@@ -1,8 +1,106 @@
 {
-  "updated": "2026-08-19T05:00:41Z",
+  "updated": "2026-08-19T06:00:36Z",
   "articles": [
     {
-      "title": "\"리센트 원이 덕에 북적였는데…\" 폭우 할퀸 덕포해수욕장 '아수라장'",
+      "title": "리센느 메이 생일에 팬들이 만든 '130%'…건대입구역 전광판 뜬다",
+      "url": "https://www.gpkorea.com/news/articleView.html?idxno=145798",
+      "date": "2026.08.19",
+      "source": "gpkorea.com",
+      "thumbnail": "https://cdn.gpkorea.com/news/photo/202608/145798_309684_563.jpg"
+    },
+    {
+      "title": "‘거제 야호’ 외쳤던 리센느, 팬덤도 나섰다…수해 성금 4000만원 모아",
+      "url": "https://www.segye.com/newsView/20260819513527?OutUrl=naver",
+      "date": "2026.08.19",
+      "source": "segye.com",
+      "thumbnail": "https://www.segye.com/content/image/2026/08/19/20260819515381.jpg"
+    },
+    {
+      "title": "[르포] '리센느 효과' 북적이던 거제 해변…물난리에 피서객 발길 '뚝'",
+      "url": "https://www.yna.co.kr/view/AKR20260819113400052?input=1195m",
+      "date": "2026.08.19",
+      "source": "yna.co.kr",
+      "thumbnail": "https://img7.yna.co.kr/etc/inner/KR/2026/08/19/AKR20260819113400052_02_i_P4.jpg"
+    },
+    {
+      "title": "리센느, ‘전참시’로 1위·‘놀토’로 2위…화제성 제대로 터졌다",
+      "url": "https://sports.donga.com/ent/article/all/20260819/134503536/1",
+      "date": "2026.08.19",
+      "source": "sports.donga.com",
+      "thumbnail": "https://dimg.donga.com/wps/SPORTS/IMAGE/2026/08/19/134503537.1.jpg"
+    },
+    {
+      "title": "[위클리오늘] 고양대전환준비위원회, 민경선 시장에 백서 전달",
+      "url": "http://www.weeklytoday.com/news/articleView.html?idxno=790853",
+      "date": "2026.08.19",
+      "source": "weeklytoday.com",
+      "thumbnail": "https://cdn.weeklytoday.com/news/thumbnail/202608/790853_975815_4730_v150.jpg"
+    },
+    {
+      "title": "\"거제 야호!\" 인연… 리센느 팬덤, 경남 수해 이재민 위해 4천만원 기부",
+      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3668424",
+      "date": "2026.08.19",
+      "source": "gukjenews.com",
+      "thumbnail": "https://cdn.gukjenews.com/news/thumbnail/202608/3668424_3836001_4647_v150.jpg"
+    },
+    {
+      "title": "‘해피투게더’, 한강서 파이널 연다…리센느·포레스텔라 지원사격",
+      "url": "https://sports.donga.com/ent/article/all/20260819/134503452/1",
+      "date": "2026.08.19",
+      "source": "sports.donga.com",
+      "thumbnail": "https://dimg.donga.com/wps/SPORTS/IMAGE/2026/08/19/134503448.1.jpg"
+    },
+    {
+      "title": "'해피투게더', 내달 한강서 파이널 경연…리센느 축하 무대",
+      "url": "https://www.newsis.com/view/NISX20260819_0003754304",
+      "date": "2026.08.19",
+      "source": "newsis.com",
+      "thumbnail": "https://img1.newsis.com/2026/08/19/NISI20260819_0002215944_web.jpg"
+    },
+    {
+      "title": "리센느 팬덤, '거제 출신' 원이 고향 수해 소식에 4천만 원 모금",
+      "url": "http://www.tvdaily.co.kr/read.php3?aid=17871167141798285010",
+      "date": "2026.08.19",
+      "source": "tvdaily.co.kr",
+      "thumbnail": "http://image.tvdaily.co.kr/upimages/gisaimg/202608/191798285.jpg"
+    },
+    {
+      "title": "리센느 팬덤, 경남 수해지원 성금 기부…하루 만에 4000만원 모았다",
+      "url": "https://biz.heraldcorp.com/article/10845439?ref=naver",
+      "date": "2026.08.19",
+      "source": "biz.heraldcorp.com",
+      "thumbnail": "https://wimg.heraldcorp.com/news/cms/2026/08/19/news-p.v1.20260819.7a3e25ed7b9e49e79da2065e40b323d0_T1.jpg"
+    },
+    {
+      "title": "'해피투게더' 파이널 9월 여의도서 개최…리센느·포레스텔라 축하 무대",
+      "url": "https://www.stardailynews.co.kr/news/articleView.html?idxno=546406",
+      "date": "2026.08.19",
+      "source": "stardailynews.co.kr",
+      "thumbnail": "https://cdn.stardailynews.co.kr/news/thumbnail/202608/546406_578612_1613_v150.jpg"
+    },
+    {
+      "title": "메뉴부터 매장, 자사몰, 모델까지…할리스, 브랜드 접점 순차 정비",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=478556",
+      "date": "2026.08.19",
+      "source": "pinpointnews.co.kr",
+      "thumbnail": "https://cdn.pinpointnews.co.kr/news/thumbnail/202608/478556_465433_122_v150.jpg"
+    },
+    {
+      "title": "독립기념관 물들이는 K-컬처…시민 체험형으로 진화",
+      "url": "https://www.goodmorningcc.com/news/articleView.html?idxno=450883",
+      "date": "2026.08.19",
+      "source": "goodmorningcc.com",
+      "thumbnail": "https://cdn.goodmorningcc.com/news/thumbnail/202608/450883_465964_222_v150.jpg"
+    },
+    {
+      "title": "김구 선생 '문화강국' 꿈 잇는다…천안 K-컬처박람회 내달 개막",
+      "url": "https://www.daejonilbo.com/news/articleView.html?idxno=2295381",
+      "date": "2026.08.19",
+      "source": "daejonilbo.com",
+      "thumbnail": "https://cdn.daejonilbo.com/news/photo/202608/2295381_730637_2705.jpg"
+    },
+    {
+      "title": "\"리센느 원이 덕에 북적였는데…\" 폭우 할퀸 덕포해수욕장 '아수라장'",
       "url": "https://www.news1.kr/local/busan-gyeongnam/6263088",
       "date": "2026.08.19",
       "source": "news1.kr",
@@ -13,7 +111,7 @@
       "url": "https://www.starnewskorea.com/music/2026/08/19/2026081913482113527",
       "date": "2026.08.19",
       "source": "starnewskorea.com",
-      "thumbnail": "https://image.starnewskorea.com/cdn-cgi/image/f=auto,w=1200,h=677,fit=cover,q=high,sharpen=2/21/2026/08/2026081913482113527_1.jpg"
+      "thumbnail": null
     },
     {
       "title": "리센느 팬덤, 경남 수해지원 기부…하루만에 4천만원 모아 [투데이픽]",
@@ -30,27 +128,6 @@
       "thumbnail": "https://isplus.com/data/isp/image/2026/08/19/isp20260819000203.800x.0.jpg"
     },
     {
-      "title": "[오마이포토] 리센느 '거제 바다'도 폭우에 직격탄",
-      "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003260251&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
-      "date": "2026.08.19",
-      "source": "ohmynews.com",
-      "thumbnail": "https://ojsfile.ohmynews.com/BIG_IMG_FILE/2026/0819/IE003661086_BIG.jpg"
-    },
-    {
-      "title": "리센느 메이, 생일 서포트 130% 돌파…건대입구 전광판 물들인다",
-      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16167424",
-      "date": "2026.08.19",
-      "source": "topstarnews.net",
-      "thumbnail": "https://cdn.topstarnews.net/news/photo/202608/16167424_1996402_4455_crop.jpg"
-    },
-    {
-      "title": "‘2026 천안 K-컬처박람회’ 내달 2일 개막",
-      "url": "http://www.inews24.com/view/1996257",
-      "date": "2026.08.19",
-      "source": "inews24.com",
-      "thumbnail": "https://image.inews24.com/v1/b953d560552f7b.jpg"
-    },
-    {
       "title": "‘리센느·다비치·멜로망스 온다’ 천안 K-컬처박람회, 체험형으로 확...",
       "url": "https://www.khan.co.kr/article/202608191313001",
       "date": "2026.08.19",
@@ -62,84 +139,7 @@
       "url": "http://www.queen.co.kr/news/articleView.html?idxno=461925",
       "date": "2026.08.19",
       "source": "queen.co.kr",
-      "thumbnail": "http://www.queen.co.kr/news/thumbnail/202608/461925_208130_5630_v150.jpg"
-    },
-    {
-      "title": "“거제 야호!” 외친 리센느 팬덤, 집중호우 피해에 4000만원 기부",
-      "url": "https://www.mk.co.kr/article/12131016",
-      "date": "2026.08.19",
-      "source": "mk.co.kr",
-      "thumbnail": "https://pimg.mk.co.kr/news/cms/202608/19/news-p.v1.20260819.c0c82337ead1457faeafba3277c6e252_R.jpg"
-    },
-    {
-      "title": "천안시, K-컬처 3대 산업 전면 배치... 체험·수출·공연 한자리",
-      "url": "http://www.newsworker.co.kr/news/articleView.html?idxno=441752",
-      "date": "2026.08.19",
-      "source": "newsworker.co.kr",
-      "thumbnail": "https://cdn.newsworker.co.kr/news/thumbnail/202608/441752_485227_5712_v150.jpg"
-    },
-    {
-      "title": "★들의 야구장 패션 모음.zip",
-      "url": "https://www.bntnews.co.kr/article/view/bnt202608180255",
-      "date": "2026.08.19",
-      "source": "bntnews.co.kr",
-      "thumbnail": "https://www.bntnews.co.kr/data/bnt/image/2026/08/18/bnt202608180580.jpg"
-    },
-    {
-      "title": "“거제, 야호” 인연 통했다… 리센느 팬들, 집중호우 피해 4000만원 기...",
-      "url": "https://www.bntnews.co.kr/article/view/bnt202608190207",
-      "date": "2026.08.19",
-      "source": "bntnews.co.kr",
-      "thumbnail": "https://www.bntnews.co.kr/data/bnt/image/2026/08/19/bnt202608190413.png"
-    },
-    {
-      "title": "“거제 야호!” 외친 리센느 팬덤 뭉쳤다…거제 수해에 4000만원 기부",
-      "url": "https://sports.khan.co.kr/article/202608191140003?pt=nv",
-      "date": "2026.08.19",
-      "source": "sports.khan.co.kr",
-      "thumbnail": null
-    },
-    {
-      "title": "독립기념관 K-컬처로 물들이다…천안 K-컬처박람회 9월 2일 개막",
-      "url": "https://www.seoul.co.kr/news/society/2026/08/19/20260819500099?wlog_tag3=naver",
-      "date": "2026.08.19",
-      "source": "seoul.co.kr",
-      "thumbnail": "https://img.seoul.co.kr//img/upload/2026/08/19/SSC_20260819113434_O2.png"
-    },
-    {
-      "title": "리센느, '해피투게더' 파이널 스테이지 전격 등판…9월 11일 한강 뜬다",
-      "url": "http://www.osen.co.kr/article/G1112859721",
-      "date": "2026.08.19",
-      "source": "osen.co.kr",
-      "thumbnail": "http://file.osen.co.kr/article_thumb/2026/08/19/202608191127770284_6a8515a29359a_300x.jpg"
-    },
-    {
-      "title": "[천안 24시] 천안시 K-컬처박람회 내달 2일 개막…K-푸드·웹툰·팝 '체험...",
-      "url": "https://www.sisajournal.com/news/articleView.html?idxno=383953",
-      "date": "2026.08.19",
-      "source": "sisajournal.com",
-      "thumbnail": "https://cdn.sisajournal.com/news/thumbnail/202608/383953_391813_1733_v150.jpg"
-    },
-    {
-      "title": "걸그룹 리센느, 2년 전 발매곡 음원차트 9위 역주행…유튜브 채널도 100...",
-      "url": "https://www.cbci.co.kr/news/articleView.html?idxno=599275",
-      "date": "2026.08.19",
-      "source": "cbci.co.kr",
-      "thumbnail": "https://www.cbci.co.kr/news/thumbnail/202608/599275_410948_2636_v150.jpg"
-    },
-    {
-      "title": "K-컬처 천안에 총집결…독립기념관서 닷새간 ‘문화 대향연’",
-      "url": "http://www.sisanews24.co.kr/19244",
-      "date": "2026.08.19",
-      "source": "sisanews24.co.kr",
-      "thumbnail": null
-    },
-    {
-      "title": "'거제 야호' 리센느 팬덤의 선한 영향력…수해 이웃 위해 1일 만에 4000만...",
-      "url": "http://www.fnnews.com/news/202608191007408243",
-      "date": "2026.08.19",
-      "source": "fnnews.com",
-      "thumbnail": "https://image.fnnews.com/resource/media/image/2026/08/16/202608161031000565_l.jpg"
+      "thumbnail": "http://cdn.queen.co.kr/news/thumbnail/202608/461925_208130_5630_v150.jpg"
     }
   ]
 }
