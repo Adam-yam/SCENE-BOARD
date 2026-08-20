@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T10:10:27Z",
+  "updated": "2026-08-20T11:10:26Z",
   "videos": [
     {
       "id": "ccnNVyPu2Gw",
@@ -50,6 +50,14 @@
       "type": "long"
     },
     {
+      "id": "or1tvms0_q8",
+      "title": "#JUNSEO #SANGWON 님과 어디서나 당당하게 걷기 🎀",
+      "url": "https://www.youtube.com/shorts/or1tvms0_q8",
+      "thumbnail": "https://i.ytimg.com/vi/or1tvms0_q8/mqdefault.jpg",
+      "date": "2026.08.20",
+      "type": "short"
+    },
+    {
       "id": "4Wa2GNJLe_Y",
       "title": "💓",
       "url": "https://www.youtube.com/shorts/4Wa2GNJLe_Y",
@@ -86,14 +94,6 @@
       "title": "🤧",
       "url": "https://www.youtube.com/shorts/APsQuHhnFvM",
       "thumbnail": "https://i.ytimg.com/vi/APsQuHhnFvM/mqdefault.jpg",
-      "date": "2026.08.16",
-      "type": "short"
-    },
-    {
-      "id": "Kudseb848Lw",
-      "title": "막내들의 반란",
-      "url": "https://www.youtube.com/shorts/Kudseb848Lw",
-      "thumbnail": "https://i.ytimg.com/vi/Kudseb848Lw/mqdefault.jpg",
       "date": "2026.08.16",
       "type": "short"
     }
