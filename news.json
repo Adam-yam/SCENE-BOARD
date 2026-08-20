@@ -1,19 +1,82 @@
 {
-  "updated": "2026-08-20T00:00:35Z",
+  "updated": "2026-08-20T01:00:38Z",
   "articles": [
+    {
+      "title": "리센느 원이, 갑작스런 탈퇴?…미나미 실수로 벌어진 해프닝",
+      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16168277",
+      "date": "2026.08.20",
+      "source": "topstarnews.net",
+      "thumbnail": null
+    },
+    {
+      "title": "천안 K-컬처박람회 9월 2일 개막, \"모든 이들에 즐거움과 활력 주는 박람...",
+      "url": "http://www.segyebiz.com/newsView/20260820507456?OutUrl=naver",
+      "date": "2026.08.20",
+      "source": "segyebiz.com",
+      "thumbnail": "http://www.segyebiz.com//content/image/2026/08/20/20260820507454.jpg"
+    },
+    {
+      "title": "이병헌·이준호, 제8회 한류엑스포 수상자 선정",
+      "url": "https://www.sportsseoul.com/news/read/1629631?ref=naver",
+      "date": "2026.08.20",
+      "source": "sportsseoul.com",
+      "thumbnail": null
+    },
+    {
+      "title": "김혜윤·다현·장다아·혜리, 'AAA 2026' 합류…배우 라인업 확대",
+      "url": "https://www.gpkorea.com/news/articleView.html?idxno=145831",
+      "date": "2026.08.20",
+      "source": "gpkorea.com",
+      "thumbnail": "https://cdn.gpkorea.com/news/photo/202608/145831_309742_5348.jpg"
+    },
+    {
+      "title": "'봄날의 햇살' 하윤경 맞아?…내장탕 혼밥에 낮술까지 (전참시)",
+      "url": "http://enews.imbc.com/News/RetrieveNewsInfo/515316",
+      "date": "2026.08.20",
+      "source": "enews.imbc.com",
+      "thumbnail": "https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2026/08/20/e358c912-188c-41c6-85c7-53aecfd20db0.jpg"
+    },
+    {
+      "title": "스키즈·리센느 나란히 '2관왕'…33주차 써클차트 결과 발표",
+      "url": "https://www.nc.press/news/articleView.html?idxno=624178",
+      "date": "2026.08.20",
+      "source": "nc.press",
+      "thumbnail": "https://cdn.nc.press/news/photo/202608/624178_853788_3945.jpg"
+    },
+    {
+      "title": "리센느 원이 ‘탈퇴’ 당했다…언니 계정 날린 미나미 향한 쿨한 반응",
+      "url": "https://biz.heraldcorp.com/article/10846269?ref=naver",
+      "date": "2026.08.20",
+      "source": "biz.heraldcorp.com",
+      "thumbnail": "https://wimg.heraldcorp.com/news/cms/2026/08/20/news-p.v1.20260820.c2263786945443eb9427771ce63806c7_T1.jpg"
+    },
+    {
+      "title": "MBC '아시안게임' 김성주→안정환 중계 라인업부터 '대세' 리센느까지",
+      "url": "http://enews.imbc.com/News/RetrieveNewsInfo/515310",
+      "date": "2026.08.20",
+      "source": "enews.imbc.com",
+      "thumbnail": "https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2026/08/20/ec5a454c-61c2-49dc-ba93-3d824df77557.jpg"
+    },
+    {
+      "title": "리센느, ‘거제 집중호우 피해 복구’ 5천만 원 기부",
+      "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8641330&ref=A",
+      "date": "2026.08.20",
+      "source": "news.kbs.co.kr",
+      "thumbnail": "http://news.kbs.co.kr/data/news/title_image/newsmp4/changwon/newsplaza/2026/08/20/90_8641330.jpg"
+    },
+    {
+      "title": "리센느 원이, 돌연 ‘탈퇴’→졸지에 ‘6인조’…무슨 일?",
+      "url": "https://sports.khan.co.kr/article/202608200906003?pt=nv",
+      "date": "2026.08.20",
+      "source": "sports.khan.co.kr",
+      "thumbnail": null
+    },
     {
       "title": "\"거제 야호\" 외쳤던 리센느, 수해 복구 기금 5000만 원 쾌척",
       "url": "https://ent.sbs.co.kr/news/article.do?article_id=E10010320853&plink=ORI&cooper=NAVER",
       "date": "2026.08.19",
       "source": "ent.sbs.co.kr",
       "thumbnail": null
-    },
-    {
-      "title": "Stray Kids·리센느, 33주차 써클차트 2관왕…HUNTR/X·WayV도 정상",
-      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16168203",
-      "date": "2026.08.19",
-      "source": "topstarnews.net",
-      "thumbnail": "https://cdn.topstarnews.net/news/photo/202608/16168203_1997430_5735_crop.jpg"
     },
     {
       "title": "김혜윤·다현·장다아·혜리, 'AAA 2026'을 더 찬란하게...참석 확정 [공...",
@@ -44,13 +107,6 @@
       "thumbnail": "https://newsimg.hankookilbo.com/2026/08/20/dd764bc0-6d23-4000-8cd3-3b454107ccdf.jpg"
     },
     {
-      "title": "‘관광’ 훈풍 거제?…역대급 극한 호우가 찬물",
-      "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8641193&ref=A",
-      "date": "2026.08.19",
-      "source": "news.kbs.co.kr",
-      "thumbnail": "http://news.kbs.co.kr/data/news/title_image/newsmp4/newsplaza/2026/08/20/150_8641193.jpg"
-    },
-    {
       "title": "폭우가 할퀴고 간 거제 해수욕장…쓰레기더미·흙탕물로 '아수라장'",
       "url": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5213527",
       "date": "2026.08.19",
@@ -72,32 +128,11 @@
       "thumbnail": "http://file.osen.co.kr/article_thumb/2026/08/20/202608200702774047_6a8628f605b5f_300x.jpg"
     },
     {
-      "title": "\"리센느 원이=이상형\"…24년 저점매수 '나솔사계' 솔로남 '재조명'",
-      "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1002642",
-      "date": "2026.08.19",
-      "source": "spotvnews.co.kr",
-      "thumbnail": "https://7lgigmttrjuyfehsudec15072.edge.naverncp.com/news/photo/202608/1002642_2004114_9609.png"
-    },
-    {
       "title": "김혜윤·다현(트와이스)·장다아·혜리, 'AAA 2026' 참석 [공식]",
       "url": "https://www.starnewskorea.com/star/2026/08/20/2026081904501576230",
       "date": "2026.08.19",
       "source": "starnewskorea.com",
-      "thumbnail": "https://image.starnewskorea.com/21/2026/08/2026081904501576230_1.jpg"
-    },
-    {
-      "title": "이병헌·이준호·심은경·선재스님·최현욱·이수지·앤더블·키오프…...",
-      "url": "https://www.newsis.com/view/NISX20260818_0003753176",
-      "date": "2026.08.19",
-      "source": "newsis.com",
-      "thumbnail": "https://img1.newsis.com/2026/08/20/NISI20260820_0002216381_web.jpg"
-    },
-    {
-      "title": "리센느 미나미, 언어 천재였다..\"영유 다녀서 영어가 더 편했다\" (비보티...",
-      "url": "http://www.osen.co.kr/article/G1112860347",
-      "date": "2026.08.19",
-      "source": "osen.co.kr",
-      "thumbnail": "http://file.osen.co.kr/article_thumb/2026/08/19/202608192319778398_6a85bbb915ca4_300x.jpg"
+      "thumbnail": null
     },
     {
       "title": "'원이 고향' 거제 위해 리센느가 나섰다…수해 복구에 5000만원 기부",
@@ -105,41 +140,6 @@
       "date": "2026.08.19",
       "source": "mt.co.kr",
       "thumbnail": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/08/2026082005181073254_1.jpg"
-    },
-    {
-      "title": "'리센느 효과' 북적이던 거제 해변…물난리에 피서객 발길 '뚝'",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008712722&plink=ORI&cooper=NAVER",
-      "date": "2026.08.19",
-      "source": "news.sbs.co.kr",
-      "thumbnail": null
-    },
-    {
-      "title": "리센느 팬부터 기업까지, 수해 거제 돕기 나섰다",
-      "url": "https://www.donga.com/news/People/article/all/20260820/134508488/2",
-      "date": "2026.08.19",
-      "source": "donga.com",
-      "thumbnail": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/20/134508803.1.png"
-    },
-    {
-      "title": "할리스, 창사 첫 브랜드 광고 모델로 '리센느' 선정",
-      "url": "https://www.ggilbo.com/news/articleView.html?idxno=1175929",
-      "date": "2026.08.19",
-      "source": "ggilbo.com",
-      "thumbnail": "https://cdn.ggilbo.com/news/photo/202608/1175929_1028312_366.jpg"
-    },
-    {
-      "title": "\"거제 야호\" 리센느 수해 성금 5000만원…팬들도 하루 만에 4000만원",
-      "url": "http://weekly.chosun.com/news/articleView.html?idxno=54454",
-      "date": "2026.08.19",
-      "source": "weekly.chosun.com",
-      "thumbnail": "https://cdn.weekly.chosun.com/news/thumbnail/202608/54454_84412_924_v150.jpg"
-    },
-    {
-      "title": "Rescene, fans raise 90 million won for flood-hit Geoje",
-      "url": "https://www.koreajoongangdaily.com/entertainment/rescene-fans-raise-90-million-won-for-floodhit-geoje/12833521",
-      "date": "2026.08.19",
-      "source": "koreajoongangdaily.com",
-      "thumbnail": null
     }
   ]
 }
