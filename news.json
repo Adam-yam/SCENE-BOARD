@@ -1,6 +1,13 @@
 {
-  "updated": "2026-08-20T15:00:40Z",
+  "updated": "2026-08-20T16:00:39Z",
   "articles": [
+    {
+      "title": "거제에 5천만원 기부한 리센느, 8월 2주차 아차랭킹 1위",
+      "url": "https://www.mydaily.co.kr/page/view/2026082021120055458",
+      "date": "2026.08.20",
+      "source": "mydaily.co.kr",
+      "thumbnail": "https://mydaily.co.kr/photos/2026/08/20/2026082021114656152_l.jpg"
+    },
     {
       "title": "이찬원 선두·안성훈·박서진 1만2559점 접전, 방탄소년단 7만205점 급증...",
       "url": "https://www.topstarnews.net/news/articleView.html?idxno=16168951",
@@ -121,13 +128,6 @@
       "thumbnail": "https://cdn.stardailynews.co.kr/news/thumbnail/202608/546665_578888_4115_v150.jpg"
     },
     {
-      "title": "김성주·안정환, 아이치·나고야 AG 중계 호흡…리센느는 MBC 홍보대사",
-      "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=609077",
-      "date": "2026.08.20",
-      "source": "mdtoday.co.kr",
-      "thumbnail": "https://cdn.mdtoday.co.kr/news/photo/202608/609077_310122_4159.jpg"
-    },
-    {
       "title": "갤럭시 Z 폴드8이 바꾼 셀피 메이크업 공식 6",
       "url": "https://www.harpersbazaar.co.kr/article/1908215",
       "date": "2026.08.20",
@@ -139,7 +139,7 @@
       "url": "https://www.starnewskorea.com/photo/2026/08/20/2026082016151459098",
       "date": "2026.08.20",
       "source": "starnewskorea.com",
-      "thumbnail": "https://image.starnewskorea.com/21/2026/08/2026082016151459098_1.jpg"
+      "thumbnail": null
     }
   ]
 }
