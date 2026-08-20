@@ -1,6 +1,41 @@
 {
-  "updated": "2026-08-20T03:00:36Z",
+  "updated": "2026-08-20T04:00:37Z",
   "articles": [
+    {
+      "title": "[핫클릭] 폭염에 알프스 빙하 녹자…34년 전 시신 발견 外",
+      "url": "http://www.yonhapnewstv.co.kr/news/MYH20260820124532chA",
+      "date": "2026.08.20",
+      "source": "yonhapnewstv.co.kr",
+      "thumbnail": "https://media.yonhapnewstv.co.kr/article/MYH/20260820/MYH20260820124532chA.jpg"
+    },
+    {
+      "title": "MBC, 2026 아시안게임 중계진 공개...김성주·안정환 등 역대급 라인업",
+      "url": "https://www.ppss.kr/news/articleView.html?idxno=306363",
+      "date": "2026.08.20",
+      "source": "ppss.kr",
+      "thumbnail": "https://cdn.ppss.kr/news/photo/202608/306363_126875_2538.jpg"
+    },
+    {
+      "title": "‘관광’ 훈풍 거제?…역대급 극한 호우가 찬물",
+      "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8641588&ref=A",
+      "date": "2026.08.20",
+      "source": "news.kbs.co.kr",
+      "thumbnail": "http://news.kbs.co.kr/data/news/title_image/newsmp4/news12/2026/08/20/70_8641588.jpg"
+    },
+    {
+      "title": "리센느 원이, 미나미에 돌연 ‘탈퇴’ 당했다...계정 삭제에 “약간 비...",
+      "url": "https://www.mk.co.kr/article/12132106",
+      "date": "2026.08.20",
+      "source": "mk.co.kr",
+      "thumbnail": "https://wimg.mk.co.kr/news/cms/202608/20/news-p.v1.20260820.837092ca16eb4ea2993aa3f78f030329_P1.png"
+    },
+    {
+      "title": "'리센느 리더' 원이, 갑작스러운 탈퇴 소동→팬들 깜짝…\"약간 비상, 복...",
+      "url": "https://www.tvreport.co.kr/breaking/article/1069972/",
+      "date": "2026.08.20",
+      "source": "tvreport.co.kr",
+      "thumbnail": "https://img.tvreportcdn.de/cms-content/uploads/2026/08/20/fb043266-2e06-4fd4-9236-e6f429988eeb.jpg"
+    },
     {
       "title": "연예인 ‘수재민 돕기’ 행렬… 리센느, 거제에 5000만원 기부",
       "url": "https://www.munhwa.com/article/11610699?ref=naver",
@@ -72,13 +107,6 @@
       "thumbnail": "https://cdn.newsfreezone.co.kr/news/thumbnail/202608/704806_751470_2118_v150.jpg"
     },
     {
-      "title": "‘관광’ 훈풍 거제?…역대급 극한 호우가 찬물",
-      "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8641437&ref=A",
-      "date": "2026.08.20",
-      "source": "news.kbs.co.kr",
-      "thumbnail": "http://news.kbs.co.kr/data/news/title_image/newsmp4/changwon/news930/2026/08/20/40_8641437.jpg"
-    },
-    {
       "title": "김성주·안정환·오승환, MBC 아시안게임 중계...리센느 홍보대사",
       "url": "https://www.slist.kr/news/articleView.html?idxno=760025",
       "date": "2026.08.20",
@@ -107,39 +135,11 @@
       "thumbnail": "https://www.bntnews.co.kr/data/bnt/image/2026/08/20/bnt202608200245.jpg"
     },
     {
-      "title": "박서진 \"고향과 가까운 곳인데\"…수해 이웃 위해 1000만원 기부",
-      "url": "https://www.hankyung.com/article/202608201519H",
-      "date": "2026.08.20",
-      "source": "hankyung.com",
-      "thumbnail": "https://img.hankyung.com/photo/202608/03.42743457.1.jpg"
-    },
-    {
-      "title": "리센느 원이, 갑작스런 탈퇴?…미나미 실수로 벌어진 해프닝",
-      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16168277",
-      "date": "2026.08.20",
-      "source": "topstarnews.net",
-      "thumbnail": "https://cdn.topstarnews.net/news/photo/202608/16168277_1997552_5516_crop.jpg"
-    },
-    {
       "title": "천안 K-컬처박람회 9월 2일 개막, \"모든 이들에 즐거움과 활력 주는 박람...",
       "url": "http://www.segyebiz.com/newsView/20260820507456?OutUrl=naver",
       "date": "2026.08.20",
       "source": "segyebiz.com",
       "thumbnail": "http://www.segyebiz.com//content/image/2026/08/20/20260820507454.jpg"
-    },
-    {
-      "title": "이병헌·이준호, 제8회 한류엑스포 수상자 선정",
-      "url": "https://www.sportsseoul.com/news/read/1629631?ref=naver",
-      "date": "2026.08.20",
-      "source": "sportsseoul.com",
-      "thumbnail": null
-    },
-    {
-      "title": "스키즈·리센느 나란히 '2관왕'…33주차 써클차트 결과 발표",
-      "url": "https://www.nc.press/news/articleView.html?idxno=624178",
-      "date": "2026.08.20",
-      "source": "nc.press",
-      "thumbnail": "https://cdn.nc.press/news/photo/202608/624178_853788_3945.jpg"
     }
   ]
 }
