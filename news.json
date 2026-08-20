@@ -1,6 +1,13 @@
 {
-  "updated": "2026-08-20T20:00:37Z",
+  "updated": "2026-08-20T21:00:41Z",
   "articles": [
+    {
+      "title": "K팝 뒤흔든 ‘거제 야호’와 ‘북부대공’…밈이 차트를 다시 쓴다",
+      "url": "https://www.newsen.com/news_view.php?uid=202608201800052610",
+      "date": "2026.08.20",
+      "source": "newsen.com",
+      "thumbnail": "https://photo.newsen.com/news_photo/2026/08/20/202608201800052610_1.jpg"
+    },
     {
       "title": "리센느, MBC 2026 아시안게임 응원단…김성주·안정환과 케미 예고",
       "url": "https://enter.etoday.co.kr/news/view/301295",
@@ -100,13 +107,6 @@
       "thumbnail": "https://www.breaknews.com/imgdata/breaknews_com/202608/2026081014324448.jpg"
     },
     {
-      "title": "리센느(RESCENE), 미국 물~오이쉬~❣️(입국)[뉴스엔TV]",
-      "url": "https://www.newsen.com/news_view.php?uid=202608201734111310",
-      "date": "2026.08.20",
-      "source": "newsen.com",
-      "thumbnail": "https://photo.newsen.com/news_photo/2026/08/20/202608201734111310_1.jpg"
-    },
-    {
       "title": "[현장영상] \"민낯도 예뻐\"...리센느, 러블리 미모",
       "url": "http://www.dispatch.co.kr/2346687",
       "date": "2026.08.20",
@@ -121,13 +121,6 @@
       "thumbnail": "https://cdn.news.lghellovision.net/news/thumbnail/202608/551833_189023_2449_v150.jpg"
     },
     {
-      "title": "“고향 가까운 곳 피해 소식에…” 박서진·강승윤, 폭우 피해에 나란히...",
-      "url": "https://www.mk.co.kr/article/12132406",
-      "date": "2026.08.20",
-      "source": "mk.co.kr",
-      "thumbnail": "https://pimg.mk.co.kr/news/cms/202608/20/news-p.v1.20260820.eac38db3a427409e8095d124b69ebe2e_R.jpg"
-    },
-    {
       "title": "갤럭시 Z 폴드8이 바꾼 셀피 메이크업 공식 6",
       "url": "https://www.harpersbazaar.co.kr/article/1908215",
       "date": "2026.08.20",
@@ -140,6 +133,13 @@
       "date": "2026.08.20",
       "source": "starnewskorea.com",
       "thumbnail": "https://image.starnewskorea.com/21/2026/08/2026082016151459098_1.jpg"
+    },
+    {
+      "title": "\"나고야-호\"…리센느, MBC '아시안게임' 방송 홍보대사",
+      "url": "https://www.edaily.co.kr/News/Read?newsId=04792086645549288&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+      "date": "2026.08.20",
+      "source": "edaily.co.kr",
+      "thumbnail": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26082001218.jpg"
     }
   ]
 }
