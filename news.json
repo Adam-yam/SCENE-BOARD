@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T07:00:43Z",
+  "updated": "2026-08-21T08:00:36Z",
   "articles": [
     {
       "title": "고양고양이의 귀환…고양시, 숏폼으로 시정 알리며 조회수 253만 돌파",
@@ -9,18 +9,18 @@
       "thumbnail": "https://img.wowtv.co.kr/vodimg/WebEditor/w1787294612303.jpg"
     },
     {
-      "title": "리센느 원이, 美 LA 접수한 대세 미모 [★한컷]",
-      "url": "http://www.tvdaily.co.kr/read.php3?aid=17872924371798626017",
-      "date": "2026.08.21",
-      "source": "tvdaily.co.kr",
-      "thumbnail": "http://image.tvdaily.co.kr/upimages/gisaimg/202608/211798626.jpg"
-    },
-    {
       "title": "리센느, MBC 아시안게임 홍보대사로 열기 높인다",
       "url": "https://www.stardailynews.co.kr/news/articleView.html?idxno=546769",
       "date": "2026.08.21",
       "source": "stardailynews.co.kr",
       "thumbnail": "https://cdn.stardailynews.co.kr/news/thumbnail/202608/546769_579006_1515_v150.jpg"
+    },
+    {
+      "title": "리센느 원이, 美 LA 접수한 대세 미모 [★한컷]",
+      "url": "http://www.tvdaily.co.kr/read.php3?aid=17872924371798626017",
+      "date": "2026.08.21",
+      "source": "tvdaily.co.kr",
+      "thumbnail": "http://image.tvdaily.co.kr/upimages/gisaimg/202608/211798626.jpg"
     },
     {
       "title": "[K스케치] 리센느 '야호'에 빠진 연예계…배우→K팝 스타, 대세 포즈",
@@ -111,7 +111,7 @@
       "url": "https://www.mydaily.co.kr/page/view/2026082110293468728",
       "date": "2026.08.21",
       "source": "mydaily.co.kr",
-      "thumbnail": "https://mydaily.co.kr/photos/2026/08/21/2026082111330478133_l.jpg"
+      "thumbnail": null
     },
     {
       "title": "'미우새' 지석진, 지예은♥바타 최대 방해꾼?…신동엽 \"최악이다\"",
@@ -119,13 +119,6 @@
       "date": "2026.08.21",
       "source": "joynews24.com",
       "thumbnail": "https://image.inews24.com/v1/2ba54133f2b94a.jpg"
-    },
-    {
-      "title": "'미우새' 지예은, 사랑꾼 바타와 러브스토리 공개 \"지석진=최대 방해꾼...",
-      "url": "http://www.stoo.com/article.php?aid=108440135635",
-      "date": "2026.08.21",
-      "source": "stoo.com",
-      "thumbnail": null
     },
     {
       "title": "한동안 뜸했던 ‘이 메이크업’이 여기저기서 포착되는 중!",
@@ -140,6 +133,13 @@
       "date": "2026.08.21",
       "source": "slist.kr",
       "thumbnail": "https://cdn.slist.kr/news/thumbnail/202608/760273_1164675_5921_v150.jpg"
+    },
+    {
+      "title": "[경남 브리핑 모음(8월21일)] 진주시, ‘한국항공우주학회 무인기 심포...",
+      "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608202035446880793",
+      "date": "2026.08.20",
+      "source": "dnews.co.kr",
+      "thumbnail": "https://image.dnews.co.kr/photo/photo/2026/08/20/202608202035446880793-2-685392.jpg"
     }
   ]
 }
