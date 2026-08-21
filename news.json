@@ -1,18 +1,32 @@
 {
-  "updated": "2026-08-21T14:00:44Z",
+  "updated": "2026-08-21T15:00:42Z",
   "articles": [
     {
-      "title": "'와썹맨' 사전 섭외설 해명‥황덕연 \"주작=음모론이라 생각\"",
-      "url": "https://news.jtbc.co.kr/article/NB12314530?influxDiv=NAVER",
+      "title": "리센느 제나, 닮은꼴 고윤정 만났다 \"더 어리고 예뻐\" [안원잘부]",
+      "url": "https://www.starnewskorea.com/star/2026/08/21/2026082122163378300",
       "date": "2026.08.21",
-      "source": "news.jtbc.co.kr",
-      "thumbnail": null
+      "source": "starnewskorea.com",
+      "thumbnail": "https://image.starnewskorea.com/cdn-cgi/image/f=auto,w=1200,h=657,fit=cover,q=high,sharpen=2/21/2026/08/2026082122163378300_1.jpg"
+    },
+    {
+      "title": "리센느가 불러온 '거제 여행 열풍'...폭우로 관광객 '뚝' [앵커리포트]",
+      "url": "https://www.ytn.co.kr/_ln/0115_202608212241469530",
+      "date": "2026.08.21",
+      "source": "ytn.co.kr",
+      "thumbnail": "https://image.ytn.co.kr/general/jpg/2026/0821/202608212241469530_t.jpg"
     },
     {
       "title": "“밥 먹을까요?” 고윤정 데이트 제안에 ‘주저앉은’ 리센느 제나… 완...",
       "url": "https://sports.khan.co.kr/article/202608212211003?pt=nv",
       "date": "2026.08.21",
       "source": "sports.khan.co.kr",
+      "thumbnail": null
+    },
+    {
+      "title": "'와썹맨' 사전 섭외설 해명‥황덕연 \"주작=음모론이라 생각\"",
+      "url": "https://news.jtbc.co.kr/article/NB12314530?influxDiv=NAVER",
+      "date": "2026.08.21",
+      "source": "news.jtbc.co.kr",
       "thumbnail": null
     },
     {
@@ -83,7 +97,7 @@
       "url": "https://www.starnewskorea.com/music/2026/08/21/2026082117130560720",
       "date": "2026.08.21",
       "source": "starnewskorea.com",
-      "thumbnail": "https://image.starnewskorea.com/21/2026/08/2026082117130560720_1.jpg"
+      "thumbnail": null
     },
     {
       "title": "동아오츠카 나랑드사이다, 제로 탄산음료 시장서 브랜드 접점 넓혀",
@@ -107,13 +121,6 @@
       "thumbnail": "https://img.wowtv.co.kr/vodimg/WebEditor/w1787294612303.jpg"
     },
     {
-      "title": "리센느 원이, 美 LA 접수한 대세 미모 [★한컷]",
-      "url": "http://www.tvdaily.co.kr/read.php3?aid=17872924371798626017",
-      "date": "2026.08.21",
-      "source": "tvdaily.co.kr",
-      "thumbnail": "http://image.tvdaily.co.kr/upimages/gisaimg/202608/211798626.jpg"
-    },
-    {
       "title": "리센느, MBC 아시안게임 홍보대사로 열기 높인다",
       "url": "https://www.stardailynews.co.kr/news/articleView.html?idxno=546769",
       "date": "2026.08.21",
@@ -121,25 +128,18 @@
       "thumbnail": "https://cdn.stardailynews.co.kr/news/thumbnail/202608/546769_579006_1515_v150.jpg"
     },
     {
+      "title": "리센느 원이, 美 LA 접수한 대세 미모 [★한컷]",
+      "url": "http://www.tvdaily.co.kr/read.php3?aid=17872924371798626017",
+      "date": "2026.08.21",
+      "source": "tvdaily.co.kr",
+      "thumbnail": "http://image.tvdaily.co.kr/upimages/gisaimg/202608/211798626.jpg"
+    },
+    {
       "title": "[K스케치] 리센느 '야호'에 빠진 연예계…배우→K팝 스타, 대세 포즈",
       "url": "https://www.nc.press/news/articleView.html?idxno=624342",
       "date": "2026.08.21",
       "source": "nc.press",
       "thumbnail": "https://cdn.nc.press/news/photo/202608/624342_854204_3613.jpg"
-    },
-    {
-      "title": "고양시, 고양고양이 활용해 정책·문화행사·지역상권 소개",
-      "url": "http://www.metroseoul.co.kr/article/20260821500111",
-      "date": "2026.08.21",
-      "source": "metroseoul.co.kr",
-      "thumbnail": null
-    },
-    {
-      "title": "고양고양이 숏폼 누적 조회수 253만…고양시, 트렌드 활용 시정 홍보",
-      "url": "https://www.onews.tv/news/articleView.html?idxno=285346",
-      "date": "2026.08.21",
-      "source": "onews.tv",
-      "thumbnail": "https://cdn.onews.tv/news/thumbnail/202608/285346_345120_3645_v150.jpg"
     }
   ]
 }
