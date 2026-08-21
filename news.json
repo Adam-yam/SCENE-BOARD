@@ -1,6 +1,27 @@
 {
-  "updated": "2026-08-21T22:00:42Z",
+  "updated": "2026-08-21T23:00:40Z",
   "articles": [
+    {
+      "title": "리센느 제나, 닮은꼴 고윤정 만났다 (안원잘부)",
+      "url": "https://www.mk.co.kr/article/12133713",
+      "date": "2026.08.21",
+      "source": "mk.co.kr",
+      "thumbnail": "https://pimg.mk.co.kr/news/cms/202608/22/news-p.v1.20260822.3accc9c7cb6a4faaa895c9fa9fbb07e2_R.png"
+    },
+    {
+      "title": "유영우 \"리센느·이선민 인기에 '이제 너만 남았다'고\" [코미디언을 만...",
+      "url": "https://www.news1.kr/entertain/interview/6265291",
+      "date": "2026.08.21",
+      "source": "news1.kr",
+      "thumbnail": null
+    },
+    {
+      "title": "유영우 \"노잼 이미지, 마음 고생했지만…노래로 새 시도\" [코미디언을 만...",
+      "url": "https://www.news1.kr/entertain/interview/6265293",
+      "date": "2026.08.21",
+      "source": "news1.kr",
+      "thumbnail": null
+    },
     {
       "title": "“디워, 생각보다 재밌네”…넷플 ‘역주행 영화’ 의외의 공통점",
       "url": "https://www.joongang.co.kr/article/25455271",
@@ -37,6 +58,13 @@
       "thumbnail": "https://pds.joongang.co.kr/news/component/joongang_sunday/202608/22/baeeb8fc-a0fa-47fb-9d14-85b3654c60b3.jpg"
     },
     {
+      "title": "리센느 제나, 닮은꼴 고윤정 만났다 \"더 어리고 예뻐\" [안원잘부]",
+      "url": "https://www.starnewskorea.com/star/2026/08/21/2026082122163378300",
+      "date": "2026.08.21",
+      "source": "starnewskorea.com",
+      "thumbnail": "https://image.starnewskorea.com/cdn-cgi/image/f=auto,w=1200,h=657,fit=cover,q=high,sharpen=2/21/2026/08/2026082122163378300_1.jpg"
+    },
+    {
       "title": "리센느가 불러온 '거제 여행 열풍'...폭우로 관광객 '뚝' [앵커리포트]",
       "url": "https://www.ytn.co.kr/_ln/0115_202608212241469530",
       "date": "2026.08.21",
@@ -44,10 +72,10 @@
       "thumbnail": "https://image.ytn.co.kr/general/jpg/2026/0821/202608212241469530_t.jpg"
     },
     {
-      "title": "리센느 제나, 닮은꼴 고윤정 만났다 \"더 어리고 예뻐\" [안원잘부]",
-      "url": "https://www.starnewskorea.com/star/2026/08/21/2026082122163378300",
+      "title": "“밥 먹을까요?” 고윤정 데이트 제안에 ‘주저앉은’ 리센느 제나… 완...",
+      "url": "https://sports.khan.co.kr/article/202608212211003?pt=nv",
       "date": "2026.08.21",
-      "source": "starnewskorea.com",
+      "source": "sports.khan.co.kr",
       "thumbnail": null
     },
     {
@@ -55,13 +83,6 @@
       "url": "https://news.jtbc.co.kr/article/NB12314530?influxDiv=NAVER",
       "date": "2026.08.21",
       "source": "news.jtbc.co.kr",
-      "thumbnail": null
-    },
-    {
-      "title": "“밥 먹을까요?” 고윤정 데이트 제안에 ‘주저앉은’ 리센느 제나… 완...",
-      "url": "https://sports.khan.co.kr/article/202608212211003?pt=nv",
-      "date": "2026.08.21",
-      "source": "sports.khan.co.kr",
       "thumbnail": null
     },
     {
@@ -119,27 +140,6 @@
       "date": "2026.08.21",
       "source": "stoo.com",
       "thumbnail": null
-    },
-    {
-      "title": "“리마인의 러브 어택”…리센느 팬덤, 수해 복구성금 기부 릴레이 1억...",
-      "url": "https://isplus.com/article/view/isp202608210137",
-      "date": "2026.08.21",
-      "source": "isplus.com",
-      "thumbnail": "https://isplus.com/data/isp/image/2026/08/12/isp20260812000260.800x.0.jpg"
-    },
-    {
-      "title": "리센느 팬덤 '리마인', 원이 고향 거제 수해재난에 '기부금 1억' 돌파 [스...",
-      "url": "https://www.starnewskorea.com/music/2026/08/21/2026082117130560720",
-      "date": "2026.08.21",
-      "source": "starnewskorea.com",
-      "thumbnail": "https://image.starnewskorea.com/21/2026/08/2026082117130560720_1.jpg"
-    },
-    {
-      "title": "동아오츠카 나랑드사이다, 제로 탄산음료 시장서 브랜드 접점 넓혀",
-      "url": "https://www.polinews.co.kr/news/articleView.html?idxno=740860",
-      "date": "2026.08.21",
-      "source": "polinews.co.kr",
-      "thumbnail": "https://cdn.polinews.co.kr/news/thumbnail/202608/740860_562609_00_v150.jpg"
     }
   ]
 }
