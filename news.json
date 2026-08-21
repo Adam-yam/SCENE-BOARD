@@ -1,6 +1,55 @@
 {
-  "updated": "2026-08-21T05:00:37Z",
+  "updated": "2026-08-21T06:00:39Z",
   "articles": [
+    {
+      "title": "고양시, 고양고양이 활용해 정책·문화행사·지역상권 소개",
+      "url": "http://www.metroseoul.co.kr/article/20260821500111",
+      "date": "2026.08.21",
+      "source": "metroseoul.co.kr",
+      "thumbnail": null
+    },
+    {
+      "title": "[TD영상] 화사, '베스트 음원상 수상 무무들 덕분이야' 모든 분들에게 감...",
+      "url": "http://www.tvdaily.co.kr/read.php3?aid=17872912581798624003",
+      "date": "2026.08.21",
+      "source": "tvdaily.co.kr",
+      "thumbnail": "http://image.tvdaily.co.kr/upimages/gisaimg/202608/1787291258_1798624.png"
+    },
+    {
+      "title": "고양고양이 숏폼 누적 조회수 253만…고양시, 트렌드 활용 시정 홍보",
+      "url": "https://www.onews.tv/news/articleView.html?idxno=285346",
+      "date": "2026.08.21",
+      "source": "onews.tv",
+      "thumbnail": "https://cdn.onews.tv/news/thumbnail/202608/285346_345120_3645_v150.jpg"
+    },
+    {
+      "title": "필승 조합! ‘흰 티+청바지’ 스타일링",
+      "url": "https://www.bntnews.co.kr/article/view/bnt202608200285",
+      "date": "2026.08.21",
+      "source": "bntnews.co.kr",
+      "thumbnail": "https://www.bntnews.co.kr/data/bnt/image/2026/08/20/bnt202608200588.jpg"
+    },
+    {
+      "title": "이제 빵 뜨나 싶었는데...'리센느 효과' 보기 직전 '한숨' [자막뉴스]",
+      "url": "https://www.ytn.co.kr/_ln/0134_202608211423477787",
+      "date": "2026.08.21",
+      "source": "ytn.co.kr",
+      "thumbnail": "https://image.ytn.co.kr/general/jpg/2026/0821/202608211423477787_t.jpg"
+    },
+    {
+      "title": "[위클리오늘] 고양시 '고양고양이', 숏폼으로 시민 소통 강화…SNS 누적...",
+      "url": "http://www.weeklytoday.com/news/articleView.html?idxno=791201",
+      "date": "2026.08.21",
+      "source": "weeklytoday.com",
+      "thumbnail": "https://cdn.weeklytoday.com/news/thumbnail/202608/791201_976587_65_v150.jpg"
+    },
+    {
+      "title": "지예은♥바타 연애 최대 방해꾼은 지석진?..신동엽마저 “최악이다”(‘...",
+      "url": "https://www.heraldmuse.com/article/10848127?ref=naver",
+      "date": "2026.08.21",
+      "source": "heraldmuse.com",
+      "thumbnail": "https://wimg.heraldcorp.com/news/cms/2026/08/21/news-p.v1.20260821.7cedbb4ce12b49e0a6463a38ffac4e18_T1.jpg"
+    },
     {
       "title": "돌아온 '고양고양이', 숏폼 타고 시민 일상 속으로",
       "url": "https://www.discoverynews.kr/news/articleView.html?idxno=1099217",
@@ -23,18 +72,11 @@
       "thumbnail": "https://img1.newsis.com/2026/08/21/NISI20260821_0002217739_web.jpg"
     },
     {
-      "title": "[위클리오늘] hy, 할리스, 크라운해태제과 소식(8.21)",
-      "url": "http://www.weeklytoday.com/news/articleView.html?idxno=791136",
-      "date": "2026.08.21",
-      "source": "weeklytoday.com",
-      "thumbnail": "https://cdn.weeklytoday.com/news/thumbnail/202608/791136_976424_632_v150.jpg"
-    },
-    {
       "title": "폭우로 사라진 모래사장, 다시 “거제 야호”",
       "url": "https://www.segye.com/newsView/20260821506244?OutUrl=naver",
       "date": "2026.08.21",
       "source": "segye.com",
-      "thumbnail": null
+      "thumbnail": "https://www.segye.com/content/image/2026/08/21/20260821506281.jpg"
     },
     {
       "title": "'공개연애' 지예은, 남친 자랑 신났네...\"♥바타, 날 위해 요리 배우는 ...",
@@ -58,18 +100,18 @@
       "thumbnail": "https://image.inews24.com/v1/2ba54133f2b94a.jpg"
     },
     {
-      "title": "리센느, \"멤버별 매력 한가득\" 포토 공개에 스타트렌드 걸그룹 1위 질주",
-      "url": "https://www.stardailynews.co.kr/news/articleView.html?idxno=546731",
-      "date": "2026.08.21",
-      "source": "stardailynews.co.kr",
-      "thumbnail": "https://cdn.stardailynews.co.kr/news/thumbnail/202608/546731_578962_322_v150.jpg"
-    },
-    {
       "title": "'미우새' 지예은, 사랑꾼 바타와 러브스토리 공개 \"지석진=최대 방해꾼...",
       "url": "http://www.stoo.com/article.php?aid=108440135635",
       "date": "2026.08.21",
       "source": "stoo.com",
       "thumbnail": null
+    },
+    {
+      "title": "리센느, \"멤버별 매력 한가득\" 포토 공개에 스타트렌드 걸그룹 1위 질주",
+      "url": "https://www.stardailynews.co.kr/news/articleView.html?idxno=546731",
+      "date": "2026.08.21",
+      "source": "stardailynews.co.kr",
+      "thumbnail": "https://cdn.stardailynews.co.kr/news/thumbnail/202608/546731_578962_322_v150.jpg"
     },
     {
       "title": "지예은♥바타 '꽁냥' 러브스토리 대방출…지석진 언급에 탄식까지('미우...",
@@ -98,48 +140,6 @@
       "date": "2026.08.21",
       "source": "wkorea.com",
       "thumbnail": "https://www.wkorea.com/wp_data/w/2026/08/style_6a854c6fa17eb-1920x1080.jpg?x=1080&y=773&ver=1.1.86"
-    },
-    {
-      "title": "에이티즈·아일릿·박지현·카르멘, '2026 KWDA' 인기상…팬심 들썩",
-      "url": "https://www.hankyung.com/article/202608214346H",
-      "date": "2026.08.21",
-      "source": "hankyung.com",
-      "thumbnail": "https://img.hankyung.com/photo/202608/01.45403472.1.jpg"
-    },
-    {
-      "title": "지예은♥바타, 공개열애 4개월만 결혼 언급하더니..\"바타가 요리 배우는...",
-      "url": "http://www.osen.co.kr/article/G1112861171",
-      "date": "2026.08.21",
-      "source": "osen.co.kr",
-      "thumbnail": "http://file.osen.co.kr/article_thumb/2026/08/21/202608211031770454_6a87acd324ece_300x.jpeg"
-    },
-    {
-      "title": "'미우새' 지예은, 연인 바타 향한 애정 \"날 위해 요리도 배워\" [T-데이]",
-      "url": "http://www.tvdaily.co.kr/read.php3?aid=17872760681798596002",
-      "date": "2026.08.21",
-      "source": "tvdaily.co.kr",
-      "thumbnail": "http://image.tvdaily.co.kr/upimages/gisaimg/202608/1787276068_1798596.jpg"
-    },
-    {
-      "title": "'미우새' 지석진 \"내가 지예은♥바타 연애 최대 방해꾼\"…신동엽 \"최악...",
-      "url": "https://ent.sbs.co.kr/news/article.do?article_id=E10010320937&plink=ORI&cooper=NAVER",
-      "date": "2026.08.21",
-      "source": "ent.sbs.co.kr",
-      "thumbnail": null
-    },
-    {
-      "title": "‘초고속 열애 인정’ 지예은 “♥바타, 날 위해 요리까지 배우는 사랑...",
-      "url": "https://www.newsen.com/news_view.php?uid=202608211010190410",
-      "date": "2026.08.21",
-      "source": "newsen.com",
-      "thumbnail": "https://photo.newsen.com/news_photo/2026/08/21/202608211010190410_1.jpg"
-    },
-    {
-      "title": "지예은, ♥바타와 러브스토리 공개…\"날 위해 요리도 배워\"",
-      "url": "https://www.news1.kr/entertain/broadcast-tv/6265306",
-      "date": "2026.08.21",
-      "source": "news1.kr",
-      "thumbnail": null
     }
   ]
 }
