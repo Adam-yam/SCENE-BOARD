@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T17:00:46Z",
+  "updated": "2026-08-21T18:00:43Z",
   "articles": [
     {
       "title": "'유행절단기' 전현무, '야호'까지 절단내나...\"리센느 미안해\" (나 혼자...",
@@ -23,13 +23,6 @@
       "thumbnail": "https://pds.joongang.co.kr/news/component/joongang_sunday/202608/22/baeeb8fc-a0fa-47fb-9d14-85b3654c60b3.jpg"
     },
     {
-      "title": "리센느 제나, 닮은꼴 고윤정 만났다 \"더 어리고 예뻐\" [안원잘부]",
-      "url": "https://www.starnewskorea.com/star/2026/08/21/2026082122163378300",
-      "date": "2026.08.21",
-      "source": "starnewskorea.com",
-      "thumbnail": "https://image.starnewskorea.com/cdn-cgi/image/f=auto,w=1200,h=657,fit=cover,q=high,sharpen=2/21/2026/08/2026082122163378300_1.jpg"
-    },
-    {
       "title": "리센느가 불러온 '거제 여행 열풍'...폭우로 관광객 '뚝' [앵커리포트]",
       "url": "https://www.ytn.co.kr/_ln/0115_202608212241469530",
       "date": "2026.08.21",
@@ -37,17 +30,24 @@
       "thumbnail": "https://image.ytn.co.kr/general/jpg/2026/0821/202608212241469530_t.jpg"
     },
     {
-      "title": "“밥 먹을까요?” 고윤정 데이트 제안에 ‘주저앉은’ 리센느 제나… 완...",
-      "url": "https://sports.khan.co.kr/article/202608212211003?pt=nv",
+      "title": "리센느 제나, 닮은꼴 고윤정 만났다 \"더 어리고 예뻐\" [안원잘부]",
+      "url": "https://www.starnewskorea.com/star/2026/08/21/2026082122163378300",
       "date": "2026.08.21",
-      "source": "sports.khan.co.kr",
-      "thumbnail": null
+      "source": "starnewskorea.com",
+      "thumbnail": "https://image.starnewskorea.com/cdn-cgi/image/f=auto,w=1200,h=657,fit=cover,q=high,sharpen=2/21/2026/08/2026082122163378300_1.jpg"
     },
     {
       "title": "'와썹맨' 사전 섭외설 해명‥황덕연 \"주작=음모론이라 생각\"",
       "url": "https://news.jtbc.co.kr/article/NB12314530?influxDiv=NAVER",
       "date": "2026.08.21",
       "source": "news.jtbc.co.kr",
+      "thumbnail": null
+    },
+    {
+      "title": "“밥 먹을까요?” 고윤정 데이트 제안에 ‘주저앉은’ 리센느 제나… 완...",
+      "url": "https://sports.khan.co.kr/article/202608212211003?pt=nv",
+      "date": "2026.08.21",
+      "source": "sports.khan.co.kr",
       "thumbnail": null
     },
     {
@@ -97,14 +97,14 @@
       "url": "https://www.mydaily.co.kr/page/view/2026082118292926469",
       "date": "2026.08.21",
       "source": "mydaily.co.kr",
-      "thumbnail": null
+      "thumbnail": "https://mydaily.co.kr/photos/2026/08/21/2026082118581026845_l.png"
     },
     {
       "title": "리센느 팬덤, 거제 등 남부지방 수해 복구에 1억 기부 돌파",
       "url": "http://www.stoo.com/article.php?aid=108444815174",
       "date": "2026.08.21",
       "source": "stoo.com",
-      "thumbnail": null
+      "thumbnail": "https://www.stoo.com/upimages/gisaimg/202608/1787305734_20260715174447-5069.jpg"
     },
     {
       "title": "“리마인의 러브 어택”…리센느 팬덤, 수해 복구성금 기부 릴레이 1억...",
