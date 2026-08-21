@@ -1,6 +1,13 @@
 {
-  "updated": "2026-08-21T21:00:44Z",
+  "updated": "2026-08-21T22:00:42Z",
   "articles": [
+    {
+      "title": "“디워, 생각보다 재밌네”…넷플 ‘역주행 영화’ 의외의 공통점",
+      "url": "https://www.joongang.co.kr/article/25455271",
+      "date": "2026.08.21",
+      "source": "joongang.co.kr",
+      "thumbnail": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202608/22/baeeb8fc-a0fa-47fb-9d14-85b3654c60b3.jpg"
+    },
     {
       "title": "리센느 제나, 닮은꼴 고윤정 만났다‥“훨씬 어리고 예뻐” 칭찬에 번호...",
       "url": "https://www.newsen.com/news_view.php?uid=202608220451352510",
@@ -30,13 +37,6 @@
       "thumbnail": "https://pds.joongang.co.kr/news/component/joongang_sunday/202608/22/baeeb8fc-a0fa-47fb-9d14-85b3654c60b3.jpg"
     },
     {
-      "title": "리센느 제나, 닮은꼴 고윤정 만났다 \"더 어리고 예뻐\" [안원잘부]",
-      "url": "https://www.starnewskorea.com/star/2026/08/21/2026082122163378300",
-      "date": "2026.08.21",
-      "source": "starnewskorea.com",
-      "thumbnail": "https://image.starnewskorea.com/cdn-cgi/image/f=auto,w=1200,h=657,fit=cover,q=high,sharpen=2/21/2026/08/2026082122163378300_1.jpg"
-    },
-    {
       "title": "리센느가 불러온 '거제 여행 열풍'...폭우로 관광객 '뚝' [앵커리포트]",
       "url": "https://www.ytn.co.kr/_ln/0115_202608212241469530",
       "date": "2026.08.21",
@@ -44,10 +44,10 @@
       "thumbnail": "https://image.ytn.co.kr/general/jpg/2026/0821/202608212241469530_t.jpg"
     },
     {
-      "title": "“밥 먹을까요?” 고윤정 데이트 제안에 ‘주저앉은’ 리센느 제나… 완...",
-      "url": "https://sports.khan.co.kr/article/202608212211003?pt=nv",
+      "title": "리센느 제나, 닮은꼴 고윤정 만났다 \"더 어리고 예뻐\" [안원잘부]",
+      "url": "https://www.starnewskorea.com/star/2026/08/21/2026082122163378300",
       "date": "2026.08.21",
-      "source": "sports.khan.co.kr",
+      "source": "starnewskorea.com",
       "thumbnail": null
     },
     {
@@ -55,6 +55,13 @@
       "url": "https://news.jtbc.co.kr/article/NB12314530?influxDiv=NAVER",
       "date": "2026.08.21",
       "source": "news.jtbc.co.kr",
+      "thumbnail": null
+    },
+    {
+      "title": "“밥 먹을까요?” 고윤정 데이트 제안에 ‘주저앉은’ 리센느 제나… 완...",
+      "url": "https://sports.khan.co.kr/article/202608212211003?pt=nv",
+      "date": "2026.08.21",
+      "source": "sports.khan.co.kr",
       "thumbnail": null
     },
     {
@@ -133,13 +140,6 @@
       "date": "2026.08.21",
       "source": "polinews.co.kr",
       "thumbnail": "https://cdn.polinews.co.kr/news/thumbnail/202608/740860_562609_00_v150.jpg"
-    },
-    {
-      "title": "'고양고양이' 숏폼 밈 '인기폭발'‥누적 조회수 250만 돌파",
-      "url": "https://www.joongangenews.com/news/articleView.html?idxno=541805",
-      "date": "2026.08.21",
-      "source": "joongangenews.com",
-      "thumbnail": "https://cdn.joongangenews.com/news/photo/202608/541805_347761_4842.jpg"
     }
   ]
 }
