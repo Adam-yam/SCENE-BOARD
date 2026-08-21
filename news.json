@@ -1,6 +1,13 @@
 {
-  "updated": "2026-08-21T20:00:43Z",
+  "updated": "2026-08-21T21:00:44Z",
   "articles": [
+    {
+      "title": "리센느 제나, 닮은꼴 고윤정 만났다‥“훨씬 어리고 예뻐” 칭찬에 번호...",
+      "url": "https://www.newsen.com/news_view.php?uid=202608220451352510",
+      "date": "2026.08.21",
+      "source": "newsen.com",
+      "thumbnail": "https://photo.newsen.com/news_photo/2026/08/22/202608220451352510_1.jpg"
+    },
     {
       "title": "'유행절단기' 전현무, '야호'까지 절단내나...\"리센느 미안해\" (나 혼자...",
       "url": "https://www.xportsnews.com/article/2186576",
@@ -27,7 +34,7 @@
       "url": "https://www.starnewskorea.com/star/2026/08/21/2026082122163378300",
       "date": "2026.08.21",
       "source": "starnewskorea.com",
-      "thumbnail": null
+      "thumbnail": "https://image.starnewskorea.com/cdn-cgi/image/f=auto,w=1200,h=657,fit=cover,q=high,sharpen=2/21/2026/08/2026082122163378300_1.jpg"
     },
     {
       "title": "리센느가 불러온 '거제 여행 열풍'...폭우로 관광객 '뚝' [앵커리포트]",
@@ -97,7 +104,7 @@
       "url": "https://www.mydaily.co.kr/page/view/2026082118292926469",
       "date": "2026.08.21",
       "source": "mydaily.co.kr",
-      "thumbnail": null
+      "thumbnail": "https://mydaily.co.kr/photos/2026/08/21/2026082118581026845_l.png"
     },
     {
       "title": "리센느 팬덤, 거제 등 남부지방 수해 복구에 1억 기부 돌파",
@@ -118,7 +125,7 @@
       "url": "https://www.starnewskorea.com/music/2026/08/21/2026082117130560720",
       "date": "2026.08.21",
       "source": "starnewskorea.com",
-      "thumbnail": null
+      "thumbnail": "https://image.starnewskorea.com/21/2026/08/2026082117130560720_1.jpg"
     },
     {
       "title": "동아오츠카 나랑드사이다, 제로 탄산음료 시장서 브랜드 접점 넓혀",
@@ -133,13 +140,6 @@
       "date": "2026.08.21",
       "source": "joongangenews.com",
       "thumbnail": "https://cdn.joongangenews.com/news/photo/202608/541805_347761_4842.jpg"
-    },
-    {
-      "title": "고양고양이의 귀환…고양시, 숏폼으로 시정 알리며 조회수 253만 돌파",
-      "url": "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608210589&t=NNv",
-      "date": "2026.08.21",
-      "source": "wowtv.co.kr",
-      "thumbnail": "https://img.wowtv.co.kr/vodimg/WebEditor/w1787294612303.jpg"
     }
   ]
 }
