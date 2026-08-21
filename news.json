@@ -1,6 +1,20 @@
 {
-  "updated": "2026-08-21T13:00:43Z",
+  "updated": "2026-08-21T14:00:44Z",
   "articles": [
+    {
+      "title": "'와썹맨' 사전 섭외설 해명‥황덕연 \"주작=음모론이라 생각\"",
+      "url": "https://news.jtbc.co.kr/article/NB12314530?influxDiv=NAVER",
+      "date": "2026.08.21",
+      "source": "news.jtbc.co.kr",
+      "thumbnail": null
+    },
+    {
+      "title": "“밥 먹을까요?” 고윤정 데이트 제안에 ‘주저앉은’ 리센느 제나… 완...",
+      "url": "https://sports.khan.co.kr/article/202608212211003?pt=nv",
+      "date": "2026.08.21",
+      "source": "sports.khan.co.kr",
+      "thumbnail": null
+    },
     {
       "title": "리센느, 거제 수해 복구에 5천만원... 팬덤 '리마인'도 온정 보태",
       "url": "https://www.ggilbo.com/news/articleView.html?idxno=1176364",
@@ -126,20 +140,6 @@
       "date": "2026.08.21",
       "source": "onews.tv",
       "thumbnail": "https://cdn.onews.tv/news/thumbnail/202608/285346_345120_3645_v150.jpg"
-    },
-    {
-      "title": "필승 조합! ‘흰 티+청바지’ 스타일링",
-      "url": "https://www.bntnews.co.kr/article/view/bnt202608200285",
-      "date": "2026.08.21",
-      "source": "bntnews.co.kr",
-      "thumbnail": "https://www.bntnews.co.kr/data/bnt/image/2026/08/20/bnt202608200588.jpg"
-    },
-    {
-      "title": "[위클리오늘] 고양시 '고양고양이', 숏폼으로 시민 소통 강화…SNS 누적...",
-      "url": "http://www.weeklytoday.com/news/articleView.html?idxno=791201",
-      "date": "2026.08.21",
-      "source": "weeklytoday.com",
-      "thumbnail": "https://cdn.weeklytoday.com/news/thumbnail/202608/791201_976587_65_v150.jpg"
     }
   ]
 }
