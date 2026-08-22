@@ -1,6 +1,13 @@
 {
-  "updated": "2026-08-22T09:00:42Z",
+  "updated": "2026-08-22T10:00:45Z",
   "articles": [
+    {
+      "title": "[특별초대석] 이상천 제천시장",
+      "url": "https://weeklytrade.co.kr/news/view.html?section=1&category=3&item=&no=101121",
+      "date": "2026.08.22",
+      "source": "weeklytrade.co.kr",
+      "thumbnail": "https://weeklytrade.co.kr/PEG/17873893755101.jpg"
+    },
     {
       "title": "‘철들 무렵’ 하윤경, 정동진독립영화제에서 낭만 가득한 하루 (전참시...",
       "url": "http://enews.imbc.com/News/RetrieveNewsInfo/515546",
@@ -90,7 +97,7 @@
       "url": "http://www.stoo.com/article.php?aid=108461917820",
       "date": "2026.08.22",
       "source": "stoo.com",
-      "thumbnail": null
+      "thumbnail": "https://www.stoo.com/upimages/gisaimg/202608/22_1084619_17820.jpg"
     },
     {
       "title": "리센느 제나, 롤모델 고윤정 미담 공개 \"이사했다고 숙소로 깜짝 선물\"",
@@ -107,13 +114,6 @@
       "thumbnail": "https://www.breaknews.com/imgdata/breaknews_com/202607/2026072935098355.jpg"
     },
     {
-      "title": "에일리, \"에일리밴드 리더는 에일리가 아니다\"…'불후' 데뷔 무대 준비",
-      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16170254",
-      "date": "2026.08.22",
-      "source": "topstarnews.net",
-      "thumbnail": "https://cdn.topstarnews.net/news/photo/202608/16170254_1999906_821_crop.jpg"
-    },
-    {
       "title": "고윤정, 리센느 제나에 몰래 선물...깜짝 미담에 '공주들의 친목 응원해...",
       "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1003137",
       "date": "2026.08.22",
@@ -125,7 +125,7 @@
       "url": "https://www.kyeonggi.com/article/20260822580032",
       "date": "2026.08.22",
       "source": "kyeonggi.com",
-      "thumbnail": "https://ypzxxdrj8709.edge.naverncp.com/data2/content/image/2026/08/22/.cache/512/20260822580034.jpg?v=20260822180037"
+      "thumbnail": "https://ypzxxdrj8709.edge.naverncp.com/data2/content/image/2026/08/22/.cache/512/20260822580034.jpg?v=20260822190039"
     },
     {
       "title": "'대세' 리센느, 가수 브랜드평판 1위… BTS 2위·임영웅 3위",
@@ -139,7 +139,7 @@
       "url": "https://www.sedaily.com/article/20081808?ref=naver",
       "date": "2026.08.22",
       "source": "sedaily.com",
-      "thumbnail": null
+      "thumbnail": "https://wimg.sedaily.com/news/cms/2026/08/21/news-p.v1.20260821.e85725a9daf24214abf9871887903b0a_R.jpg"
     }
   ]
 }
