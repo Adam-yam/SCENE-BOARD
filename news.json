@@ -1,6 +1,13 @@
 {
-  "updated": "2026-08-23T16:00:40Z",
+  "updated": "2026-08-23T17:00:39Z",
   "articles": [
+    {
+      "title": "고윤정, 리센느 650만원 선물보다 눈길 간 건…미대 출신다운 '디테일' ...",
+      "url": "https://www.mydaily.co.kr/page/view/2026082317594839907",
+      "date": "2026.08.23",
+      "source": "mydaily.co.kr",
+      "thumbnail": "https://mydaily.co.kr/photos/2026/08/23/2026082317571402771_l.jpg"
+    },
     {
       "title": "'미우새' 리센느 원이, 탁재훈 갸루 분장에 \"나이 좀 있으시죠?\"",
       "url": "http://enews.imbc.com/News/RetrieveNewsInfo/515658",
@@ -104,7 +111,7 @@
       "url": "http://www.stoo.com/article.php?aid=108468978993",
       "date": "2026.08.23",
       "source": "stoo.com",
-      "thumbnail": null
+      "thumbnail": "https://www.stoo.com/upimages/gisaimg/202608/23_1084689_78993.jpg"
     },
     {
       "title": "“원래 알던 사이도 아닌데…” 고윤정이 리센느 제나에게 보낸 ‘통 큰...",
@@ -121,13 +128,6 @@
       "thumbnail": "https://mydaily.co.kr/photos/2026/08/23/2026082316084104404_l.png"
     },
     {
-      "title": "돌아온 '고양고양이' 시민과 소통…숏폼 영상 인기",
-      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3671903",
-      "date": "2026.08.23",
-      "source": "gukjenews.com",
-      "thumbnail": "https://cdn.gukjenews.com/news/thumbnail/202608/3671903_3839980_5810_v150.jpg"
-    },
-    {
       "title": "\"거울만 400만 원대\"... 고윤정이 '닮은꼴' 리센느 제나에게 쏜 이사 선...",
       "url": "https://www.insight.co.kr/news/569589",
       "date": "2026.08.23",
@@ -135,11 +135,11 @@
       "thumbnail": "https://img.insight.co.kr/static/2026/08/23/1200/img_20260823132511_e06mpcb9.jpg"
     },
     {
-      "title": "원이 ‘반일’? 정작 日팬은 감쌌다…“네타 돼 안타깝다”",
-      "url": "https://www.sportsseoul.com/news/read/1630204?ref=naver",
+      "title": "돌아온 '고양고양이' 시민과 소통…숏폼 영상 인기",
+      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3671903",
       "date": "2026.08.23",
-      "source": "sportsseoul.com",
-      "thumbnail": "https://file.sportsseoul.com/news/cms/2026/08/23/news-p.v1.20260823.a6b5c79c07cc425f9b3e1a45acbf49b4_T1.png"
+      "source": "gukjenews.com",
+      "thumbnail": "https://cdn.gukjenews.com/news/thumbnail/202608/3671903_3839980_5810_v150.jpg"
     }
   ]
 }
