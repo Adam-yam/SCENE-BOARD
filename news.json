@@ -1,6 +1,13 @@
 {
-  "updated": "2026-08-23T19:00:44Z",
+  "updated": "2026-08-23T20:00:42Z",
   "articles": [
+    {
+      "title": "“귀신 같다”…탁재훈, 팬들도 ‘경악’한 충격 변신",
+      "url": "https://www.sportsseoul.com/news/read/1630270?ref=naver",
+      "date": "2026.08.23",
+      "source": "sportsseoul.com",
+      "thumbnail": null
+    },
     {
       "title": "리센느까지 합류… MBC 아시안게임 중계 '총력전'",
       "url": "https://www.ggilbo.com/news/articleView.html?idxno=1176544",
@@ -118,7 +125,7 @@
       "url": "http://www.stoo.com/article.php?aid=108468978993",
       "date": "2026.08.23",
       "source": "stoo.com",
-      "thumbnail": null
+      "thumbnail": "https://www.stoo.com/upimages/gisaimg/202608/23_1084689_78993.jpg"
     },
     {
       "title": "“원래 알던 사이도 아닌데…” 고윤정이 리센느 제나에게 보낸 ‘통 큰...",
@@ -133,13 +140,6 @@
       "date": "2026.08.23",
       "source": "mydaily.co.kr",
       "thumbnail": "https://mydaily.co.kr/photos/2026/08/23/2026082316084104404_l.png"
-    },
-    {
-      "title": "돌아온 '고양고양이' 시민과 소통…숏폼 영상 인기",
-      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3671903",
-      "date": "2026.08.23",
-      "source": "gukjenews.com",
-      "thumbnail": "https://cdn.gukjenews.com/news/thumbnail/202608/3671903_3839980_5810_v150.jpg"
     }
   ]
 }
