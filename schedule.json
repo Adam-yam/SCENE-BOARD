@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T14:05:22Z",
+  "updated": "2026-08-23T15:05:20Z",
   "events": [
     {
       "date": "2026-07-06",
@@ -431,6 +431,14 @@
       "title": "2026 K-WORLD DREAM AWARDS",
       "detail": "",
       "type": "공연",
+      "source": "mnetplus"
+    },
+    {
+      "date": "2026-08-30",
+      "time": "23:05",
+      "title": "SBS 열혈농구단2",
+      "detail": "",
+      "type": "방송",
       "source": "mnetplus"
     },
     {
