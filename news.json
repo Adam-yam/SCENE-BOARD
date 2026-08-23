@@ -1,6 +1,20 @@
 {
-  "updated": "2026-08-23T00:00:43Z",
+  "updated": "2026-08-23T01:00:38Z",
   "articles": [
+    {
+      "title": "경남 해수욕장 115만명 방문 '흥행'후 폐장…극한호우 상처 남아",
+      "url": "https://www.yna.co.kr/view/AKR20260821131800052?input=1195m",
+      "date": "2026.08.23",
+      "source": "yna.co.kr",
+      "thumbnail": null
+    },
+    {
+      "title": "할리스 마시는 리센느, 이대호는 롯데마트 간판으로[유통가 새 얼굴]",
+      "url": "https://www.newsis.com/view/NISX20260821_0003757509",
+      "date": "2026.08.23",
+      "source": "newsis.com",
+      "thumbnail": "https://img1.newsis.com/2026/08/18/NISI20260818_0002214400_web.jpg"
+    },
     {
       "title": "'센트레빌 아스테리움 거제' 거제시 지역 곳곳에서 집중호우 피해 긴급...",
       "url": "http://www.ikld.kr/news/articleView.html?idxno=339344",
@@ -62,7 +76,7 @@
       "url": "http://www.stoo.com/article.php?aid=108465136150",
       "date": "2026.08.22",
       "source": "stoo.com",
-      "thumbnail": null
+      "thumbnail": "https://www.stoo.com/upimages/gisaimg/202608/22_1084651_36150.jpg"
     },
     {
       "title": "최홍만, '대세' 리센느 만났다 \"원이가 방송 같이하고 싶다고 러브콜\" [...",
@@ -126,20 +140,6 @@
       "date": "2026.08.22",
       "source": "weeklytrade.co.kr",
       "thumbnail": "https://weeklytrade.co.kr/PEG/17873893755101.jpg"
-    },
-    {
-      "title": "‘철들 무렵’ 하윤경, 정동진독립영화제에서 낭만 가득한 하루 (전참시...",
-      "url": "http://enews.imbc.com/News/RetrieveNewsInfo/515546",
-      "date": "2026.08.22",
-      "source": "enews.imbc.com",
-      "thumbnail": "https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2026/08/22/eb946edf-20da-4f62-88f0-30dc21232833.jpg"
-    },
-    {
-      "title": "에일리밴드 옥성민, 리센느 원이 잇는 ‘거제의 아들’ 자리 노린다 (불...",
-      "url": "http://enews.imbc.com/News/RetrieveNewsInfo/515545",
-      "date": "2026.08.22",
-      "source": "enews.imbc.com",
-      "thumbnail": "https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2026/08/22/3f1d742c-ec34-4a53-b03d-ce5109e237e4.jpg"
     }
   ]
 }
