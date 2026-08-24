@@ -1,6 +1,34 @@
 {
-  "updated": "2026-08-24T08:00:38Z",
+  "updated": "2026-08-24T09:00:48Z",
   "articles": [
+    {
+      "title": "\"다시 만난 세계\" 춤춘 키나·아테나…피프티피프티, 스타트렌드 걸그룹...",
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=542295",
+      "date": "2026.08.24",
+      "source": "joongangenews.com",
+      "thumbnail": "https://cdn.joongangenews.com/news/photo/202608/542295_348291_2413.png"
+    },
+    {
+      "title": "TWS 'SODA SODA', 韓·日 스타들까지 챌린지 릴레이",
+      "url": "http://www.atstar1.com/news/articleView.html?idxno=6037929",
+      "date": "2026.08.24",
+      "source": "atstar1.com",
+      "thumbnail": "https://cdn.atstar1.com/news/thumbnail/202608/6037929_116169_300_v150.jpg"
+    },
+    {
+      "title": "'약속의 땅' 도쿄로 향하는 황선우…\"PB(개인 최고기록) 세우고 야키니...",
+      "url": "https://news.tvchosun.com/site/data/html_dir/2026/08/24/2026082490183.html",
+      "date": "2026.08.24",
+      "source": "news.tvchosun.com",
+      "thumbnail": "https://img.tvchosun.com/sitedata/image/202608/24/2026082490183_0.jpg"
+    },
+    {
+      "title": "진정한 상남자…“계좌 좀 알려달라” 직접 전화 걸더니 1억 쏜 '유명 가...",
+      "url": "https://www.wikitree.co.kr/articles/1154566",
+      "date": "2026.08.24",
+      "source": "wikitree.co.kr",
+      "thumbnail": "https://cdnweb01.wikitree.co.kr/webdata/editor/202608/24/202608241705348988.jpg"
+    },
     {
       "title": "TWS 챌린지, 카리나·미나미·연준까지 합류…손 안무 하나로 누적 7300만...",
       "url": "https://www.xportsnews.com/article/2187473",
@@ -20,14 +48,14 @@
       "url": "https://sports.donga.com/ent/article/all/20260824/134533043/1",
       "date": "2026.08.24",
       "source": "sports.donga.com",
-      "thumbnail": "https://dimg.donga.com/wps/SPORTS/IMAGE/2026/08/24/134531554.1.jpg"
+      "thumbnail": null
     },
     {
       "title": "아프니까 청춘이다… 알파드라이브원 “ ‘소년비스트’, 치열한 고민,...",
       "url": "https://www.sportsworldi.com/newsView/20260824514142",
       "date": "2026.08.24",
       "source": "sportsworldi.com",
-      "thumbnail": "https://www.sportsworldi.com/content/image/2026/08/24/20260824514137.jpg"
+      "thumbnail": "https://www.sportsworldi.com/content/image/2026/08/24/20260824516150.jpg"
     },
     {
       "title": "100만 명 품었던 거제시 해수욕장 일제 폐장…수마 할퀸 백사장 복구 나...",
@@ -37,13 +65,6 @@
       "thumbnail": "https://cdn.newsgn.com/news/thumbnail/202608/569435_377059_1959_v150.jpg"
     },
     {
-      "title": "[스톡 브리핑] CJ ENM 엠넷 플러스, 세대 아우른 플랫폼 확장",
-      "url": "https://enter.etoday.co.kr/news/view/301462",
-      "date": "2026.08.24",
-      "source": "enter.etoday.co.kr",
-      "thumbnail": "https://img.etoday.co.kr/pto_db/2026/08/600/20260824144740_2377283_1200_1200.jpg"
-    },
-    {
       "title": "루시드슬립, ‘별방수면회’ 공식 영상 공개…침구로 완성한 수면 콘서...",
       "url": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608240330&t=NN",
       "date": "2026.08.24",
@@ -51,11 +72,18 @@
       "thumbnail": null
     },
     {
+      "title": "[스톡 브리핑] CJ ENM 엠넷 플러스, 세대 아우른 플랫폼 확장",
+      "url": "https://enter.etoday.co.kr/news/view/301462",
+      "date": "2026.08.24",
+      "source": "enter.etoday.co.kr",
+      "thumbnail": "https://img.etoday.co.kr/pto_db/2026/08/600/20260824144740_2377283_1200_1200.jpg"
+    },
+    {
       "title": "투어스 ‘SODA SODA’ 챌린지 화제..인기 아티스트 총출동",
       "url": "https://www.heraldmuse.com/article/10850306?ref=naver",
       "date": "2026.08.24",
       "source": "heraldmuse.com",
-      "thumbnail": "https://wimg.heraldcorp.com/news/cms/2026/08/24/news-p.v1.20260824.8a93851289864546937f2a3afa5cc3ca_T1.jpg"
+      "thumbnail": null
     },
     {
       "title": "[뷰티 트렌드] 토니모리, 미백ㆍ주름개선 기능성의 '세라마이드 하이드...",
@@ -69,7 +97,7 @@
       "url": "https://sports.donga.com/ent/article/all/20260824/134532017/1",
       "date": "2026.08.24",
       "source": "sports.donga.com",
-      "thumbnail": "https://dimg.donga.com/wps/SPORTS/IMAGE/2026/08/24/134532016.1.jpg"
+      "thumbnail": null
     },
     {
       "title": "거제 소녀들이 만든 역주행, 리센느는 어떻게 5세대 대세 걸그룹이 됐나",
@@ -100,39 +128,11 @@
       "thumbnail": "https://wimg.heraldcorp.com/news/cms/2026/08/24/news-p.v1.20260824.9a67d262b0c04b7eb87e0990ae954a1d_T1.jpg"
     },
     {
-      "title": "[자막뉴스] 거제 폭우 피해에 위로해주는 리센느",
-      "url": "http://news.lghellovision.net/news/articleView.html?idxno=552117",
+      "title": "엠넷플러스, 'KCON LA 2026' 콘텐츠 시청 전년比 2배↑",
+      "url": "http://www.joynews24.com/view/1997794",
       "date": "2026.08.24",
-      "source": "news.lghellovision.net",
-      "thumbnail": "https://cdn.news.lghellovision.net/news/thumbnail/202608/552117_189465_5854_v150.jpg"
-    },
-    {
-      "title": "투어스 ‘SODA SODA’ 카리나·연준→日 톱스타까지…챌린지 열풍",
-      "url": "https://www.mk.co.kr/article/12134684",
-      "date": "2026.08.24",
-      "source": "mk.co.kr",
-      "thumbnail": "https://wimg.mk.co.kr/news/cms/202608/24/news-p.v1.20260824.05a8598f818c4a64bcbad2410cde4613_P1.jpg"
-    },
-    {
-      "title": "리센느, 스타트렌드 K-POP 여자 그룹 투표 1위…금요일 39만 표 팬심",
-      "url": "https://www.joongangenews.com/news/articleView.html?idxno=542172",
-      "date": "2026.08.24",
-      "source": "joongangenews.com",
-      "thumbnail": "https://cdn.joongangenews.com/news/photo/202608/542172_348159_3945.png"
-    },
-    {
-      "title": "58세 가수, ‘갸루 메이크업’ 도전…충격 변신에 “누구세요?”",
-      "url": "https://www.seoul.co.kr/news/entertainment/starinterN/2026/08/24/20260824500113?wlog_tag3=naver",
-      "date": "2026.08.24",
-      "source": "seoul.co.kr",
-      "thumbnail": "https://img.seoul.co.kr/img/upload/2026/08/24/SSC_20260824134858.jpg.webp"
-    },
-    {
-      "title": "탁재훈, 금발+진한 갸루 메이크업 '58살에'",
-      "url": "https://www.mediafine.co.kr/news/articleView.html?idxno=87744",
-      "date": "2026.08.24",
-      "source": "mediafine.co.kr",
-      "thumbnail": "https://cdn.mediafine.co.kr/news/photo/202608/87744_125630_631.jpg"
+      "source": "joynews24.com",
+      "thumbnail": "https://image.inews24.com/v1/1760f73607c166.jpg"
     },
     {
       "title": "리센느, KCON LA 이어 근황까지 뜨겁다...스타트렌드 K-POP 걸그룹 1위",
