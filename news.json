@@ -1,6 +1,20 @@
 {
-  "updated": "2026-08-24T21:00:36Z",
+  "updated": "2026-08-24T22:00:43Z",
   "articles": [
+    {
+      "title": "고윤정, 배우 브랜드평판 1위",
+      "url": "https://www.bntnews.co.kr/article/view/bnt202608250015",
+      "date": "2026.08.24",
+      "source": "bntnews.co.kr",
+      "thumbnail": "https://www.bntnews.co.kr/data/bnt/image/2026/08/25/bnt202608250016.jpg"
+    },
+    {
+      "title": "일진설도 뒤집은 ‘과거 파묘’···리센느가 ‘과거’로 더 뜨는 이유",
+      "url": "https://www.khan.co.kr/article/202608250600071",
+      "date": "2026.08.24",
+      "source": "khan.co.kr",
+      "thumbnail": "https://img.khan.co.kr/news/2026/08/25/news-p.v1.20260824.004fd74e1dfd4ee2ae719896bbdac37f_P1.png"
+    },
     {
       "title": "\"귀신 같다\" 탁재훈, 금발 가발 쓰고 '갸루' 변신…충격 비주얼",
       "url": "https://www.xportsnews.com/article/2187289",
@@ -69,7 +83,7 @@
       "url": "https://www.yna.co.kr/view/AKR20260824157200052?input=1195m",
       "date": "2026.08.24",
       "source": "yna.co.kr",
-      "thumbnail": "https://img4.yna.co.kr/etc/inner/KR/2026/08/24/AKR20260824157200052_01_i_P4.jpg"
+      "thumbnail": null
     },
     {
       "title": "100만명 몰린 거제 해수욕장…역대급 흥행 뒤 '수해 복구' 전환",
@@ -79,18 +93,18 @@
       "thumbnail": null
     },
     {
-      "title": "‘거제 야호’로 흥한 리센느, 수해 신음 거제에 또 따뜻한 나눔",
-      "url": "https://www.busan.com/view/busan/view.php?code=2026082418174568033",
-      "date": "2026.08.24",
-      "source": "busan.com",
-      "thumbnail": "https://www.busan.com/nas/wcms/wcms_data/photos/2026/08/24/2026082418174187342_l.jpg"
-    },
-    {
       "title": "강렬한 비트의 댄스 음악에 자리 내준 클래식 성지",
       "url": "https://www.hankyung.com/article/2026082494981",
       "date": "2026.08.24",
       "source": "hankyung.com",
       "thumbnail": "https://img.hankyung.com/photo/202608/AA.45435435.1.jpg"
+    },
+    {
+      "title": "‘거제 야호’로 흥한 리센느, 수해 신음 거제에 또 따뜻한 나눔",
+      "url": "https://www.busan.com/view/busan/view.php?code=2026082418174568033",
+      "date": "2026.08.24",
+      "source": "busan.com",
+      "thumbnail": "https://www.busan.com/nas/wcms/wcms_data/photos/2026/08/24/2026082418174187342_l.jpg"
     },
     {
       "title": "거제 홍보대사 '리센느', 수해 복구 자원봉사자에 음료 1만 6200개 전달",
@@ -121,25 +135,11 @@
       "thumbnail": "https://cdn.joongangenews.com/news/photo/202608/542295_348291_2413.png"
     },
     {
-      "title": "TWS 'SODA SODA', 韓·日 스타들까지 챌린지 릴레이",
-      "url": "http://www.atstar1.com/news/articleView.html?idxno=6037929",
-      "date": "2026.08.24",
-      "source": "atstar1.com",
-      "thumbnail": "https://cdn.atstar1.com/news/thumbnail/202608/6037929_116169_300_v150.jpg"
-    },
-    {
       "title": "엠넷플러스, 'KCON LA 2026' 콘텐츠 시청 전년比 2배↑",
       "url": "http://www.joynews24.com/view/1997794",
       "date": "2026.08.24",
       "source": "joynews24.com",
       "thumbnail": "https://image.inews24.com/v1/1760f73607c166.jpg"
-    },
-    {
-      "title": "리센느, '따로 또 같이' K뷰티 블루칩 부상",
-      "url": "https://www.meconomynews.com/news/articleView.html?idxno=200827",
-      "date": "2026.08.24",
-      "source": "meconomynews.com",
-      "thumbnail": "https://cdn.meconomynews.com/news/photo/202608/200827_201625_4123.jpg"
     }
   ]
 }
