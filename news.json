@@ -1,6 +1,20 @@
 {
-  "updated": "2026-08-24T06:00:38Z",
+  "updated": "2026-08-24T07:00:39Z",
   "articles": [
+    {
+      "title": "[뷰티 트렌드] 토니모리, 미백ㆍ주름개선 기능성의 '세라마이드 하이드...",
+      "url": "https://www.ibabynews.com/news/articleView.html?idxno=153913",
+      "date": "2026.08.24",
+      "source": "ibabynews.com",
+      "thumbnail": "https://www.ibabynews.com/news/photo/202608/153913_120173_1050.jpg"
+    },
+    {
+      "title": "‘아이돌픽’ 하츠투하츠 이안, 흑발 생머리가 잘 어울리는 여돌 1위",
+      "url": "https://sports.donga.com/ent/article/all/20260824/134532017/1",
+      "date": "2026.08.24",
+      "source": "sports.donga.com",
+      "thumbnail": "https://dimg.donga.com/wps/SPORTS/IMAGE/2026/08/24/134532016.1.jpg"
+    },
     {
       "title": "거제 소녀들이 만든 역주행, 리센느는 어떻게 5세대 대세 걸그룹이 됐나",
       "url": "https://www.cbci.co.kr/news/articleView.html?idxno=600702",
@@ -27,7 +41,7 @@
       "url": "https://biz.heraldcorp.com/article/10850112?ref=naver",
       "date": "2026.08.24",
       "source": "biz.heraldcorp.com",
-      "thumbnail": null
+      "thumbnail": "https://wimg.heraldcorp.com/news/cms/2026/08/24/news-p.v1.20260824.9a67d262b0c04b7eb87e0990ae954a1d_T1.jpg"
     },
     {
       "title": "[자막뉴스] 거제 폭우 피해에 위로해주는 리센느",
@@ -97,7 +111,7 @@
       "url": "https://www.sportsseoul.com/news/read/1630374?ref=naver",
       "date": "2026.08.24",
       "source": "sportsseoul.com",
-      "thumbnail": "https://file.sportsseoul.com/news/cms/2026/08/24/news-p.v1.20260824.4274382c5ba94a179f12ed0fb743c30e_T1.jpg"
+      "thumbnail": null
     },
     {
       "title": "[#053/054] 침체하는 도시에서 '리센느'를 선망하다",
@@ -125,21 +139,7 @@
       "url": "http://www.beyondpost.co.kr/view.php?ud=2026082410272693009aeda69934_30",
       "date": "2026.08.24",
       "source": "beyondpost.co.kr",
-      "thumbnail": "https://cgeimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=202608241030490991709aeda6993417521136223.jpg&nmt=30"
-    },
-    {
-      "title": "엠넷플러스 \"KCON 콘텐츠 시청 전년비 2배 증가\"",
-      "url": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608240060&t=NN",
-      "date": "2026.08.24",
-      "source": "wowtv.co.kr",
       "thumbnail": null
-    },
-    {
-      "title": "'KCON LA 2026' 제대로 터졌다…여성 이용자만 85% 달해, 전년 대비 시청...",
-      "url": "https://www.tenasia.co.kr/article/2026082476174",
-      "date": "2026.08.23",
-      "source": "tenasia.co.kr",
-      "thumbnail": "https://img.tenasia.co.kr/photo/202608/BF.45429468.1.jpg"
     }
   ]
 }
