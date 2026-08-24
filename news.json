@@ -1,6 +1,20 @@
 {
-  "updated": "2026-08-24T03:00:42Z",
+  "updated": "2026-08-24T04:00:39Z",
   "articles": [
+    {
+      "title": "임영웅, 거제-통영 피해 복구 기부 행렬 동참...2억 기탁",
+      "url": "https://www.raonnews.com/news/article.html?no=60519",
+      "date": "2026.08.24",
+      "source": "raonnews.com",
+      "thumbnail": "https://www.raonnews.com/data/photos/20260835/art_17875409387737_f26bcc.jpg"
+    },
+    {
+      "title": "리센느, KCON LA 이어 근황까지 뜨겁다...스타트렌드 K-POP 걸그룹 1위",
+      "url": "https://www.thepublic.kr/news/articleView.html?idxno=315883",
+      "date": "2026.08.24",
+      "source": "thepublic.kr",
+      "thumbnail": "https://cdn.thepublic.kr/news/photo/202608/315883_319181_142.png"
+    },
     {
       "title": "엠넷플러스, ‘KCON LA 2026’ 콘텐츠 시청 2배↑…글로벌 팬 접점 확대",
       "url": "https://www.fntimes.com/html/view.php?ud=202608241142559518923defd0cc_18",
@@ -20,7 +34,7 @@
       "url": "https://www.sportsseoul.com/news/read/1630374?ref=naver",
       "date": "2026.08.24",
       "source": "sportsseoul.com",
-      "thumbnail": "https://file.sportsseoul.com/news/cms/2026/08/24/news-p.v1.20260824.4274382c5ba94a179f12ed0fb743c30e_T1.jpg"
+      "thumbnail": null
     },
     {
       "title": "[#053/054] 침체하는 도시에서 '리센느'를 선망하다",
@@ -37,13 +51,6 @@
       "thumbnail": "https://cliimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&amp;idx=999&amp;simg=202608241035390405509aeda6993417521136223.jpg&amp;nmt=7"
     },
     {
-      "title": "한스킨, 리센느 미나미·제나 모델 선정...24일부터 신규 캠페인 진행",
-      "url": "http://www.beyondpost.co.kr/view.php?ud=2026082410272693009aeda69934_30",
-      "date": "2026.08.24",
-      "source": "beyondpost.co.kr",
-      "thumbnail": "https://cgeimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=202608241030490991709aeda6993417521136223.jpg&nmt=30"
-    },
-    {
       "title": "한스킨, 리센느 미나미·제나 모델 발탁... 리브랜딩 캠페인 시작",
       "url": "https://www.handmk.com/news/articleView.html?idxno=42410",
       "date": "2026.08.24",
@@ -56,6 +63,13 @@
       "date": "2026.08.24",
       "source": "cbci.co.kr",
       "thumbnail": "https://www.cbci.co.kr/news/thumbnail/202608/600612_411889_3222_v150.jpg"
+    },
+    {
+      "title": "한스킨, 리센느 미나미·제나 모델 선정...24일부터 신규 캠페인 진행",
+      "url": "http://www.beyondpost.co.kr/view.php?ud=2026082410272693009aeda69934_30",
+      "date": "2026.08.24",
+      "source": "beyondpost.co.kr",
+      "thumbnail": null
     },
     {
       "title": "한스킨, 리센느 미나미·제나 모델로 리브랜딩 캠페인 전개",
@@ -83,7 +97,7 @@
       "url": "http://www.tvdaily.co.kr/read.php3?aid=17875303201798793010",
       "date": "2026.08.24",
       "source": "tvdaily.co.kr",
-      "thumbnail": "http://image.tvdaily.co.kr/upimages/gisaimg/202608/1787530277_1798793.jpg"
+      "thumbnail": null
     },
     {
       "title": "케이콘 타고 엠넷플러스 시청 2배 늘었다",
@@ -121,25 +135,11 @@
       "thumbnail": "https://www.bntnews.co.kr/data/bnt/image/2026/08/24/bnt202608240163.jpg"
     },
     {
-      "title": "투어스 'SODA SODA', 미세스 그린 애플→AKB48 등 日서 챌린지 열풍",
-      "url": "https://www.slist.kr/news/articleView.html?idxno=760770",
-      "date": "2026.08.23",
-      "source": "slist.kr",
-      "thumbnail": "https://cdn.slist.kr/news/thumbnail/202608/760770_1165368_3318_v150.jpg"
-    },
-    {
       "title": "'KCON LA 2026' 제대로 터졌다…여성 이용자만 85% 달해, 전년 대비 시청...",
       "url": "https://www.tenasia.co.kr/article/2026082476174",
       "date": "2026.08.23",
       "source": "tenasia.co.kr",
       "thumbnail": "https://img.tenasia.co.kr/photo/202608/BF.45429468.1.jpg"
-    },
-    {
-      "title": "엠넷플러스, KCON LA 2026 시청 두 배로…현장 이용도 확대",
-      "url": "https://www.etoday.co.kr/news/view/2617222",
-      "date": "2026.08.23",
-      "source": "etoday.co.kr",
-      "thumbnail": "https://img.etoday.co.kr/pto_db/2026/08/20260824080823_2376907_1200_1200.jpg"
     }
   ]
 }
