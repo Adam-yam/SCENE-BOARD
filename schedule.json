@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T12:05:19Z",
+  "updated": "2026-08-25T13:05:20Z",
   "events": [
     {
       "date": "2026-07-06",
@@ -483,7 +483,7 @@
     },
     {
       "date": "2026-09-06",
-      "time": "18:30",
+      "time": null,
       "title": "SPOTV K-POP AWARDS(SKA)",
       "detail": "",
       "type": "공연",
