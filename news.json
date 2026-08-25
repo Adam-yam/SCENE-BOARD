@@ -1,6 +1,13 @@
 {
-  "updated": "2026-08-25T15:00:44Z",
+  "updated": "2026-08-25T16:00:42Z",
   "articles": [
+    {
+      "title": "[N포커스] 임영웅·리센느부터 김희철·이성경까지...수해 현장에 이어...",
+      "url": "https://www.nc.press/news/articleView.html?idxno=624715",
+      "date": "2026.08.25",
+      "source": "nc.press",
+      "thumbnail": "https://cdn.nc.press/news/photo/202608/624715_855214_5524.png"
+    },
     {
       "title": "거제 홍보대사 '리센느', 수해 복구 현장에 음료 기탁",
       "url": "https://www.gnnews.co.kr/news/articleView.html?idxno=643942",
@@ -111,7 +118,7 @@
       "url": "https://www.sportsseoul.com/news/read/1630704?ref=naver",
       "date": "2026.08.25",
       "source": "sportsseoul.com",
-      "thumbnail": "https://file.sportsseoul.com/news/cms/2026/08/25/news-p.v1.20260825.43519463de3647f9b7e7e94796882d5e_T1.jpg"
+      "thumbnail": null
     },
     {
       "title": "'이선민 옆 노랑머리' 유영우, 인지도 얼마나 없길래 [라스]",
@@ -133,13 +140,6 @@
       "date": "2026.08.25",
       "source": "bntnews.co.kr",
       "thumbnail": "https://www.bntnews.co.kr/data/bnt/image/2026/08/25/bnt202608250446.jpg"
-    },
-    {
-      "title": "할리스, 한국적 정서 담은 가을 신메뉴 5종 출시",
-      "url": "https://news.bbsi.co.kr/news/articleView.html?idxno=4102564",
-      "date": "2026.08.25",
-      "source": "news.bbsi.co.kr",
-      "thumbnail": "https://cdn.news.bbsi.co.kr/news/thumbnail/202608/4102564_757876_923_v150.jpg"
     }
   ]
 }
