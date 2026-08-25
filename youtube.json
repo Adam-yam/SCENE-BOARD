@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T07:10:21Z",
+  "updated": "2026-08-25T08:10:27Z",
   "videos": [
     {
       "id": "oO2aZKOWbdk",
@@ -50,6 +50,14 @@
       "type": "long"
     },
     {
+      "id": "ErqBKpwTSVg",
+      "title": "네가 참 좋아🫶💗",
+      "url": "https://www.youtube.com/shorts/ErqBKpwTSVg",
+      "thumbnail": "https://i.ytimg.com/vi/ErqBKpwTSVg/mqdefault.jpg",
+      "date": "2026.08.25",
+      "type": "short"
+    },
+    {
       "id": "6QNVLJYdSHM",
       "title": "T-t-t-touch it",
       "url": "https://www.youtube.com/shorts/6QNVLJYdSHM",
@@ -87,14 +95,6 @@
       "url": "https://www.youtube.com/shorts/nWWM7m0t6y4",
       "thumbnail": "https://i.ytimg.com/vi/nWWM7m0t6y4/mqdefault.jpg",
       "date": "2026.08.19",
-      "type": "short"
-    },
-    {
-      "id": "d1fl84PzL2c",
-      "title": "갈비뼈 사이사이가 찌릿찌릿한 느낌⚡",
-      "url": "https://www.youtube.com/shorts/d1fl84PzL2c",
-      "thumbnail": "https://i.ytimg.com/vi/d1fl84PzL2c/mqdefault.jpg",
-      "date": "2026.08.18",
       "type": "short"
     }
   ]
