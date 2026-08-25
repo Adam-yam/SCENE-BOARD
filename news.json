@@ -1,6 +1,13 @@
 {
-  "updated": "2026-08-25T17:00:40Z",
+  "updated": "2026-08-25T18:00:38Z",
   "articles": [
+    {
+      "title": "‘이준석표 여론조사’ 고군분투에도 개혁신당 존재감·지지율 제고 실...",
+      "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000006202&cp=nv",
+      "date": "2026.08.25",
+      "source": "kmib.co.kr",
+      "thumbnail": "https://image.kmib.co.kr/online_image/2026/0826/01100201.20260825502498.jpg"
+    },
     {
       "title": "[N포커스] 임영웅·리센느부터 김희철·이성경까지...수해 현장에 이어...",
       "url": "https://www.nc.press/news/articleView.html?idxno=624715",
@@ -62,7 +69,7 @@
       "url": "https://mhnse.com/news/articleView.html?idxno=1501271",
       "date": "2026.08.25",
       "source": "mhnse.com",
-      "thumbnail": "https://cdn.mhnse.com/mhnsports/2026/08/25164521/thumb_ccms_47291.jpg"
+      "thumbnail": null
     },
     {
       "title": "할리스, 홍시·곶감·흑임자 품었다... 가을 시즌 메뉴 5종 공개",
@@ -70,13 +77,6 @@
       "date": "2026.08.25",
       "source": "thefirstmedia.net",
       "thumbnail": "http://www.thefirstmedia.net/news/thumbnail/202608/206782_190687_1151_v150.jpg"
-    },
-    {
-      "title": "'이준석표 여론조사’ 고군분투에도 무관심 직면한 개혁신당",
-      "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000006000&cp=nv",
-      "date": "2026.08.25",
-      "source": "kmib.co.kr",
-      "thumbnail": "https://image.kmib.co.kr/online_image/2026/0825/01100201.20260820501028.jpg"
     },
     {
       "title": "대세 고윤정, '김부장' 주역들 전부 제쳤다…소지섭·윤경호 꺾고 '배우...",
@@ -118,7 +118,7 @@
       "url": "https://www.sportsseoul.com/news/read/1630704?ref=naver",
       "date": "2026.08.25",
       "source": "sportsseoul.com",
-      "thumbnail": null
+      "thumbnail": "https://file.sportsseoul.com/news/cms/2026/08/25/news-p.v1.20260825.43519463de3647f9b7e7e94796882d5e_T1.jpg"
     },
     {
       "title": "'이선민 옆 노랑머리' 유영우, 인지도 얼마나 없길래 [라스]",
@@ -135,11 +135,11 @@
       "thumbnail": "http://www.celuvmedia.com/upimages/gisaimg/202608/1787636780_526325.jpg"
     },
     {
-      "title": "“거의 없는 인지도” 유영우, ‘라스’서 제대로 이름 알린다",
-      "url": "https://www.bntnews.co.kr/article/view/bnt202608250214",
+      "title": "'케이콘 LA 2026', 온오프라인 팬 서비스로 시청 2배↑",
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=542533",
       "date": "2026.08.25",
-      "source": "bntnews.co.kr",
-      "thumbnail": "https://www.bntnews.co.kr/data/bnt/image/2026/08/25/bnt202608250446.jpg"
+      "source": "joongangenews.com",
+      "thumbnail": "https://cdn.joongangenews.com/news/photo/202608/542533_348546_2821.jpg"
     }
   ]
 }
