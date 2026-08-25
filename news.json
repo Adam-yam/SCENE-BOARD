@@ -1,6 +1,13 @@
 {
-  "updated": "2026-08-25T10:00:36Z",
+  "updated": "2026-08-25T11:00:36Z",
   "articles": [
+    {
+      "title": "거제 홍보대사 '리센느', 수해 복구 현장에 음료 기탁",
+      "url": "https://www.gnnews.co.kr/news/articleView.html?idxno=643942",
+      "date": "2026.08.25",
+      "source": "gnnews.co.kr",
+      "thumbnail": "https://cdn.gnnews.co.kr/news/photo/202608/643942_444649_1052.jpg"
+    },
     {
       "title": "와키윌리, 리센느 원이 새 모델 발탁…26FW 화보 공개",
       "url": "https://www.gpkorea.com/news/articleView.html?idxno=145977",
@@ -104,7 +111,7 @@
       "url": "https://www.sportsseoul.com/news/read/1630704?ref=naver",
       "date": "2026.08.25",
       "source": "sportsseoul.com",
-      "thumbnail": null
+      "thumbnail": "https://file.sportsseoul.com/news/cms/2026/08/25/news-p.v1.20260825.43519463de3647f9b7e7e94796882d5e_T1.jpg"
     },
     {
       "title": "'이선민 옆 노랑머리' 유영우, 인지도 얼마나 없길래 [라스]",
@@ -133,13 +140,6 @@
       "date": "2026.08.25",
       "source": "news.bbsi.co.kr",
       "thumbnail": "https://cdn.news.bbsi.co.kr/news/thumbnail/202608/4102564_757876_923_v150.jpg"
-    },
-    {
-      "title": "‘이선민 옆 노랑머리’ 유영우, 얼굴은 아는데 이름은 모른다?…인지도...",
-      "url": "https://sports.donga.com/ent/article/all/20260825/134539112/1",
-      "date": "2026.08.25",
-      "source": "sports.donga.com",
-      "thumbnail": "https://dimg.donga.com/wps/SPORTS/IMAGE/2026/08/25/134539114.1.jpg"
     }
   ]
 }
