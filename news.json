@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T10:00:41Z",
+  "updated": "2026-08-26T11:00:40Z",
   "articles": [
     {
       "title": "할리스, 브랜드 첫 모델 리센느와 전래동화 콘셉트 신규 광고 공개",
@@ -55,7 +55,7 @@
       "url": "https://www.sportsseoul.com/news/read/1631049?ref=naver",
       "date": "2026.08.26",
       "source": "sportsseoul.com",
-      "thumbnail": null
+      "thumbnail": "https://file.sportsseoul.com/news/cms/2026/08/26/news-p.v1.20260826.f648cb31cc6b4920ae02f848addf207c_T1.jpg"
     },
     {
       "title": "\"모두가 대상\"…10주년 '2026 케이 월드 드림 어워즈', 27일 개최",
@@ -121,18 +121,18 @@
       "thumbnail": "https://cdn.pinpointnews.co.kr/news/thumbnail/202608/480684_467415_487_v150.jpg"
     },
     {
-      "title": "[오늘의 카페] 할리스·투썸플레이스·컴포즈커피·서울카페쇼",
-      "url": "http://www.financialreview.co.kr/news/articleView.html?idxno=44404",
-      "date": "2026.08.26",
-      "source": "financialreview.co.kr",
-      "thumbnail": "http://www.financialreview.co.kr/news/thumbnail/202608/44404_65625_3623_v150.jpg"
-    },
-    {
       "title": "대세 코르티스 아니다…라이징 가수 브랜드평판 1위 오른 역대급 '아이...",
       "url": "https://www.wikitree.co.kr/articles/1155056",
       "date": "2026.08.26",
       "source": "wikitree.co.kr",
       "thumbnail": "https://cdnweb01.wikitree.co.kr/webdata/editor/202608/26/img_20260826121724_0a923d88.jpg"
+    },
+    {
+      "title": "[오늘의 카페] 할리스·투썸플레이스·컴포즈커피·서울카페쇼",
+      "url": "http://www.financialreview.co.kr/news/articleView.html?idxno=44404",
+      "date": "2026.08.26",
+      "source": "financialreview.co.kr",
+      "thumbnail": "http://www.financialreview.co.kr/news/thumbnail/202608/44404_65625_3623_v150.jpg"
     },
     {
       "title": "한류문화 총망라…천안 K-컬처박람회 내달 2일 팡파르",
