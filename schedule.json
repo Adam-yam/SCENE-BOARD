@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T12:05:23Z",
+  "updated": "2026-08-26T13:05:24Z",
   "events": [
     {
       "date": "2026-07-06",
@@ -437,6 +437,14 @@
       "date": "2026-08-30",
       "time": "23:05",
       "title": "SBS 열혈농구단2",
+      "detail": "",
+      "type": "방송",
+      "source": "mnetplus"
+    },
+    {
+      "date": "2026-08-30",
+      "time": "23:05",
+      "title": "SBS <열혈농구단2>",
       "detail": "",
       "type": "방송",
       "source": "mnetplus"
