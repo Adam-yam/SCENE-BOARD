@@ -1,6 +1,13 @@
 {
-  "updated": "2026-08-26T20:00:39Z",
+  "updated": "2026-08-26T21:00:45Z",
   "articles": [
+    {
+      "title": "원이 삼촌 유영우 \"리센느 '러브 어택' 저점매수, 소속사 대표에 큰 절 ...",
+      "url": "http://www.stoo.com/article.php?aid=108532243028",
+      "date": "2026.08.26",
+      "source": "stoo.com",
+      "thumbnail": null
+    },
     {
       "title": "현대판 전래동화 주인공 된 리센느···할리스 브랜드 첫 모델 ‘리센...",
       "url": "https://sports.khan.co.kr/article/202608270417003?pt=nv",
@@ -90,7 +97,7 @@
       "url": "https://www.sidae.com/article/2026082609431849961",
       "date": "2026.08.26",
       "source": "sidae.com",
-      "thumbnail": null
+      "thumbnail": "https://menu.sidae.com/moneyweek/thumb/2026/08/26/06/2026082609431849961_1.jpg"
     },
     {
       "title": "할리스, 전래동화에 K팝 입혔다... 리센느와 'K-헤리티지' 알린다",
@@ -104,7 +111,7 @@
       "url": "https://www.sportsseoul.com/news/read/1631049?ref=naver",
       "date": "2026.08.26",
       "source": "sportsseoul.com",
-      "thumbnail": null
+      "thumbnail": "https://file.sportsseoul.com/news/cms/2026/08/26/news-p.v1.20260826.f648cb31cc6b4920ae02f848addf207c_T1.jpg"
     },
     {
       "title": "\"모두가 대상\"…10주년 '2026 케이 월드 드림 어워즈', 27일 개최",
@@ -128,18 +135,11 @@
       "thumbnail": "https://img.etoday.co.kr/pto_db/2026/08/600/20260826152254_2378776_1000_1413.jpg"
     },
     {
-      "title": "\"모두가 대상\"…10주년 '2026 케이 월드 드림 어워즈', 관광객 2000만 시...",
-      "url": "http://www.stoo.com/article.php?aid=108527115200",
+      "title": "할리스, 리센느와 전래동화 활용 가을 광고 공개",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=480684",
       "date": "2026.08.26",
-      "source": "stoo.com",
-      "thumbnail": "https://www.stoo.com/upimages/gisaimg/202608/26_1085271_15200.jpg"
-    },
-    {
-      "title": "앨범 너머의 팬심, K-pop 팬덤은 사회를 움직인다",
-      "url": "http://www.civicnews.com/news/articleView.html?idxno=40355",
-      "date": "2026.08.26",
-      "source": "civicnews.com",
-      "thumbnail": "http://www.civicnews.com/news/thumbnail/202608/40355_75731_208_v150.jpg"
+      "source": "pinpointnews.co.kr",
+      "thumbnail": "https://cdn.pinpointnews.co.kr/news/thumbnail/202608/480684_467415_487_v150.jpg"
     }
   ]
 }
