@@ -1,6 +1,13 @@
 {
-  "updated": "2026-08-26T11:00:40Z",
+  "updated": "2026-08-26T12:00:45Z",
   "articles": [
+    {
+      "title": "올 여름 거제 해수욕장 피서객 98만명 찾아",
+      "url": "https://www.gnnews.co.kr/news/articleView.html?idxno=644074",
+      "date": "2026.08.26",
+      "source": "gnnews.co.kr",
+      "thumbnail": "https://cdn.gnnews.co.kr/news/photo/202608/644074_444753_1343.jpg"
+    },
     {
       "title": "할리스, 브랜드 첫 모델 리센느와 전래동화 콘셉트 신규 광고 공개",
       "url": "http://www.lawissue.co.kr/view.php?ud=202608261756474667204ead0791_12",
@@ -55,7 +62,7 @@
       "url": "https://www.sportsseoul.com/news/read/1631049?ref=naver",
       "date": "2026.08.26",
       "source": "sportsseoul.com",
-      "thumbnail": "https://file.sportsseoul.com/news/cms/2026/08/26/news-p.v1.20260826.f648cb31cc6b4920ae02f848addf207c_T1.jpg"
+      "thumbnail": null
     },
     {
       "title": "\"모두가 대상\"…10주년 '2026 케이 월드 드림 어워즈', 27일 개최",
@@ -133,13 +140,6 @@
       "date": "2026.08.26",
       "source": "financialreview.co.kr",
       "thumbnail": "http://www.financialreview.co.kr/news/thumbnail/202608/44404_65625_3623_v150.jpg"
-    },
-    {
-      "title": "한류문화 총망라…천안 K-컬처박람회 내달 2일 팡파르",
-      "url": "https://www.daejonilbo.com/news/articleView.html?idxno=2296787",
-      "date": "2026.08.26",
-      "source": "daejonilbo.com",
-      "thumbnail": "https://cdn.daejonilbo.com/news/photo/202608/2296787_732146_2810.jpg"
     }
   ]
 }
