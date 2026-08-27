@@ -1,33 +1,54 @@
 {
-  "updated": "2026-08-27T10:00:40Z",
+  "updated": "2026-08-27T11:00:36Z",
   "articles": [
     {
-      "title": "[ST포토] 아홉, 시작부터 화려한 무대",
-      "url": "http://www.stoo.com/article.php?aid=108539886760",
-      "date": "2026.08.27",
-      "source": "stoo.com",
-      "thumbnail": "https://www.stoo.com/upimages/gisaimg/202608/27_1085398_86760.jpg"
-    },
-    {
-      "title": "[TD포토] 아일릿 '상큼 청량 비주얼'",
-      "url": "http://www.tvdaily.co.kr/read.php3?aid=17878246761799294017",
+      "title": "[TD포토] 제이비 '시선잡는 올라운더 무대'",
+      "url": "http://www.tvdaily.co.kr/read.php3?aid=17878281781799344017",
       "date": "2026.08.27",
       "source": "tvdaily.co.kr",
-      "thumbnail": "http://image.tvdaily.co.kr/upimages/gisaimg/202608/1787824676_1799294.jpg"
+      "thumbnail": "http://image.tvdaily.co.kr/upimages/gisaimg/202608/1787828178_1799344.jpg"
     },
     {
-      "title": "[HD포토] 리센느, '러브어택 역주행 후 첫 시상식 참석' (2026 KWDA 블루카...",
-      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16175302",
+      "title": "[ST포토] 제이비, 반짝이는 무대",
+      "url": "http://www.stoo.com/article.php?aid=108543314785",
       "date": "2026.08.27",
-      "source": "topstarnews.net",
-      "thumbnail": "https://cdn.topstarnews.net/news/photo/202608/16175302_2005868_5657_crop.jpg"
+      "source": "stoo.com",
+      "thumbnail": "https://www.stoo.com/upimages/gisaimg/202608/27_1085433_14785.jpg"
     },
     {
-      "title": "'2026 KWDA' 앰퍼샌드원·나우즈·엑스러브 '글로벌 넥스트 리더상' 수상",
-      "url": "http://www.celuvmedia.com/article.php?aid=1787824141526463007",
+      "title": "정해창 프로듀서→제이비·에반, '2026 KWDA' 수상 영예 \"팬 분들 덕분\"",
+      "url": "http://www.celuvmedia.com/article.php?aid=1787828064526469007",
       "date": "2026.08.27",
       "source": "celuvmedia.com",
-      "thumbnail": "http://www.celuvmedia.com/upimages/gisaimg/202608/27526463.jpg"
+      "thumbnail": "http://www.celuvmedia.com/upimages/gisaimg/202608/1787828064_526469.jpg"
+    },
+    {
+      "title": "동아오츠카, 나랑드사이다 매출 48% 증가…리센느 모델 효과",
+      "url": "http://www.lawissue.co.kr/view.php?ud=202608271955202386204ead0791_12",
+      "date": "2026.08.27",
+      "source": "lawissue.co.kr",
+      "thumbnail": "https://cliimage.commutil.kr/lawissue_www/nimg/default_bimg.png?p=003"
+    },
+    {
+      "title": "[사진]에이티즈 성화-산,'아궁빵하며 귀여운 표정'",
+      "url": "http://www.osen.co.kr/article/G1112864838",
+      "date": "2026.08.27",
+      "source": "osen.co.kr",
+      "thumbnail": "http://file.osen.co.kr/article_thumb/2026/08/27/202608271952776116_6a9016d5b57d4_300x.jpg"
+    },
+    {
+      "title": "[사진]장도연-전현무,'포즈에서도 MC 호흡 척척'",
+      "url": "http://www.osen.co.kr/article/G1112864839",
+      "date": "2026.08.27",
+      "source": "osen.co.kr",
+      "thumbnail": "http://file.osen.co.kr/article_thumb/2026/08/27/202608271952776803_6a9016da50dea_300x.jpg"
+    },
+    {
+      "title": "[사진]르세라핌 사쿠라,'복근 뽐내며 사뿐사뿐'",
+      "url": "http://www.osen.co.kr/article/G1112864837",
+      "date": "2026.08.27",
+      "source": "osen.co.kr",
+      "thumbnail": "http://file.osen.co.kr/article_thumb/2026/08/27/202608271951777166_6a9016d06a6be_300x.jpg"
     },
     {
       "title": "[NC포토] 리센느 원이, 볼 콕 감당 가능해?",
@@ -37,11 +58,11 @@
       "thumbnail": "https://cdn.nc.press/news/photo/202608/624911_855667_2541.jpg"
     },
     {
-      "title": "동아오츠카 나랑드사이다, 리센느 모델 발탁 후 한 달 매출 48% 증가",
-      "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=207049",
+      "title": "도미노피자, '리센느' 팬덤 공략... 한정판 브로마이드 증정",
+      "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=207052",
       "date": "2026.08.27",
       "source": "thefirstmedia.net",
-      "thumbnail": "http://www.thefirstmedia.net/news/thumbnail/202608/207049_190958_3437_v150.jpg"
+      "thumbnail": "http://www.thefirstmedia.net/news/thumbnail/202608/207052_190961_3736_v150.jpg"
     },
     {
       "title": "[포토] 리센느 미나미, 미나미시네요",
@@ -55,7 +76,7 @@
       "url": "https://www.ekn.kr/web/view.php?key=20260827025007502",
       "date": "2026.08.27",
       "source": "ekn.kr",
-      "thumbnail": null
+      "thumbnail": "https://www.ekn.kr/mnt/file/202608/news-p.v1.20260827.2996d6ba6b2a4423aa6a3d6cc1221e86_R.png"
     },
     {
       "title": "[포토] 리센느 메이, 프리티 그립감",
@@ -70,13 +91,6 @@
       "date": "2026.08.27",
       "source": "slist.kr",
       "thumbnail": "https://cdn.slist.kr/news/thumbnail/202608/761820_1166768_472_v150.jpg"
-    },
-    {
-      "title": "“피자 먹고 리센느 굿즈까지”…도미노피자, 한정판 브로마이드 증정",
-      "url": "https://www.sportsseoul.com/news/read/1631323?ref=naver",
-      "date": "2026.08.27",
-      "source": "sportsseoul.com",
-      "thumbnail": null
     }
   ]
 }
