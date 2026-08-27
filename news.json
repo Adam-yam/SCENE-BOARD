@@ -1,12 +1,26 @@
 {
-  "updated": "2026-08-27T17:00:37Z",
+  "updated": "2026-08-27T18:00:46Z",
   "articles": [
     {
-      "title": "[TD포토] 하츠투하츠에 트로피 전달하는 아론 양 대표",
-      "url": "http://www.tvdaily.co.kr/read.php3?aid=17878496981799438017",
+      "title": "[ST포토] 82메이저, 'KWDA 왔어요'",
+      "url": "http://www.stoo.com/article.php?aid=108552691908",
+      "date": "2026.08.27",
+      "source": "stoo.com",
+      "thumbnail": "https://www.stoo.com/upimages/gisaimg/202608/28_1085526_91908.jpg"
+    },
+    {
+      "title": "[TD포토] 이설-김범렬 대표 '케이 월드 드림 베스트 트로트 아티스트상...",
+      "url": "http://www.tvdaily.co.kr/read.php3?aid=17878526471799461017",
       "date": "2026.08.27",
       "source": "tvdaily.co.kr",
-      "thumbnail": "http://image.tvdaily.co.kr/upimages/gisaimg/202608/1787849698_1799438.jpg"
+      "thumbnail": "http://image.tvdaily.co.kr/upimages/gisaimg/202608/1787852647_1799461.jpg"
+    },
+    {
+      "title": "[사진]미야오 가원,'고혹미'",
+      "url": "http://www.osen.co.kr/article/G1112865111",
+      "date": "2026.08.27",
+      "source": "osen.co.kr",
+      "thumbnail": "http://file.osen.co.kr/article_thumb/2026/08/28/202608280242779568_6a9076f6ebb66_300x.jpg"
     },
     {
       "title": "[포토] Full of KWDA 2026 블루카펫 현장",
@@ -16,25 +30,11 @@
       "thumbnail": "https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2026/08/28/6c1e2956-e107-4c60-8f74-daa0d75d4558.jpg"
     },
     {
-      "title": "MC 황인혜-유재필, 2026 KWDA 블루카펫 MC [포토엔HD]",
-      "url": "https://www.newsen.com/news_view.php?uid=202608280134305510",
-      "date": "2026.08.27",
-      "source": "newsen.com",
-      "thumbnail": "https://photo.newsen.com/news_photo/2026/08/28/202608280134305510_1.jpg"
-    },
-    {
-      "title": "[포토S] 원이-미나미, '매력적인 볼 콕'",
-      "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1004381",
-      "date": "2026.08.27",
-      "source": "spotvnews.co.kr",
-      "thumbnail": "https://7lgigmttrjuyfehsudec15072.edge.naverncp.com/news/photo/202608/1004381_2007814_9967.jpg"
-    },
-    {
-      "title": "[NC포토] 아일릿 윤아, 핑크 스타보다 비싼 여자",
-      "url": "https://www.nc.press/news/articleView.html?idxno=624986",
+      "title": "[NC포토] 아일릿 민주, 빌려온 고양이",
+      "url": "https://www.nc.press/news/articleView.html?idxno=624989",
       "date": "2026.08.27",
       "source": "nc.press",
-      "thumbnail": "https://cdn.nc.press/news/photo/202608/624986_855902_5032.jpg"
+      "thumbnail": "https://cdn.nc.press/news/photo/202608/624989_855920_5345.jpg"
     },
     {
       "title": "‘AAA 2026’, 아이딧·QWER·클로즈 유어 아이즈·키스오브라이프·킥플...",
