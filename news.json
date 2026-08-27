@@ -1,82 +1,110 @@
 {
-  "updated": "2026-08-27T13:00:36Z",
+  "updated": "2026-08-27T14:00:34Z",
   "articles": [
     {
-      "title": "[사진]라이즈 원빈,'비현실적인 비주얼'",
-      "url": "http://www.osen.co.kr/article/G1112865015",
+      "title": "[포토] 리센느 제나, 놀라운 인형 미모",
+      "url": "http://www.joynews24.com/view/1999225",
+      "date": "2026.08.27",
+      "source": "joynews24.com",
+      "thumbnail": "https://image.inews24.com/v1/58ad2212596564.jpg"
+    },
+    {
+      "title": "[포토] 리센느 원이X미나미, 필승 조합!",
+      "url": "http://www.joynews24.com/view/1999223",
+      "date": "2026.08.27",
+      "source": "joynews24.com",
+      "thumbnail": "https://image.inews24.com/v1/d69a8094f8bcb2.jpg"
+    },
+    {
+      "title": "[사진]라이즈 원빈,'꽃받침하며 눈맞춤'",
+      "url": "http://www.osen.co.kr/article/G1112865065",
       "date": "2026.08.27",
       "source": "osen.co.kr",
-      "thumbnail": "http://file.osen.co.kr/article_thumb/2026/08/27/202608272158771000_6a9034694f6ab_300x.jpg"
+      "thumbnail": "http://file.osen.co.kr/article_thumb/2026/08/27/202608272244776510_6a903f5986c6e_300x.jpg"
     },
     {
-      "title": "'2026 KWDA' 르세라핌·에이티즈 '베스트 아티스트' 선정 \"뜻 깊은 상 감...",
-      "url": "http://www.celuvmedia.com/article.php?aid=1787835354526478007",
-      "date": "2026.08.27",
-      "source": "celuvmedia.com",
-      "thumbnail": "http://www.celuvmedia.com/upimages/gisaimg/202608/1787835354_526478.jpg"
-    },
-    {
-      "title": "[ST포토] 정려원, '사랑스러운 미소'",
-      "url": "http://www.stoo.com/article.php?aid=108550062573",
-      "date": "2026.08.27",
-      "source": "stoo.com",
-      "thumbnail": "https://www.stoo.com/upimages/gisaimg/202608/27_1085500_62573.jpg"
-    },
-    {
-      "title": "[사진]싸이커스,'무대를 꽉 채우는 매력'",
-      "url": "http://www.osen.co.kr/article/G1112865010",
-      "date": "2026.08.27",
-      "source": "osen.co.kr",
-      "thumbnail": "http://file.osen.co.kr/article_thumb/2026/08/27/202608272155775600_6a9033c6542d9_300x.jpg"
-    },
-    {
-      "title": "[TD포토] 르세라핌 사쿠라 '천상계 비주얼'",
-      "url": "http://www.tvdaily.co.kr/read.php3?aid=17878353261799409017",
-      "date": "2026.08.27",
-      "source": "tvdaily.co.kr",
-      "thumbnail": "http://image.tvdaily.co.kr/upimages/gisaimg/202608/1787835326_1799409.jpg"
-    },
-    {
-      "title": "[사진]하이파이유니콘,'발랄한 손인사'",
-      "url": "http://www.osen.co.kr/article/G1112865008",
-      "date": "2026.08.27",
-      "source": "osen.co.kr",
-      "thumbnail": "http://file.osen.co.kr/article_thumb/2026/08/27/202608272154775542_6a903379414fc_300x.jpg"
-    },
-    {
-      "title": "[사진]QWER 히나,'사랑스럽게 계단을 오르며'",
-      "url": "http://www.osen.co.kr/article/G1112865004",
-      "date": "2026.08.27",
-      "source": "osen.co.kr",
-      "thumbnail": "http://file.osen.co.kr/article_thumb/2026/08/27/202608272152772473_6a9032f4cc9da_300x.jpg"
-    },
-    {
-      "title": "[사진]QWER 히나,'각선미 뽐내는 거대냥이'",
-      "url": "http://www.osen.co.kr/article/G1112865005",
-      "date": "2026.08.27",
-      "source": "osen.co.kr",
-      "thumbnail": "http://file.osen.co.kr/article_thumb/2026/08/27/202608272152770535_6a9032f8b920e_300x.jpg"
-    },
-    {
-      "title": "[포토Q] 황인혜-유재필 '케이 월드 드림 어워즈, 하트'",
-      "url": "http://www.sportsq.co.kr/news/articleView.html?idxno=497957",
-      "date": "2026.08.27",
-      "source": "sportsq.co.kr",
-      "thumbnail": "http://www.sportsq.co.kr/news/thumbnail/202608/497957_576300_4844_v150.jpg"
-    },
-    {
-      "title": "[사진]앰퍼샌드원,'단체로 꽃받침 포즈'",
-      "url": "http://www.osen.co.kr/article/G1112865002",
-      "date": "2026.08.27",
-      "source": "osen.co.kr",
-      "thumbnail": "http://file.osen.co.kr/article_thumb/2026/08/27/202608272147772703_6a9031fed7223_300x.jpg"
-    },
-    {
-      "title": "[NC포토] 르세라핌 사쿠라, 블루카펫에 활짝 피어나",
-      "url": "https://www.nc.press/news/articleView.html?idxno=624964",
+      "title": "[NC포토] 에반, 오빠가 무리할게",
+      "url": "https://www.nc.press/news/articleView.html?idxno=624980",
       "date": "2026.08.27",
       "source": "nc.press",
-      "thumbnail": "https://cdn.nc.press/news/photo/202608/624964_855840_2140.jpg"
+      "thumbnail": "https://cdn.nc.press/news/photo/202608/624980_855882_4424.jpg"
+    },
+    {
+      "title": "[사진]라이즈 쇼타로,'귀엽게 꽃받침'",
+      "url": "http://www.osen.co.kr/article/G1112865063",
+      "date": "2026.08.27",
+      "source": "osen.co.kr",
+      "thumbnail": "http://file.osen.co.kr/article_thumb/2026/08/27/202608272243778000_6a903ef658b7f_300x.jpg"
+    },
+    {
+      "title": "[사진]르세라핌 김채원,'사랑스럽게 손인사'",
+      "url": "http://www.osen.co.kr/article/G1112865062",
+      "date": "2026.08.27",
+      "source": "osen.co.kr",
+      "thumbnail": "http://file.osen.co.kr/article_thumb/2026/08/27/202608272240771780_6a903e6b9b2ce_300x.jpg"
+    },
+    {
+      "title": "[사진]르세라핌 김채원,'사랑스럽게 머리카락을 넘기며'",
+      "url": "http://www.osen.co.kr/article/G1112865060",
+      "date": "2026.08.27",
+      "source": "osen.co.kr",
+      "thumbnail": "http://file.osen.co.kr/article_thumb/2026/08/27/202608272238771741_6a903ddb4e6db_300x.jpg"
+    },
+    {
+      "title": "에이티즈·르세라핌 등 K팝 스타 총출동…'2026 KWDA', 모두의 '축제' 열...",
+      "url": "http://www.tvdaily.co.kr/read.php3?aid=17878370891799417010",
+      "date": "2026.08.27",
+      "source": "tvdaily.co.kr",
+      "thumbnail": "http://image.tvdaily.co.kr/upimages/gisaimg/202608/271799417.jpg"
+    },
+    {
+      "title": "[사진]씨야,'순백의 자태'",
+      "url": "http://www.osen.co.kr/article/G1112865059",
+      "date": "2026.08.27",
+      "source": "osen.co.kr",
+      "thumbnail": "http://file.osen.co.kr/article_thumb/2026/08/27/202608272234778301_6a903ce012ce8_300x.jpg"
+    },
+    {
+      "title": "[사진]에이티즈,'함께해요'",
+      "url": "http://www.osen.co.kr/article/G1112865058",
+      "date": "2026.08.27",
+      "source": "osen.co.kr",
+      "thumbnail": "http://file.osen.co.kr/article_thumb/2026/08/27/202608272234775533_6a903cdb5a5c3_300x.jpg"
+    },
+    {
+      "title": "[사진]에이티즈 홍중,'건강하게 돌아왔어요'",
+      "url": "http://www.osen.co.kr/article/G1112865055",
+      "date": "2026.08.27",
+      "source": "osen.co.kr",
+      "thumbnail": "http://file.osen.co.kr/article_thumb/2026/08/27/202608272230771606_6a903c0ecfa66_300x.jpg"
+    },
+    {
+      "title": "[사진]에이티즈 윤호,'빛나는 비주얼'",
+      "url": "http://www.osen.co.kr/article/G1112865056",
+      "date": "2026.08.27",
+      "source": "osen.co.kr",
+      "thumbnail": "http://file.osen.co.kr/article_thumb/2026/08/27/202608272230777287_6a903c12e9e63_300x.jpg"
+    },
+    {
+      "title": "[사진]에이티즈 민기,'아궁빵 포즈도 멋지게'",
+      "url": "http://www.osen.co.kr/article/G1112865052",
+      "date": "2026.08.27",
+      "source": "osen.co.kr",
+      "thumbnail": "http://file.osen.co.kr/article_thumb/2026/08/27/202608272226772176_6a903b1713582_300x.jpg"
+    },
+    {
+      "title": "[사진]르세라핌 사쿠라,'사랑스럽게 사뿐사뿐'",
+      "url": "http://www.osen.co.kr/article/G1112865047",
+      "date": "2026.08.27",
+      "source": "osen.co.kr",
+      "thumbnail": "http://file.osen.co.kr/article_thumb/2026/08/27/202608272225770904_6a903abaaa480_300x.jpg"
+    },
+    {
+      "title": "[사진]르세라핌 김채원,'너무나 사랑스러워'",
+      "url": "http://www.osen.co.kr/article/G1112865046",
+      "date": "2026.08.27",
+      "source": "osen.co.kr",
+      "thumbnail": "http://file.osen.co.kr/article_thumb/2026/08/27/202608272225776281_6a903ab6cbd1e_300x.jpg"
     }
   ]
 }
