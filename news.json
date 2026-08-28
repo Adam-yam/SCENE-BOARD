@@ -1,33 +1,40 @@
 {
-  "updated": "2026-08-28T05:00:43Z",
+  "updated": "2026-08-28T06:00:40Z",
   "articles": [
     {
-      "title": "[ST포토] 박용덕 조직위원장, 10주년 맞은 KWDA... K-문화 강국 도약 위해...",
-      "url": "http://www.stoo.com/article.php?aid=108565896719",
+      "title": "공백 깬 김수현, '2026 TMA' 시상자로 참석",
+      "url": "https://www.raonnews.com/news/article.html?no=60663",
+      "date": "2026.08.28",
+      "source": "raonnews.com",
+      "thumbnail": "https://www.raonnews.com/data/photos/20260835/art_17878958795379_91f4a3.jpg"
+    },
+    {
+      "title": "[ST포토] 르세라핌 허윤진, 시선 모으는 무대",
+      "url": "http://www.stoo.com/article.php?aid=108568526744",
       "date": "2026.08.28",
       "source": "stoo.com",
-      "thumbnail": "https://www.stoo.com/upimages/gisaimg/202608/28_1085658_96719.jpg"
+      "thumbnail": null
     },
     {
-      "title": "10주년 'K 월드 드림 어워즈' 성료…BTS·르세라핌·에이티즈 최고 영예",
-      "url": "https://www.nc.press/news/articleView.html?idxno=625063",
-      "date": "2026.08.28",
-      "source": "nc.press",
-      "thumbnail": "https://cdn.nc.press/news/photo/202608/625063_856069_395.jpg"
-    },
-    {
-      "title": "김수현, 국내 활동 재개…‘더팩트 뮤직어워즈’ 시상자로",
-      "url": "https://www.mediapen.com/news/view/1119560",
-      "date": "2026.08.28",
-      "source": "mediapen.com",
-      "thumbnail": "https://image.mediapen.com/news/202608/news_1119560_1787891246_m.jpeg"
-    },
-    {
-      "title": "[TD포토] 에이티즈 성화 '미소 천사'",
-      "url": "http://www.tvdaily.co.kr/read.php3?aid=17878914341799599017",
+      "title": "[TD포토] 르세라핌 홍은채 '물오른 미모'",
+      "url": "http://www.tvdaily.co.kr/read.php3?aid=17878964161799621017",
       "date": "2026.08.28",
       "source": "tvdaily.co.kr",
-      "thumbnail": "http://image.tvdaily.co.kr/upimages/gisaimg/202608/1787891434_1799599.jpg"
+      "thumbnail": "http://image.tvdaily.co.kr/upimages/gisaimg/202608/1787896416_1799621.jpg"
+    },
+    {
+      "title": "바이오던스, 9월 올영세일·산리오 컬래버 캠페인 참여",
+      "url": "http://www.bokuennews.com/news/article.html?no=283263",
+      "date": "2026.08.28",
+      "source": "bokuennews.com",
+      "thumbnail": "http://www.bokuennews.com/data/photos/cdn/20260835/art_1787896127.jpg"
+    },
+    {
+      "title": "세일에 팬덤을 입혔다… 뷰티업계 가을 대전",
+      "url": "https://www.pressman.kr/news/articleView.html?idxno=103402",
+      "date": "2026.08.28",
+      "source": "pressman.kr",
+      "thumbnail": "https://cdn.pressman.kr/news/photo/202608/103402_95301_2545.jpg"
     },
     {
       "title": "바이오던스, 올영세일·산리오캐릭터즈 컬래버… 한정 기획 2종 출시",
@@ -35,13 +42,6 @@
       "date": "2026.08.28",
       "source": "fashionbiz.co.kr",
       "thumbnail": "https://www.fashionbiz.co.kr/images/articleImg/mainImg/1787890370367-%EB%B0%94%EC%9D%B4%EC%98%A4%EB%8D%98%EC%8A%A4_%EB%B3%B4%EB%8F%84%EC%9E%90%EB%A3%8C%20%EC%9D%B4%EB%AF%B8%EC%A7%80%201.jpg"
-    },
-    {
-      "title": "한스킨, '무신사 뷰티 페스타 in 성수' 팝업 마쳐…특허 연꽃 PDRN 라인업",
-      "url": "https://www.abcn.kr/news/articleView.html?idxno=91044",
-      "date": "2026.08.28",
-      "source": "abcn.kr",
-      "thumbnail": "https://cdn.abcn.kr/news/thumbnail/202608/91044_49076_5320_v150.jpg"
     },
     {
       "title": "'예쁨이 두 배' 리센느 원이-미나미, 원나미 비주얼 케미에 홀릭",
@@ -104,7 +104,14 @@
       "url": "http://www.breaknews.com/1232272",
       "date": "2026.08.28",
       "source": "breaknews.com",
-      "thumbnail": null
+      "thumbnail": "https://www.breaknews.com/imgdata/breaknews_com/202406/2024061752042345.jpg"
+    },
+    {
+      "title": "김수현, 공식석상 선다...리센느·임영웅 출연 'TMA' 시상자 참석",
+      "url": "https://www.nc.press/news/articleView.html?idxno=625010",
+      "date": "2026.08.27",
+      "source": "nc.press",
+      "thumbnail": "https://cdn.nc.press/news/photo/202608/625010_855982_5358.jpeg"
     },
     {
       "title": "김수현, '2026 더팩트 뮤직 어워즈' 시상자 참석",
