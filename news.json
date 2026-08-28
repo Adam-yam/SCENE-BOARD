@@ -1,26 +1,33 @@
 {
-  "updated": "2026-08-28T08:00:46Z",
+  "updated": "2026-08-28T09:00:37Z",
   "articles": [
     {
-      "title": "[ST포토] 라이즈 쇼타로-앤톤, 멋짐 폭발",
-      "url": "http://www.stoo.com/article.php?aid=108571358679",
-      "date": "2026.08.28",
-      "source": "stoo.com",
-      "thumbnail": null
-    },
-    {
-      "title": "[TD포토] 라이즈 원빈 '눈호강 비주얼'",
-      "url": "http://www.tvdaily.co.kr/read.php3?aid=17879037461799665017",
+      "title": "[TD포토] 키키 지유 '리듬탄 지유~'",
+      "url": "http://www.tvdaily.co.kr/read.php3?aid=17879073991799693017",
       "date": "2026.08.28",
       "source": "tvdaily.co.kr",
-      "thumbnail": "http://image.tvdaily.co.kr/upimages/gisaimg/202608/1787903746_1799665.jpg"
+      "thumbnail": "http://image.tvdaily.co.kr/upimages/gisaimg/202608/1787907399_1799693.jpg"
     },
     {
-      "title": "‘불금’ 책임질 이서진·김광규, ‘비서진2’로 ‘나혼산’ 이길까(종...",
-      "url": "https://www.mk.co.kr/article/12138929",
+      "title": "[ST포토] 라이즈 쇼타로, 퍼포먼스에 시선 올인",
+      "url": "http://www.stoo.com/article.php?aid=108573771284",
       "date": "2026.08.28",
-      "source": "mk.co.kr",
-      "thumbnail": "https://wimg.mk.co.kr/news/cms/202608/28/news-p.v1.20260828.605f1e989ced479b8e8aa53c26a1c89d_P1.jpg"
+      "source": "stoo.com",
+      "thumbnail": "https://www.stoo.com/upimages/gisaimg/202608/28_1085737_71284.jpg"
+    },
+    {
+      "title": "[가수 브랜드 리포트] 하츠투하츠, KWDA 2관왕·카르멘 인기상",
+      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16176316",
+      "date": "2026.08.28",
+      "source": "topstarnews.net",
+      "thumbnail": "https://cdn.topstarnews.net/news/photo/202608/16176316_2007190_5418_crop.jpg"
+    },
+    {
+      "title": "리센느 원이 소지품에 옥수수 등장...아이돌 백에서 나온 남다른 간식",
+      "url": "https://www.cbci.co.kr/news/articleView.html?idxno=602012",
+      "date": "2026.08.28",
+      "source": "cbci.co.kr",
+      "thumbnail": "https://www.cbci.co.kr/news/thumbnail/202608/602012_412796_3549_v150.jpg"
     },
     {
       "title": "\"더 흥미롭게\"…'비서진', 이서진·김광규의 스타 '밀착 케어'(종합)",
@@ -28,34 +35,6 @@
       "date": "2026.08.28",
       "source": "news.tf.co.kr",
       "thumbnail": "https://img.tf.co.kr/article/home/2026/08/28/202635811787901724.jpg"
-    },
-    {
-      "title": "바이오던스, 올영세일 참가…한정 마스크팩 출시",
-      "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=860421",
-      "date": "2026.08.28",
-      "source": "hansbiz.co.kr",
-      "thumbnail": "https://cdn.hansbiz.co.kr/news/thumbnail/202608/860421_882658_2244_v150.jpg"
-    },
-    {
-      "title": "'비서진' 환갑 앞둔 김광규·이서진의 청춘 수발기...\"'나혼산' 꺾고 대...",
-      "url": "http://www.starnewsk.com/news/articleView.html?idxno=58572",
-      "date": "2026.08.28",
-      "source": "starnewsk.com",
-      "thumbnail": "https://cdn.starnewsk.com/news/thumbnail/202608/58572_85062_5835_v150.jpg"
-    },
-    {
-      "title": "'비서진' 이서진 \"이번엔 '나 혼자 산다' 이겨보고 싶다\"",
-      "url": "https://www.yna.co.kr/view/AKR20260828136300005?input=1195m",
-      "date": "2026.08.28",
-      "source": "yna.co.kr",
-      "thumbnail": "https://img2.yna.co.kr/etc/inner/KR/2026/08/28/AKR20260828136300005_01_i_P4.jpg"
-    },
-    {
-      "title": "\"28년 만에 첫 모델\"…할리스가 '리센느' 발탁한 진짜 이유",
-      "url": "https://www.hankyung.com/article/202608289743g",
-      "date": "2026.08.28",
-      "source": "hankyung.com",
-      "thumbnail": "https://img.hankyung.com/photo/202608/01.45481064.1.jpg"
     },
     {
       "title": "바이오던스, 올영세일·산리오캐릭터즈 컬래버… 한정 기획 2종 출시",
@@ -125,7 +104,7 @@
       "url": "http://www.breaknews.com/1232272",
       "date": "2026.08.28",
       "source": "breaknews.com",
-      "thumbnail": null
+      "thumbnail": "https://www.breaknews.com/imgdata/breaknews_com/202406/2024061752042345.jpg"
     },
     {
       "title": "김수현, 공식석상 선다...리센느·임영웅 출연 'TMA' 시상자 참석",
@@ -140,6 +119,13 @@
       "date": "2026.08.27",
       "source": "enter.etoday.co.kr",
       "thumbnail": "https://img.etoday.co.kr/pto_db/2026/08/600/20260828074815_2379691_1000_1250.jpg"
+    },
+    {
+      "title": "김수현, 국내 활동 재개…'2026 TMA' 시상자 출격",
+      "url": "https://www.mydaily.co.kr/page/view/2026082808055226677",
+      "date": "2026.08.27",
+      "source": "mydaily.co.kr",
+      "thumbnail": "https://mydaily.co.kr/photos/2026/05/27/2026052715491456734_l.jpg"
     }
   ]
 }
