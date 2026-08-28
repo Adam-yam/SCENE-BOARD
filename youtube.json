@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-28T02:10:26Z",
+  "updated": "2026-08-28T03:10:26Z",
   "videos": [
     {
       "id": "oO2aZKOWbdk",
@@ -50,6 +50,14 @@
       "type": "long"
     },
     {
+      "id": "InZEYmMt8bs",
+      "title": "리마인 🥰🩷",
+      "url": "https://www.youtube.com/shorts/InZEYmMt8bs",
+      "thumbnail": "https://i.ytimg.com/vi/InZEYmMt8bs/mqdefault.jpg",
+      "date": "2026.08.28",
+      "type": "short"
+    },
+    {
       "id": "ErqBKpwTSVg",
       "title": "네가 참 좋아🫶💗",
       "url": "https://www.youtube.com/shorts/ErqBKpwTSVg",
@@ -86,14 +94,6 @@
       "title": "💓",
       "url": "https://www.youtube.com/shorts/4Wa2GNJLe_Y",
       "thumbnail": "https://i.ytimg.com/vi/4Wa2GNJLe_Y/mqdefault.jpg",
-      "date": "2026.08.19",
-      "type": "short"
-    },
-    {
-      "id": "nWWM7m0t6y4",
-      "title": "😉🫶",
-      "url": "https://www.youtube.com/shorts/nWWM7m0t6y4",
-      "thumbnail": "https://i.ytimg.com/vi/nWWM7m0t6y4/mqdefault.jpg",
       "date": "2026.08.19",
       "type": "short"
     }
