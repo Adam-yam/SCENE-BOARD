@@ -1,12 +1,26 @@
 {
-  "updated": "2026-08-28T22:00:40Z",
+  "updated": "2026-08-28T23:00:36Z",
   "articles": [
+    {
+      "title": "[ST포토] 앤팀, '대형 무대서 더 잘해'",
+      "url": "http://www.stoo.com/article.php?aid=108577920985",
+      "date": "2026.08.28",
+      "source": "stoo.com",
+      "thumbnail": "https://www.stoo.com/upimages/gisaimg/202608/29_1085779_20985.jpg"
+    },
+    {
+      "title": "유통가 휩쓰는 마법의 이름 석자 '리센느'",
+      "url": "https://www.peoplewatch.co.kr/article/view/ppw202608280011",
+      "date": "2026.08.28",
+      "source": "peoplewatch.co.kr",
+      "thumbnail": "https://www.peoplewatch.co.kr/data/ppw/image/2026/08/28/ppw20260828000013.jpg"
+    },
     {
       "title": "[데스크라인] '안원잘부', 가짜세상 속 진짜의 외침",
       "url": "https://www.etnews.com/20260827000367",
       "date": "2026.08.28",
       "source": "etnews.com",
-      "thumbnail": null
+      "thumbnail": "https://img.etnews.com/news/article/2026/08/27/news-p.v1.20260827.05a9a6bded794e2fbbd6f56bdfeb078b_P3.jpg"
     },
     {
       "title": "\"조회수 5억뷰 대박인데 실적은?\"…K푸드 스타마케팅 딜레마",
@@ -27,7 +41,7 @@
       "url": "https://mhnse.com/news/articleView.html?idxno=1510094",
       "date": "2026.08.28",
       "source": "mhnse.com",
-      "thumbnail": "https://cdn.mhnse.com/mhnsports/2026/08/28235421/thumb_ccms_49562.jpg"
+      "thumbnail": null
     },
     {
       "title": "[TD포토] 씨야 '믿고 듣는 노래'",
@@ -35,13 +49,6 @@
       "date": "2026.08.28",
       "source": "tvdaily.co.kr",
       "thumbnail": "http://image.tvdaily.co.kr/upimages/gisaimg/202608/1787915001_1799716.jpg"
-    },
-    {
-      "title": "[ST포토] 씨야 이보람, 반짝이는 무대",
-      "url": "http://www.stoo.com/article.php?aid=108576165113",
-      "date": "2026.08.28",
-      "source": "stoo.com",
-      "thumbnail": null
     },
     {
       "title": "리센느 원이 소지품에 옥수수 등장...아이돌 백에서 나온 남다른 간식",
