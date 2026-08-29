@@ -1,6 +1,27 @@
 {
-  "updated": "2026-08-29T01:00:36Z",
+  "updated": "2026-08-29T02:00:41Z",
   "articles": [
+    {
+      "title": "[TD포토] 나우즈 연우 'KWDA 10주년 축하합니다'",
+      "url": "http://www.tvdaily.co.kr/read.php3?aid=17879684471799765017",
+      "date": "2026.08.29",
+      "source": "tvdaily.co.kr",
+      "thumbnail": "http://image.tvdaily.co.kr/upimages/gisaimg/202608/1787968447_1799765.jpg"
+    },
+    {
+      "title": "[셀럽포토]'2026 케이 월드 드림 어워즈' 전경",
+      "url": "http://www.celuvmedia.com/article.php?aid=1787967653526604009",
+      "date": "2026.08.29",
+      "source": "celuvmedia.com",
+      "thumbnail": "http://www.celuvmedia.com/upimages/gisaimg/202608/1787967653_526604.jpg"
+    },
+    {
+      "title": "고양고양이·펭수 7년 만에 '깜짝 재회', 댄스 챌린지로 다시 뭉쳤다",
+      "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2464478",
+      "date": "2026.08.29",
+      "source": "enewstoday.co.kr",
+      "thumbnail": "https://cdn.enewstoday.co.kr/news/thumbnail/202608/2464478_1305887_4924_v150.jpg"
+    },
     {
       "title": "펭수와 '고양 고양이' 7년 만의 재회…31일 댄스 챌린지",
       "url": "https://www.yna.co.kr/view/AKR20260829021700060?input=1195m",
@@ -9,25 +30,11 @@
       "thumbnail": "https://img8.yna.co.kr/etc/inner/KR/2026/08/29/AKR20260829021700060_01_i_P4.jpg"
     },
     {
-      "title": "[TD포토] 엑스러브 하루 '시크한 손인사'",
-      "url": "http://www.tvdaily.co.kr/read.php3?aid=17879645111799753017",
-      "date": "2026.08.29",
-      "source": "tvdaily.co.kr",
-      "thumbnail": "http://image.tvdaily.co.kr/upimages/gisaimg/202608/1787964511_1799753.jpg"
-    },
-    {
       "title": "[유통가 패트롤] 가을 오기 전부터...'가을 맛' 앞세운 시즌 마케팅 시동",
       "url": "http://www.opinionnews.co.kr/news/articleView.html?idxno=143642",
       "date": "2026.08.29",
       "source": "opinionnews.co.kr",
       "thumbnail": "http://www.opinionnews.co.kr/news/thumbnail/202608/143642_105761_5358_v150.jpg"
-    },
-    {
-      "title": "리센느 대세 맞네, 방탄소년단 임영웅 제치고 8월 스타 브랜드평판 1위",
-      "url": "https://www.newsen.com/news_view.php?uid=202608290914446310",
-      "date": "2026.08.29",
-      "source": "newsen.com",
-      "thumbnail": "https://photo.newsen.com/news_photo/2026/08/29/202608290914446310_51.jpg"
     },
     {
       "title": "3위가 임영웅인데…8월 스타 브랜드 평판, '영예의 1위'는 이랬다",
@@ -42,13 +49,6 @@
       "date": "2026.08.29",
       "source": "mhnse.com",
       "thumbnail": "https://cdn.mhnse.com/mhnsports/2026/08/29091401/thumb_ccms_49574.jpg"
-    },
-    {
-      "title": "[ST포토] 하츠투하츠, 사랑스럽지",
-      "url": "http://www.stoo.com/article.php?aid=108578920360",
-      "date": "2026.08.29",
-      "source": "stoo.com",
-      "thumbnail": "https://www.stoo.com/upimages/gisaimg/202608/29_1085789_20360.jpg"
     },
     {
       "title": "돌아온 고양시 마스코트 '고양고양이'…펭수와 7년 만에 다시 춤춘다",
@@ -76,6 +76,13 @@
       "url": "https://sports.khan.co.kr/article/202608290531003?pt=nv",
       "date": "2026.08.28",
       "source": "sports.khan.co.kr",
+      "thumbnail": null
+    },
+    {
+      "title": "[ST포토] 리센느 원이-리브, 반짝이는 비주얼",
+      "url": "http://www.stoo.com/article.php?aid=108575638486",
+      "date": "2026.08.28",
+      "source": "stoo.com",
       "thumbnail": null
     },
     {
@@ -112,13 +119,6 @@
       "date": "2026.08.28",
       "source": "newsis.com",
       "thumbnail": "https://img1.newsis.com/2026/08/27/NISI20260827_0002222675_web.jpg"
-    },
-    {
-      "title": "[포토] 리센느 리브 '블링블링한 미모'",
-      "url": "https://www.slist.kr/news/articleView.html?idxno=762011",
-      "date": "2026.08.28",
-      "source": "slist.kr",
-      "thumbnail": "https://cdn.slist.kr/news/thumbnail/202608/762011_1167026_1528_v150.jpg"
     }
   ]
 }
