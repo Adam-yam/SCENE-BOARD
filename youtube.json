@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-29T11:10:24Z",
+  "updated": "2026-08-29T12:10:23Z",
   "videos": [
     {
       "id": "oO2aZKOWbdk",
@@ -50,6 +50,14 @@
       "type": "long"
     },
     {
+      "id": "kZ0gmzp2AZU",
+      "title": "A H A H",
+      "url": "https://www.youtube.com/shorts/kZ0gmzp2AZU",
+      "thumbnail": "https://i.ytimg.com/vi/kZ0gmzp2AZU/mqdefault.jpg",
+      "date": "2026.08.29",
+      "type": "short"
+    },
+    {
       "id": "vK3c0aJqq5E",
       "title": "#수이 님과 어디서나 당당하게 걷기 🎀",
       "url": "https://www.youtube.com/shorts/vK3c0aJqq5E",
@@ -87,14 +95,6 @@
       "url": "https://www.youtube.com/shorts/6QNVLJYdSHM",
       "thumbnail": "https://i.ytimg.com/vi/6QNVLJYdSHM/mqdefault.jpg",
       "date": "2026.08.23",
-      "type": "short"
-    },
-    {
-      "id": "0PrfodovDBI",
-      "title": "#수빈 선배님과 어디서나 당당하게 걷기 🎀",
-      "url": "https://www.youtube.com/shorts/0PrfodovDBI",
-      "thumbnail": "https://i.ytimg.com/vi/0PrfodovDBI/mqdefault.jpg",
-      "date": "2026.08.20",
       "type": "short"
     }
   ]
