@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-29T07:10:26Z",
+  "updated": "2026-08-29T08:10:22Z",
   "videos": [
     {
       "id": "oO2aZKOWbdk",
@@ -50,6 +50,14 @@
       "type": "long"
     },
     {
+      "id": "vK3c0aJqq5E",
+      "title": "#수이 님과 어디서나 당당하게 걷기 🎀",
+      "url": "https://www.youtube.com/shorts/vK3c0aJqq5E",
+      "thumbnail": "https://i.ytimg.com/vi/vK3c0aJqq5E/mqdefault.jpg",
+      "date": "2026.08.29",
+      "type": "short"
+    },
+    {
       "id": "Kb9h6UwgKUc",
       "title": "#시윤 님과 어디서나 당당하게 걷기 🎀",
       "url": "https://www.youtube.com/shorts/Kb9h6UwgKUc",
@@ -86,14 +94,6 @@
       "title": "#수빈 선배님과 어디서나 당당하게 걷기 🎀",
       "url": "https://www.youtube.com/shorts/0PrfodovDBI",
       "thumbnail": "https://i.ytimg.com/vi/0PrfodovDBI/mqdefault.jpg",
-      "date": "2026.08.20",
-      "type": "short"
-    },
-    {
-      "id": "or1tvms0_q8",
-      "title": "#JUNSEO #SANGWON 님과 어디서나 당당하게 걷기 🎀",
-      "url": "https://www.youtube.com/shorts/or1tvms0_q8",
-      "thumbnail": "https://i.ytimg.com/vi/or1tvms0_q8/mqdefault.jpg",
       "date": "2026.08.20",
       "type": "short"
     }
