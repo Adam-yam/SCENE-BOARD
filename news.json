@@ -1,6 +1,34 @@
 {
-  "updated": "2026-08-29T08:00:38Z",
+  "updated": "2026-08-29T09:00:44Z",
   "articles": [
+    {
+      "title": "[ST포토] 이보람, '씨야 활동 행복해요'",
+      "url": "http://www.stoo.com/article.php?aid=108589064664",
+      "date": "2026.08.29",
+      "source": "stoo.com",
+      "thumbnail": null
+    },
+    {
+      "title": "[TD영상] 앰퍼샌드원, '글로벌 넥스트 리더상 수상' 더 멋진 음악과 퍼포...",
+      "url": "http://www.tvdaily.co.kr/read.php3?aid=17879904181799821003",
+      "date": "2026.08.29",
+      "source": "tvdaily.co.kr",
+      "thumbnail": "http://image.tvdaily.co.kr/upimages/gisaimg/202608/1787990418_1799821.png"
+    },
+    {
+      "title": "리센느 원이 “팀 없어질까봐 열심히 했다…인기 딱 1년만 더 갔으면”...",
+      "url": "https://www.sportsworldi.com/newsView/20260829505132",
+      "date": "2026.08.29",
+      "source": "sportsworldi.com",
+      "thumbnail": "https://www.sportsworldi.com/content/image/2026/08/29/20260829505131.jpg"
+    },
+    {
+      "title": "리센느 원이, 역주행 대박에도 불안…\"이 인기 1년만 더 갔으면\" [마데핫...",
+      "url": "https://www.mydaily.co.kr/page/view/2026082916595988563",
+      "date": "2026.08.29",
+      "source": "mydaily.co.kr",
+      "thumbnail": "https://mydaily.co.kr/photos/2026/08/29/2026082916575953155_l.jpg"
+    },
     {
       "title": "리센느 원이 “인기 딱 1년만 더 가도…” (‘안원잘부’)",
       "url": "https://isplus.com/article/view/isp202608290070",
@@ -23,39 +51,11 @@
       "thumbnail": "https://cdn.mhnse.com/mhnsports/2026/08/29163710/thumb_ccms_49690.jpg"
     },
     {
-      "title": "[TD영상] 나우즈, '좋은 날 좋은 선물까지 행복이 2배~' 더 높이 날아보...",
-      "url": "http://www.tvdaily.co.kr/read.php3?aid=17879884861799818003",
-      "date": "2026.08.29",
-      "source": "tvdaily.co.kr",
-      "thumbnail": "http://image.tvdaily.co.kr/upimages/gisaimg/202608/1787988486_1799818.png"
-    },
-    {
-      "title": "리센느 원이 \"이 인기 딱 1년만 더 갔으면 좋겠다\"",
-      "url": "https://www.newsis.com/view/NISX20260829_0003767910",
-      "date": "2026.08.29",
-      "source": "newsis.com",
-      "thumbnail": "https://img1.newsis.com/2026/08/29/NISI20260829_0002224735_web.jpg"
-    },
-    {
-      "title": "리센느 원이 \"성인 되고 난 후 데뷔...팀 없어질까봐 발벗고 달렸다\" [R...",
-      "url": "https://www.tvreport.co.kr/breaking/article/1071929/",
-      "date": "2026.08.29",
-      "source": "tvreport.co.kr",
-      "thumbnail": "https://img.tvreportcdn.de/cms-content/uploads/2026/08/29/11207c4a-d26f-4b3b-863d-d3ab7acd4a32.jpg"
-    },
-    {
-      "title": "[셀럽포토]김선호 '비주얼 호강'",
-      "url": "http://www.celuvmedia.com/article.php?aid=1787985298526618009",
-      "date": "2026.08.29",
-      "source": "celuvmedia.com",
-      "thumbnail": "http://www.celuvmedia.com/upimages/gisaimg/202608/1787985298_526618.jpg"
-    },
-    {
       "title": "“BTS·임영웅 제쳤다”… 리센느, ‘8월 1위’ 스타 등극",
       "url": "https://www.sportsseoul.com/news/read/1631622?ref=naver",
       "date": "2026.08.29",
       "source": "sportsseoul.com",
-      "thumbnail": null
+      "thumbnail": "https://file.sportsseoul.com/news/cms/2026/08/29/news-p.v1.20260829.943e065cf58b43a78919433b2582feab_T1.jpg"
     },
     {
       "title": "고양고양이·펭수 7년 만에 재회…댄스 챌린지로 돌아온 ‘찰떡 케미’",
@@ -76,7 +76,7 @@
       "url": "https://www.viva100.com/article/20260829500114",
       "date": "2026.08.29",
       "source": "viva100.com",
-      "thumbnail": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/08/29/.cache/512/20260829500112.jpg?v=20260829170033"
+      "thumbnail": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/08/29/.cache/512/20260829500112.jpg?v=20260829180038"
     },
     {
       "title": "펭수와 고양고양이 7년 만의 재회…이번엔 댄스 챌린지",
@@ -132,7 +132,7 @@
       "url": "https://www.yna.co.kr/view/AKR20260829021700060?input=1195m",
       "date": "2026.08.29",
       "source": "yna.co.kr",
-      "thumbnail": null
+      "thumbnail": "https://img8.yna.co.kr/etc/inner/KR/2026/08/29/AKR20260829021700060_01_i_P4.jpg"
     },
     {
       "title": "[유통가 패트롤] 가을 오기 전부터...'가을 맛' 앞세운 시즌 마케팅 시동",
