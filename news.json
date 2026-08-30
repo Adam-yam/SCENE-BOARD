@@ -1,6 +1,13 @@
 {
-  "updated": "2026-08-30T13:00:45Z",
+  "updated": "2026-08-30T14:00:45Z",
   "articles": [
+    {
+      "title": "임영웅, 8월 스타 브랜드평판 톱3...\"역시 임영웅\"",
+      "url": "https://www.fnnews.com/news/202608302218378033",
+      "date": "2026.08.30",
+      "source": "fnnews.com",
+      "thumbnail": "https://image.fnnews.com/resource/media/image/2026/08/24/202608241003316851_e.jpg"
+    },
     {
       "title": "다양한 스포츠 체험, 팔공산서 더 신나게!",
       "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=558046",
@@ -9,11 +16,11 @@
       "thumbnail": "https://cdn.idaegu.co.kr/news/photo/202608/2026083101000820800051901.jpg"
     },
     {
-      "title": "[TD포토] 에이티즈 '남다른 트로피 퍼포먼스~'",
-      "url": "http://www.tvdaily.co.kr/read.php3?aid=17880917911800046017",
+      "title": "[TD포토] 에이티즈 '오늘 기분 최고~'",
+      "url": "http://www.tvdaily.co.kr/read.php3?aid=17880916851800044017",
       "date": "2026.08.30",
       "source": "tvdaily.co.kr",
-      "thumbnail": "http://image.tvdaily.co.kr/upimages/gisaimg/202608/1788091791_1800046.jpg"
+      "thumbnail": "http://image.tvdaily.co.kr/upimages/gisaimg/202608/1788091685_1800044.jpg"
     },
     {
       "title": "\"도미노피자 포장 주문하면 '리센느' 브로마이드 증정합니다\"",
@@ -34,7 +41,7 @@
       "url": "https://www.sportsseoul.com/news/read/1631722?ref=naver",
       "date": "2026.08.30",
       "source": "sportsseoul.com",
-      "thumbnail": null
+      "thumbnail": "https://file.sportsseoul.com/news/cms/2026/08/30/news-p.v1.20260829.943e065cf58b43a78919433b2582feab_T1.jpg"
     },
     {
       "title": "청계광장, 서울과 아·중동 잇는 새로운 '실크로드' 9월 4일 살람서울 페...",
@@ -133,13 +140,6 @@
       "date": "2026.08.29",
       "source": "mediafine.co.kr",
       "thumbnail": "https://cdn.mediafine.co.kr/news/photo/202608/88323_126367_1910.jpg"
-    },
-    {
-      "title": "“고양고양이 7년만에 펭수와 만난다”…이번엔 ‘댄스 챌린지’로 붙는...",
-      "url": "https://www.viva100.com/article/20260829500114",
-      "date": "2026.08.29",
-      "source": "viva100.com",
-      "thumbnail": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/08/29/.cache/512/20260829500112.jpg?v=20260830220040"
     }
   ]
 }
