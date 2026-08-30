@@ -1,33 +1,33 @@
 {
-  "updated": "2026-08-30T01:00:40Z",
+  "updated": "2026-08-30T02:00:45Z",
   "articles": [
+    {
+      "title": "‘괭수’ 기억나나요… 펭수·고양고양이 7년 만에 재회",
+      "url": "https://www.segye.com/newsView/20260830504133?OutUrl=naver",
+      "date": "2026.08.30",
+      "source": "segye.com",
+      "thumbnail": "https://www.segye.com/content/image/2026/08/30/20260830504131.jpg"
+    },
+    {
+      "title": "[TD영상] 박지현, '위로가 될 수 있는 노래 부르고 싶습니다!' 수상소감...",
+      "url": "http://www.tvdaily.co.kr/read.php3?aid=17880544681799901003",
+      "date": "2026.08.30",
+      "source": "tvdaily.co.kr",
+      "thumbnail": "http://image.tvdaily.co.kr/upimages/gisaimg/202608/1788054468_1799901.png"
+    },
+    {
+      "title": "“거제 야호~” 한마디에 이정도로 뛸 줄은 몰랐다…숙소 검색량 556% 폭...",
+      "url": "https://www.mk.co.kr/article/12139661",
+      "date": "2026.08.30",
+      "source": "mk.co.kr",
+      "thumbnail": "https://wimg.mk.co.kr/news/cms/202608/30/news-p.v1.20260830.ed929b720a44435689e770ffb3b86800_R.jpg"
+    },
     {
       "title": "'독박투어' 김대희, 게임 도와준 韓 여행객 밥값 계산 \"딸 생각나서\"",
       "url": "http://enews.imbc.com/News/RetrieveNewsInfo/516349",
       "date": "2026.08.30",
       "source": "enews.imbc.com",
       "thumbnail": "https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2026/08/30/6e56a36b-0708-4a36-a85d-06ce1c1f36e9.jpg"
-    },
-    {
-      "title": "[TD포토] 앤팀 의주 'KWDA 어워즈 참석'",
-      "url": "http://www.tvdaily.co.kr/read.php3?aid=17880506491799885017",
-      "date": "2026.08.30",
-      "source": "tvdaily.co.kr",
-      "thumbnail": "http://image.tvdaily.co.kr/upimages/gisaimg/202608/1788050649_1799885.jpg"
-    },
-    {
-      "title": "1위 고윤정, 2위 에이티즈, 3위 이선민",
-      "url": "https://www.starnewskorea.com/star/2026/08/30/2026083008522364743",
-      "date": "2026.08.30",
-      "source": "starnewskorea.com",
-      "thumbnail": "https://image.starnewskorea.com/cdn-cgi/image/f=auto,w=1200,h=1715,fit=cover,q=high,sharpen=2/21/2026/08/2026083008522364743_1.jpg"
-    },
-    {
-      "title": "[뮤직컴퍼니100] 제니 OA엔터 0.85%p 상승…데이식스 JYP, 아이브 스타쉽...",
-      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16177161",
-      "date": "2026.08.29",
-      "source": "topstarnews.net",
-      "thumbnail": "https://cdn.topstarnews.net/news/photo/202608/16177161_2008178_265_crop.jpg"
     },
     {
       "title": "[이주의 유통포인트] 현대百, 자원순환 캠페인 실시…롯데, 경상권 수해...",
@@ -48,7 +48,7 @@
       "url": "https://www.sportsseoul.com/news/read/1631622?ref=naver",
       "date": "2026.08.29",
       "source": "sportsseoul.com",
-      "thumbnail": "https://file.sportsseoul.com/news/cms/2026/08/29/news-p.v1.20260829.943e065cf58b43a78919433b2582feab_T1.jpg"
+      "thumbnail": null
     },
     {
       "title": "고양고양이·펭수 7년 만에 재회…댄스 챌린지로 돌아온 ‘찰떡 케미’",
@@ -69,7 +69,7 @@
       "url": "https://www.viva100.com/article/20260829500114",
       "date": "2026.08.29",
       "source": "viva100.com",
-      "thumbnail": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/08/29/.cache/512/20260829500112.jpg?v=20260830100039"
+      "thumbnail": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/08/29/.cache/512/20260829500112.jpg?v=20260830110040"
     },
     {
       "title": "펭수와 고양고양이 7년 만의 재회…이번엔 댄스 챌린지",
@@ -111,7 +111,7 @@
       "url": "https://www.sedaily.com/article/20084728?ref=naver",
       "date": "2026.08.29",
       "source": "sedaily.com",
-      "thumbnail": null
+      "thumbnail": "https://wimg.sedaily.com/news/cms/2026/08/29/news-p.v1.20260829.4649da39ec834b269e74f1aa12987e3a_R.jpg"
     },
     {
       "title": "고양고양이·펭수 7년 만에 '깜짝 재회', 댄스 챌린지로 다시 뭉쳤다",
