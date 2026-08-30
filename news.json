@@ -1,6 +1,34 @@
 {
-  "updated": "2026-08-30T14:00:45Z",
+  "updated": "2026-08-30T15:00:41Z",
   "articles": [
+    {
+      "title": "‘독박즈’ 중국 상하이서 야심찬 ‘5인5색 유행어’ 선보이며 ‘환장의...",
+      "url": "https://sports.khan.co.kr/article/202608302357003?pt=nv",
+      "date": "2026.08.30",
+      "source": "sports.khan.co.kr",
+      "thumbnail": null
+    },
+    {
+      "title": "리센느, 준결승전 축하무대 등장...승리를 위한 \"이글스 야호\" [열혈농구...",
+      "url": "https://www.slist.kr/news/articleView.html?idxno=762398",
+      "date": "2026.08.30",
+      "source": "slist.kr",
+      "thumbnail": "https://cdn.slist.kr/news/thumbnail/202608/762398_1167585_275_v150.jpg"
+    },
+    {
+      "title": "서장훈, 은퇴 13년 만에 꺼낸 진심 \"인생 걸었음에도 후회\" ('열혈농구단...",
+      "url": "https://www.tvreport.co.kr/broadcast/article/1072142/",
+      "date": "2026.08.30",
+      "source": "tvreport.co.kr",
+      "thumbnail": "https://img.tvreportcdn.de/cms-content/uploads/2026/08/30/644e2c44-f272-4123-a96a-309c32f874d8.jpg"
+    },
+    {
+      "title": "'열혈농구단2' 라이징이글스 박찬웅·정규민·문수인 vs 제이크루…리센...",
+      "url": "https://enter.etoday.co.kr/news/view/301731",
+      "date": "2026.08.30",
+      "source": "enter.etoday.co.kr",
+      "thumbnail": "https://img.etoday.co.kr/pto_db/2026/08/600/20260830204012_2380484_1200_764.jpg"
+    },
     {
       "title": "임영웅, 8월 스타 브랜드평판 톱3...\"역시 임영웅\"",
       "url": "https://www.fnnews.com/news/202608302218378033",
@@ -16,11 +44,11 @@
       "thumbnail": "https://cdn.idaegu.co.kr/news/photo/202608/2026083101000820800051901.jpg"
     },
     {
-      "title": "[TD포토] 에이티즈 '오늘 기분 최고~'",
-      "url": "http://www.tvdaily.co.kr/read.php3?aid=17880916851800044017",
+      "title": "[TD포토] 에이티즈 '남다른 트로피 퍼포먼스~'",
+      "url": "http://www.tvdaily.co.kr/read.php3?aid=17880917911800046017",
       "date": "2026.08.30",
       "source": "tvdaily.co.kr",
-      "thumbnail": "http://image.tvdaily.co.kr/upimages/gisaimg/202608/1788091685_1800044.jpg"
+      "thumbnail": "http://image.tvdaily.co.kr/upimages/gisaimg/202608/1788091791_1800046.jpg"
     },
     {
       "title": "\"도미노피자 포장 주문하면 '리센느' 브로마이드 증정합니다\"",
@@ -41,7 +69,7 @@
       "url": "https://www.sportsseoul.com/news/read/1631722?ref=naver",
       "date": "2026.08.30",
       "source": "sportsseoul.com",
-      "thumbnail": "https://file.sportsseoul.com/news/cms/2026/08/30/news-p.v1.20260829.943e065cf58b43a78919433b2582feab_T1.jpg"
+      "thumbnail": null
     },
     {
       "title": "청계광장, 서울과 아·중동 잇는 새로운 '실크로드' 9월 4일 살람서울 페...",
@@ -112,34 +140,6 @@
       "date": "2026.08.29",
       "source": "pointdaily.co.kr",
       "thumbnail": "https://cdn.pointdaily.co.kr/news/thumbnail/202608/317210_313374_275_v150.jpg"
-    },
-    {
-      "title": "리센느, 방탄소년단·임영웅 뛰어 넘었다…8월 스타브랜드 평판 '1위'",
-      "url": "http://www.osen.co.kr/article/G1112865827",
-      "date": "2026.08.29",
-      "source": "osen.co.kr",
-      "thumbnail": "http://file.osen.co.kr/article_thumb/2026/08/29/202608291630779105_6a928c76d61ba_300x.jpg"
-    },
-    {
-      "title": "“BTS·임영웅 제쳤다”… 리센느, ‘8월 1위’ 스타 등극",
-      "url": "https://www.sportsseoul.com/news/read/1631622?ref=naver",
-      "date": "2026.08.29",
-      "source": "sportsseoul.com",
-      "thumbnail": "https://file.sportsseoul.com/news/cms/2026/08/29/news-p.v1.20260829.943e065cf58b43a78919433b2582feab_T1.jpg"
-    },
-    {
-      "title": "고양고양이·펭수 7년 만에 재회…댄스 챌린지로 돌아온 ‘찰떡 케미’",
-      "url": "http://www.metroseoul.co.kr/article/20260829500004",
-      "date": "2026.08.29",
-      "source": "metroseoul.co.kr",
-      "thumbnail": null
-    },
-    {
-      "title": "리센느, BTS·임영웅 제치고 8월 스타 브랜드 평판 1위",
-      "url": "https://www.mediafine.co.kr/news/articleView.html?idxno=88323",
-      "date": "2026.08.29",
-      "source": "mediafine.co.kr",
-      "thumbnail": "https://cdn.mediafine.co.kr/news/photo/202608/88323_126367_1910.jpg"
     }
   ]
 }
