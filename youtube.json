@@ -1,6 +1,14 @@
 {
-  "updated": "2026-08-30T11:10:26Z",
+  "updated": "2026-08-30T12:10:23Z",
   "videos": [
+    {
+      "id": "hQ0Z6SfM8lM",
+      "title": "까엉이와 애봉이의 치트키 먹방🍽",
+      "url": "https://www.youtube.com/watch?v=hQ0Z6SfM8lM",
+      "thumbnail": "https://i.ytimg.com/vi/hQ0Z6SfM8lM/mqdefault.jpg",
+      "date": "2026.08.30",
+      "type": "long"
+    },
     {
       "id": "oO2aZKOWbdk",
       "title": "리브🤍🤍",
@@ -15,14 +23,6 @@
       "url": "https://www.youtube.com/watch?v=QDkBLWkwqhw",
       "thumbnail": "https://i.ytimg.com/vi/QDkBLWkwqhw/mqdefault.jpg",
       "date": "2026.08.22",
-      "type": "long"
-    },
-    {
-      "id": "tFF93tMIgTQ",
-      "title": "파이리 포켓몬 센터 방문 🔥",
-      "url": "https://www.youtube.com/watch?v=tFF93tMIgTQ",
-      "thumbnail": "https://i.ytimg.com/vi/tFF93tMIgTQ/mqdefault.jpg",
-      "date": "2026.08.21",
       "type": "long"
     },
     {
@@ -48,6 +48,14 @@
       "thumbnail": "https://i.ytimg.com/vi/qHIW70JZwsQ/mqdefault.jpg",
       "date": "2026.08.12",
       "type": "long"
+    },
+    {
+      "id": "WAO9dDGcCsA",
+      "title": "까엉이와 애봉이의 치트키 먹방🍽",
+      "url": "https://www.youtube.com/shorts/WAO9dDGcCsA",
+      "thumbnail": "https://i.ytimg.com/vi/WAO9dDGcCsA/mqdefault_live.jpg",
+      "date": "2026.08.30",
+      "type": "short"
     },
     {
       "id": "e3Z9XXyx3oU",
@@ -86,14 +94,6 @@
       "title": "#수이 님과 어디서나 당당하게 걷기 🎀",
       "url": "https://www.youtube.com/shorts/vK3c0aJqq5E",
       "thumbnail": "https://i.ytimg.com/vi/vK3c0aJqq5E/mqdefault.jpg",
-      "date": "2026.08.29",
-      "type": "short"
-    },
-    {
-      "id": "Kb9h6UwgKUc",
-      "title": "#시윤 님과 어디서나 당당하게 걷기 🎀",
-      "url": "https://www.youtube.com/shorts/Kb9h6UwgKUc",
-      "thumbnail": "https://i.ytimg.com/vi/Kb9h6UwgKUc/mqdefault.jpg",
       "date": "2026.08.29",
       "type": "short"
     }
