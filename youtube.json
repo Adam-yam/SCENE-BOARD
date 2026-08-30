@@ -1,11 +1,11 @@
 {
-  "updated": "2026-08-30T13:10:25Z",
+  "updated": "2026-08-30T14:10:27Z",
   "videos": [
     {
-      "id": "hQ0Z6SfM8lM",
+      "id": "WAO9dDGcCsA",
       "title": "까엉이와 애봉이의 치트키 먹방🍽",
-      "url": "https://www.youtube.com/watch?v=hQ0Z6SfM8lM",
-      "thumbnail": "https://i.ytimg.com/vi/hQ0Z6SfM8lM/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=WAO9dDGcCsA",
+      "thumbnail": "https://i.ytimg.com/vi/WAO9dDGcCsA/mqdefault.jpg",
       "date": "2026.08.30",
       "type": "long"
     },
@@ -26,6 +26,14 @@
       "type": "long"
     },
     {
+      "id": "tFF93tMIgTQ",
+      "title": "파이리 포켓몬 센터 방문 🔥",
+      "url": "https://www.youtube.com/watch?v=tFF93tMIgTQ",
+      "thumbnail": "https://i.ytimg.com/vi/tFF93tMIgTQ/mqdefault.jpg",
+      "date": "2026.08.21",
+      "type": "long"
+    },
+    {
       "id": "ccnNVyPu2Gw",
       "title": "MAY☀️ Birthday!!!!!!!🎉🎂",
       "url": "https://www.youtube.com/watch?v=ccnNVyPu2Gw",
@@ -40,22 +48,6 @@
       "thumbnail": "https://i.ytimg.com/vi/QhenoMw_wHU/mqdefault.jpg",
       "date": "2026.08.19",
       "type": "long"
-    },
-    {
-      "id": "qHIW70JZwsQ",
-      "title": "승요는 바로 나⚾️✨ | RESCENE (리센느) vlog",
-      "url": "https://www.youtube.com/watch?v=qHIW70JZwsQ",
-      "thumbnail": "https://i.ytimg.com/vi/qHIW70JZwsQ/mqdefault.jpg",
-      "date": "2026.08.12",
-      "type": "long"
-    },
-    {
-      "id": "WAO9dDGcCsA",
-      "title": "까엉이와 애봉이의 치트키 먹방🍽",
-      "url": "https://www.youtube.com/shorts/WAO9dDGcCsA",
-      "thumbnail": "https://i.ytimg.com/vi/WAO9dDGcCsA/mqdefault_live.jpg",
-      "date": "2026.08.30",
-      "type": "short"
     },
     {
       "id": "e3Z9XXyx3oU",
@@ -94,6 +86,14 @@
       "title": "#수이 님과 어디서나 당당하게 걷기 🎀",
       "url": "https://www.youtube.com/shorts/vK3c0aJqq5E",
       "thumbnail": "https://i.ytimg.com/vi/vK3c0aJqq5E/mqdefault.jpg",
+      "date": "2026.08.29",
+      "type": "short"
+    },
+    {
+      "id": "Kb9h6UwgKUc",
+      "title": "#시윤 님과 어디서나 당당하게 걷기 🎀",
+      "url": "https://www.youtube.com/shorts/Kb9h6UwgKUc",
+      "thumbnail": "https://i.ytimg.com/vi/Kb9h6UwgKUc/mqdefault.jpg",
       "date": "2026.08.29",
       "type": "short"
     }
