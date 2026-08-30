@@ -1,26 +1,19 @@
 {
-  "updated": "2026-08-30T10:00:39Z",
+  "updated": "2026-08-30T11:00:43Z",
   "articles": [
     {
-      "title": "[ST포토] 엘라, 미야오 센터",
-      "url": "http://www.stoo.com/article.php?aid=108606521756",
+      "title": "[ST포토] 아이딧 준혁-유찬, '활동 기대해주세요'",
+      "url": "http://www.stoo.com/article.php?aid=108608045314",
       "date": "2026.08.30",
       "source": "stoo.com",
       "thumbnail": null
-    },
-    {
-      "title": "피프티피프티, 리센느 처럼 청소년 K팝 행사 응원 출격",
-      "url": "https://biz.heraldcorp.com/article/10856596?ref=naver",
-      "date": "2026.08.30",
-      "source": "biz.heraldcorp.com",
-      "thumbnail": "https://wimg.heraldcorp.com/news/cms/2026/08/30/news-p.v1.20260830.36ba118e34864d6fb7bfcc01ec24c608_T1.jpg"
     },
     {
       "title": "BTS·임영웅도 제쳤다고?…리센느, 멈출 줄 모르는 장기흥행 [SS뮤직]",
       "url": "https://www.sportsseoul.com/news/read/1631722?ref=naver",
       "date": "2026.08.30",
       "source": "sportsseoul.com",
-      "thumbnail": "https://file.sportsseoul.com/news/cms/2026/08/30/news-p.v1.20260829.943e065cf58b43a78919433b2582feab_T1.jpg"
+      "thumbnail": null
     },
     {
       "title": "청계광장, 서울과 아·중동 잇는 새로운 '실크로드' 9월 4일 살람서울 페...",
@@ -65,18 +58,18 @@
       "thumbnail": "https://img.newspim.com/news/2026/08/28/2608282332353930_t1.jpg"
     },
     {
-      "title": "청계광장서 만나는 아시아·중동문화…살람서울 페스티벌",
-      "url": "https://www.yna.co.kr/view/AKR20260830014800004?input=1195m",
-      "date": "2026.08.30",
-      "source": "yna.co.kr",
-      "thumbnail": null
-    },
-    {
       "title": "청계광장서 서울·아중동 문화 한자리에…'살람서울 페스티벌'",
       "url": "https://www.news1.kr/local/seoul/6273017",
       "date": "2026.08.30",
       "source": "news1.kr",
       "thumbnail": null
+    },
+    {
+      "title": "청계광장서 만나는 아시아·중동문화…살람서울 페스티벌",
+      "url": "https://www.yna.co.kr/view/AKR20260830014800004?input=1195m",
+      "date": "2026.08.30",
+      "source": "yna.co.kr",
+      "thumbnail": "https://img7.yna.co.kr/photo/yna/YH/2025/09/09/PYH2025090916360001300_P4.jpg"
     },
     {
       "title": "‘괭수’ 기억나나요… 펭수·고양고양이 7년 만에 재회",
@@ -111,7 +104,7 @@
       "url": "https://www.sportsseoul.com/news/read/1631622?ref=naver",
       "date": "2026.08.29",
       "source": "sportsseoul.com",
-      "thumbnail": "https://file.sportsseoul.com/news/cms/2026/08/29/news-p.v1.20260829.943e065cf58b43a78919433b2582feab_T1.jpg"
+      "thumbnail": null
     },
     {
       "title": "고양고양이·펭수 7년 만에 재회…댄스 챌린지로 돌아온 ‘찰떡 케미’",
@@ -132,7 +125,7 @@
       "url": "https://www.viva100.com/article/20260829500114",
       "date": "2026.08.29",
       "source": "viva100.com",
-      "thumbnail": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/08/29/.cache/512/20260829500112.jpg?v=20260830190036"
+      "thumbnail": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/08/29/.cache/512/20260829500112.jpg?v=20260830200039"
     },
     {
       "title": "펭수와 고양고양이 7년 만의 재회…이번엔 댄스 챌린지",
@@ -140,6 +133,13 @@
       "date": "2026.08.29",
       "source": "nocutnews.co.kr",
       "thumbnail": "https://file2.nocutnews.co.kr/newsroom/image/2026/08/29/202608291202147737_0.jpg"
+    },
+    {
+      "title": "리센느 1위, 8월 스타 브랜드평판 정상..2위 방탄소년단(BTS)·3위 임영웅",
+      "url": "http://www.breaknews.com/1232587",
+      "date": "2026.08.29",
+      "source": "breaknews.com",
+      "thumbnail": "https://www.breaknews.com/imgdata/breaknews_com/202608/2026081014324448.jpg"
     }
   ]
 }
