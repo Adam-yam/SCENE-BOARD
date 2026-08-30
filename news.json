@@ -1,12 +1,19 @@
 {
-  "updated": "2026-08-30T08:00:41Z",
+  "updated": "2026-08-30T09:00:42Z",
   "articles": [
     {
-      "title": "[TD포토] 킥플립 '추영우와 함께'",
-      "url": "http://www.tvdaily.co.kr/read.php3?aid=17880765151800023017",
+      "title": "[TD포토] 라이즈 앤톤 '미모가 열일~'",
+      "url": "http://www.tvdaily.co.kr/read.php3?aid=17880776591800031017",
       "date": "2026.08.30",
       "source": "tvdaily.co.kr",
-      "thumbnail": "http://image.tvdaily.co.kr/upimages/gisaimg/202608/1788076515_1800023.jpg"
+      "thumbnail": "http://image.tvdaily.co.kr/upimages/gisaimg/202608/1788077659_1800031.jpg"
+    },
+    {
+      "title": "엔하이픈, '인기가요' 1위로 막방서 데뷔 첫 '그랜드슬램' 달성",
+      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3679039",
+      "date": "2026.08.30",
+      "source": "gukjenews.com",
+      "thumbnail": "https://cdn.gukjenews.com/news/thumbnail/202608/3679039_3848051_1017_v150.jpg"
     },
     {
       "title": "리센느 원이, 시그니엘 99층 톱스타 삶 반응 터졌다…이틀만 800만뷰 돌...",
@@ -16,18 +23,18 @@
       "thumbnail": "https://photo.newsen.com/news_photo/2026/08/30/202608301639360410_1.jpg"
     },
     {
-      "title": "[HD포토] 제이비, '오드아이 비주얼' (2026 KWDA 블루카펫)",
-      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16177451",
+      "title": "[HD포토] 제이비, '앙큼한 브이' (2026 KWDA 블루카펫)",
+      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16177452",
       "date": "2026.08.30",
       "source": "topstarnews.net",
-      "thumbnail": "https://cdn.topstarnews.net/news/photo/202608/16177451_2008439_475_crop.jpg"
+      "thumbnail": "https://cdn.topstarnews.net/news/photo/202608/16177452_2008440_4739_crop.jpg"
     },
     {
       "title": "엔하이픈, '인기가요' 활동 막방서 1위 \"말이 안 나와\" [TV캡처]",
       "url": "http://www.stoo.com/article.php?aid=108604082956",
       "date": "2026.08.30",
       "source": "stoo.com",
-      "thumbnail": "https://www.stoo.com/upimages/gisaimg/202608/30_1086040_82956.jpg"
+      "thumbnail": null
     },
     {
       "title": "BTS·임영웅도 제쳤다고?…리센느, 멈출 줄 모르는 장기흥행 [SS뮤직]",
@@ -97,7 +104,7 @@
       "url": "https://www.segye.com/newsView/20260830504133?OutUrl=naver",
       "date": "2026.08.30",
       "source": "segye.com",
-      "thumbnail": null
+      "thumbnail": "https://www.segye.com/content/image/2026/08/30/20260830504467.jpg"
     },
     {
       "title": "[이주의 유통포인트] 현대百, 자원순환 캠페인 실시…롯데, 경상권 수해...",
@@ -118,7 +125,7 @@
       "url": "https://www.sportsseoul.com/news/read/1631622?ref=naver",
       "date": "2026.08.29",
       "source": "sportsseoul.com",
-      "thumbnail": "https://file.sportsseoul.com/news/cms/2026/08/29/news-p.v1.20260829.943e065cf58b43a78919433b2582feab_T1.jpg"
+      "thumbnail": null
     },
     {
       "title": "고양고양이·펭수 7년 만에 재회…댄스 챌린지로 돌아온 ‘찰떡 케미’",
@@ -133,13 +140,6 @@
       "date": "2026.08.29",
       "source": "mediafine.co.kr",
       "thumbnail": "https://cdn.mediafine.co.kr/news/photo/202608/88323_126367_1910.jpg"
-    },
-    {
-      "title": "“고양고양이 7년만에 펭수와 만난다”…이번엔 ‘댄스 챌린지’로 붙는...",
-      "url": "https://www.viva100.com/article/20260829500114",
-      "date": "2026.08.29",
-      "source": "viva100.com",
-      "thumbnail": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/08/29/.cache/512/20260829500112.jpg?v=20260830170037"
     }
   ]
 }
