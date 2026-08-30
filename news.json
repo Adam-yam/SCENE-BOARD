@@ -1,6 +1,20 @@
 {
-  "updated": "2026-08-30T21:00:47Z",
+  "updated": "2026-08-30T22:00:44Z",
   "articles": [
+    {
+      "title": "“팀 없어질까 봐 힘냈다”…리센느 원이, 880만 뷰 대박 이끈 솔직 속마...",
+      "url": "https://www.sportsseoul.com/news/read/1631820?ref=naver",
+      "date": "2026.08.30",
+      "source": "sportsseoul.com",
+      "thumbnail": null
+    },
+    {
+      "title": "고윤정 돌풍 무섭다…에이티즈·이선민 누르고 라이징 스타 정상",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=481894",
+      "date": "2026.08.30",
+      "source": "pinpointnews.co.kr",
+      "thumbnail": "https://cdn.pinpointnews.co.kr/news/thumbnail/202608/481894_468462_4757_v150.jpg"
+    },
     {
       "title": "리센느 원이, 역주행 인기 속 불안감 고백..“길게 가야 되는데” (안원...",
       "url": "http://www.osen.co.kr/article/G1112866670",
@@ -58,11 +72,11 @@
       "thumbnail": "https://cdn.idaegu.co.kr/news/photo/202608/2026083101000820800051901.jpg"
     },
     {
-      "title": "[TD포토] 에이티즈 '오늘 기분 최고~'",
-      "url": "http://www.tvdaily.co.kr/read.php3?aid=17880916851800044017",
+      "title": "[TD포토] 에이티즈 '남다른 트로피 퍼포먼스~'",
+      "url": "http://www.tvdaily.co.kr/read.php3?aid=17880917911800046017",
       "date": "2026.08.30",
       "source": "tvdaily.co.kr",
-      "thumbnail": "http://image.tvdaily.co.kr/upimages/gisaimg/202608/1788091685_1800044.jpg"
+      "thumbnail": "http://image.tvdaily.co.kr/upimages/gisaimg/202608/1788091791_1800046.jpg"
     },
     {
       "title": "[ST포토] 아이딧 준혁-유찬, '활동 기대해주세요'",
@@ -76,7 +90,7 @@
       "url": "https://www.sportsseoul.com/news/read/1631722?ref=naver",
       "date": "2026.08.30",
       "source": "sportsseoul.com",
-      "thumbnail": "https://file.sportsseoul.com/news/cms/2026/08/30/news-p.v1.20260829.943e065cf58b43a78919433b2582feab_T1.jpg"
+      "thumbnail": null
     },
     {
       "title": "청계광장, 서울과 아·중동 잇는 새로운 '실크로드' 9월 4일 살람서울 페...",
@@ -114,20 +128,6 @@
       "thumbnail": "https://img.etoday.co.kr/pto_db/2026/08/20260828175016_2380193_1200_1697.jpg"
     },
     {
-      "title": "청계광장서 서울·아중동 문화 한자리에…'살람서울 페스티벌'",
-      "url": "https://www.news1.kr/local/seoul/6273017",
-      "date": "2026.08.30",
-      "source": "news1.kr",
-      "thumbnail": null
-    },
-    {
-      "title": "청계광장서 만나는 아시아·중동문화…살람서울 페스티벌",
-      "url": "https://www.yna.co.kr/view/AKR20260830014800004?input=1195m",
-      "date": "2026.08.30",
-      "source": "yna.co.kr",
-      "thumbnail": "https://img7.yna.co.kr/photo/yna/YH/2025/09/09/PYH2025090916360001300_P4.jpg"
-    },
-    {
       "title": "서울과 아시아·중동 문화 체험 즐긴다...'살람서울 페스티벌' 개최",
       "url": "https://www.newspim.com/news/view/20260828001044",
       "date": "2026.08.30",
@@ -135,11 +135,11 @@
       "thumbnail": "https://img.newspim.com/news/2026/08/28/2608282332353930_t1.jpg"
     },
     {
-      "title": "‘괭수’ 기억나나요… 펭수·고양고양이 7년 만에 재회",
-      "url": "https://www.segye.com/newsView/20260830504133?OutUrl=naver",
+      "title": "청계광장서 만나는 아시아·중동문화…살람서울 페스티벌",
+      "url": "https://www.yna.co.kr/view/AKR20260830014800004?input=1195m",
       "date": "2026.08.30",
-      "source": "segye.com",
-      "thumbnail": "https://www.segye.com/content/image/2026/08/30/20260830504467.jpg"
+      "source": "yna.co.kr",
+      "thumbnail": "https://img7.yna.co.kr/photo/yna/YH/2025/09/09/PYH2025090916360001300_P4.jpg"
     }
   ]
 }
