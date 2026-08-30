@@ -1,26 +1,40 @@
 {
-  "updated": "2026-08-30T04:00:47Z",
+  "updated": "2026-08-30T05:00:40Z",
   "articles": [
     {
-      "title": "[TD포토] 82메이저 황성빈 '섹시한 손하트'",
-      "url": "http://www.tvdaily.co.kr/read.php3?aid=17880622631799968017",
+      "title": "[TD영상] 하이파이유니콘, '이번 시상식 무대도 찢었다~' 분위기 끌어올...",
+      "url": "http://www.tvdaily.co.kr/read.php3?aid=17880644121799976003",
       "date": "2026.08.30",
       "source": "tvdaily.co.kr",
-      "thumbnail": "http://image.tvdaily.co.kr/upimages/gisaimg/202608/1788062263_1799968.jpg"
+      "thumbnail": "http://image.tvdaily.co.kr/upimages/gisaimg/202608/1788064412_1799976.png"
     },
     {
-      "title": "[ST포토] 피원하모니 테오, 예쁜 얼굴",
-      "url": "http://www.stoo.com/article.php?aid=108597337779",
+      "title": "[ST포토] 82메이저 황성빈, 'KWDA 출격'",
+      "url": "http://www.stoo.com/article.php?aid=108600852275",
       "date": "2026.08.30",
       "source": "stoo.com",
-      "thumbnail": null
+      "thumbnail": "https://www.stoo.com/upimages/gisaimg/202608/30_1086008_52275.jpg"
+    },
+    {
+      "title": "BTS·임영웅도 제쳤다고?…리센느, 멈출 줄 모르는 장기흥행 [SS뮤직]",
+      "url": "https://www.sportsseoul.com/news/read/1631722?ref=naver",
+      "date": "2026.08.30",
+      "source": "sportsseoul.com",
+      "thumbnail": "https://file.sportsseoul.com/news/cms/2026/08/30/news-p.v1.20260829.943e065cf58b43a78919433b2582feab_T1.jpg"
+    },
+    {
+      "title": "청계광장, 서울과 아·중동 잇는 새로운 '실크로드' 9월 4일 살람서울 페...",
+      "url": "https://www.m-i.kr/news/articleView.html?idxno=1407590",
+      "date": "2026.08.30",
+      "source": "m-i.kr",
+      "thumbnail": "https://cdn.m-i.kr/news/thumbnail/202608/1407590_1195769_216_v150.jpg"
     },
     {
       "title": "[패트롤] 고양시-김포시-남양주시-양주시-파주시",
       "url": "https://www.ekn.kr/web/view.php?key=20260830026348230",
       "date": "2026.08.30",
       "source": "ekn.kr",
-      "thumbnail": "https://www.ekn.kr/mnt/file/202608/news-p.v1.20260830.6ee828d91f8a48628bfdfd0994b13c78_R.jpg"
+      "thumbnail": null
     },
     {
       "title": "“BTS·임영웅 다 제쳤다” 걸그룹 리센느, 8월 ★브랜드평판 ‘대이변...",
@@ -111,7 +125,7 @@
       "url": "https://www.viva100.com/article/20260829500114",
       "date": "2026.08.29",
       "source": "viva100.com",
-      "thumbnail": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/08/29/.cache/512/20260829500112.jpg?v=20260830130041"
+      "thumbnail": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/08/29/.cache/512/20260829500112.jpg?v=20260830140037"
     },
     {
       "title": "펭수와 고양고양이 7년 만의 재회…이번엔 댄스 챌린지",
@@ -125,21 +139,7 @@
       "url": "http://www.breaknews.com/1232587",
       "date": "2026.08.29",
       "source": "breaknews.com",
-      "thumbnail": null
-    },
-    {
-      "title": "“우리 다시 만났어요”…펭수·고양고양이 7년 만에 댄스 대결",
-      "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000007241&cp=nv",
-      "date": "2026.08.29",
-      "source": "kmib.co.kr",
-      "thumbnail": "https://image.kmib.co.kr/online_image/2026/0829/01100201.20260829500047.jpg"
-    },
-    {
-      "title": "민경선 고양시장, '100만뷰 인연' 펭수·고양고양이 7년 만에 재회…댄...",
-      "url": "http://www.fieldnews.kr/news/articleView.html?idxno=31127",
-      "date": "2026.08.29",
-      "source": "fieldnews.kr",
-      "thumbnail": "https://cdn.fieldnews.kr/news/thumbnail/202608/31127_33897_4048_v150.jpg"
+      "thumbnail": "https://www.breaknews.com/imgdata/breaknews_com/202608/2026081014324448.jpg"
     }
   ]
 }
