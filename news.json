@@ -1,6 +1,27 @@
 {
-  "updated": "2026-08-30T12:00:47Z",
+  "updated": "2026-08-30T13:00:45Z",
   "articles": [
+    {
+      "title": "다양한 스포츠 체험, 팔공산서 더 신나게!",
+      "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=558046",
+      "date": "2026.08.30",
+      "source": "idaegu.co.kr",
+      "thumbnail": "https://cdn.idaegu.co.kr/news/photo/202608/2026083101000820800051901.jpg"
+    },
+    {
+      "title": "[TD포토] 에이티즈 '남다른 트로피 퍼포먼스~'",
+      "url": "http://www.tvdaily.co.kr/read.php3?aid=17880917911800046017",
+      "date": "2026.08.30",
+      "source": "tvdaily.co.kr",
+      "thumbnail": "http://image.tvdaily.co.kr/upimages/gisaimg/202608/1788091791_1800046.jpg"
+    },
+    {
+      "title": "\"도미노피자 포장 주문하면 '리센느' 브로마이드 증정합니다\"",
+      "url": "http://www.newsbrite.net/news/articleView.html?idxno=200054",
+      "date": "2026.08.30",
+      "source": "newsbrite.net",
+      "thumbnail": "https://cdn.newsbrite.net/news/thumbnail/202608/200054_106144_822_v150.jpg"
+    },
     {
       "title": "[ST포토] 아이딧 준혁-유찬, '활동 기대해주세요'",
       "url": "http://www.stoo.com/article.php?aid=108608045314",
@@ -27,7 +48,7 @@
       "url": "https://www.ekn.kr/web/view.php?key=20260830026348230",
       "date": "2026.08.30",
       "source": "ekn.kr",
-      "thumbnail": null
+      "thumbnail": "https://www.ekn.kr/mnt/file/202608/news-p.v1.20260830.6ee828d91f8a48628bfdfd0994b13c78_R.jpg"
     },
     {
       "title": "“BTS·임영웅 다 제쳤다” 걸그룹 리센느, 8월 ★브랜드평판 ‘대이변...",
@@ -86,13 +107,6 @@
       "thumbnail": "https://cdn.pointdaily.co.kr/news/thumbnail/202608/317210_313374_275_v150.jpg"
     },
     {
-      "title": "리센느 원이, '유튜브 인기→차트 역주행' 성과 속 심경 \"길게 가야 하는...",
-      "url": "http://www.tvdaily.co.kr/read.php3?aid=17879921291799823010",
-      "date": "2026.08.29",
-      "source": "tvdaily.co.kr",
-      "thumbnail": "http://image.tvdaily.co.kr/upimages/gisaimg/202608/291799823.jpg"
-    },
-    {
       "title": "리센느, 방탄소년단·임영웅 뛰어 넘었다…8월 스타브랜드 평판 '1위'",
       "url": "http://www.osen.co.kr/article/G1112865827",
       "date": "2026.08.29",
@@ -125,21 +139,7 @@
       "url": "https://www.viva100.com/article/20260829500114",
       "date": "2026.08.29",
       "source": "viva100.com",
-      "thumbnail": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/08/29/.cache/512/20260829500112.jpg?v=20260830210041"
-    },
-    {
-      "title": "펭수와 고양고양이 7년 만의 재회…이번엔 댄스 챌린지",
-      "url": "https://www.nocutnews.co.kr/news/6570067?utm_source=naver&utm_medium=article&utm_campaign=20260829125540",
-      "date": "2026.08.29",
-      "source": "nocutnews.co.kr",
-      "thumbnail": "https://file2.nocutnews.co.kr/newsroom/image/2026/08/29/202608291202147737_0.jpg"
-    },
-    {
-      "title": "리센느 1위, 8월 스타 브랜드평판 정상..2위 방탄소년단(BTS)·3위 임영웅",
-      "url": "http://www.breaknews.com/1232587",
-      "date": "2026.08.29",
-      "source": "breaknews.com",
-      "thumbnail": null
+      "thumbnail": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/08/29/.cache/512/20260829500112.jpg?v=20260830220040"
     }
   ]
 }
