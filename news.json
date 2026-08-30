@@ -1,12 +1,19 @@
 {
-  "updated": "2026-08-30T22:00:44Z",
+  "updated": "2026-08-30T23:00:45Z",
   "articles": [
+    {
+      "title": "[뮤직100] 제니 'FALLEN ANGEL' 63계단↓ 102위…리센느 1위·빅뱅 2위",
+      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16177736",
+      "date": "2026.08.30",
+      "source": "topstarnews.net",
+      "thumbnail": "https://cdn.topstarnews.net/news/photo/202608/16177736_2008858_4224_crop.jpg"
+    },
     {
       "title": "“팀 없어질까 봐 힘냈다”…리센느 원이, 880만 뷰 대박 이끈 솔직 속마...",
       "url": "https://www.sportsseoul.com/news/read/1631820?ref=naver",
       "date": "2026.08.30",
       "source": "sportsseoul.com",
-      "thumbnail": null
+      "thumbnail": "https://file.sportsseoul.com/news/cms/2026/08/31/news-p.v1.20260831.4d36e7e05236450dbea1602a9cd4a89e_T1.png"
     },
     {
       "title": "고윤정 돌풍 무섭다…에이티즈·이선민 누르고 라이징 스타 정상",
@@ -72,18 +79,11 @@
       "thumbnail": "https://cdn.idaegu.co.kr/news/photo/202608/2026083101000820800051901.jpg"
     },
     {
-      "title": "[TD포토] 에이티즈 '남다른 트로피 퍼포먼스~'",
-      "url": "http://www.tvdaily.co.kr/read.php3?aid=17880917911800046017",
+      "title": "[TD포토] 에이티즈 '오늘 기분 최고~'",
+      "url": "http://www.tvdaily.co.kr/read.php3?aid=17880916851800044017",
       "date": "2026.08.30",
       "source": "tvdaily.co.kr",
-      "thumbnail": "http://image.tvdaily.co.kr/upimages/gisaimg/202608/1788091791_1800046.jpg"
-    },
-    {
-      "title": "[ST포토] 아이딧 준혁-유찬, '활동 기대해주세요'",
-      "url": "http://www.stoo.com/article.php?aid=108608045314",
-      "date": "2026.08.30",
-      "source": "stoo.com",
-      "thumbnail": null
+      "thumbnail": "http://image.tvdaily.co.kr/upimages/gisaimg/202608/1788091685_1800044.jpg"
     },
     {
       "title": "BTS·임영웅도 제쳤다고?…리센느, 멈출 줄 모르는 장기흥행 [SS뮤직]",
@@ -104,7 +104,7 @@
       "url": "https://www.ekn.kr/web/view.php?key=20260830026348230",
       "date": "2026.08.30",
       "source": "ekn.kr",
-      "thumbnail": "https://www.ekn.kr/mnt/file/202608/news-p.v1.20260830.6ee828d91f8a48628bfdfd0994b13c78_R.jpg"
+      "thumbnail": null
     },
     {
       "title": "“BTS·임영웅 다 제쳤다” 걸그룹 리센느, 8월 ★브랜드평판 ‘대이변...",
@@ -128,18 +128,18 @@
       "thumbnail": "https://img.etoday.co.kr/pto_db/2026/08/20260828175016_2380193_1200_1697.jpg"
     },
     {
-      "title": "서울과 아시아·중동 문화 체험 즐긴다...'살람서울 페스티벌' 개최",
-      "url": "https://www.newspim.com/news/view/20260828001044",
-      "date": "2026.08.30",
-      "source": "newspim.com",
-      "thumbnail": "https://img.newspim.com/news/2026/08/28/2608282332353930_t1.jpg"
-    },
-    {
       "title": "청계광장서 만나는 아시아·중동문화…살람서울 페스티벌",
       "url": "https://www.yna.co.kr/view/AKR20260830014800004?input=1195m",
       "date": "2026.08.30",
       "source": "yna.co.kr",
       "thumbnail": "https://img7.yna.co.kr/photo/yna/YH/2025/09/09/PYH2025090916360001300_P4.jpg"
+    },
+    {
+      "title": "청계광장서 서울·아중동 문화 한자리에…'살람서울 페스티벌'",
+      "url": "https://www.news1.kr/local/seoul/6273017",
+      "date": "2026.08.30",
+      "source": "news1.kr",
+      "thumbnail": null
     }
   ]
 }
