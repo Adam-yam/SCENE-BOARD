@@ -1,6 +1,13 @@
 {
-  "updated": "2026-08-31T11:00:44Z",
+  "updated": "2026-08-31T12:00:47Z",
   "articles": [
+    {
+      "title": "제22회 제천국제음악영화제, 9월3일 팡파르",
+      "url": "http://www.cctimes.kr/news/articleView.html?idxno=924616",
+      "date": "2026.08.31",
+      "source": "cctimes.kr",
+      "thumbnail": "http://www.cctimes.kr/news/thumbnail/202608/924616_409120_647_v150.jpg"
+    },
     {
       "title": "리센느 'LOVE ATTACK', 지니 8월 월간차트 1위…걸그룹 강세 입증",
       "url": "https://www.thedailypost.kr/news/articleView.html?idxno=115278",
@@ -9,11 +16,11 @@
       "thumbnail": "https://cdn.thedailypost.kr/news/thumbnail/202608/115278_119365_88_v150.jpg"
     },
     {
-      "title": "[HD포토] 성리, '수줍은 손인사' (2026 KWDA 블루카펫)",
-      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16178474",
+      "title": "[HD포토] 성리, '비주얼 엄지척' (2026 KWDA 블루카펫)",
+      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16178475",
       "date": "2026.08.31",
       "source": "topstarnews.net",
-      "thumbnail": "https://cdn.topstarnews.net/news/photo/202608/16178474_2009782_330_crop.jpg"
+      "thumbnail": "https://cdn.topstarnews.net/news/photo/202608/16178475_2009783_358_crop.jpg"
     },
     {
       "title": "영화와 음악이 빚는 향연...제천음악영화제 3일 개막",
@@ -23,11 +30,11 @@
       "thumbnail": "https://cdn.ccdn.co.kr/news/thumbnail/202608/1096866_607886_5503_v150.jpg"
     },
     {
-      "title": "[TD영상] 씨야, '20주년에 뜻깊은 수상까지' 돌아온 보컬짱들의 수상소...",
-      "url": "http://www.tvdaily.co.kr/read.php3?aid=17881668631800151003",
+      "title": "[TD영상] 아일릿, '글릿들~ 우리 상 받았어요' 귀여움 치사량 소녀들의...",
+      "url": "http://www.tvdaily.co.kr/read.php3?aid=17881684421800153003",
       "date": "2026.08.31",
       "source": "tvdaily.co.kr",
-      "thumbnail": "http://image.tvdaily.co.kr/upimages/gisaimg/202608/1788166863_1800151.png"
+      "thumbnail": "http://image.tvdaily.co.kr/upimages/gisaimg/202608/1788168442_1800153.png"
     },
     {
       "title": "[ST포토] 미야오, 눈 부신 비주얼",
@@ -118,7 +125,7 @@
       "url": "https://www.sportsseoul.com/news/read/1631722?ref=naver",
       "date": "2026.08.30",
       "source": "sportsseoul.com",
-      "thumbnail": "https://file.sportsseoul.com/news/cms/2026/08/30/news-p.v1.20260829.943e065cf58b43a78919433b2582feab_T1.jpg"
+      "thumbnail": null
     },
     {
       "title": "청계광장, 서울과 아·중동 잇는 새로운 '실크로드' 9월 4일 살람서울 페...",
@@ -133,13 +140,6 @@
       "date": "2026.08.30",
       "source": "ekn.kr",
       "thumbnail": "https://www.ekn.kr/mnt/file/202608/news-p.v1.20260830.6ee828d91f8a48628bfdfd0994b13c78_R.jpg"
-    },
-    {
-      "title": "“BTS·임영웅 다 제쳤다” 걸그룹 리센느, 8월 ★브랜드평판 ‘대이변...",
-      "url": "https://sports.khan.co.kr/article/202608301144003?pt=nv",
-      "date": "2026.08.30",
-      "source": "sports.khan.co.kr",
-      "thumbnail": null
     }
   ]
 }
