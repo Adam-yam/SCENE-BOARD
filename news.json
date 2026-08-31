@@ -1,6 +1,13 @@
 {
-  "updated": "2026-08-31T12:00:47Z",
+  "updated": "2026-08-31T13:00:45Z",
   "articles": [
+    {
+      "title": "양준일 1위 지켰다…김의영·김혜윤 공동 2위, 김중연 4위(기사후원순위...",
+      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16178632",
+      "date": "2026.08.31",
+      "source": "topstarnews.net",
+      "thumbnail": "https://cdn.topstarnews.net/news/photo/202608/16178632_2009923_1351_crop.jpg"
+    },
     {
       "title": "제22회 제천국제음악영화제, 9월3일 팡파르",
       "url": "http://www.cctimes.kr/news/articleView.html?idxno=924616",
@@ -16,13 +23,6 @@
       "thumbnail": "https://cdn.thedailypost.kr/news/thumbnail/202608/115278_119365_88_v150.jpg"
     },
     {
-      "title": "[HD포토] 성리, '비주얼 엄지척' (2026 KWDA 블루카펫)",
-      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16178475",
-      "date": "2026.08.31",
-      "source": "topstarnews.net",
-      "thumbnail": "https://cdn.topstarnews.net/news/photo/202608/16178475_2009783_358_crop.jpg"
-    },
-    {
       "title": "영화와 음악이 빚는 향연...제천음악영화제 3일 개막",
       "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1096866",
       "date": "2026.08.31",
@@ -30,18 +30,18 @@
       "thumbnail": "https://cdn.ccdn.co.kr/news/thumbnail/202608/1096866_607886_5503_v150.jpg"
     },
     {
-      "title": "[TD영상] 아일릿, '글릿들~ 우리 상 받았어요' 귀여움 치사량 소녀들의...",
-      "url": "http://www.tvdaily.co.kr/read.php3?aid=17881684421800153003",
+      "title": "[TD영상] 피원하모니, '땀 닦는 모습이 이렇게 멋있을 일인가...' 수상 모...",
+      "url": "http://www.tvdaily.co.kr/read.php3?aid=17881653211800146003",
       "date": "2026.08.31",
       "source": "tvdaily.co.kr",
-      "thumbnail": "http://image.tvdaily.co.kr/upimages/gisaimg/202608/1788168442_1800153.png"
+      "thumbnail": "http://image.tvdaily.co.kr/upimages/gisaimg/202608/1788165321_1800146.png"
     },
     {
       "title": "[ST포토] 미야오, 눈 부신 비주얼",
       "url": "http://www.stoo.com/article.php?aid=108621351299",
       "date": "2026.08.31",
       "source": "stoo.com",
-      "thumbnail": "https://www.stoo.com/upimages/gisaimg/202608/31_1086213_51299.jpg"
+      "thumbnail": null
     },
     {
       "title": "리센느 팬덤이 만든 기적... 멤버 고향 수해 소식에 팬 2300명이 1.1억 모...",
@@ -90,7 +90,7 @@
       "url": "https://www.mydaily.co.kr/page/view/2026083111464391259",
       "date": "2026.08.31",
       "source": "mydaily.co.kr",
-      "thumbnail": "https://mydaily.co.kr/photos/2026/08/31/2026083111511684278_l.jpg"
+      "thumbnail": null
     },
     {
       "title": "리센느 팬덤 '리마인', 원이 고향 아픔 함께 나눴다…1억1200만원 쾌척",
