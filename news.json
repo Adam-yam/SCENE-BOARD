@@ -1,19 +1,33 @@
 {
-  "updated": "2026-08-31T10:00:43Z",
+  "updated": "2026-08-31T11:00:44Z",
   "articles": [
     {
-      "title": "[TD영상] 피원하모니, '땀 닦는 모습이 이렇게 멋있을 일인가...' 수상 모...",
-      "url": "http://www.tvdaily.co.kr/read.php3?aid=17881653211800146003",
+      "title": "리센느 'LOVE ATTACK', 지니 8월 월간차트 1위…걸그룹 강세 입증",
+      "url": "https://www.thedailypost.kr/news/articleView.html?idxno=115278",
       "date": "2026.08.31",
-      "source": "tvdaily.co.kr",
-      "thumbnail": "http://image.tvdaily.co.kr/upimages/gisaimg/202608/1788165321_1800146.png"
+      "source": "thedailypost.kr",
+      "thumbnail": "https://cdn.thedailypost.kr/news/thumbnail/202608/115278_119365_88_v150.jpg"
     },
     {
-      "title": "[HD포토] 박지현, '시상식 참석했어요' (2026 KWDA 블루카펫)",
-      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16178435",
+      "title": "[HD포토] 성리, '수줍은 손인사' (2026 KWDA 블루카펫)",
+      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16178474",
       "date": "2026.08.31",
       "source": "topstarnews.net",
-      "thumbnail": "https://cdn.topstarnews.net/news/photo/202608/16178435_2009750_2237_crop.jpg"
+      "thumbnail": "https://cdn.topstarnews.net/news/photo/202608/16178474_2009782_330_crop.jpg"
+    },
+    {
+      "title": "영화와 음악이 빚는 향연...제천음악영화제 3일 개막",
+      "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1096866",
+      "date": "2026.08.31",
+      "source": "ccdn.co.kr",
+      "thumbnail": "https://cdn.ccdn.co.kr/news/thumbnail/202608/1096866_607886_5503_v150.jpg"
+    },
+    {
+      "title": "[TD영상] 씨야, '20주년에 뜻깊은 수상까지' 돌아온 보컬짱들의 수상소...",
+      "url": "http://www.tvdaily.co.kr/read.php3?aid=17881668631800151003",
+      "date": "2026.08.31",
+      "source": "tvdaily.co.kr",
+      "thumbnail": "http://image.tvdaily.co.kr/upimages/gisaimg/202608/1788166863_1800151.png"
     },
     {
       "title": "[ST포토] 미야오, 눈 부신 비주얼",
@@ -21,20 +35,6 @@
       "date": "2026.08.31",
       "source": "stoo.com",
       "thumbnail": "https://www.stoo.com/upimages/gisaimg/202608/31_1086213_51299.jpg"
-    },
-    {
-      "title": "리센느 8월 '최강 걸그룹' 등극…'러브 어택' KT지니뮤직 1위",
-      "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1004898",
-      "date": "2026.08.31",
-      "source": "spotvnews.co.kr",
-      "thumbnail": "https://7lgigmttrjuyfehsudec15072.edge.naverncp.com/news/photo/202608/1004898_2009024_3591.png"
-    },
-    {
-      "title": "'22회 제천국제음악영화제' 내달 3일 팡파르…2174편 출품 '역대 최다'",
-      "url": "https://www.nocutnews.co.kr/news/6570893?utm_source=naver&utm_medium=article&utm_campaign=20260831053107",
-      "date": "2026.08.31",
-      "source": "nocutnews.co.kr",
-      "thumbnail": "https://file2.nocutnews.co.kr/newsroom/image/2026/08/31/202608311405166621_2.jpg"
     },
     {
       "title": "리센느 팬덤이 만든 기적... 멤버 고향 수해 소식에 팬 2300명이 1.1억 모...",
@@ -118,7 +118,7 @@
       "url": "https://www.sportsseoul.com/news/read/1631722?ref=naver",
       "date": "2026.08.30",
       "source": "sportsseoul.com",
-      "thumbnail": null
+      "thumbnail": "https://file.sportsseoul.com/news/cms/2026/08/30/news-p.v1.20260829.943e065cf58b43a78919433b2582feab_T1.jpg"
     },
     {
       "title": "청계광장, 서울과 아·중동 잇는 새로운 '실크로드' 9월 4일 살람서울 페...",
