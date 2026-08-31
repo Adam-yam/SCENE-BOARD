@@ -1,12 +1,12 @@
 {
-  "updated": "2026-08-31T14:00:49Z",
+  "updated": "2026-08-31T15:00:49Z",
   "articles": [
     {
-      "title": "[ST포토] 미야오 가원, 휘날리는 머릿결",
-      "url": "http://www.stoo.com/article.php?aid=108622996911",
+      "title": "[ST포토] 미야오 수인, 빠져드는 매력",
+      "url": "http://www.stoo.com/article.php?aid=108623291873",
       "date": "2026.08.31",
       "source": "stoo.com",
-      "thumbnail": null
+      "thumbnail": "https://www.stoo.com/upimages/gisaimg/202608/31_1086232_91873.jpg"
     },
     {
       "title": "[뮤지션100주간] 엔하이픈 125계단·주호 97계단 급등…리센느 7.30% 1위,...",
@@ -20,7 +20,7 @@
       "url": "http://www.cctimes.kr/news/articleView.html?idxno=924616",
       "date": "2026.08.31",
       "source": "cctimes.kr",
-      "thumbnail": "https://cdn.cctimes.kr/news/thumbnail/202608/924616_409120_647_v150.jpg"
+      "thumbnail": "http://www.cctimes.kr/news/thumbnail/202608/924616_409120_647_v150.jpg"
     },
     {
       "title": "리센느 'LOVE ATTACK', 지니 8월 월간차트 1위…걸그룹 강세 입증",
@@ -37,11 +37,11 @@
       "thumbnail": "https://cdn.ccdn.co.kr/news/thumbnail/202608/1096866_607886_5503_v150.jpg"
     },
     {
-      "title": "[TD영상] 아일릿, '글릿들~ 우리 상 받았어요' 귀여움 치사량 소녀들의...",
-      "url": "http://www.tvdaily.co.kr/read.php3?aid=17881684421800153003",
+      "title": "[TD영상] 피원하모니, '땀 닦는 모습이 이렇게 멋있을 일인가...' 수상 모...",
+      "url": "http://www.tvdaily.co.kr/read.php3?aid=17881653211800146003",
       "date": "2026.08.31",
       "source": "tvdaily.co.kr",
-      "thumbnail": "http://image.tvdaily.co.kr/upimages/gisaimg/202608/1788168442_1800153.png"
+      "thumbnail": "http://image.tvdaily.co.kr/upimages/gisaimg/202608/1788165321_1800146.png"
     },
     {
       "title": "리센느 팬덤이 만든 기적... 멤버 고향 수해 소식에 팬 2300명이 1.1억 모...",
@@ -125,7 +125,7 @@
       "url": "https://www.sportsseoul.com/news/read/1631722?ref=naver",
       "date": "2026.08.30",
       "source": "sportsseoul.com",
-      "thumbnail": "https://file.sportsseoul.com/news/cms/2026/08/30/news-p.v1.20260829.943e065cf58b43a78919433b2582feab_T1.jpg"
+      "thumbnail": null
     },
     {
       "title": "청계광장, 서울과 아·중동 잇는 새로운 '실크로드' 9월 4일 살람서울 페...",
@@ -139,7 +139,7 @@
       "url": "https://www.ekn.kr/web/view.php?key=20260830026348230",
       "date": "2026.08.30",
       "source": "ekn.kr",
-      "thumbnail": "https://www.ekn.kr/mnt/file/202608/news-p.v1.20260830.6ee828d91f8a48628bfdfd0994b13c78_R.jpg"
+      "thumbnail": null
     }
   ]
 }
