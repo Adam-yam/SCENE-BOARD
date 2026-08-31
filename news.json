@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-31T20:00:44Z",
+  "updated": "2026-08-31T21:00:47Z",
   "articles": [
     {
       "title": "리센느 팬클럽, 거제 등 수해 성금 1억",
@@ -20,7 +20,7 @@
       "url": "http://www.stoo.com/article.php?aid=108623291873",
       "date": "2026.08.31",
       "source": "stoo.com",
-      "thumbnail": "https://www.stoo.com/upimages/gisaimg/202608/31_1086232_91873.jpg"
+      "thumbnail": null
     },
     {
       "title": "[뮤지션100주간] 엔하이픈 125계단·주호 97계단 급등…리센느 7.30% 1위,...",
@@ -34,7 +34,7 @@
       "url": "http://www.cctimes.kr/news/articleView.html?idxno=924616",
       "date": "2026.08.31",
       "source": "cctimes.kr",
-      "thumbnail": "http://www.cctimes.kr/news/thumbnail/202608/924616_409120_647_v150.jpg"
+      "thumbnail": "https://cdn.cctimes.kr/news/thumbnail/202608/924616_409120_647_v150.jpg"
     },
     {
       "title": "리센느 'LOVE ATTACK', 지니 8월 월간차트 1위…걸그룹 강세 입증",
@@ -51,11 +51,11 @@
       "thumbnail": "https://cdn.ccdn.co.kr/news/thumbnail/202608/1096866_607886_5503_v150.jpg"
     },
     {
-      "title": "[TD영상] 피원하모니, '땀 닦는 모습이 이렇게 멋있을 일인가...' 수상 모...",
-      "url": "http://www.tvdaily.co.kr/read.php3?aid=17881653211800146003",
+      "title": "[TD영상] 씨야, '20주년에 뜻깊은 수상까지' 돌아온 보컬짱들의 수상소...",
+      "url": "http://www.tvdaily.co.kr/read.php3?aid=17881668631800151003",
       "date": "2026.08.31",
       "source": "tvdaily.co.kr",
-      "thumbnail": "http://image.tvdaily.co.kr/upimages/gisaimg/202608/1788165321_1800146.png"
+      "thumbnail": "http://image.tvdaily.co.kr/upimages/gisaimg/202608/1788166863_1800151.png"
     },
     {
       "title": "리센느 팬덤이 만든 기적... 멤버 고향 수해 소식에 팬 2300명이 1.1억 모...",
@@ -97,7 +97,7 @@
       "url": "http://www.breaknews.com/1232786",
       "date": "2026.08.31",
       "source": "breaknews.com",
-      "thumbnail": "https://www.breaknews.com/imgdata/breaknews_com/202607/2026070146037003.jpg"
+      "thumbnail": null
     },
     {
       "title": "[공식] 리센느, 역주행 기적만 쓴 거 아니네…팬덤은 수해 복구에 1억 1...",
@@ -139,7 +139,7 @@
       "url": "https://www.sportsseoul.com/news/read/1631722?ref=naver",
       "date": "2026.08.30",
       "source": "sportsseoul.com",
-      "thumbnail": "https://file.sportsseoul.com/news/cms/2026/08/30/news-p.v1.20260829.943e065cf58b43a78919433b2582feab_T1.jpg"
+      "thumbnail": null
     }
   ]
 }
