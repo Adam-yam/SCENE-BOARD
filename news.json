@@ -1,19 +1,40 @@
 {
-  "updated": "2026-08-31T08:00:43Z",
+  "updated": "2026-08-31T09:00:42Z",
   "articles": [
     {
-      "title": "[ST포토] 앰퍼샌드원 나캠든, 파워풀한 댄스",
-      "url": "http://www.stoo.com/article.php?aid=108619560546",
+      "title": "[ST포토] 싸이커스 유준, 화려한 퍼포먼스",
+      "url": "http://www.stoo.com/article.php?aid=108621160730",
       "date": "2026.08.31",
       "source": "stoo.com",
-      "thumbnail": null
+      "thumbnail": "https://www.stoo.com/upimages/gisaimg/202608/31_1086211_60730.jpg"
     },
     {
-      "title": "[TD포토] 앤더블 장하오 '완벽한 무대'",
-      "url": "http://www.tvdaily.co.kr/read.php3?aid=17881627791800132017",
+      "title": "리센느 8월 '최강 걸그룹' 등극…'러브 어택' KT지니뮤직 1위",
+      "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1004898",
+      "date": "2026.08.31",
+      "source": "spotvnews.co.kr",
+      "thumbnail": "https://7lgigmttrjuyfehsudec15072.edge.naverncp.com/news/photo/202608/1004898_2009024_3591.png"
+    },
+    {
+      "title": "[TD포토] 유재필 '우월한 비율'",
+      "url": "http://www.tvdaily.co.kr/read.php3?aid=17881650281800145017",
       "date": "2026.08.31",
       "source": "tvdaily.co.kr",
-      "thumbnail": "http://image.tvdaily.co.kr/upimages/gisaimg/202608/1788162779_1800132.jpg"
+      "thumbnail": "http://image.tvdaily.co.kr/upimages/gisaimg/202608/1788165028_1800145.jpg"
+    },
+    {
+      "title": "'22회 제천국제음악영화제' 내달 3일 팡파르…2174편 출품 '역대 최다'",
+      "url": "https://www.nocutnews.co.kr/news/6570893?utm_source=naver&utm_medium=article&utm_campaign=20260831053107",
+      "date": "2026.08.31",
+      "source": "nocutnews.co.kr",
+      "thumbnail": "https://file2.nocutnews.co.kr/newsroom/image/2026/08/31/202608311405166621_2.jpg"
+    },
+    {
+      "title": "리센느 팬덤이 만든 기적... 멤버 고향 수해 소식에 팬 2300명이 1.1억 모...",
+      "url": "https://www.insight.co.kr/news/571178",
+      "date": "2026.08.31",
+      "source": "insight.co.kr",
+      "thumbnail": "https://img.insight.co.kr/static/2026/08/31/1200/img_20260831165054_ra8d19i8.jpg"
     },
     {
       "title": "리센느 팬덤, 원이 고향 거제 등 수해복구 위해 1억1천만원 기부",
@@ -23,46 +44,11 @@
       "thumbnail": "https://cdn.hg-times.com/news/photo/202608/304866_305307_3055.png"
     },
     {
-      "title": "\"귀여운 이미지 어디 갔지?\"... 니콜, 완벽한 슬림핏 몸매와 우아한 분위...",
-      "url": "https://www.insight.co.kr/news/571154",
-      "date": "2026.08.31",
-      "source": "insight.co.kr",
-      "thumbnail": "https://img.insight.co.kr/static/2026/08/31/1200/img_20260831160350_8al0ftaj.jpg"
-    },
-    {
-      "title": "“응원이 위로가 되길”…리센느 팬덤, 남부 수해 피해에 1억 쾌척",
-      "url": "https://www.mk.co.kr/article/12140474",
-      "date": "2026.08.31",
-      "source": "mk.co.kr",
-      "thumbnail": "https://pimg.mk.co.kr/news/cms/202608/31/news-p.v1.20260831.d729ffdd90cf4dd2b14c6a53af945b99_R.jpeg"
-    },
-    {
       "title": "엔하이픈, 'Bloody Paradise'로 '인기가요' 1위…음악방송 5관왕→데뷔 6...",
       "url": "https://www.topstarnews.net/news/articleView.html?idxno=16178298",
       "date": "2026.08.31",
       "source": "topstarnews.net",
       "thumbnail": "https://cdn.topstarnews.net/news/photo/202608/16178298_2009581_12_crop.jpg"
-    },
-    {
-      "title": "바이오던스, 9월 올영세일·산리오 컬래버 캠페인 참여",
-      "url": "http://www.bokuennews.com/news/article.html?no=283360",
-      "date": "2026.08.31",
-      "source": "bokuennews.com",
-      "thumbnail": "http://www.bokuennews.com/data/photos/cdn/20260836/art_1788159364.jpg"
-    },
-    {
-      "title": "리센느 팬덤, 수해 복구에 1억 1천만원 기부…팬들 한마음으로 뜻 모았...",
-      "url": "https://www.sportsworldi.com/newsView/20260831513789",
-      "date": "2026.08.31",
-      "source": "sportsworldi.com",
-      "thumbnail": "https://www.sportsworldi.com/content/image/2026/08/31/20260831514966.jpg"
-    },
-    {
-      "title": "스타트렌드 K-POP 여자 그룹 1위 리센느, 40만7천 표로 선두",
-      "url": "https://www.stardailynews.co.kr/news/articleView.html?idxno=547916",
-      "date": "2026.08.31",
-      "source": "stardailynews.co.kr",
-      "thumbnail": "https://cdn.stardailynews.co.kr/news/thumbnail/202608/547916_580226_824_v150.jpg"
     },
     {
       "title": "리센느 팬덤 '리마인', 거제 수해 복구에 1억 1천만 원 기부",
@@ -132,7 +118,7 @@
       "url": "https://www.sportsseoul.com/news/read/1631722?ref=naver",
       "date": "2026.08.30",
       "source": "sportsseoul.com",
-      "thumbnail": "https://file.sportsseoul.com/news/cms/2026/08/30/news-p.v1.20260829.943e065cf58b43a78919433b2582feab_T1.jpg"
+      "thumbnail": null
     },
     {
       "title": "청계광장, 서울과 아·중동 잇는 새로운 '실크로드' 9월 4일 살람서울 페...",
@@ -140,6 +126,20 @@
       "date": "2026.08.30",
       "source": "m-i.kr",
       "thumbnail": "https://cdn.m-i.kr/news/thumbnail/202608/1407590_1195769_216_v150.jpg"
+    },
+    {
+      "title": "[패트롤] 고양시-김포시-남양주시-양주시-파주시",
+      "url": "https://www.ekn.kr/web/view.php?key=20260830026348230",
+      "date": "2026.08.30",
+      "source": "ekn.kr",
+      "thumbnail": "https://www.ekn.kr/mnt/file/202608/news-p.v1.20260830.6ee828d91f8a48628bfdfd0994b13c78_R.jpg"
+    },
+    {
+      "title": "“BTS·임영웅 다 제쳤다” 걸그룹 리센느, 8월 ★브랜드평판 ‘대이변...",
+      "url": "https://sports.khan.co.kr/article/202608301144003?pt=nv",
+      "date": "2026.08.30",
+      "source": "sports.khan.co.kr",
+      "thumbnail": null
     }
   ]
 }
