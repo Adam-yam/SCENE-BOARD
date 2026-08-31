@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-31T06:10:32Z",
+  "updated": "2026-08-31T07:10:28Z",
   "videos": [
     {
       "id": "WAO9dDGcCsA",
@@ -50,6 +50,14 @@
       "type": "long"
     },
     {
+      "id": "JPAKX4X_9WU",
+      "title": "Let’s go",
+      "url": "https://www.youtube.com/shorts/JPAKX4X_9WU",
+      "thumbnail": "https://i.ytimg.com/vi/JPAKX4X_9WU/mqdefault.jpg",
+      "date": "2026.08.31",
+      "type": "short"
+    },
+    {
       "id": "e3Z9XXyx3oU",
       "title": "안정형이 불안형을 마주하는 법",
       "url": "https://www.youtube.com/shorts/e3Z9XXyx3oU",
@@ -86,14 +94,6 @@
       "title": "#수이 님과 어디서나 당당하게 걷기 🎀",
       "url": "https://www.youtube.com/shorts/vK3c0aJqq5E",
       "thumbnail": "https://i.ytimg.com/vi/vK3c0aJqq5E/mqdefault.jpg",
-      "date": "2026.08.29",
-      "type": "short"
-    },
-    {
-      "id": "Kb9h6UwgKUc",
-      "title": "#시윤 님과 어디서나 당당하게 걷기 🎀",
-      "url": "https://www.youtube.com/shorts/Kb9h6UwgKUc",
-      "thumbnail": "https://i.ytimg.com/vi/Kb9h6UwgKUc/mqdefault.jpg",
       "date": "2026.08.29",
       "type": "short"
     }
