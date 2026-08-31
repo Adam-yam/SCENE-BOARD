@@ -1,6 +1,13 @@
 {
-  "updated": "2026-08-31T15:00:49Z",
+  "updated": "2026-08-31T16:00:44Z",
   "articles": [
+    {
+      "title": "9월 네티즌 어워즈 화려한 개막…장한별 하석진 안희연 리센느 등 그레...",
+      "url": "https://www.cbci.co.kr/news/articleView.html?idxno=602441",
+      "date": "2026.08.31",
+      "source": "cbci.co.kr",
+      "thumbnail": "https://www.cbci.co.kr/news/thumbnail/202608/602441_413156_3113_v150.jpg"
+    },
     {
       "title": "[ST포토] 미야오 수인, 빠져드는 매력",
       "url": "http://www.stoo.com/article.php?aid=108623291873",
@@ -133,13 +140,6 @@
       "date": "2026.08.30",
       "source": "m-i.kr",
       "thumbnail": "https://cdn.m-i.kr/news/thumbnail/202608/1407590_1195769_216_v150.jpg"
-    },
-    {
-      "title": "[패트롤] 고양시-김포시-남양주시-양주시-파주시",
-      "url": "https://www.ekn.kr/web/view.php?key=20260830026348230",
-      "date": "2026.08.30",
-      "source": "ekn.kr",
-      "thumbnail": null
     }
   ]
 }
