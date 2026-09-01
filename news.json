@@ -1,6 +1,27 @@
 {
-  "updated": "2026-09-01T11:00:43Z",
+  "updated": "2026-09-01T12:00:41Z",
   "articles": [
+    {
+      "title": "'워너원고 in LA' 워너원, 9년 만에 KCON 무대…리센느도 대기실 찾아 응...",
+      "url": "https://www.slist.kr/news/articleView.html?idxno=762924",
+      "date": "2026.09.01",
+      "source": "slist.kr",
+      "thumbnail": "https://cdn.slist.kr/news/thumbnail/202609/762924_1168296_362_v150.jpg"
+    },
+    {
+      "title": "[MD라이프] 무신사, 日 하라주쿠 팝업 흥행…73개 브랜드 거래액 3배 ↑",
+      "url": "https://www.mydaily.co.kr/page/view/2026090120202537971",
+      "date": "2026.09.01",
+      "source": "mydaily.co.kr",
+      "thumbnail": "https://mydaily.co.kr/photos/2026/09/01/2026090120084889983_l.png"
+    },
+    {
+      "title": "리센느, 8월 멜론 월간차트 첫 1위‥3곡 톱10 꿰찼다",
+      "url": "https://news.jtbc.co.kr/article/NB12316195?influxDiv=NAVER",
+      "date": "2026.09.01",
+      "source": "news.jtbc.co.kr",
+      "thumbnail": null
+    },
     {
       "title": "포르테 디 콰트로, 최고그룹상 10개월 연속 1위 질주…크로스오버 '톱5'...",
       "url": "https://www.cbci.co.kr/news/articleView.html?idxno=602855",
@@ -23,18 +44,18 @@
       "thumbnail": "http://www.celuvmedia.com/upimages/gisaimg/202609/1788251453_526802.jpeg"
     },
     {
-      "title": "'올해의 브랜드 대상' 유재석, 7년 연속 예능인 1위...이재·김무열·리...",
-      "url": "http://www.starnewsk.com/news/articleView.html?idxno=58648",
-      "date": "2026.09.01",
-      "source": "starnewsk.com",
-      "thumbnail": "https://cdn.starnewsk.com/news/thumbnail/202609/58648_85157_4648_v150.jpg"
-    },
-    {
       "title": "[유통가 NOW] GS리테일, 세븐일레븐, BGF리테일, 우아한형제들, 쿠팡",
       "url": "https://www.ekn.kr/web/view.php?key=20260901028469045",
       "date": "2026.09.01",
       "source": "ekn.kr",
       "thumbnail": "https://www.ekn.kr/mnt/file/202609/news-p.v1.20260901.aac7a2cd001c45959be1c96d8e2e135a_R.jpg"
+    },
+    {
+      "title": "'올해의 브랜드 대상' 유재석, 7년 연속 예능인 1위...이재·김무열·리...",
+      "url": "http://www.starnewsk.com/news/articleView.html?idxno=58648",
+      "date": "2026.09.01",
+      "source": "starnewsk.com",
+      "thumbnail": "https://cdn.starnewsk.com/news/thumbnail/202609/58648_85157_4648_v150.jpg"
     },
     {
       "title": "‘팬미팅 블랙홀’ 된 중국, K스타 삼킨 ‘불가항력’의 늪",
@@ -119,27 +140,6 @@
       "date": "2026.09.01",
       "source": "sctoday.co.kr",
       "thumbnail": "https://www.sctoday.co.kr/news/thumbnail/202609/48510_96207_1242_v150.jpg"
-    },
-    {
-      "title": "CU, 리센느와 전국 점포·온라인 잇는 브랜드 캠페인 진행",
-      "url": "http://www.lawissue.co.kr/view.php?ud=20260901134039907204ead0791_12",
-      "date": "2026.09.01",
-      "source": "lawissue.co.kr",
-      "thumbnail": "https://cliimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=20260901134117032670204ead079118023320059.jpg&nmt=12"
-    },
-    {
-      "title": "[패션엔 포토] 니콜, 안은 러블리 밖은 힙! 슬립 시스루에 레더 재킷 걸...",
-      "url": "http://www.fashionn.com/board/read_new.php?table=1023&number=62230",
-      "date": "2026.09.01",
-      "source": "fashionn.com",
-      "thumbnail": "https://www.fashionn.com/files/board/2026/09/image/o_1k1djfki48vnlk81msvit1kevb.jpg"
-    },
-    {
-      "title": "CU, 리센느와 전국 브랜드 캠페인…“일상 속 경험 강화”",
-      "url": "https://www.etnews.com/20260901000228",
-      "date": "2026.09.01",
-      "source": "etnews.com",
-      "thumbnail": "https://img.etnews.com/news/article/2026/09/01/news-p.v1.20260901.090cd743de774cf5a050ca27c4e812e5_P1.jpg"
     }
   ]
 }
