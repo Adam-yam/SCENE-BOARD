@@ -1,6 +1,20 @@
 {
-  "updated": "2026-09-01T08:00:43Z",
+  "updated": "2026-09-01T09:00:44Z",
   "articles": [
+    {
+      "title": "리센느 1위, 9월 신인 아이돌 브랜드평판 정상..2위 코르티스·3위 키키",
+      "url": "http://www.breaknews.com/1233295",
+      "date": "2026.09.01",
+      "source": "breaknews.com",
+      "thumbnail": "https://www.breaknews.com/imgdata/breaknews_com/202608/2026081014324448.jpg"
+    },
+    {
+      "title": "리센느, ‘러브어택’·‘프리티 걸’ 통했다…신인 아이돌 브랜드평판...",
+      "url": "http://www.celuvmedia.com/article.php?aid=1788251453526802007",
+      "date": "2026.09.01",
+      "source": "celuvmedia.com",
+      "thumbnail": "http://www.celuvmedia.com/upimages/gisaimg/202609/1788251453_526802.jpeg"
+    },
     {
       "title": "'올해의 브랜드 대상' 유재석, 7년 연속 예능인 1위...이재·김무열·리...",
       "url": "http://www.starnewsk.com/news/articleView.html?idxno=58648",
@@ -13,7 +27,7 @@
       "url": "https://www.ekn.kr/web/view.php?key=20260901028469045",
       "date": "2026.09.01",
       "source": "ekn.kr",
-      "thumbnail": null
+      "thumbnail": "https://www.ekn.kr/mnt/file/202609/news-p.v1.20260901.aac7a2cd001c45959be1c96d8e2e135a_R.jpg"
     },
     {
       "title": "‘팬미팅 블랙홀’ 된 중국, K스타 삼킨 ‘불가항력’의 늪",
@@ -93,13 +107,6 @@
       "thumbnail": "https://cdn.getnews.co.kr/news/photo/202609/879465_535776_218.jpg"
     },
     {
-      "title": "[셀럽포토]에이티즈 '자유분방한 매력'",
-      "url": "http://www.celuvmedia.com/article.php?aid=1788241540526788009",
-      "date": "2026.09.01",
-      "source": "celuvmedia.com",
-      "thumbnail": "http://www.celuvmedia.com/upimages/gisaimg/202609/1788241540_526788.jpg"
-    },
-    {
       "title": "\"신성장동력을 찾아라\"…해외진출·브랜드 쇄신 한창인 토종 커피",
       "url": "https://www.sisaon.co.kr/news/articleView.html?idxno=204009",
       "date": "2026.09.01",
@@ -121,13 +128,6 @@
       "thumbnail": "https://cliimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=20260901134117032670204ead079118023320059.jpg&nmt=12"
     },
     {
-      "title": "CU, 리센느와 전국 브랜드 캠페인…“일상 속 경험 강화”",
-      "url": "https://www.etnews.com/20260901000228",
-      "date": "2026.09.01",
-      "source": "etnews.com",
-      "thumbnail": "https://img.etnews.com/news/article/2026/09/01/news-p.v1.20260901.090cd743de774cf5a050ca27c4e812e5_P1.jpg"
-    },
-    {
       "title": "[패션엔 포토] 니콜, 안은 러블리 밖은 힙! 슬립 시스루에 레더 재킷 걸...",
       "url": "http://www.fashionn.com/board/read_new.php?table=1023&number=62230",
       "date": "2026.09.01",
@@ -135,11 +135,11 @@
       "thumbnail": "https://www.fashionn.com/files/board/2026/09/image/o_1k1djfki48vnlk81msvit1kevb.jpg"
     },
     {
-      "title": "\"전국 1만8800개 점포에서 리센느 만난다\"…CU, 브랜드 캠페인 진행",
-      "url": "https://www.fnnews.com/news/202609011026202048",
+      "title": "CU, 리센느와 전국 브랜드 캠페인…“일상 속 경험 강화”",
+      "url": "https://www.etnews.com/20260901000228",
       "date": "2026.09.01",
-      "source": "fnnews.com",
-      "thumbnail": "https://image.fnnews.com/resource/media/image/2026/09/01/202609011030246683_e.jpg"
+      "source": "etnews.com",
+      "thumbnail": "https://img.etnews.com/news/article/2026/09/01/news-p.v1.20260901.090cd743de774cf5a050ca27c4e812e5_P1.jpg"
     }
   ]
 }
