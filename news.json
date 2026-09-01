@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-01T09:00:44Z",
+  "updated": "2026-09-01T10:00:43Z",
   "articles": [
+    {
+      "title": "포르테 디 콰트로, 최고그룹상 10개월 연속 1위 질주…크로스오버 '톱5'...",
+      "url": "https://www.cbci.co.kr/news/articleView.html?idxno=602855",
+      "date": "2026.09.01",
+      "source": "cbci.co.kr",
+      "thumbnail": "https://www.cbci.co.kr/news/thumbnail/202609/602855_413435_3732_v150.jpg"
+    },
     {
       "title": "리센느 1위, 9월 신인 아이돌 브랜드평판 정상..2위 코르티스·3위 키키",
       "url": "http://www.breaknews.com/1233295",
@@ -49,13 +56,6 @@
       "date": "2026.09.01",
       "source": "xportsnews.com",
       "thumbnail": "https://image.xportsnews.com/contents/images/upload/article/2026/0901/1788243297046295.webp"
-    },
-    {
-      "title": "[스타家] 리센느 ②ㅣ 광고계도 지역도 '거제 야호'…매출 48%↑에 기부...",
-      "url": "https://www.cbci.co.kr/news/articleView.html?idxno=602797",
-      "date": "2026.09.01",
-      "source": "cbci.co.kr",
-      "thumbnail": "https://www.cbci.co.kr/news/thumbnail/202609/602797_413383_4855_v150.jpg"
     },
     {
       "title": "[유통가 오늘] 쿠팡ㆍBGF리테일ㆍ이랜드파크ㆍ한샘",
@@ -128,18 +128,18 @@
       "thumbnail": "https://cliimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=20260901134117032670204ead079118023320059.jpg&nmt=12"
     },
     {
-      "title": "[패션엔 포토] 니콜, 안은 러블리 밖은 힙! 슬립 시스루에 레더 재킷 걸...",
-      "url": "http://www.fashionn.com/board/read_new.php?table=1023&number=62230",
-      "date": "2026.09.01",
-      "source": "fashionn.com",
-      "thumbnail": "https://www.fashionn.com/files/board/2026/09/image/o_1k1djfki48vnlk81msvit1kevb.jpg"
-    },
-    {
       "title": "CU, 리센느와 전국 브랜드 캠페인…“일상 속 경험 강화”",
       "url": "https://www.etnews.com/20260901000228",
       "date": "2026.09.01",
       "source": "etnews.com",
       "thumbnail": "https://img.etnews.com/news/article/2026/09/01/news-p.v1.20260901.090cd743de774cf5a050ca27c4e812e5_P1.jpg"
+    },
+    {
+      "title": "[패션엔 포토] 니콜, 안은 러블리 밖은 힙! 슬립 시스루에 레더 재킷 걸...",
+      "url": "http://www.fashionn.com/board/read_new.php?table=1023&number=62230",
+      "date": "2026.09.01",
+      "source": "fashionn.com",
+      "thumbnail": "https://www.fashionn.com/files/board/2026/09/image/o_1k1djfki48vnlk81msvit1kevb.jpg"
     }
   ]
 }
