@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-01T19:00:46Z",
+  "updated": "2026-09-01T20:00:58Z",
   "articles": [
+    {
+      "title": "히잡과 한복이 만난다… 청계광장서 ‘무슬림 문화 축제’",
+      "url": "https://www.donga.com/news/Society/article/all/20260902/134586428/2",
+      "date": "2026.09.01",
+      "source": "donga.com",
+      "thumbnail": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/09/02/134584692.4.jpg"
+    },
     {
       "title": "'실크로드'로 서울과 아·중동 잇는다",
       "url": "https://www.traveltimes.co.kr/news/articleView.html?idxno=500303",
@@ -34,7 +41,7 @@
       "url": "https://www.mydaily.co.kr/page/view/2026090120202537971",
       "date": "2026.09.01",
       "source": "mydaily.co.kr",
-      "thumbnail": "https://mydaily.co.kr/photos/2026/09/01/2026090120084889983_l.png"
+      "thumbnail": null
     },
     {
       "title": "리센느, 8월 멜론 월간차트 첫 1위‥3곡 톱10 꿰찼다",
@@ -65,18 +72,18 @@
       "thumbnail": "http://www.celuvmedia.com/upimages/gisaimg/202609/1788251453_526802.jpeg"
     },
     {
-      "title": "[유통가 NOW] GS리테일, 세븐일레븐, BGF리테일, 우아한형제들, 쿠팡",
-      "url": "https://www.ekn.kr/web/view.php?key=20260901028469045",
-      "date": "2026.09.01",
-      "source": "ekn.kr",
-      "thumbnail": null
-    },
-    {
       "title": "'올해의 브랜드 대상' 유재석, 7년 연속 예능인 1위...이재·김무열·리...",
       "url": "http://www.starnewsk.com/news/articleView.html?idxno=58648",
       "date": "2026.09.01",
       "source": "starnewsk.com",
       "thumbnail": "https://cdn.starnewsk.com/news/thumbnail/202609/58648_85157_4648_v150.jpg"
+    },
+    {
+      "title": "[유통가 NOW] GS리테일, 세븐일레븐, BGF리테일, 우아한형제들, 쿠팡",
+      "url": "https://www.ekn.kr/web/view.php?key=20260901028469045",
+      "date": "2026.09.01",
+      "source": "ekn.kr",
+      "thumbnail": "https://www.ekn.kr/mnt/file/202609/news-p.v1.20260901.aac7a2cd001c45959be1c96d8e2e135a_R.jpg"
     },
     {
       "title": "‘팬미팅 블랙홀’ 된 중국, K스타 삼킨 ‘불가항력’의 늪",
@@ -126,13 +133,6 @@
       "date": "2026.09.01",
       "source": "inews24.com",
       "thumbnail": "https://image.inews24.com/v1/8b21aeb81edb80.jpg"
-    },
-    {
-      "title": "‘2026 SKA’ 최종 라인업·관전 포인트 셋",
-      "url": "https://www.bntnews.co.kr/article/view/bnt202609010253",
-      "date": "2026.09.01",
-      "source": "bntnews.co.kr",
-      "thumbnail": "https://www.bntnews.co.kr/data/bnt/image/2026/09/01/bnt202609010590.jpg"
     },
     {
       "title": "CU, 리센느와 브랜드 캠페인…전국 1만 8800여 점포서 전개",
