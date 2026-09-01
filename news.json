@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-01T15:00:46Z",
+  "updated": "2026-09-01T16:00:45Z",
   "articles": [
+    {
+      "title": "'실크로드'로 서울과 아·중동 잇는다",
+      "url": "https://www.traveltimes.co.kr/news/articleView.html?idxno=500303",
+      "date": "2026.09.01",
+      "source": "traveltimes.co.kr",
+      "thumbnail": "https://cdn.traveltimes.co.kr/news/photo/202608/500303_50727_107.jpg"
+    },
     {
       "title": "리센느 제나, 요즘 왜 이렇게 예뻐…물오른 비주얼 [IS하이컷]",
       "url": "https://isplus.com/article/view/isp202609010335",
@@ -58,18 +65,18 @@
       "thumbnail": "http://www.celuvmedia.com/upimages/gisaimg/202609/1788251453_526802.jpeg"
     },
     {
-      "title": "[유통가 NOW] GS리테일, 세븐일레븐, BGF리테일, 우아한형제들, 쿠팡",
-      "url": "https://www.ekn.kr/web/view.php?key=20260901028469045",
-      "date": "2026.09.01",
-      "source": "ekn.kr",
-      "thumbnail": "https://www.ekn.kr/mnt/file/202609/news-p.v1.20260901.aac7a2cd001c45959be1c96d8e2e135a_R.jpg"
-    },
-    {
       "title": "'올해의 브랜드 대상' 유재석, 7년 연속 예능인 1위...이재·김무열·리...",
       "url": "http://www.starnewsk.com/news/articleView.html?idxno=58648",
       "date": "2026.09.01",
       "source": "starnewsk.com",
       "thumbnail": "https://cdn.starnewsk.com/news/thumbnail/202609/58648_85157_4648_v150.jpg"
+    },
+    {
+      "title": "[유통가 NOW] GS리테일, 세븐일레븐, BGF리테일, 우아한형제들, 쿠팡",
+      "url": "https://www.ekn.kr/web/view.php?key=20260901028469045",
+      "date": "2026.09.01",
+      "source": "ekn.kr",
+      "thumbnail": "https://www.ekn.kr/mnt/file/202609/news-p.v1.20260901.aac7a2cd001c45959be1c96d8e2e135a_R.jpg"
     },
     {
       "title": "‘팬미팅 블랙홀’ 된 중국, K스타 삼킨 ‘불가항력’의 늪",
@@ -133,13 +140,6 @@
       "date": "2026.09.01",
       "source": "weekly.hankooki.com",
       "thumbnail": "https://cdn.weekly.hankooki.com/news/thumbnail/202609/7181799_245270_3719_v150.jpg"
-    },
-    {
-      "title": "\"신성장동력을 찾아라\"…해외진출·브랜드 쇄신 한창인 토종 커피",
-      "url": "https://www.sisaon.co.kr/news/articleView.html?idxno=204009",
-      "date": "2026.09.01",
-      "source": "sisaon.co.kr",
-      "thumbnail": "https://cdn.sisaon.co.kr/news/photo/202609/204009_305918_2849.jpg"
     }
   ]
 }
