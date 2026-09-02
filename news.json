@@ -1,12 +1,54 @@
 {
-  "updated": "2026-09-02T06:00:43Z",
+  "updated": "2026-09-02T07:00:47Z",
   "articles": [
     {
-      "title": "[레저 브리핑] 시그니엘 서울, 파라다이스시티, 여기어때",
-      "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5057750",
+      "title": "카카오, 아이돌 그룹 '리센느'와 일상 속 AI 경험 알린다...카카오톡 AI ...",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=41723",
       "date": "2026.09.02",
-      "source": "shinailbo.co.kr",
-      "thumbnail": "https://cdn.shinailbo.co.kr/news/photo/202609/5057750_2055570_4916.png"
+      "source": "aitimes.kr",
+      "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202609/41723_62788_4439_v150.jpg"
+    },
+    {
+      "title": "[Tech 뷰] 삼성전자, ‘IFA 2026’ 참가…‘AI 리빙’ 선보여",
+      "url": "https://theviewers.co.kr/View.aspx?No=4210040",
+      "date": "2026.09.02",
+      "source": "theviewers.co.kr",
+      "thumbnail": "https://cdn.coenworks.com/Files/30/News/202609/6456_20260902153433740.jpg"
+    },
+    {
+      "title": "카카오, 인기 아이돌 그룹 '리센느'와 협업해 일상 속 AI 경험 알리는 이...",
+      "url": "https://gamefocus.co.kr/detail.php?number=178755",
+      "date": "2026.09.02",
+      "source": "gamefocus.co.kr",
+      "thumbnail": "https://gamefocus.co.kr/wys2/file_attach_thumb/2026/09/02/1788330752_24238_N_7_300x200_100_2_2.jpg"
+    },
+    {
+      "title": "카카오, '리센느'와 카톡 AI 기능 알린다",
+      "url": "https://www.news1.kr/it-science/internet-platform/6277767",
+      "date": "2026.09.02",
+      "source": "news1.kr",
+      "thumbnail": null
+    },
+    {
+      "title": "\"대화도 AI 시대\"…카카오, 리센느와 카카오톡 새 경험 알린다",
+      "url": "https://news.tvchosun.com/site/data/html_dir/2026/09/02/2026090290163.html",
+      "date": "2026.09.02",
+      "source": "news.tvchosun.com",
+      "thumbnail": "https://img.tvchosun.com/sitedata/image/202609/02/2026090290163_0.png"
+    },
+    {
+      "title": "'천하무적 행보' 리센느, 올해 음악방송 휩쓴 성과 스타트렌드서 완벽 ...",
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=544997",
+      "date": "2026.09.02",
+      "source": "joongangenews.com",
+      "thumbnail": "https://cdn.joongangenews.com/news/photo/202609/544997_351159_5915.png"
+    },
+    {
+      "title": "[비즈톡톡] ‘제2 전성기’ 맞은 K마스크팩… ODM은 증설, 브랜드는 제품...",
+      "url": "https://biz.chosun.com/distribution/channel/2026/09/02/X6AQWGQYERAX7I2EBXZMZYMA54/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+      "date": "2026.09.02",
+      "source": "biz.chosun.com",
+      "thumbnail": "https://biz.chosun.com/resizer/v2/SYZLGDSP55C6FAWVXM4UGYQS5E.jpg?auth=b9f68b96bdb5294cc70a58490327a6362cabb2cf5e8fcf543c97d781d110f702&amp;width=960&amp;height=504&amp;smart=true"
     },
     {
       "title": "카카오, '리센느' 앞세워 카톡 AI 알린다⋯'일상 AI' 대중화",
@@ -14,6 +56,13 @@
       "date": "2026.09.02",
       "source": "finomy.com",
       "thumbnail": "https://cdn.finomy.com/news/thumbnail/202609/260629_255549_3438_v150.jpg"
+    },
+    {
+      "title": "[레저 브리핑] 시그니엘 서울, 파라다이스시티, 여기어때",
+      "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5057750",
+      "date": "2026.09.02",
+      "source": "shinailbo.co.kr",
+      "thumbnail": "https://cdn.shinailbo.co.kr/news/photo/202609/5057750_2055570_4916.png"
     },
     {
       "title": "카카오, 리센느와 카카오톡 AI 알린다…'대화를 하자' 캠페인 전개",
@@ -27,14 +76,7 @@
       "url": "https://www.etnews.com/20260902000347",
       "date": "2026.09.02",
       "source": "etnews.com",
-      "thumbnail": "https://img.etnews.com/news/article/2026/09/02/news-p.v1.20260902.31bdc426a9e24346ac1116673bb89237_P1.jpg"
-    },
-    {
-      "title": "'스테이지 하남' 피날레 장식 피프티피프티, 스타트렌드 K-POP 걸그룹 1위",
-      "url": "https://www.joongangenews.com/news/articleView.html?idxno=544911",
-      "date": "2026.09.02",
-      "source": "joongangenews.com",
-      "thumbnail": "https://cdn.joongangenews.com/news/photo/202609/544911_351065_630.png"
+      "thumbnail": null
     },
     {
       "title": "[TOP's Pick] [전자·IT] LG전자, 메리어트와 손잡고 차세대 스마트 호텔...",
@@ -98,48 +140,6 @@
       "date": "2026.09.02",
       "source": "biz.chosun.com",
       "thumbnail": "https://biz.chosun.com/resizer/v2/UD2CKVAA2VAN7AJDY6HW27NEBM.jpg?auth=8960fcbfb4b3f28059dbe483260042de515c1e2a201f331173481fa4d52b499d&amp;width=1200&amp;height=630&amp;smart=true"
-    },
-    {
-      "title": "[유통레이더] 홈플러스익스프레스, 마이리얼트립, 바디프랜드, 골프존마...",
-      "url": "https://daily.hankooki.com/news/articleView.html?idxno=1401760",
-      "date": "2026.09.02",
-      "source": "daily.hankooki.com",
-      "thumbnail": "https://cdn.daily.hankooki.com/news/thumbnail/202609/1401760_1581592_4845_v150.jpg"
-    },
-    {
-      "title": "여기어때, 10번째 콘서트팩은 '거제야호'…리센느 출연",
-      "url": "https://www.asiatime.co.kr/article/20260902500144",
-      "date": "2026.09.02",
-      "source": "asiatime.co.kr",
-      "thumbnail": "https://csossihettpx2597658.cdn.gov-ntruss.com/data2/content/image/2026/09/02/.cache/512/20260902500143.jpg"
-    },
-    {
-      "title": "카카오, 리센느와 카카오톡 AI 캠페인…9월 영상 순차 공개",
-      "url": "https://www.onews.tv/news/articleView.html?idxno=286057",
-      "date": "2026.09.02",
-      "source": "onews.tv",
-      "thumbnail": "https://cdn.onews.tv/news/thumbnail/202609/286057_346071_1540_v150.jpg"
-    },
-    {
-      "title": "카카오, 리센느와 AI 캠페인…카카오톡 활용 경험 알린다",
-      "url": "https://www.epnc.co.kr/news/articleView.html?idxno=406405",
-      "date": "2026.09.02",
-      "source": "epnc.co.kr",
-      "thumbnail": "https://cdn.epnc.co.kr/news/photo/202609/406405_406881_5941.jpg"
-    },
-    {
-      "title": "[강일홍의 오늘연예] '박위 논란'에 박진희 소환…'친누나'로 불린 사연",
-      "url": "https://news.tf.co.kr/read/entertain/2360782.htm",
-      "date": "2026.09.02",
-      "source": "news.tf.co.kr",
-      "thumbnail": "https://img.tf.co.kr/article/home/2026/09/02/202669931788307927.jpg"
-    },
-    {
-      "title": "\"카톡 AI 이렇게 씁니다\"…카카오, 리센느와 캠페인 진행",
-      "url": "https://www.newspim.com/news/view/20260902000567",
-      "date": "2026.09.02",
-      "source": "newspim.com",
-      "thumbnail": "https://img.newspim.com/news/2026/09/02/2609021106271940_t1.jpg"
     }
   ]
 }
