@@ -1,6 +1,69 @@
 {
-  "updated": "2026-09-02T07:00:47Z",
+  "updated": "2026-09-02T08:00:43Z",
   "articles": [
+    {
+      "title": "[산업 브리핑] 롯데·교원·카카오",
+      "url": "http://www.niceeconomy.co.kr/news/articleView.html?idxno=90811",
+      "date": "2026.09.02",
+      "source": "niceeconomy.co.kr",
+      "thumbnail": "https://cdn.niceeconomy.co.kr/news/thumbnail/202609/90811_60550_5349_v150.jpg"
+    },
+    {
+      "title": "김수현부터 임영웅까지…3년 만에 국내로 돌아온 'TMA' 화려한 라인업으...",
+      "url": "https://mhnse.com/news/articleView.html?idxno=1520322",
+      "date": "2026.09.02",
+      "source": "mhnse.com",
+      "thumbnail": "https://cdn.mhnse.com/mhnsports/2026/09/02164740/thumb_ccms_51530.jpg"
+    },
+    {
+      "title": "'대세' 리센느 손 잡은 카카오…\"일상 속 AI 경험 알린다\"",
+      "url": "https://www.ddaily.co.kr/page/view/2026090215541114773",
+      "date": "2026.09.02",
+      "source": "ddaily.co.kr",
+      "thumbnail": null
+    },
+    {
+      "title": "카카오, 아이돌 '리센느'와 AI 대화 경험 캠페인",
+      "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=317704",
+      "date": "2026.09.02",
+      "source": "pointdaily.co.kr",
+      "thumbnail": "https://cdn.pointdaily.co.kr/news/thumbnail/202609/317704_313897_3821_v150.jpg"
+    },
+    {
+      "title": "카카오, '카나나' 앞세워 카카오톡 AI 알린다",
+      "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=207586",
+      "date": "2026.09.02",
+      "source": "thefirstmedia.net",
+      "thumbnail": "http://www.thefirstmedia.net/news/thumbnail/202609/207586_191507_68_v150.jpg"
+    },
+    {
+      "title": "[포토뉴스]\"K-컬처, 세계의 중심으로\"…천안 K-컬처박람회 개막",
+      "url": "https://www.goodmorningcc.com/news/articleView.html?idxno=451678",
+      "date": "2026.09.02",
+      "source": "goodmorningcc.com",
+      "thumbnail": "https://cdn.goodmorningcc.com/news/thumbnail/202609/451678_467136_1424_v150.jpg"
+    },
+    {
+      "title": "카카오, 리센느와 함께 여는 AI 대화 '새로운 시대'",
+      "url": "https://www.kfenews.co.kr/news/articleView.html?idxno=663697",
+      "date": "2026.09.02",
+      "source": "kfenews.co.kr",
+      "thumbnail": "https://cdn.kfenews.co.kr/news/thumbnail/202609/663697_137212_2035_v150.jpg"
+    },
+    {
+      "title": "리센느·김용빈·AKMU, 8월 '아티스트탑텐 K-팝 장르 브랜드' 영예",
+      "url": "https://www.tenasia.co.kr/article/2026090296654",
+      "date": "2026.09.02",
+      "source": "tenasia.co.kr",
+      "thumbnail": "https://img.tenasia.co.kr/photo/202609/BF.45532557.1.jpg"
+    },
+    {
+      "title": "[똑똑한여행] NOL, 소노인터내셔널, 여기어때, 서울가든호텔, 그랜드 하...",
+      "url": "https://www.ekn.kr/web/view.php?key=20260902026369703",
+      "date": "2026.09.02",
+      "source": "ekn.kr",
+      "thumbnail": "https://www.ekn.kr/mnt/file/202609/news-p.v1.20260902.34974cba3f9d4fef9bbe5480055d03dd_R.jpg"
+    },
     {
       "title": "카카오, 아이돌 그룹 '리센느'와 일상 속 AI 경험 알린다...카카오톡 AI ...",
       "url": "https://www.aitimes.kr/news/articleView.html?idxno=41723",
@@ -16,18 +79,18 @@
       "thumbnail": "https://cdn.coenworks.com/Files/30/News/202609/6456_20260902153433740.jpg"
     },
     {
-      "title": "카카오, 인기 아이돌 그룹 '리센느'와 협업해 일상 속 AI 경험 알리는 이...",
-      "url": "https://gamefocus.co.kr/detail.php?number=178755",
-      "date": "2026.09.02",
-      "source": "gamefocus.co.kr",
-      "thumbnail": "https://gamefocus.co.kr/wys2/file_attach_thumb/2026/09/02/1788330752_24238_N_7_300x200_100_2_2.jpg"
-    },
-    {
       "title": "카카오, '리센느'와 카톡 AI 기능 알린다",
       "url": "https://www.news1.kr/it-science/internet-platform/6277767",
       "date": "2026.09.02",
       "source": "news1.kr",
       "thumbnail": null
+    },
+    {
+      "title": "카카오, 인기 아이돌 그룹 '리센느'와 협업해 일상 속 AI 경험 알리는 이...",
+      "url": "https://gamefocus.co.kr/detail.php?number=178755",
+      "date": "2026.09.02",
+      "source": "gamefocus.co.kr",
+      "thumbnail": "https://gamefocus.co.kr/wys2/file_attach_thumb/2026/09/02/1788330752_24238_N_7_300x200_100_2_2.jpg"
     },
     {
       "title": "\"대화도 AI 시대\"…카카오, 리센느와 카카오톡 새 경험 알린다",
@@ -72,74 +135,11 @@
       "thumbnail": "https://cdn.news2day.co.kr/data2/content/image/2026/09/02/.cache/512/20260902500177.jpg"
     },
     {
-      "title": "카카오, 리센느와 카카오톡 AI 기능 알린다",
-      "url": "https://www.etnews.com/20260902000347",
-      "date": "2026.09.02",
-      "source": "etnews.com",
-      "thumbnail": null
-    },
-    {
       "title": "[TOP's Pick] [전자·IT] LG전자, 메리어트와 손잡고 차세대 스마트 호텔...",
       "url": "https://www.topdaily.kr/articles/111764",
       "date": "2026.09.02",
       "source": "topdaily.kr",
       "thumbnail": "https://assets.repress.co.kr/photos/3314e173cebd845252cb245bd1a8ed63/thumb.jpg"
-    },
-    {
-      "title": "카카오, 아이돌 '리센느'와 맞손...카카오톡 내 AI 기능 알린다",
-      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=483096",
-      "date": "2026.09.02",
-      "source": "pinpointnews.co.kr",
-      "thumbnail": "https://cdn.pinpointnews.co.kr/news/thumbnail/202609/483096_469544_4041_v150.jpg"
-    },
-    {
-      "title": "카카오, 일상 속 AI 경험 ‘리센느’와 함께 알린다",
-      "url": "https://www.inthenews.co.kr/news/article.html?no=91324",
-      "date": "2026.09.02",
-      "source": "inthenews.co.kr",
-      "thumbnail": "https://www.inthenews.co.kr/data/photos/20260936/art_17883255216413_444825.jpg"
-    },
-    {
-      "title": "[Digital & Now] 카카오, 리센느와 AI 활용 '대화 경험' 알린다",
-      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1722695",
-      "date": "2026.09.02",
-      "source": "ebn.co.kr",
-      "thumbnail": "https://cdn.ebn.co.kr/news/thumbnail/202609/1722695_754854_5811_v150.jpg"
-    },
-    {
-      "title": "\"리센느와 AI로 대화하고, 6070 디지털 활용 돕고\" 카카오, 이용자 접점...",
-      "url": "https://www.techm.kr/news/articleView.html?idxno=154860",
-      "date": "2026.09.02",
-      "source": "techm.kr",
-      "thumbnail": "https://cdn.techm.kr/news/thumbnail/202609/154860_219901_109_v150.jpg"
-    },
-    {
-      "title": "카카오, 리센느와 ‘대화를 하자’ 캠페인…AI로 달라진 카톡 알린다",
-      "url": "https://www.asiatime.co.kr/article/20260902500236",
-      "date": "2026.09.02",
-      "source": "asiatime.co.kr",
-      "thumbnail": "https://csossihettpx2597658.cdn.gov-ntruss.com/data2/content/image/2026/09/02/.cache/512/20260902500232.jpg"
-    },
-    {
-      "title": "\"리센느가 알려주는 카카오톡 AI\"…카카오, 이용자 대상 캠페인 시작",
-      "url": "https://view.asiae.co.kr/article/2026090213473595395",
-      "date": "2026.09.02",
-      "source": "view.asiae.co.kr",
-      "thumbnail": "https://cphoto.asiae.co.kr/listimglink/1/2026090213382012529_1788323900.jpg"
-    },
-    {
-      "title": "[산업소식] 카카오, '리센느'와 일상 속 AI 경험 소개",
-      "url": "http://www.4th.kr/news/articleView.html?idxno=2117315",
-      "date": "2026.09.02",
-      "source": "4th.kr",
-      "thumbnail": "https://cdn.4th.kr/news/thumbnail/202609/2117315_215668_405_v150.jpg"
-    },
-    {
-      "title": "카카오, 리센느와 AI 활용 캠페인… “카나나로 새로운 대화 경험”",
-      "url": "https://biz.chosun.com/it-science/ict/2026/09/02/YZH42JCGB5EAZJCKQOV6LEAPZM/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-      "date": "2026.09.02",
-      "source": "biz.chosun.com",
-      "thumbnail": "https://biz.chosun.com/resizer/v2/UD2CKVAA2VAN7AJDY6HW27NEBM.jpg?auth=8960fcbfb4b3f28059dbe483260042de515c1e2a201f331173481fa4d52b499d&amp;width=1200&amp;height=630&amp;smart=true"
     }
   ]
 }
