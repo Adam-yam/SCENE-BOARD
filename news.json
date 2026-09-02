@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-02T15:00:50Z",
+  "updated": "2026-09-02T16:00:46Z",
   "articles": [
+    {
+      "title": "'2026 제천영화제' 리센느·몬엑 뜬다...출연진 라인업 '화려'",
+      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3682945",
+      "date": "2026.09.02",
+      "source": "gukjenews.com",
+      "thumbnail": "https://cdn.gukjenews.com/news/thumbnail/202609/3682945_3852375_1610_v150.jpg"
+    },
     {
       "title": "카라 니콜, 복근 감췄더니 여리여리한 등 공개···홀터넥+백리스 모두...",
       "url": "http://www.osen.co.kr/article/G1112868588",
@@ -51,13 +58,6 @@
       "thumbnail": "https://www.sisanews24.co.kr/data/sisanews24_co_kr/mainimages/202609/600_399_2026090251515061.jpg"
     },
     {
-      "title": "\"가족과 함께 즐긴 K-컬처의 밤\". 천안 K-컬처박람회 개막에 시민들 '환...",
-      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3682626",
-      "date": "2026.09.02",
-      "source": "gukjenews.com",
-      "thumbnail": "https://cdn.gukjenews.com/news/thumbnail/202609/3682626_3852296_459_v150.jpg"
-    },
-    {
       "title": "카카오, 리센느와 'AI 대화 경험' 캠페인 … 카카오톡 이용자 소통 강화",
       "url": "http://www.worktoday.co.kr/news/articleView.html?idxno=88760",
       "date": "2026.09.02",
@@ -93,18 +93,18 @@
       "thumbnail": "https://www.jeonmae.co.kr/news/thumbnail/202609/1289648_1016839_203_v150.jpg"
     },
     {
-      "title": "'2026 천안 K-컬처박람회' 개막 5일간 한류 문화 여정 돌입~",
-      "url": "https://www.ccdailynews.com/news/articleView.html?idxno=2438130",
-      "date": "2026.09.02",
-      "source": "ccdailynews.com",
-      "thumbnail": "https://cdn.ccdailynews.com/news/thumbnail/202609/2438130_874392_1940_v150.jpg"
-    },
-    {
       "title": "원이, 리센느 개인 폰 반납 이유 \"男 연예인 관심 차단…멤버들 예뻐\" [...",
       "url": "https://www.tvreport.co.kr/breaking/article/1072876/",
       "date": "2026.09.02",
       "source": "tvreport.co.kr",
       "thumbnail": "https://d3h3k01ny8mjr.cloudfront.net/tv-report/2026/09/02202043/CP-2022-0227-39439810-thumb.jpg"
+    },
+    {
+      "title": "'2026 천안 K-컬처박람회' 개막 5일간 한류 문화 여정 돌입~",
+      "url": "https://www.ccdailynews.com/news/articleView.html?idxno=2438130",
+      "date": "2026.09.02",
+      "source": "ccdailynews.com",
+      "thumbnail": "https://cdn.ccdailynews.com/news/thumbnail/202609/2438130_874392_1940_v150.jpg"
     },
     {
       "title": "'2026 천안 K-컬처 박람회', 천안 독립기념관서 화려한 개막",
@@ -135,11 +135,11 @@
       "thumbnail": "https://cdn.weekly.hankooki.com/news/thumbnail/202609/7182062_245470_3621_v150.jpg"
     },
     {
-      "title": "'2026 천안 K-컬처박람회' 개막…5일간 한류 문화 여정 돌입",
-      "url": "https://www.yna.co.kr/view/AKR20260902100600063?input=1195m",
+      "title": "[ICT 종합] 로지텍 코리아 및 소니 코리아 소식 외",
+      "url": "https://www.gamevu.co.kr/news/articleView.html?idxno=60527",
       "date": "2026.09.02",
-      "source": "yna.co.kr",
-      "thumbnail": null
+      "source": "gamevu.co.kr",
+      "thumbnail": "https://cdn.gamevu.co.kr/news/photo/202609/60527_91715_3613.jpg"
     }
   ]
 }
