@@ -1,6 +1,27 @@
 {
-  "updated": "2026-09-02T03:00:43Z",
+  "updated": "2026-09-02T04:00:45Z",
   "articles": [
+    {
+      "title": "월드컵 가고 아시안게임 온다… 각 방송사 전략은?",
+      "url": "https://www.hankookilbo.com/news/article/A2026083117460005981?did=NA",
+      "date": "2026.09.02",
+      "source": "hankookilbo.com",
+      "thumbnail": "https://newsimg.hankookilbo.com/2026/08/31/064bb0af-ace9-4f85-9a1e-2d16845702cc.jpg"
+    },
+    {
+      "title": "카카오, 리센느와 AI 활용 대화 경험 알리는 캠페인 시작",
+      "url": "https://news.bbsi.co.kr/news/articleView.html?idxno=4104257",
+      "date": "2026.09.02",
+      "source": "news.bbsi.co.kr",
+      "thumbnail": "https://cdn.news.bbsi.co.kr/news/thumbnail/202609/4104257_760435_3435_v150.jpg"
+    },
+    {
+      "title": "[카카오] 카카오 AI 대화 캠페인 / 카카오엔터프라이즈 스토리지 최적화",
+      "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2286991",
+      "date": "2026.09.02",
+      "source": "webeconomy.co.kr",
+      "thumbnail": "https://cdn.webeconomy.co.kr/news/photo/202609/2286991_1096334_5621.jpg"
+    },
     {
       "title": "\"기회는 그립감이 좋다\"... 리센느, 카카오 AI 대화 캠페인 모델로",
       "url": "https://www.inven.co.kr/webzine/news/?news=320324",
@@ -30,6 +51,13 @@
       "thumbnail": "https://image.zdnet.co.kr/2026/09/02/8b381cbdf552d32969a4ea385651fcef.jpg"
     },
     {
+      "title": "“카톡 야호!”⋯카카오, 리센느와 일상 속 AI 캠페인",
+      "url": "https://www.viva100.com/article/20260902500631",
+      "date": "2026.09.02",
+      "source": "viva100.com",
+      "thumbnail": null
+    },
+    {
       "title": "카카오, \"아이돌 '리센느'와 일상 속 AI 경험 알려요\"",
       "url": "https://www.gametoc.co.kr/news/articleView.html?idxno=111136",
       "date": "2026.09.02",
@@ -37,18 +65,11 @@
       "thumbnail": "https://cdn.gametoc.co.kr/news/photo/202609/111136_324215_138.jpg"
     },
     {
-      "title": "“카톡 야호!”⋯카카오, 리센느와 일상 속 AI 캠페인",
-      "url": "https://www.viva100.com/article/20260902500631",
-      "date": "2026.09.02",
-      "source": "viva100.com",
-      "thumbnail": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/09/02/.cache/512/20260902500615.jpg?v=20260902120037"
-    },
-    {
       "title": "'야호의 기적' 리센느, 흥 넘치는 인생 첫 시상식 나들이 \"리마인 들어온...",
       "url": "http://www.stoo.com/article.php?aid=108637442270",
       "date": "2026.09.02",
       "source": "stoo.com",
-      "thumbnail": null
+      "thumbnail": "https://www.stoo.com/upimages/gisaimg/202609/1788247521_20260830184216-9206.jpg"
     },
     {
       "title": "카카오, 아이돌 리센느와 ‘일상 속 AI 대화’ 캠페인",
@@ -119,27 +140,6 @@
       "date": "2026.09.02",
       "source": "widedaily.com",
       "thumbnail": "https://cdn.widedaily.com/news/thumbnail/202609/300481_308051_3311_v150.jpg"
-    },
-    {
-      "title": "\"리센느가 알려주는 카톡 AI\"…카카오, 새 캠페인 시작",
-      "url": "https://www.hankyung.com/article/202609028958g",
-      "date": "2026.09.02",
-      "source": "hankyung.com",
-      "thumbnail": "https://img.hankyung.com/photo/202609/01.45529520.1.jpg"
-    },
-    {
-      "title": "여기어때, 거제 관광 살리기 나섰다…리센느 공연·2박 패키지 선봬",
-      "url": "https://www.thepowernews.co.kr/view.php?ud=202609021030004781de3f0aa1be_7",
-      "date": "2026.09.02",
-      "source": "thepowernews.co.kr",
-      "thumbnail": "https://cliimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&amp;idx=999&amp;simg=20260902103033078670de3f0aa1be175193255143.jpg&amp;nmt=7"
-    },
-    {
-      "title": "신인 아이돌 개인 브랜드평판 9월 리센느가 '싹쓸이'…1위 원이·2위 제...",
-      "url": "https://www.cbci.co.kr/news/articleView.html?idxno=603099",
-      "date": "2026.09.02",
-      "source": "cbci.co.kr",
-      "thumbnail": "https://www.cbci.co.kr/news/thumbnail/202609/603099_413565_3043_v150.jpg"
     }
   ]
 }
