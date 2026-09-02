@@ -1,145 +1,145 @@
 {
-  "updated": "2026-09-02T01:00:40Z",
+  "updated": "2026-09-02T02:00:39Z",
   "articles": [
+    {
+      "title": "거제서 리센느 공연 보고 2박 여행…여기어때, '콘서트팩' 출시",
+      "url": "https://www.yna.co.kr/view/AKR20260902064100030?input=1195m",
+      "date": "2026.09.02",
+      "source": "yna.co.kr",
+      "thumbnail": null
+    },
+    {
+      "title": "리센느 원이, 4일 만에 천만 뷰 터졌다… 역주행 제대로",
+      "url": "https://www.bntnews.co.kr/article/view/bnt202609020183",
+      "date": "2026.09.02",
+      "source": "bntnews.co.kr",
+      "thumbnail": "https://www.bntnews.co.kr/data/bnt/image/2026/09/02/bnt202609020346.png"
+    },
+    {
+      "title": "[IT라운지] 마리트 '일본소도시 기획'·플레이디 '업무혁신'·리디 'TCRP ...",
+      "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=852381",
+      "date": "2026.09.02",
+      "source": "newsworks.co.kr",
+      "thumbnail": "https://cdn.newsworks.co.kr/news/thumbnail/202609/852381_814178_409_v150.jpg"
+    },
+    {
+      "title": "카카오 리센느와 대화 시작 \"카톡 AI 알린다\"",
+      "url": "https://www.econovill.com/news/articleView.html?idxno=749628",
+      "date": "2026.09.02",
+      "source": "econovill.com",
+      "thumbnail": "https://cdn.econovill.com/news/thumbnail/202609/749628_724880_237_v150.jpg"
+    },
+    {
+      "title": "카카오, '대화를 하자' 캠페인 모델에 '리센느' 선정",
+      "url": "http://www.sisafocus.co.kr/news/articleView.html?idxno=364477",
+      "date": "2026.09.02",
+      "source": "sisafocus.co.kr",
+      "thumbnail": "https://cdn.sisafocus.co.kr/news/thumbnail/202609/364477_448115_3026_v150.jpg"
+    },
+    {
+      "title": "카카오, 리센느와 카카오톡 AI 서비스 알린다",
+      "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=697560",
+      "date": "2026.09.02",
+      "source": "digitaltoday.co.kr",
+      "thumbnail": "https://cdn.digitaltoday.co.kr/news/photo/202609/697560_645350_2623.jpg"
+    },
+    {
+      "title": "카카오, 리센느와 '일상 속 AI 대화 경험' 알린다",
+      "url": "https://www.cnbizm.com/news/articleView.html?idxno=313585",
+      "date": "2026.09.02",
+      "source": "cnbizm.com",
+      "thumbnail": "https://cdn.cnbizm.com/news/photo/202609/313585_219598_2828.png"
+    },
+    {
+      "title": "카카오, 아이돌 '리센느'와 맞손…일상 AI 알리는 '대화를 하자' 캠페인...",
+      "url": "https://www.widedaily.com/news/articleView.html?idxno=300481",
+      "date": "2026.09.02",
+      "source": "widedaily.com",
+      "thumbnail": "https://cdn.widedaily.com/news/thumbnail/202609/300481_308051_3311_v150.jpg"
+    },
+    {
+      "title": "\"리센느가 알려주는 카톡 AI\"…카카오, 새 캠페인 시작",
+      "url": "https://www.hankyung.com/article/202609028958g",
+      "date": "2026.09.02",
+      "source": "hankyung.com",
+      "thumbnail": "https://img.hankyung.com/photo/202609/01.45529520.1.jpg"
+    },
+    {
+      "title": "신인 아이돌 개인 브랜드평판 9월 리센느가 '싹쓸이'…1위 원이·2위 제...",
+      "url": "https://www.cbci.co.kr/news/articleView.html?idxno=603099",
+      "date": "2026.09.02",
+      "source": "cbci.co.kr",
+      "thumbnail": "https://www.cbci.co.kr/news/thumbnail/202609/603099_413565_3043_v150.jpg"
+    },
+    {
+      "title": "여기어때, 거제 관광 살리기 나섰다…리센느 공연·2박 패키지 선봬",
+      "url": "https://www.thepowernews.co.kr/view.php?ud=202609021030004781de3f0aa1be_7",
+      "date": "2026.09.02",
+      "source": "thepowernews.co.kr",
+      "thumbnail": null
+    },
+    {
+      "title": "\"카톡 AI 쓴다, 너도? 나도!\"…카카오, 리센느와 캠페인",
+      "url": "https://www.newsis.com/view/NISX20260902_0003772852",
+      "date": "2026.09.02",
+      "source": "newsis.com",
+      "thumbnail": "https://img1.newsis.com/2026/09/02/NISI20260902_0002227900_web.jpg"
+    },
+    {
+      "title": "적수가 없다…신인 아이돌 개인 브랜드평판 1,2,3위 모두 이 '대세 그룹...",
+      "url": "https://www.wikitree.co.kr/articles/1156688",
+      "date": "2026.09.02",
+      "source": "wikitree.co.kr",
+      "thumbnail": "https://cdnweb01.wikitree.co.kr/webdata/editor/202609/02/img_20260902095234_cd4f448f.jpg"
+    },
+    {
+      "title": "카카오, 리센느와 AI 대화 경험 캠페인 전개",
+      "url": "https://www.cstimes.com/news/articleView.html?idxno=719084",
+      "date": "2026.09.02",
+      "source": "cstimes.com",
+      "thumbnail": "https://www.cstimes.com/news/photo/202609/719084_639732_290.jpeg"
+    },
+    {
+      "title": "카톡 AI 알리러 아이돌 떴다…카카오, 리센느와 '대화를 하자'",
+      "url": "https://www.fnnews.com/news/202609021024096795",
+      "date": "2026.09.02",
+      "source": "fnnews.com",
+      "thumbnail": "https://image.fnnews.com/resource/media/image/2026/09/02/202609021026486601_e.jpg"
+    },
+    {
+      "title": "카카오, 대세 걸그룹 리센느와 '대화를 하자' 캠페인 시작",
+      "url": "https://www.globale.co.kr/news/articleView.html?idxno=40169",
+      "date": "2026.09.02",
+      "source": "globale.co.kr",
+      "thumbnail": "https://cdn.globale.co.kr/news/thumbnail/202609/40169_66239_2638_v150.jpg"
+    },
+    {
+      "title": "“카나나, 야호~” 카카오, 걸그룹 리센느와 ‘AI 카톡’ 대화창 연다",
+      "url": "https://economist.co.kr/article/view/ecn202609020025",
+      "date": "2026.09.02",
+      "source": "economist.co.kr",
+      "thumbnail": "https://economist.co.kr/data/ecn/image/2026/09/02/ecn20260902000016.800x.0.jpg"
+    },
+    {
+      "title": "카카오톡 AI, 통화 요약·약속 정리로 일상 대화 돕는다…리센느 캠페인",
+      "url": "https://www.e-science.co.kr/news/articleView.html?idxno=134542",
+      "date": "2026.09.02",
+      "source": "e-science.co.kr",
+      "thumbnail": "https://cdn.e-science.co.kr/news/photo/202609/134542_67065_2013.jpg"
+    },
+    {
+      "title": "리센느, 이번엔 4일 만에 유튜브 천만뷰…대세 행보 멈춤 없다 [N이슈]",
+      "url": "https://www.news1.kr/entertain/music/6277103",
+      "date": "2026.09.02",
+      "source": "news1.kr",
+      "thumbnail": null
+    },
     {
       "title": "‘2026 더 팩트 뮤직 어워드’ 임영웅부터 리센느까지…‘영크크’·‘...",
       "url": "https://sports.khan.co.kr/article/202609020954003?pt=nv",
       "date": "2026.09.02",
       "source": "sports.khan.co.kr",
       "thumbnail": null
-    },
-    {
-      "title": "[IT라운지] 마리트 '일본소도시 기획'·플레이디 '업무혁신'·리디 'TCRP ...",
-      "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=852354",
-      "date": "2026.09.02",
-      "source": "newsworks.co.kr",
-      "thumbnail": "https://cdn.newsworks.co.kr/news/thumbnail/202609/852354_814125_2048_v150.jpg"
-    },
-    {
-      "title": "리센느, 9월 신인 아이돌 개인 브랜드평판 올킬..1위 원이·2위 제나·3위...",
-      "url": "http://www.breaknews.com/1233405",
-      "date": "2026.09.02",
-      "source": "breaknews.com",
-      "thumbnail": "https://www.breaknews.com/imgdata/breaknews_com/202607/2026070146037003.jpg"
-    },
-    {
-      "title": "[오늘의 여행] 여기어때 , 거제에서 리센느와 함께하는 콘서트팩 응모 ...",
-      "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=364622",
-      "date": "2026.09.01",
-      "source": "ftoday.co.kr",
-      "thumbnail": "https://cdn.ftoday.co.kr/news/thumbnail/202609/364622_373772_4252_v150.jpg"
-    },
-    {
-      "title": "'2026 더팩트 뮤직 어워즈' 임영웅·에이티즈·아일릿·코르티스·리센느...",
-      "url": "https://enter.etoday.co.kr/news/view/301848",
-      "date": "2026.09.01",
-      "source": "enter.etoday.co.kr",
-      "thumbnail": "https://img.etoday.co.kr/pto_db/2026/09/600/20260902075300_2381772_1200_1435.jpg"
-    },
-    {
-      "title": "리센느 원이→메이, 신인 아이돌 브랜드평판 TOP5 올킬",
-      "url": "https://www.slist.kr/news/articleView.html?idxno=762990",
-      "date": "2026.09.01",
-      "source": "slist.kr",
-      "thumbnail": "https://cdn.slist.kr/news/thumbnail/202609/762990_1168406_5917_v150.jpg"
-    },
-    {
-      "title": "LG전자는 '에이아이돌' 파격 실험… CU·동아오츠카는 '리센느'로 통했다",
-      "url": "http://www.economytalk.kr/news/articleView.html?idxno=423872",
-      "date": "2026.09.01",
-      "source": "economytalk.kr",
-      "thumbnail": "https://cdn.economytalk.kr/news/photo/202609/423872_231319_2124.jpg"
-    },
-    {
-      "title": "리센느 원이, 37분 롱폼 영상이 공개 4일만에 '천만뷰'",
-      "url": "https://star.ytn.co.kr/_sn/0117_202609020754334029",
-      "date": "2026.09.01",
-      "source": "star.ytn.co.kr",
-      "thumbnail": "https://image.ytn.co.kr/general/jpg/2026/0902/202609020754334029_t.jpg"
-    },
-    {
-      "title": "공연·숙박·지역 혜택 결합…여기어때, 거제 여행상품 선봬",
-      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=482847",
-      "date": "2026.09.01",
-      "source": "pinpointnews.co.kr",
-      "thumbnail": "https://cdn.pinpointnews.co.kr/news/thumbnail/202609/482847_469305_493_v150.jpg"
-    },
-    {
-      "title": "[뮤직100] 빅나티 '노스탈지아' 151계단↑ 27위…리센느 1위·빅뱅 2위",
-      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16180014",
-      "date": "2026.09.01",
-      "source": "topstarnews.net",
-      "thumbnail": "https://cdn.topstarnews.net/news/photo/202609/16180014_2011750_4522_crop.jpg"
-    },
-    {
-      "title": "임영웅 →코르티스-에이티즈-리센느 등 출격…오는19일 부산서 열리는 ...",
-      "url": "https://www.stardailynews.co.kr/news/articleView.html?idxno=548190",
-      "date": "2026.09.01",
-      "source": "stardailynews.co.kr",
-      "thumbnail": "https://cdn.stardailynews.co.kr/news/thumbnail/202609/548190_580536_4147_v150.jpg"
-    },
-    {
-      "title": "아시아·중동 문화, 청계광장서 만나요",
-      "url": "https://www.kidshankook.kr/news/articleView.html?idxno=18134",
-      "date": "2026.09.01",
-      "source": "kidshankook.kr",
-      "thumbnail": "https://cdn.kidshankook.kr/news/thumbnail/202609/18134_45361_1330_v150.jpg"
-    },
-    {
-      "title": "임영웅부터 리센느·에이티즈까지…'2026 TMA', 부산 달굴 17팀 출격",
-      "url": "https://www.gpkorea.com/news/articleView.html?idxno=146269",
-      "date": "2026.09.01",
-      "source": "gpkorea.com",
-      "thumbnail": "https://cdn.gpkorea.com/news/photo/202609/146269_310736_91.jpg"
-    },
-    {
-      "title": "‘2026 더팩트 뮤직 어워즈’ 임영웅→에이티즈 총출동",
-      "url": "https://www.bntnews.co.kr/article/view/bnt202609020015",
-      "date": "2026.09.01",
-      "source": "bntnews.co.kr",
-      "thumbnail": "https://www.bntnews.co.kr/data/bnt/image/2026/09/02/bnt202609020018.jpg"
-    },
-    {
-      "title": "임영웅→코르티스…'2026 더팩트 뮤직 어워즈', 세대 아우를 'K팝 축제'...",
-      "url": "https://news.tf.co.kr/read/entertain/2360734.htm",
-      "date": "2026.09.01",
-      "source": "news.tf.co.kr",
-      "thumbnail": "https://img.tf.co.kr/article/home/2026/09/01/20266001178825688900.jpg"
-    },
-    {
-      "title": "1위 리센느 원이, 2위 리센느 제나, 3위 리센느 리브",
-      "url": "https://www.starnewskorea.com/music/2026/09/02/2026090206534157771",
-      "date": "2026.09.01",
-      "source": "starnewskorea.com",
-      "thumbnail": "https://image.starnewskorea.com/cdn-cgi/image/f=auto,w=1200,h=858,fit=cover,q=high,sharpen=2/21/2026/09/2026090206534157771_1.jpg"
-    },
-    {
-      "title": "리센느 원이·제나, 브랜드평판 1·2위 석권",
-      "url": "https://www.bntnews.co.kr/article/view/bnt202609020012",
-      "date": "2026.09.01",
-      "source": "bntnews.co.kr",
-      "thumbnail": "https://www.bntnews.co.kr/data/bnt/image/2026/09/02/bnt202609020015.jpg"
-    },
-    {
-      "title": "'실크로드'로 서울과 아·중동 잇는다",
-      "url": "https://www.traveltimes.co.kr/news/articleView.html?idxno=500303",
-      "date": "2026.09.01",
-      "source": "traveltimes.co.kr",
-      "thumbnail": "https://cdn.traveltimes.co.kr/news/photo/202608/500303_50727_107.jpg"
-    },
-    {
-      "title": "리센느 1위, 9월 신인 아이돌 브랜드평판 정상..2위 코르티스·3위 키키",
-      "url": "http://www.breaknews.com/1233295",
-      "date": "2026.09.01",
-      "source": "breaknews.com",
-      "thumbnail": "https://www.breaknews.com/imgdata/breaknews_com/202608/2026081014324448.jpg"
-    },
-    {
-      "title": "[유통가 NOW] GS리테일, 세븐일레븐, BGF리테일, 우아한형제들, 쿠팡",
-      "url": "https://www.ekn.kr/web/view.php?key=20260901028469045",
-      "date": "2026.09.01",
-      "source": "ekn.kr",
-      "thumbnail": "https://www.ekn.kr/mnt/file/202609/news-p.v1.20260901.aac7a2cd001c45959be1c96d8e2e135a_R.jpg"
     }
   ]
 }
