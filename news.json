@@ -1,6 +1,34 @@
 {
-  "updated": "2026-09-02T10:00:43Z",
+  "updated": "2026-09-02T11:00:44Z",
   "articles": [
+    {
+      "title": "\"촬영 못하겠다\" 리센느 미나미, 부모님도 울었다…최애 영접 울컥 ('냉...",
+      "url": "http://www.osen.co.kr/article/G1112868346",
+      "date": "2026.09.02",
+      "source": "osen.co.kr",
+      "thumbnail": "http://file.osen.co.kr/article_thumb/2026/09/02/202609021936770062_6a97fe5b119f0_300x.jpg"
+    },
+    {
+      "title": "천안 밤하늘 수놓은 드론 1500대…'2026 K-컬처박람회' 화려한 개막",
+      "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1097467",
+      "date": "2026.09.02",
+      "source": "ccdn.co.kr",
+      "thumbnail": "https://cdn.ccdn.co.kr/news/thumbnail/202609/1097467_608539_4249_v150.jpg"
+    },
+    {
+      "title": "여기어때 콘서트팩, 거제 여행에 리센느 덕질까지",
+      "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7182062",
+      "date": "2026.09.02",
+      "source": "weekly.hankooki.com",
+      "thumbnail": "https://cdn.weekly.hankooki.com/news/thumbnail/202609/7182062_245470_3621_v150.jpg"
+    },
+    {
+      "title": "'2026 천안 K-컬처박람회' 개막…5일간 한류 문화 여정 돌입",
+      "url": "https://www.yna.co.kr/view/AKR20260902100600063?input=1195m",
+      "date": "2026.09.02",
+      "source": "yna.co.kr",
+      "thumbnail": "https://img4.yna.co.kr/photo/yna/YH/2025/06/08/PYH2025060805360006300_P4.jpg"
+    },
     {
       "title": "[ICT 종합] 로지텍 코리아 및 소니 코리아 소식 외",
       "url": "https://www.gamevu.co.kr/news/articleView.html?idxno=60527",
@@ -20,7 +48,7 @@
       "url": "http://www.celuvmedia.com/article.php?aid=1788336142526863005",
       "date": "2026.09.02",
       "source": "celuvmedia.com",
-      "thumbnail": null
+      "thumbnail": "http://www.celuvmedia.com/upimages/gisaimg/202609/02526863.jpg"
     },
     {
       "title": "왜 나한테만 가혹할까 싶겠지만… [이브닝 브리핑]",
@@ -90,7 +118,7 @@
       "url": "https://mhnse.com/news/articleView.html?idxno=1520322",
       "date": "2026.09.02",
       "source": "mhnse.com",
-      "thumbnail": "https://cdn.mhnse.com/mhnsports/2026/09/02164740/thumb_ccms_51530.jpg"
+      "thumbnail": null
     },
     {
       "title": "'대세' 리센느 손 잡은 카카오…\"일상 속 AI 경험 알린다\"",
@@ -112,34 +140,6 @@
       "date": "2026.09.02",
       "source": "thefirstmedia.net",
       "thumbnail": "http://www.thefirstmedia.net/news/thumbnail/202609/207586_191507_68_v150.jpg"
-    },
-    {
-      "title": "[포토뉴스]\"K-컬처, 세계의 중심으로\"…천안 K-컬처박람회 개막",
-      "url": "https://www.goodmorningcc.com/news/articleView.html?idxno=451678",
-      "date": "2026.09.02",
-      "source": "goodmorningcc.com",
-      "thumbnail": "https://cdn.goodmorningcc.com/news/thumbnail/202609/451678_467136_1424_v150.jpg"
-    },
-    {
-      "title": "카카오, 리센느와 함께 여는 AI 대화 '새로운 시대'",
-      "url": "https://www.kfenews.co.kr/news/articleView.html?idxno=663697",
-      "date": "2026.09.02",
-      "source": "kfenews.co.kr",
-      "thumbnail": "https://cdn.kfenews.co.kr/news/thumbnail/202609/663697_137212_2035_v150.jpg"
-    },
-    {
-      "title": "리센느·김용빈·AKMU, 8월 '아티스트탑텐 K-팝 장르 브랜드' 영예",
-      "url": "https://www.tenasia.co.kr/article/2026090296654",
-      "date": "2026.09.02",
-      "source": "tenasia.co.kr",
-      "thumbnail": "https://img.tenasia.co.kr/photo/202609/BF.45532557.1.jpg"
-    },
-    {
-      "title": "카카오, 아이돌 그룹 '리센느'와 일상 속 AI 경험 알린다...카카오톡 AI ...",
-      "url": "https://www.aitimes.kr/news/articleView.html?idxno=41723",
-      "date": "2026.09.02",
-      "source": "aitimes.kr",
-      "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202609/41723_62788_4439_v150.jpg"
     }
   ]
 }
