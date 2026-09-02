@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-02T16:10:30Z",
+  "updated": "2026-09-02T17:11:03Z",
   "videos": [
     {
       "id": "faDPwuKSOM4",
@@ -34,6 +34,14 @@
       "type": "long"
     },
     {
+      "id": "tFF93tMIgTQ",
+      "title": "파이리 포켓몬 센터 방문 🔥",
+      "url": "https://www.youtube.com/watch?v=tFF93tMIgTQ",
+      "thumbnail": "https://i.ytimg.com/vi/tFF93tMIgTQ/mqdefault.jpg",
+      "date": "2026.08.21",
+      "type": "long"
+    },
+    {
       "id": "ccnNVyPu2Gw",
       "title": "MAY☀️ Birthday!!!!!!!🎉🎂",
       "url": "https://www.youtube.com/watch?v=ccnNVyPu2Gw",
@@ -42,12 +50,12 @@
       "type": "long"
     },
     {
-      "id": "QhenoMw_wHU",
-      "title": "[BASE NOTES] RESCENE (리센느) 쿠팡플레이 시리즈 하프타임 쇼 Behind",
-      "url": "https://www.youtube.com/watch?v=QhenoMw_wHU",
-      "thumbnail": "https://i.ytimg.com/vi/QhenoMw_wHU/mqdefault.jpg",
-      "date": "2026.08.19",
-      "type": "long"
+      "id": "4Xn-oG52pYM",
+      "title": "숨은 그림 찾기",
+      "url": "https://www.youtube.com/shorts/4Xn-oG52pYM",
+      "thumbnail": "https://i.ytimg.com/vi/4Xn-oG52pYM/mqdefault_live.jpg",
+      "date": "2026.09.02",
+      "type": "short"
     },
     {
       "id": "nVuA4Sl3veA",
@@ -86,14 +94,6 @@
       "title": "#김도균 선배님과 어디서나 당당하게 걷기 🎀",
       "url": "https://www.youtube.com/shorts/RYPkNJA-uCc",
       "thumbnail": "https://i.ytimg.com/vi/RYPkNJA-uCc/mqdefault.jpg",
-      "date": "2026.08.30",
-      "type": "short"
-    },
-    {
-      "id": "81SATU6JdoM",
-      "title": "#계훈 님과 어디서나 당당하게 걷기 🎀",
-      "url": "https://www.youtube.com/shorts/81SATU6JdoM",
-      "thumbnail": "https://i.ytimg.com/vi/81SATU6JdoM/mqdefault.jpg",
       "date": "2026.08.30",
       "type": "short"
     }
