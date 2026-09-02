@@ -1,12 +1,26 @@
 {
-  "updated": "2026-09-02T09:00:41Z",
+  "updated": "2026-09-02T10:00:43Z",
   "articles": [
+    {
+      "title": "[ICT 종합] 로지텍 코리아 및 소니 코리아 소식 외",
+      "url": "https://www.gamevu.co.kr/news/articleView.html?idxno=60527",
+      "date": "2026.09.02",
+      "source": "gamevu.co.kr",
+      "thumbnail": "https://cdn.gamevu.co.kr/news/photo/202609/60527_91715_3613.jpg"
+    },
+    {
+      "title": "‘트와이스 찐팬’ 리센느 미나미, 사나 만나자마자 눈물 폭발 “돈내고...",
+      "url": "https://www.newsen.com/news_view.php?uid=202609021742030410",
+      "date": "2026.09.02",
+      "source": "newsen.com",
+      "thumbnail": "https://photo.newsen.com/news_photo/2026/09/02/202609021742030410_1.jpg"
+    },
     {
       "title": "리센느 제나, 신라 공주의 독보적인 미모…일상도 화보[셀럽샷]",
       "url": "http://www.celuvmedia.com/article.php?aid=1788336142526863005",
       "date": "2026.09.02",
       "source": "celuvmedia.com",
-      "thumbnail": "http://www.celuvmedia.com/upimages/gisaimg/202609/02526863.jpg"
+      "thumbnail": null
     },
     {
       "title": "왜 나한테만 가혹할까 싶겠지만… [이브닝 브리핑]",
@@ -51,18 +65,18 @@
       "thumbnail": "https://image.xportsnews.com/contents/images/upload/article/2026/0902/1788336095567980.webp"
     },
     {
-      "title": "카카오, 리센느와 AI 기능 알린다…통화 요약·일정 정리",
-      "url": "https://www.m-i.kr/news/articleView.html?idxno=1409281",
-      "date": "2026.09.02",
-      "source": "m-i.kr",
-      "thumbnail": "https://cdn.m-i.kr/news/thumbnail/202609/1409281_1197490_2022_v150.jpg"
-    },
-    {
       "title": "독립기념관에서 펼쳐진 한류 축제…천안 K-컬처박람회 개막 [쿠키포토]",
       "url": "https://www.kukinews.com/article/view/kuk202609020176",
       "date": "2026.09.02",
       "source": "kukinews.com",
       "thumbnail": null
+    },
+    {
+      "title": "카카오, 리센느와 AI 기능 알린다…통화 요약·일정 정리",
+      "url": "https://www.m-i.kr/news/articleView.html?idxno=1409281",
+      "date": "2026.09.02",
+      "source": "m-i.kr",
+      "thumbnail": "https://cdn.m-i.kr/news/thumbnail/202609/1409281_1197490_2022_v150.jpg"
     },
     {
       "title": "[산업 브리핑] 롯데·교원·카카오",
@@ -121,25 +135,11 @@
       "thumbnail": "https://img.tenasia.co.kr/photo/202609/BF.45532557.1.jpg"
     },
     {
-      "title": "[똑똑한여행] NOL, 소노인터내셔널, 여기어때, 서울가든호텔, 그랜드 하...",
-      "url": "https://www.ekn.kr/web/view.php?key=20260902026369703",
-      "date": "2026.09.02",
-      "source": "ekn.kr",
-      "thumbnail": "https://www.ekn.kr/mnt/file/202609/news-p.v1.20260902.34974cba3f9d4fef9bbe5480055d03dd_R.jpg"
-    },
-    {
       "title": "카카오, 아이돌 그룹 '리센느'와 일상 속 AI 경험 알린다...카카오톡 AI ...",
       "url": "https://www.aitimes.kr/news/articleView.html?idxno=41723",
       "date": "2026.09.02",
       "source": "aitimes.kr",
       "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202609/41723_62788_4439_v150.jpg"
-    },
-    {
-      "title": "[Tech 뷰] 삼성전자, ‘IFA 2026’ 참가…‘AI 리빙’ 선보여",
-      "url": "https://theviewers.co.kr/View.aspx?No=4210040",
-      "date": "2026.09.02",
-      "source": "theviewers.co.kr",
-      "thumbnail": "https://cdn.coenworks.com/Files/30/News/202609/6456_20260902153433740.jpg"
     }
   ]
 }
