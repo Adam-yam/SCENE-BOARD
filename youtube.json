@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-03T12:10:26Z",
+  "updated": "2026-09-03T13:10:26Z",
   "videos": [
     {
       "id": "4Xn-oG52pYM",
@@ -50,6 +50,14 @@
       "type": "long"
     },
     {
+      "id": "YjDFbRB29FA",
+      "title": "CHIC vs CUTE",
+      "url": "https://www.youtube.com/shorts/YjDFbRB29FA",
+      "thumbnail": "https://i.ytimg.com/vi/YjDFbRB29FA/mqdefault.jpg",
+      "date": "2026.09.03",
+      "type": "short"
+    },
+    {
       "id": "Mrz_X2hdoeU",
       "title": "#사나 선배님과 어디서나 당당하게 걷기 🎀",
       "url": "https://www.youtube.com/shorts/Mrz_X2hdoeU",
@@ -86,14 +94,6 @@
       "title": "안정형이 불안형을 마주하는 법",
       "url": "https://www.youtube.com/shorts/e3Z9XXyx3oU",
       "thumbnail": "https://i.ytimg.com/vi/e3Z9XXyx3oU/mqdefault.jpg",
-      "date": "2026.08.30",
-      "type": "short"
-    },
-    {
-      "id": "RYPkNJA-uCc",
-      "title": "#김도균 선배님과 어디서나 당당하게 걷기 🎀",
-      "url": "https://www.youtube.com/shorts/RYPkNJA-uCc",
-      "thumbnail": "https://i.ytimg.com/vi/RYPkNJA-uCc/mqdefault.jpg",
       "date": "2026.08.30",
       "type": "short"
     }
