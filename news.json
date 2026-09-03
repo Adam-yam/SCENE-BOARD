@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-03T17:00:50Z",
+  "updated": "2026-09-03T18:00:50Z",
   "articles": [
     {
       "title": "임영웅 또 한 번 확인된 이름값",
@@ -69,7 +69,7 @@
       "url": "https://www.sentv.co.kr/article/view/sentv202609030094",
       "date": "2026.09.03",
       "source": "sentv.co.kr",
-      "thumbnail": null
+      "thumbnail": "https://www.sentv.co.kr/data/sentv/upload/save/company/sentv17259555477516.400x.0.png"
     },
     {
       "title": "리센느 원이, 시상식 무대서 이선민 ‘샤라웃’…무대 바라보던 삼촌 결...",
@@ -79,18 +79,18 @@
       "thumbnail": "https://www.sportschosun.com/article/html/2026/09/03/2026090301000272400016121_w.jpg"
     },
     {
-      "title": "“둘 다 성공한 게 눈물 포인트” 이선민, 무대 위 리센느 원이 보고 울...",
-      "url": "https://www.newsen.com/news_view.php?uid=202609031908006710",
-      "date": "2026.09.03",
-      "source": "newsen.com",
-      "thumbnail": "https://photo.newsen.com/news_photo/2026/09/03/202609031908006710_1.jpg"
-    },
-    {
       "title": "[TD영상] 앤더블, '2관왕 수상한 슈퍼루키들' 앤클로 사랑 느껴지는 수상...",
       "url": "http://www.tvdaily.co.kr/read.php3?aid=17884299161800754003",
       "date": "2026.09.03",
       "source": "tvdaily.co.kr",
       "thumbnail": "http://image.tvdaily.co.kr/upimages/gisaimg/202609/1788429916_1800754.png"
+    },
+    {
+      "title": "“둘 다 성공한 게 눈물 포인트” 이선민, 무대 위 리센느 원이 보고 울...",
+      "url": "https://www.newsen.com/news_view.php?uid=202609031908006710",
+      "date": "2026.09.03",
+      "source": "newsen.com",
+      "thumbnail": "https://photo.newsen.com/news_photo/2026/09/03/202609031908006710_1.jpg"
     },
     {
       "title": "리센느 원이, 피자 광고서 독보적 먹방…솔직한 매력",
