@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-03T11:10:27Z",
+  "updated": "2026-09-03T12:10:26Z",
   "videos": [
     {
       "id": "4Xn-oG52pYM",
@@ -50,6 +50,14 @@
       "type": "long"
     },
     {
+      "id": "Mrz_X2hdoeU",
+      "title": "#사나 선배님과 어디서나 당당하게 걷기 🎀",
+      "url": "https://www.youtube.com/shorts/Mrz_X2hdoeU",
+      "thumbnail": "https://i.ytimg.com/vi/Mrz_X2hdoeU/mqdefault.jpg",
+      "date": "2026.09.03",
+      "type": "short"
+    },
+    {
       "id": "nVuA4Sl3veA",
       "title": "Don’t stop ❤️‍🔥",
       "url": "https://www.youtube.com/shorts/nVuA4Sl3veA",
@@ -86,14 +94,6 @@
       "title": "#김도균 선배님과 어디서나 당당하게 걷기 🎀",
       "url": "https://www.youtube.com/shorts/RYPkNJA-uCc",
       "thumbnail": "https://i.ytimg.com/vi/RYPkNJA-uCc/mqdefault.jpg",
-      "date": "2026.08.30",
-      "type": "short"
-    },
-    {
-      "id": "81SATU6JdoM",
-      "title": "#계훈 님과 어디서나 당당하게 걷기 🎀",
-      "url": "https://www.youtube.com/shorts/81SATU6JdoM",
-      "thumbnail": "https://i.ytimg.com/vi/81SATU6JdoM/mqdefault.jpg",
       "date": "2026.08.30",
       "type": "short"
     }
