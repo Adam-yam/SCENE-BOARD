@@ -1,19 +1,103 @@
 {
-  "updated": "2026-09-03T04:00:45Z",
+  "updated": "2026-09-03T05:00:51Z",
   "articles": [
+    {
+      "title": "[TOP's Pick] [유통] 롯데, ‘제 11회 슈퍼블루 마라톤’ 개최 外",
+      "url": "https://www.topdaily.kr/articles/111781",
+      "date": "2026.09.03",
+      "source": "topdaily.kr",
+      "thumbnail": "https://assets.repress.co.kr/photos/29769ba87caa6f814d1f8fab972fa760/thumb.jpg"
+    },
+    {
+      "title": "독립의 기억 위에 K컬처… 천안에서 세계로",
+      "url": "https://www.hankookilbo.com/news/article/A2026090222320004317?did=NA",
+      "date": "2026.09.03",
+      "source": "hankookilbo.com",
+      "thumbnail": "https://newsimg.hankookilbo.com/2026/09/03/7aa7730d-9aec-4588-adff-1ef30089a974.jpg"
+    },
+    {
+      "title": "'밀리언 향해' 알파드라이브원·'3관왕' NCT 127…써클차트 35주차 점령",
+      "url": "https://www.nc.press/news/articleView.html?idxno=625573",
+      "date": "2026.09.03",
+      "source": "nc.press",
+      "thumbnail": "https://cdn.nc.press/news/photo/202609/625573_857418_3856.jpg"
+    },
+    {
+      "title": "도미노피자, 리센느 추천 피자 5종 25% 할인",
+      "url": "https://www.swtvnews.com/news/newsview.php?ncode=1065579575640851",
+      "date": "2026.09.03",
+      "source": "swtvnews.com",
+      "thumbnail": "https://www.swtvnews.com/news/data/20260903/p1065579575640851_850_thum.jpg"
+    },
+    {
+      "title": "‘AAA 2026’ 다영·성한빈·원필 뜬다…日 나니와단시도 합류",
+      "url": "https://www.mediapen.com/news/view/1120979",
+      "date": "2026.09.03",
+      "source": "mediapen.com",
+      "thumbnail": "https://image.mediapen.com/news/202609/news_1120979_1788396229_m.jpg"
+    },
+    {
+      "title": "도미노피자, 리센느 멤버들이 고른 '최애 피자' 5종 쏜다…앱 주문 25% 할...",
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=545151",
+      "date": "2026.09.03",
+      "source": "joongangenews.com",
+      "thumbnail": "https://cdn.joongangenews.com/news/photo/202609/545151_351340_5755.jpg"
+    },
+    {
+      "title": "'2026 천안 K-컬처박람회' 성대한 개막식, 5일간 일정 시작",
+      "url": "http://www.ccnnews.co.kr/news/articleView.html?idxno=414397",
+      "date": "2026.09.03",
+      "source": "ccnnews.co.kr",
+      "thumbnail": "http://www.ccnnews.co.kr/news/thumbnail/202609/414397_519238_3954_v150.jpg"
+    },
+    {
+      "title": "[전매포토] 천안시, '2026 K-컬처 박람회' 야경",
+      "url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1289952",
+      "date": "2026.09.03",
+      "source": "jeonmae.co.kr",
+      "thumbnail": "https://www.jeonmae.co.kr/news/thumbnail/202609/1289952_1017104_174_v150.jpg"
+    },
+    {
+      "title": "도미노피자, 멤버 추천 메뉴 할인하는 '리센느 최애 피자' 프로모션 진...",
+      "url": "https://www.cnbizm.com/news/articleView.html?idxno=313793",
+      "date": "2026.09.03",
+      "source": "cnbizm.com",
+      "thumbnail": "https://cdn.cnbizm.com/news/photo/202609/313793_219854_4710.jpg"
+    },
+    {
+      "title": "임영웅, 헬멧-가죽 재킷...머리 쓸어 넘긴 히어로",
+      "url": "https://www.raonnews.com/news/article.html?no=60808",
+      "date": "2026.09.03",
+      "source": "raonnews.com",
+      "thumbnail": "https://www.raonnews.com/data/photos/20260936/art_17884070088318_1e4023.jpg"
+    },
+    {
+      "title": "제53회 한국방송대상 시상식, 오늘(3일) 개최…리센느 원이·미나미 시상...",
+      "url": "http://www.stoo.com/article.php?aid=108678961109",
+      "date": "2026.09.03",
+      "source": "stoo.com",
+      "thumbnail": null
+    },
+    {
+      "title": "35주차 써클차트 방탄소년단 1위…NCT 127·넥스지 TOP10 급등",
+      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16181913",
+      "date": "2026.09.03",
+      "source": "topstarnews.net",
+      "thumbnail": "https://cdn.topstarnews.net/news/photo/202609/16181913_2013666_5855_crop.jpg"
+    },
+    {
+      "title": "리센느 리브·미나미·메이·제나, MLB 모델 발탁",
+      "url": "https://isplus.com/article/view/isp202609030089",
+      "date": "2026.09.03",
+      "source": "isplus.com",
+      "thumbnail": "https://isplus.com/data/isp/image/2026/09/03/isp20260903000145.800x.0.jpg"
+    },
     {
       "title": "\"나니와단시부터 코르티스까지\"…'AAA 2026' 초호화 2차 라인업 대거 합...",
       "url": "https://www.stardailynews.co.kr/news/articleView.html?idxno=548502",
       "date": "2026.09.03",
       "source": "stardailynews.co.kr",
       "thumbnail": "https://cdn.stardailynews.co.kr/news/thumbnail/202609/548502_580851_4728_v150.jpg"
-    },
-    {
-      "title": "'Runaway'로 성장한 리센느, 과거 앨범 재조명에 스타트렌드 걸그룹 선두",
-      "url": "https://www.joongangenews.com/news/articleView.html?idxno=545278",
-      "date": "2026.09.03",
-      "source": "joongangenews.com",
-      "thumbnail": "https://cdn.joongangenews.com/news/photo/202609/545278_351474_2442.png"
     },
     {
       "title": "NCT 127 3관왕·알파드라이브원 2관왕…리센느 '러브 어택' 6주째 1위",
@@ -28,13 +112,6 @@
       "date": "2026.09.03",
       "source": "thepublic.kr",
       "thumbnail": "https://cdn.thepublic.kr/news/photo/202609/317379_320759_5843.jpg"
-    },
-    {
-      "title": "빅뱅, 아이돌차트 8월 4주차 아차랭킹 1위…컴백 직후 차트 정상",
-      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16181881",
-      "date": "2026.09.03",
-      "source": "topstarnews.net",
-      "thumbnail": "https://cdn.topstarnews.net/news/photo/202609/16181881_2013615_5429_crop.jpg"
     },
     {
       "title": "빅뱅, 20주년 화력 여전하네…리센느·에스파 제치고 아차랭킹 1위",
@@ -62,84 +139,7 @@
       "url": "https://www.sportsseoul.com/news/read/1632708?ref=naver",
       "date": "2026.09.03",
       "source": "sportsseoul.com",
-      "thumbnail": "https://file.sportsseoul.com/news/cms/2026/09/03/news-p.v1.20260903.4424833031624dd2a6de4f7b22d384b0_T1.jpg"
-    },
-    {
-      "title": "MLB, 브랜드 모델로 ‘리센느’ 발탁",
-      "url": "http://www.apparelnews.co.kr/news/news_view/?idx=227386",
-      "date": "2026.09.03",
-      "source": "apparelnews.co.kr",
-      "thumbnail": "https://www.apparelnews.co.kr/upfiles/manage/202609/ab2c43377ac14d966e03cc00449ea4cf.jpg"
-    },
-    {
-      "title": "′천안 K-컬처 박람회′ 개막, 닷새간 즐기는 ′한류 콘텐츠 축제′",
-      "url": "https://www.sportsworldi.com/newsView/20260903507782",
-      "date": "2026.09.03",
-      "source": "sportsworldi.com",
-      "thumbnail": "https://www.sportsworldi.com/content/image/2026/09/03/20260903507778.jpg"
-    },
-    {
-      "title": "박수현 충남지사, K-컬처박람회 참석 \"대한민국의 문화와 매력을 전 세...",
-      "url": "http://www.segyebiz.com/newsView/20260903507605?OutUrl=naver",
-      "date": "2026.09.03",
-      "source": "segyebiz.com",
       "thumbnail": null
-    },
-    {
-      "title": "QWER, 미발매 신곡 2곡 투표 받는다",
-      "url": "http://www.osen.co.kr/article/G1112868726",
-      "date": "2026.09.03",
-      "source": "osen.co.kr",
-      "thumbnail": "http://file.osen.co.kr/article_thumb/2026/09/03/202609031059778363_6a98d79ca2c4a_300x.jpg"
-    },
-    {
-      "title": "[유통갤러리] 오리온, ‘포카칩 황치즈맛’ 출시 외",
-      "url": "https://theviewers.co.kr/View.aspx?No=4210936",
-      "date": "2026.09.03",
-      "source": "theviewers.co.kr",
-      "thumbnail": "https://cdn.coenworks.com/Files/30/News/202609/6773_20260903100254917.jpg"
-    },
-    {
-      "title": "[단독] \"한달간 2285만명이 반했다\"…리센느 팬덤 잡은 나랑드사이다, 매...",
-      "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065577123880412",
-      "date": "2026.09.03",
-      "source": "megaeconomy.co.kr",
-      "thumbnail": "https://www.megaeconomy.co.kr/news/data/20260903/p1065577123880412_172_thum.png"
-    },
-    {
-      "title": "'KCON LA 2026' 디지털 조회수 4천300만 돌파…전년比 173%↑",
-      "url": "http://www.joynews24.com/view/2001538",
-      "date": "2026.09.03",
-      "source": "joynews24.com",
-      "thumbnail": "https://image.inews24.com/v1/6a7def242e82be.jpg"
-    },
-    {
-      "title": "리센느, K-브랜드지수 '이달의 핫 아이콘' 1위…블랙핑크·아이브 제쳤다",
-      "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000062149",
-      "date": "2026.09.03",
-      "source": "jnilbo.com",
-      "thumbnail": "https://cdn.jnilbo.com/news/photo/202609/90000062149_580970_1243.png"
-    },
-    {
-      "title": "천안, K-컬처 수도에 도전장 ··· 독립기념관이 '한류 전진기지'로",
-      "url": "https://www.ggilbo.com/news/articleView.html?idxno=1179403",
-      "date": "2026.09.03",
-      "source": "ggilbo.com",
-      "thumbnail": "https://cdn.ggilbo.com/news/photo/202609/1179403_1031880_3103.jpg"
-    },
-    {
-      "title": "제53회 한국방송대상, 오늘(3일) 개최…리센느 원이·미나미 시상자 출...",
-      "url": "https://www.dailian.co.kr/news/view/1685855/?sc=Naver",
-      "date": "2026.09.03",
-      "source": "dailian.co.kr",
-      "thumbnail": "https://cdnimage.dailian.co.kr/news/202609/news_1788395951_1685855_m_1.png"
-    },
-    {
-      "title": "“블랙핑크·아이브, 리센느에 밀렸다”…K-브랜드지수, 걸그룹 부문 ‘...",
-      "url": "https://swtvnews.com/news/newsview.php?ncode=1065571149646161",
-      "date": "2026.09.03",
-      "source": "swtvnews.com",
-      "thumbnail": "https://swtvnews.com/news/data/20260903/p1065571149646161_295_thum.jpg"
     }
   ]
 }
