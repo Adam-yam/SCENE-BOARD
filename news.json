@@ -1,6 +1,90 @@
 {
-  "updated": "2026-09-02T23:00:46Z",
+  "updated": "2026-09-03T00:00:46Z",
   "articles": [
+    {
+      "title": "'2026 천안 K-컬처박람회' 개막…5일간 한류 문화 여정 돌입",
+      "url": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=907306",
+      "date": "2026.09.02",
+      "source": "chungnamilbo.co.kr",
+      "thumbnail": "https://cdn.chungnamilbo.co.kr/news/thumbnail/202609/907306_485551_5953_v150.jpg"
+    },
+    {
+      "title": "도미노피자, 리센느 추천 피자 5종 25% 할인 프로모션",
+      "url": "https://www.kmaeil.com/news/articleView.html?idxno=650496",
+      "date": "2026.09.02",
+      "source": "kmaeil.com",
+      "thumbnail": "https://cdn.kmaeil.com/news/photo/202609/650496_448963_5113.jpg"
+    },
+    {
+      "title": "도미노피자, 리센느 ‘최애 피자’ 프로모션 진행",
+      "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065570482093938",
+      "date": "2026.09.02",
+      "source": "megaeconomy.co.kr",
+      "thumbnail": "https://www.megaeconomy.co.kr/news/data/20260903/p1065570482093938_343_thum.jpg"
+    },
+    {
+      "title": "나니와단시→코르티스·튜이드 ‘AAA 2026’ 라인업 합류…가오슝 무대...",
+      "url": "https://swtvnews.com/news/newsview.php?ncode=1065569725762152",
+      "date": "2026.09.02",
+      "source": "swtvnews.com",
+      "thumbnail": "https://swtvnews.com/news/data/20260903/p1065569725762152_177_thum.jpg"
+    },
+    {
+      "title": "'리센느가 직접 추천한 피자'…도미노피자, 매니아 고객 대상 25% 할인 이...",
+      "url": "https://www.ppss.kr/news/articleView.html?idxno=308610",
+      "date": "2026.09.02",
+      "source": "ppss.kr",
+      "thumbnail": "https://cdn.ppss.kr/news/photo/202609/308610_129631_4059.jpg"
+    },
+    {
+      "title": "리센느 최애 피자는? 도미노피자, 사인CD 증정 프로모션",
+      "url": "https://www.slist.kr/news/articleView.html?idxno=763282",
+      "date": "2026.09.02",
+      "source": "slist.kr",
+      "thumbnail": "https://cdn.slist.kr/news/thumbnail/202609/763282_1168781_3338_v150.jpg"
+    },
+    {
+      "title": "QWER, 신곡 발매 앞두고 투표 연다…리센느·김이나 사전 청음회도",
+      "url": "https://www.tenasia.co.kr/article/2026090310004",
+      "date": "2026.09.02",
+      "source": "tenasia.co.kr",
+      "thumbnail": "https://img.tenasia.co.kr/photo/202609/BF.45541825.1.jpg"
+    },
+    {
+      "title": "'KCON LA 2026', 신예 띄우고 글로벌 팬심 잡았다...전년 대비 173% 증가",
+      "url": "https://www.fnnews.com/news/202609030823548224",
+      "date": "2026.09.02",
+      "source": "fnnews.com",
+      "thumbnail": "https://image.fnnews.com/resource/media/image/2026/09/03/202609030829471927_e.jpg"
+    },
+    {
+      "title": "‘KCON LA 2026’ 영상 4300만 뷰…워너원 ‘Energetic’ 쇼츠도 300만 돌...",
+      "url": "https://www.sportsworldi.com/newsView/20260903503121",
+      "date": "2026.09.02",
+      "source": "sportsworldi.com",
+      "thumbnail": "https://www.sportsworldi.com/content/image/2026/09/03/20260903503120.jpg"
+    },
+    {
+      "title": "임영웅, 9월 광고모델 브랜드평판 톱3",
+      "url": "https://www.starnewskorea.com/star/2026/09/03/2026090308153079477",
+      "date": "2026.09.02",
+      "source": "starnewskorea.com",
+      "thumbnail": "https://image.starnewskorea.com/21/2026/09/2026090308153079477_1.jpg"
+    },
+    {
+      "title": "나니와단시·다영·성한빈·아워벌스데이·원필·채령·코르티스·튜이...",
+      "url": "https://www.ize.co.kr/news/articleView.html?idxno=80382",
+      "date": "2026.09.02",
+      "source": "ize.co.kr",
+      "thumbnail": "https://cdn.ize.co.kr/news/thumbnail/202609/80382_123867_1045_v150.jpg"
+    },
+    {
+      "title": "[분석] 기업들은 왜 리센느에 돈을 쓰나",
+      "url": "https://www.datasom.co.kr/news/articleView.html?idxno=209786",
+      "date": "2026.09.02",
+      "source": "datasom.co.kr",
+      "thumbnail": "https://cdn.datasom.co.kr/news/thumbnail/202609/209786_39042_5411_v150.jpg"
+    },
     {
       "title": "QWER, 미발매 신곡 2곡 공개…팬 투표 받는다",
       "url": "https://www.bntnews.co.kr/article/view/bnt202609030056",
@@ -37,69 +121,6 @@
       "thumbnail": "https://www.bntnews.co.kr/data/bnt/image/2026/09/03/bnt202609030057.jpg"
     },
     {
-      "title": "나니와단시·성한빈·코르티스·튜이드…'AAA 2026' 추가 라인업 공개",
-      "url": "https://www.slist.kr/news/articleView.html?idxno=763212",
-      "date": "2026.09.02",
-      "source": "slist.kr",
-      "thumbnail": "https://cdn.slist.kr/news/thumbnail/202609/763212_1168677_358_v150.jpg"
-    },
-    {
-      "title": "[TF초점] '챌린지 문화'가 K팝을 망치고 있다",
-      "url": "https://news.tf.co.kr/read/entertain/2361284.htm",
-      "date": "2026.09.02",
-      "source": "news.tf.co.kr",
-      "thumbnail": "https://img.tf.co.kr/article/home/2026/09/01/20261217178834226600.jpg"
-    },
-    {
-      "title": "나니와단시·다영·성한빈·아워벌스데이·원필·채령·코르티스·튜이...",
-      "url": "https://www.starnewskorea.com/music/2026/09/03/2026090205094566199",
-      "date": "2026.09.02",
-      "source": "starnewskorea.com",
-      "thumbnail": "https://image.starnewskorea.com/21/2026/09/2026090205094566199_1.jpg"
-    },
-    {
-      "title": "1위 방탄소년단, 2위 리센느, 3위 임영웅",
-      "url": "https://www.starnewskorea.com/music/2026/09/03/2026090306463769482",
-      "date": "2026.09.02",
-      "source": "starnewskorea.com",
-      "thumbnail": "https://image.starnewskorea.com/21/2026/09/2026090306463769482_1.jpg"
-    },
-    {
-      "title": "방탄소년단, 9월 광고모델 평판 1위…리센느는 118% 급등",
-      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=483258",
-      "date": "2026.09.02",
-      "source": "pinpointnews.co.kr",
-      "thumbnail": "https://cdn.pinpointnews.co.kr/news/thumbnail/202609/483258_469695_432_v150.jpg"
-    },
-    {
-      "title": "리센느 원이 \"모든 멤버 개인 폰 반납‥男연예인 초장에 차단하려고\" ('...",
-      "url": "http://www.osen.co.kr/article/G1112868427",
-      "date": "2026.09.02",
-      "source": "osen.co.kr",
-      "thumbnail": "http://file.osen.co.kr/article_thumb/2026/09/02/202609022023779572_6a983ec449a14_300x.png"
-    },
-    {
-      "title": "'2026 제천영화제' 리센느·몬엑 뜬다...출연진 라인업 '화려'",
-      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3682945",
-      "date": "2026.09.02",
-      "source": "gukjenews.com",
-      "thumbnail": "https://cdn.gukjenews.com/news/thumbnail/202609/3682945_3852375_1610_v150.jpg"
-    },
-    {
-      "title": "카라 니콜, 복근 감췄더니 여리여리한 등 공개···홀터넥+백리스 모두...",
-      "url": "http://www.osen.co.kr/article/G1112868588",
-      "date": "2026.09.02",
-      "source": "osen.co.kr",
-      "thumbnail": "http://file.osen.co.kr/article_thumb/2026/09/02/202609022305775347_6a983738d79c5_300x.jpeg"
-    },
-    {
-      "title": "천안 K-컬처 박람회 개막…'한류 산업 한자리에'",
-      "url": "https://www.bzeronews.com/news/articleView.html?idxno=822088",
-      "date": "2026.09.02",
-      "source": "bzeronews.com",
-      "thumbnail": "https://cdn.bzeronews.com/news/photo/202609/822088_2031547_649.jpg"
-    },
-    {
       "title": "[영상클립] \"거제~ 야호!\" 한마디에 역주행…리센느, 2년 전 'LOVE ATTACK' ...",
       "url": "https://www.newsworker.co.kr/news/articleView.html?idxno=502231",
       "date": "2026.09.02",
@@ -119,27 +140,6 @@
       "date": "2026.09.02",
       "source": "osen.co.kr",
       "thumbnail": "http://file.osen.co.kr/article_thumb/2026/09/02/202609021936770062_6a97fe5b119f0_300x.jpg"
-    },
-    {
-      "title": "[ICT 종합] 로지텍 코리아 및 소니 코리아 소식 외",
-      "url": "https://www.gamevu.co.kr/news/articleView.html?idxno=60527",
-      "date": "2026.09.02",
-      "source": "gamevu.co.kr",
-      "thumbnail": "https://cdn.gamevu.co.kr/news/photo/202609/60527_91715_3613.jpg"
-    },
-    {
-      "title": "리센느 제나, 신라 공주의 독보적인 미모…일상도 화보[셀럽샷]",
-      "url": "http://www.celuvmedia.com/article.php?aid=1788336142526863005",
-      "date": "2026.09.02",
-      "source": "celuvmedia.com",
-      "thumbnail": "http://www.celuvmedia.com/upimages/gisaimg/202609/02526863.jpg"
-    },
-    {
-      "title": "카카오, '리센느'와 AI 일상화 캠페인…카카오톡 대화 경험 넓힌다",
-      "url": "http://www.efnews.co.kr/news/articleView.html?idxno=132091",
-      "date": "2026.09.02",
-      "source": "efnews.co.kr",
-      "thumbnail": "http://www.efnews.co.kr/news/photo/202609/132091_119172_5655.jpg"
     }
   ]
 }
