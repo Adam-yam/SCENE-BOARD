@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-03T02:05:21Z",
+  "updated": "2026-09-03T03:05:19Z",
   "events": [
     {
       "date": "2026-07-06",
@@ -463,6 +463,14 @@
       "title": "2026 천안 K-컬처 박람회 개막 공연",
       "detail": "",
       "type": "기타",
+      "source": "mnetplus"
+    },
+    {
+      "date": "2026-09-03",
+      "time": null,
+      "title": "한국방송대상 축하공연",
+      "detail": "",
+      "type": "방송",
       "source": "mnetplus"
     },
     {
