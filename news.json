@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-03T20:00:48Z",
+  "updated": "2026-09-03T21:00:48Z",
   "articles": [
+    {
+      "title": "2억 쏘는 임영웅·티셔츠 아끼는 김희철, 이들이 지갑을 여는 법",
+      "url": "https://www.segye.com/newsView/20260902510700?OutUrl=naver",
+      "date": "2026.09.03",
+      "source": "segye.com",
+      "thumbnail": null
+    },
     {
       "title": "임영웅 또 한 번 확인된 이름값",
       "url": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3074262",
@@ -133,13 +140,6 @@
       "date": "2026.09.03",
       "source": "newsis.com",
       "thumbnail": "https://img1.newsis.com/2026/09/03/NISI20260903_0002229803_web.jpg"
-    },
-    {
-      "title": "\"너희 너무 예뻐서 위험해\"…리센느 대표의 '딸바보' 면모 [MHN:픽]",
-      "url": "https://mhnse.com/news/articleView.html?idxno=1521968",
-      "date": "2026.09.03",
-      "source": "mhnse.com",
-      "thumbnail": "https://cdn.mhnse.com/mhnsports/2026/09/03175251/thumb_ccms_52092.jpg"
     }
   ]
 }
