@@ -1,6 +1,14 @@
 {
-  "updated": "2026-09-03T14:10:29Z",
+  "updated": "2026-09-03T15:10:37Z",
   "videos": [
+    {
+      "id": "10xhraj4ex0",
+      "title": "오랜만에 와쪄..다 드루왕🩶",
+      "url": "https://www.youtube.com/watch?v=10xhraj4ex0",
+      "thumbnail": "https://i.ytimg.com/vi/10xhraj4ex0/mqdefault.jpg",
+      "date": "2026.09.03",
+      "type": "long"
+    },
     {
       "id": "4Xn-oG52pYM",
       "title": "숨은 그림 찾기",
@@ -42,22 +50,6 @@
       "type": "long"
     },
     {
-      "id": "ccnNVyPu2Gw",
-      "title": "MAY☀️ Birthday!!!!!!!🎉🎂",
-      "url": "https://www.youtube.com/watch?v=ccnNVyPu2Gw",
-      "thumbnail": "https://i.ytimg.com/vi/ccnNVyPu2Gw/mqdefault.jpg",
-      "date": "2026.08.19",
-      "type": "long"
-    },
-    {
-      "id": "10xhraj4ex0",
-      "title": "오랜만에 와쪄..다 드루왕🩶",
-      "url": "https://www.youtube.com/shorts/10xhraj4ex0",
-      "thumbnail": "https://i.ytimg.com/vi/10xhraj4ex0/mqdefault_live.jpg",
-      "date": "2026.09.03",
-      "type": "short"
-    },
-    {
       "id": "YjDFbRB29FA",
       "title": "CHIC vs CUTE",
       "url": "https://www.youtube.com/shorts/YjDFbRB29FA",
@@ -95,6 +87,14 @@
       "url": "https://www.youtube.com/shorts/JPAKX4X_9WU",
       "thumbnail": "https://i.ytimg.com/vi/JPAKX4X_9WU/mqdefault.jpg",
       "date": "2026.08.31",
+      "type": "short"
+    },
+    {
+      "id": "e3Z9XXyx3oU",
+      "title": "안정형이 불안형을 마주하는 법",
+      "url": "https://www.youtube.com/shorts/e3Z9XXyx3oU",
+      "thumbnail": "https://i.ytimg.com/vi/e3Z9XXyx3oU/mqdefault.jpg",
+      "date": "2026.08.30",
       "type": "short"
     }
   ]
