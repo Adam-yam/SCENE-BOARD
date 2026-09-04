@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04T12:10:37Z",
+  "updated": "2026-09-04T13:10:27Z",
   "videos": [
     {
       "id": "10xhraj4ex0",
@@ -50,6 +50,14 @@
       "type": "long"
     },
     {
+      "id": "jGyDVoKfmOY",
+      "title": "[티저] 느닷없이 나타나서 당황하셨다고요? | 리센느닷없이 Teaser | RESCENE (리센느)",
+      "url": "https://www.youtube.com/watch?v=jGyDVoKfmOY",
+      "thumbnail": "https://i.ytimg.com/vi/jGyDVoKfmOY/mqdefault.jpg",
+      "date": "2026.09.04",
+      "type": "short"
+    },
+    {
       "id": "MOtTXqDWt2Y",
       "title": "[티저] 느닷없이 나타나서 당황하셨다고요? | 리센느닷없이 Teaser | RESCENE (리센느)",
       "url": "https://www.youtube.com/watch?v=MOtTXqDWt2Y",
@@ -87,14 +95,6 @@
       "url": "https://www.youtube.com/shorts/Mrz_X2hdoeU",
       "thumbnail": "https://i.ytimg.com/vi/Mrz_X2hdoeU/mqdefault.jpg",
       "date": "2026.09.03",
-      "type": "short"
-    },
-    {
-      "id": "nVuA4Sl3veA",
-      "title": "Don’t stop ❤️‍🔥",
-      "url": "https://www.youtube.com/shorts/nVuA4Sl3veA",
-      "thumbnail": "https://i.ytimg.com/vi/nVuA4Sl3veA/mqdefault.jpg",
-      "date": "2026.09.02",
       "type": "short"
     }
   ]
