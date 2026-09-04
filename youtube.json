@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04T06:10:27Z",
+  "updated": "2026-09-04T07:10:28Z",
   "videos": [
     {
       "id": "10xhraj4ex0",
@@ -50,6 +50,14 @@
       "type": "long"
     },
     {
+      "id": "YnA6WAvIUGI",
+      "title": "언니 좋아 동생 좋아 💚🖤",
+      "url": "https://www.youtube.com/shorts/YnA6WAvIUGI",
+      "thumbnail": "https://i.ytimg.com/vi/YnA6WAvIUGI/mqdefault.jpg",
+      "date": "2026.09.04",
+      "type": "short"
+    },
+    {
       "id": "YjDFbRB29FA",
       "title": "CHIC vs CUTE",
       "url": "https://www.youtube.com/shorts/YjDFbRB29FA",
@@ -87,14 +95,6 @@
       "url": "https://www.youtube.com/shorts/JPAKX4X_9WU",
       "thumbnail": "https://i.ytimg.com/vi/JPAKX4X_9WU/mqdefault.jpg",
       "date": "2026.08.31",
-      "type": "short"
-    },
-    {
-      "id": "e3Z9XXyx3oU",
-      "title": "안정형이 불안형을 마주하는 법",
-      "url": "https://www.youtube.com/shorts/e3Z9XXyx3oU",
-      "thumbnail": "https://i.ytimg.com/vi/e3Z9XXyx3oU/mqdefault.jpg",
-      "date": "2026.08.30",
       "type": "short"
     }
   ]
