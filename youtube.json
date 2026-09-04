@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04T07:10:28Z",
+  "updated": "2026-09-04T08:10:33Z",
   "videos": [
     {
       "id": "10xhraj4ex0",
@@ -50,6 +50,14 @@
       "type": "long"
     },
     {
+      "id": "bPH8xyBIs0w",
+      "title": "사나 언니 날 바라바라봐 🫢💓",
+      "url": "https://www.youtube.com/shorts/bPH8xyBIs0w",
+      "thumbnail": "https://i.ytimg.com/vi/bPH8xyBIs0w/mqdefault.jpg",
+      "date": "2026.09.04",
+      "type": "short"
+    },
+    {
       "id": "YnA6WAvIUGI",
       "title": "언니 좋아 동생 좋아 💚🖤",
       "url": "https://www.youtube.com/shorts/YnA6WAvIUGI",
@@ -87,14 +95,6 @@
       "url": "https://www.youtube.com/shorts/r_NxrH6kxpA",
       "thumbnail": "https://i.ytimg.com/vi/r_NxrH6kxpA/mqdefault.jpg",
       "date": "2026.09.02",
-      "type": "short"
-    },
-    {
-      "id": "JPAKX4X_9WU",
-      "title": "Let’s go",
-      "url": "https://www.youtube.com/shorts/JPAKX4X_9WU",
-      "thumbnail": "https://i.ytimg.com/vi/JPAKX4X_9WU/mqdefault.jpg",
-      "date": "2026.08.31",
       "type": "short"
     }
   ]
