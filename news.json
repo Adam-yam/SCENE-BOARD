@@ -1,6 +1,20 @@
 {
-  "updated": "2026-09-05T15:00:48Z",
+  "updated": "2026-09-05T16:00:44Z",
   "articles": [
+    {
+      "title": "유스피어(USPEER), ‘제2의 리센느 될까?’",
+      "url": "https://sports.khan.co.kr/article/202609060000003?pt=nv",
+      "date": "2026.09.05",
+      "source": "sports.khan.co.kr",
+      "thumbnail": null
+    },
+    {
+      "title": "[TF초점] '조회수 폭발' 부르는 유튜브 집계 변화…업계 반응은",
+      "url": "https://news.tf.co.kr/read/entertain/2362302.htm",
+      "date": "2026.09.05",
+      "source": "news.tf.co.kr",
+      "thumbnail": "https://img.tf.co.kr/article/home/2026/09/03/20265837178851886400.jpg"
+    },
     {
       "title": "“수원 홍보어사 됐어요”…리센느, 수원화성문화제 알린다",
       "url": "https://www.betanews.net/article/view/beta202609050008",
@@ -83,7 +97,7 @@
       "url": "https://www.kyeonggi.com/article/20260905580072",
       "date": "2026.09.05",
       "source": "kyeonggi.com",
-      "thumbnail": "https://ypzxxdrj8709.edge.naverncp.com/data2/content/image/2026/09/05/.cache/512/20260905580073.jpg?v=20260906000044"
+      "thumbnail": null
     },
     {
       "title": "장관부터 송중기·봉준호까지…제천영화제 정·관·스타 총출동",
@@ -126,20 +140,6 @@
       "date": "2026.09.05",
       "source": "sportsseoul.com",
       "thumbnail": null
-    },
-    {
-      "title": "대세 '리센느', 이번엔 홍보어사…수원화성문화제 알린다",
-      "url": "https://www.newsis.com/view/NISX20260905_0003777489",
-      "date": "2026.09.05",
-      "source": "newsis.com",
-      "thumbnail": "https://img1.newsis.com/2026/09/05/NISI20260905_0002231025_web.jpg"
-    },
-    {
-      "title": "리센느, 한복 입고 '수원시 홍보어사' 활약",
-      "url": "https://www.sidae.com/article/2026090510214772511",
-      "date": "2026.09.05",
-      "source": "sidae.com",
-      "thumbnail": "https://menu.sidae.com/moneyweek/thumb/2026/09/05/00/2026090510214772511_1.jpg"
     }
   ]
 }
