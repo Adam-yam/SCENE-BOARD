@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05T05:10:27Z",
+  "updated": "2026-09-05T06:10:33Z",
   "videos": [
     {
       "id": "10xhraj4ex0",
@@ -50,6 +50,14 @@
       "type": "long"
     },
     {
+      "id": "AyOziYkJiv8",
+      "title": "Lost in those eyes",
+      "url": "https://www.youtube.com/shorts/AyOziYkJiv8",
+      "thumbnail": "https://i.ytimg.com/vi/AyOziYkJiv8/mqdefault.jpg",
+      "date": "2026.09.05",
+      "type": "short"
+    },
+    {
       "id": "jGyDVoKfmOY",
       "title": "[티저] 느닷없이 나타나서 당황하셨다고요? | 리센느닷없이 Teaser | RESCENE (리센느)",
       "url": "https://www.youtube.com/watch?v=jGyDVoKfmOY",
@@ -86,14 +94,6 @@
       "title": "CHIC vs CUTE",
       "url": "https://www.youtube.com/shorts/YjDFbRB29FA",
       "thumbnail": "https://i.ytimg.com/vi/YjDFbRB29FA/mqdefault.jpg",
-      "date": "2026.09.03",
-      "type": "short"
-    },
-    {
-      "id": "Mrz_X2hdoeU",
-      "title": "#사나 선배님과 어디서나 당당하게 걷기 🎀",
-      "url": "https://www.youtube.com/shorts/Mrz_X2hdoeU",
-      "thumbnail": "https://i.ytimg.com/vi/Mrz_X2hdoeU/mqdefault.jpg",
       "date": "2026.09.03",
       "type": "short"
     }
