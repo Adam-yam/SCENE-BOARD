@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-05T22:00:42Z",
+  "updated": "2026-09-05T23:00:44Z",
   "articles": [
+    {
+      "title": "\"광고만 찍고 끝 아냐\"…식품·음료업계, '팬덤'에 지갑 맡긴다",
+      "url": "https://www.newsway.co.kr/news/view?ud=2026090414454787744",
+      "date": "2026.09.05",
+      "source": "newsway.co.kr",
+      "thumbnail": "https://nimage.newsway.co.kr/photo/2026/09/04/20260904001348_1200.jpg"
+    },
     {
       "title": "“암행 아닌 홍보어사”…리센느, 수원화성문화제 띄우러 출두",
       "url": "https://www.etnews.com/20260906000006",
@@ -90,7 +97,7 @@
       "url": "http://www.bizwnews.com/news/articleView.html?idxno=145375",
       "date": "2026.09.05",
       "source": "bizwnews.com",
-      "thumbnail": "https://cdn.bizwnews.com/news/thumbnail/202609/145375_162384_121_v150.jpg"
+      "thumbnail": null
     },
     {
       "title": "이영지, 거제 수해 복구 위한 5천만 원 기부…선한 영향력 전파",
@@ -111,7 +118,7 @@
       "url": "https://www.kyeonggi.com/article/20260905580072",
       "date": "2026.09.05",
       "source": "kyeonggi.com",
-      "thumbnail": null
+      "thumbnail": "https://ypzxxdrj8709.edge.naverncp.com/data2/content/image/2026/09/05/.cache/512/20260905580073.jpg?v=20260906080044"
     },
     {
       "title": "장관부터 송중기·봉준호까지…제천영화제 정·관·스타 총출동",
@@ -133,13 +140,6 @@
       "date": "2026.09.05",
       "source": "news1.kr",
       "thumbnail": null
-    },
-    {
-      "title": "\"소녀시대·원더걸스 이후 처음\"…'거제 야호' 효과 이 정도였나 [김소...",
-      "url": "https://www.hankyung.com/article/202609043388g",
-      "date": "2026.09.05",
-      "source": "hankyung.com",
-      "thumbnail": "https://img.hankyung.com/photo/202609/03.36239347.1.jpg"
     }
   ]
 }
