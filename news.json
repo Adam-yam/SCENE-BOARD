@@ -1,6 +1,27 @@
 {
-  "updated": "2026-09-05T00:00:51Z",
+  "updated": "2026-09-05T01:00:43Z",
   "articles": [
+    {
+      "title": "\"함께 금메달 딸게요\"…잠실 라이벌 김영우·최민석의 꿈",
+      "url": "http://www.yonhapnewstv.co.kr/news/MYH20260905094201hhl",
+      "date": "2026.09.05",
+      "source": "yonhapnewstv.co.kr",
+      "thumbnail": "https://media.yonhapnewstv.co.kr/article/MYH/20260905/MYH20260905094201hhl.jpg"
+    },
+    {
+      "title": "'거제 야호'가 밀렸다고? 미나미가 꼽은 최애 장면은 원이 손낚시 응원...",
+      "url": "https://isplus.com/article/view/isp202609050006",
+      "date": "2026.09.05",
+      "source": "isplus.com",
+      "thumbnail": "https://isplus.com/data/isp/image/2026/09/05/isp20260905000006.800x.0.png"
+    },
+    {
+      "title": "미나미도 피하지 못한 '다이어트 중 폭식'…억지로 참다간 '요요·위염'...",
+      "url": "https://www.newsis.com/view/NISX20260904_0003777004",
+      "date": "2026.09.05",
+      "source": "newsis.com",
+      "thumbnail": "https://img1.newsis.com/2026/09/04/NISI20260904_0002230698_web.jpg"
+    },
     {
       "title": "리센느·이선민처럼…기안84가 점찍은 '잔고 0원 아이돌' 유스피어",
       "url": "http://www.osen.co.kr/article/G1112870253",
@@ -37,18 +58,18 @@
       "thumbnail": "https://img1.newsis.com/2026/08/31/NISI20260831_0002226140_web.jpg"
     },
     {
+      "title": "현대 신곡은 어떻게 정의해야 하는가",
+      "url": "https://www.esquirekorea.co.kr/article/1908594",
+      "date": "2026.09.04",
+      "source": "esquirekorea.co.kr",
+      "thumbnail": "https://www.esquirekorea.co.kr/resources/online/thumbnail/hf/2026/08/25/41f311fb-263a-483f-85e5-5825f47bfa8a.jpg"
+    },
+    {
       "title": "기안84, 무일푼 신인 아이돌에 \"나 월 300만 원이 꿈이었다\"",
       "url": "https://www.mediafine.co.kr/news/articleView.html?idxno=88849",
       "date": "2026.09.04",
       "source": "mediafine.co.kr",
       "thumbnail": "https://cdn.mediafine.co.kr/news/photo/202609/88849_126987_5832.jpeg"
-    },
-    {
-      "title": "현대 신곡은 어떻게 정의해야 하는가",
-      "url": "https://www.esquirekorea.co.kr/article/1908594",
-      "date": "2026.09.04",
-      "source": "esquirekorea.co.kr",
-      "thumbnail": null
     },
     {
       "title": "'금수저 마케팅'의 시대, 계급적 격차의 미학화",
@@ -104,7 +125,7 @@
       "url": "https://www.joongang.co.kr/article/25459225",
       "date": "2026.09.04",
       "source": "joongang.co.kr",
-      "thumbnail": null
+      "thumbnail": "https://pds.joongang.co.kr/news/component/joongang_sunday/202609/05/df0582c4-4e7f-4d8d-9d4b-9f7813191ca3.jpg"
     },
     {
       "title": "알파드라이브원(ALD1), ‘BORN DIRE’ 챌린지로 상승세 이어가",
@@ -114,32 +135,11 @@
       "thumbnail": null
     },
     {
-      "title": "트와이스 나연 95억 건물주 됐는데…기안84가 만난 女아이돌 “계좌에 ...",
-      "url": "https://www.tenasia.co.kr/article/2026090453374",
-      "date": "2026.09.04",
-      "source": "tenasia.co.kr",
-      "thumbnail": "https://img.tenasia.co.kr/photo/202609/BF.45562862.1.jpg"
-    },
-    {
       "title": "치지직, 임영웅∙라이즈∙코르티스 등 총출동 K-POP 축제 ‘2026 더팩트 ...",
       "url": "https://sports.khan.co.kr/article/202609042055003?pt=nv",
       "date": "2026.09.04",
       "source": "sports.khan.co.kr",
       "thumbnail": null
-    },
-    {
-      "title": "리센느 원이 \"폐가 솔플 가능, 무서운 거 많이 없다\"… PD \"조만간 추진...",
-      "url": "https://www.tvreport.co.kr/uncategorized/article/1073393/",
-      "date": "2026.09.04",
-      "source": "tvreport.co.kr",
-      "thumbnail": "https://d3h3k01ny8mjr.cloudfront.net/tv-report/2026/09/04202758/CP-2022-0227-39509327-thumb.jpg"
-    },
-    {
-      "title": "리센느 비하인드 아이브 러브 다이브 깜짝 소화…장난기 가득한 반전 매...",
-      "url": "https://www.cbci.co.kr/news/articleView.html?idxno=604049",
-      "date": "2026.09.04",
-      "source": "cbci.co.kr",
-      "thumbnail": "https://www.cbci.co.kr/news/thumbnail/202609/604049_414336_2417_v150.jpg"
     }
   ]
 }
