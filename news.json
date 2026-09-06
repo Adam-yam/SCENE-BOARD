@@ -1,6 +1,27 @@
 {
-  "updated": "2026-09-06T14:00:44Z",
+  "updated": "2026-09-06T15:00:44Z",
   "articles": [
+    {
+      "title": "리센느 원이, 거제 파이리의 ‘프리티 걸’ [포토엔HD]",
+      "url": "https://www.newsen.com/news_view.php?uid=202609062339315510",
+      "date": "2026.09.06",
+      "source": "newsen.com",
+      "thumbnail": "https://photo.newsen.com/news_photo/2026/09/06/202609062339315510_1.jpg"
+    },
+    {
+      "title": "[HD포토] 빌리 츠키, '달빛 공주님' (2026 SKA 레드카펫)",
+      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16184708",
+      "date": "2026.09.06",
+      "source": "topstarnews.net",
+      "thumbnail": "https://cdn.topstarnews.net/news/photo/202609/16184708_2017028_440_crop.jpg"
+    },
+    {
+      "title": "지상렬, 무명이었던 리센느 만나 했던 말 재조명...“생각대로 간다”",
+      "url": "https://www.tenasia.co.kr/article/2026090670404",
+      "date": "2026.09.06",
+      "source": "tenasia.co.kr",
+      "thumbnail": "https://img.tenasia.co.kr/photo/202609/BF.45581418.1.jpg"
+    },
     {
       "title": "[셀럽포토]리센느 '오늘도 프리티 걸'",
       "url": "http://www.celuvmedia.com/article.php?aid=1788697679527082009",
@@ -58,27 +79,6 @@
       "thumbnail": "https://image.ajunews.com/content/image/2026/09/06/20260906204104630944.jpeg"
     },
     {
-      "title": "[포토] 리센느, 스포티비 케이팝 시상식 참석",
-      "url": "https://www.ajunews.com/view/20260906203851448",
-      "date": "2026.09.06",
-      "source": "ajunews.com",
-      "thumbnail": "https://image.ajunews.com/content/image/2026/09/06/20260906203925916942.jpeg"
-    },
-    {
-      "title": "츠키, 눈부신 드레스 [포토엔HD]",
-      "url": "https://www.newsen.com/news_view.php?uid=202609062026325510",
-      "date": "2026.09.06",
-      "source": "newsen.com",
-      "thumbnail": "https://photo.newsen.com/news_photo/2026/09/06/202609062026325510_1.jpg"
-    },
-    {
-      "title": "'음악과 영화' 낮과 밤이 들썩‥ 제천국제음악영화제",
-      "url": "http://news.mbccb.co.kr/home/sub.php?menukey=61&mod=view&RECEIVE_DATE=20260906&SEQUENCE=0114",
-      "date": "2026.09.06",
-      "source": "news.mbccb.co.kr",
-      "thumbnail": null
-    },
-    {
       "title": "[포토] Full of SKA 2026 레드카펫 현장",
       "url": "http://enews.imbc.com/News/RetrieveNewsInfo/517377",
       "date": "2026.09.06",
@@ -100,13 +100,6 @@
       "thumbnail": "https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2026/09/06/f5c8aab4-ac1e-481c-848c-d29b3edde446.jpg"
     },
     {
-      "title": "수원시 홍보대사 걸 그룹 리센느(RESCENE) '홍보어사' 위촉",
-      "url": "https://www.newspim.com/news/view/20260906000068",
-      "date": "2026.09.06",
-      "source": "newspim.com",
-      "thumbnail": "https://img.newspim.com/news/2026/09/06/2609061418015940_t1.jpg"
-    },
-    {
       "title": "[포토] 리센느 원이, 리자몽이 될래요",
       "url": "http://enews.imbc.com/News/RetrieveNewsInfo/517349",
       "date": "2026.09.06",
@@ -114,11 +107,18 @@
       "thumbnail": "https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2026/09/06/1dee43ae-b69a-4c7a-909b-5685d68ba6d3.jpg"
     },
     {
-      "title": "[TD포토] 리센느 제나 '리틀 고윤정'",
-      "url": "http://www.tvdaily.co.kr/read.php3?aid=17886823111801057017",
+      "title": "수원시 홍보대사 걸 그룹 리센느(RESCENE) '홍보어사' 위촉",
+      "url": "https://www.newspim.com/news/view/20260906000068",
+      "date": "2026.09.06",
+      "source": "newspim.com",
+      "thumbnail": "https://img.newspim.com/news/2026/09/06/2609061418015940_t1.jpg"
+    },
+    {
+      "title": "[TD포토] 리센느 미나미 '볼 콕~'",
+      "url": "http://www.tvdaily.co.kr/read.php3?aid=17886822251801056017",
       "date": "2026.09.06",
       "source": "tvdaily.co.kr",
-      "thumbnail": "http://image.tvdaily.co.kr/upimages/gisaimg/202609/1788682311_1801057.jpg"
+      "thumbnail": "http://image.tvdaily.co.kr/upimages/gisaimg/202609/1788682225_1801056.jpg"
     },
     {
       "title": "[포토] 리센느 원이, 파이리 향을 물들여~",
