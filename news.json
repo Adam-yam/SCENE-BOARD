@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-06T20:00:44Z",
+  "updated": "2026-09-06T21:00:44Z",
   "articles": [
+    {
+      "title": "[S노트] 한유진·제나·케이주·최예나·민재·하음, 비주얼이 서사다…...",
+      "url": "https://www.slist.kr/news/articleView.html?idxno=764058",
+      "date": "2026.09.06",
+      "source": "slist.kr",
+      "thumbnail": "https://cdn.slist.kr/news/thumbnail/202609/764058_1169877_2544_v150.jpg"
+    },
     {
       "title": "[패트롤] 성남시-수원시-용인시-화성시",
       "url": "https://www.ekn.kr/web/view.php?key=20260907028151292",
@@ -72,13 +79,6 @@
       "thumbnail": "https://image.ajunews.com/content/image/2026/09/06/20260906204706536690.jpeg"
     },
     {
-      "title": "[포토] 포즈 취하는 리센느 메이",
-      "url": "https://www.ajunews.com/view/20260906204240450",
-      "date": "2026.09.06",
-      "source": "ajunews.com",
-      "thumbnail": "https://image.ajunews.com/content/image/2026/09/06/20260906204350206700.jpeg"
-    },
-    {
       "title": "[포토] Full of SKA 2026 레드카펫 현장",
       "url": "http://enews.imbc.com/News/RetrieveNewsInfo/517377",
       "date": "2026.09.06",
@@ -135,11 +135,11 @@
       "thumbnail": "https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2026/09/06/5297beae-75cd-44e2-8fe4-756a2dc8b098.jpg"
     },
     {
-      "title": "[포토] 리센느 미나미 '확신의 비주얼 센터'",
-      "url": "https://www.slist.kr/news/articleView.html?idxno=764004",
+      "title": "[포토] 리센느 제나, 신라공주의 까엉미",
+      "url": "http://enews.imbc.com/News/RetrieveNewsInfo/517345",
       "date": "2026.09.06",
-      "source": "slist.kr",
-      "thumbnail": "https://cdn.slist.kr/news/thumbnail/202609/764004_1169795_611_v150.jpg"
+      "source": "enews.imbc.com",
+      "thumbnail": "https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2026/09/06/714f5dac-88a9-433d-98a3-ef7249f0d5fd.jpg"
     }
   ]
 }
