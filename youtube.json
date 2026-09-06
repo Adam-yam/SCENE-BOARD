@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06T06:10:28Z",
+  "updated": "2026-09-06T07:10:28Z",
   "videos": [
     {
       "id": "Tl8f4RWJnUc",
@@ -50,6 +50,14 @@
       "type": "long"
     },
     {
+      "id": "S-qvrhCGZOQ",
+      "title": "Come closer",
+      "url": "https://www.youtube.com/shorts/S-qvrhCGZOQ",
+      "thumbnail": "https://i.ytimg.com/vi/S-qvrhCGZOQ/mqdefault.jpg",
+      "date": "2026.09.06",
+      "type": "short"
+    },
+    {
       "id": "AyOziYkJiv8",
       "title": "Lost in those eyes",
       "url": "https://www.youtube.com/shorts/AyOziYkJiv8",
@@ -87,14 +95,6 @@
       "url": "https://www.youtube.com/shorts/YnA6WAvIUGI",
       "thumbnail": "https://i.ytimg.com/vi/YnA6WAvIUGI/mqdefault.jpg",
       "date": "2026.09.04",
-      "type": "short"
-    },
-    {
-      "id": "YjDFbRB29FA",
-      "title": "CHIC vs CUTE",
-      "url": "https://www.youtube.com/shorts/YjDFbRB29FA",
-      "thumbnail": "https://i.ytimg.com/vi/YjDFbRB29FA/mqdefault.jpg",
-      "date": "2026.09.03",
       "type": "short"
     }
   ]
