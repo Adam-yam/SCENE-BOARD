@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-05T23:00:44Z",
+  "updated": "2026-09-06T00:00:47Z",
   "articles": [
+    {
+      "title": "리센느·정해인·이선민·유영우…스타들도 뮤지컬 '나는 반딧불' 응원...",
+      "url": "https://www.news1.kr/life-culture/performance-exhibition/6281125",
+      "date": "2026.09.05",
+      "source": "news1.kr",
+      "thumbnail": null
+    },
     {
       "title": "\"광고만 찍고 끝 아냐\"…식품·음료업계, '팬덤'에 지갑 맡긴다",
       "url": "https://www.newsway.co.kr/news/view?ud=2026090414454787744",
@@ -97,7 +104,7 @@
       "url": "http://www.bizwnews.com/news/articleView.html?idxno=145375",
       "date": "2026.09.05",
       "source": "bizwnews.com",
-      "thumbnail": null
+      "thumbnail": "https://cdn.bizwnews.com/news/thumbnail/202609/145375_162384_121_v150.jpg"
     },
     {
       "title": "이영지, 거제 수해 복구 위한 5천만 원 기부…선한 영향력 전파",
@@ -118,7 +125,7 @@
       "url": "https://www.kyeonggi.com/article/20260905580072",
       "date": "2026.09.05",
       "source": "kyeonggi.com",
-      "thumbnail": "https://ypzxxdrj8709.edge.naverncp.com/data2/content/image/2026/09/05/.cache/512/20260905580073.jpg?v=20260906080044"
+      "thumbnail": "https://ypzxxdrj8709.edge.naverncp.com/data2/content/image/2026/09/05/.cache/512/20260905580073.jpg?v=20260906090043"
     },
     {
       "title": "장관부터 송중기·봉준호까지…제천영화제 정·관·스타 총출동",
@@ -133,13 +140,6 @@
       "date": "2026.09.05",
       "source": "ttlnews.com",
       "thumbnail": "https://cdn.ttlnews.com/news/photo/202609/3140480_753879_320.jpg"
-    },
-    {
-      "title": "제천선 영화 보고 괴산선 매운맛…충북 곳곳 초가을 축제 인파",
-      "url": "https://www.news1.kr/local/sejong-chungbuk/6280960",
-      "date": "2026.09.05",
-      "source": "news1.kr",
-      "thumbnail": null
     }
   ]
 }
