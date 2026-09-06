@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06T17:00:49Z",
+  "updated": "2026-09-06T18:00:48Z",
   "articles": [
     {
       "title": "리센느 원이, 거제 파이리의 ‘프리티 걸’ [포토엔HD]",
@@ -62,7 +62,7 @@
       "url": "https://www.ajunews.com/view/20260906204446455",
       "date": "2026.09.06",
       "source": "ajunews.com",
-      "thumbnail": "https://image.ajunews.com/content/image/2026/09/06/20260906204706536690.jpeg"
+      "thumbnail": null
     },
     {
       "title": "[포토] 포즈 취하는 리센느 메이",
@@ -100,13 +100,6 @@
       "thumbnail": "https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2026/09/06/f5c8aab4-ac1e-481c-848c-d29b3edde446.jpg"
     },
     {
-      "title": "수원시 홍보대사 걸 그룹 리센느(RESCENE) '홍보어사' 위촉",
-      "url": "https://www.newspim.com/news/view/20260906000068",
-      "date": "2026.09.06",
-      "source": "newspim.com",
-      "thumbnail": "https://img.newspim.com/news/2026/09/06/2609061418015940_t1.jpg"
-    },
-    {
       "title": "[포토] 리센느 원이, 리자몽이 될래요",
       "url": "http://enews.imbc.com/News/RetrieveNewsInfo/517349",
       "date": "2026.09.06",
@@ -114,11 +107,18 @@
       "thumbnail": "https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2026/09/06/1dee43ae-b69a-4c7a-909b-5685d68ba6d3.jpg"
     },
     {
+      "title": "수원시 홍보대사 걸 그룹 리센느(RESCENE) '홍보어사' 위촉",
+      "url": "https://www.newspim.com/news/view/20260906000068",
+      "date": "2026.09.06",
+      "source": "newspim.com",
+      "thumbnail": "https://img.newspim.com/news/2026/09/06/2609061418015940_t1.jpg"
+    },
+    {
       "title": "[TD포토] 리센느 제나 '리틀 고윤정'",
       "url": "http://www.tvdaily.co.kr/read.php3?aid=17886823111801057017",
       "date": "2026.09.06",
       "source": "tvdaily.co.kr",
-      "thumbnail": "http://image.tvdaily.co.kr/upimages/gisaimg/202609/1788682311_1801057.jpg"
+      "thumbnail": null
     },
     {
       "title": "[포토] 리센느 원이, 파이리 향을 물들여~",
