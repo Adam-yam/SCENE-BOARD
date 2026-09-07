@@ -1,6 +1,20 @@
 {
-  "updated": "2026-09-07T04:00:43Z",
+  "updated": "2026-09-07T05:00:43Z",
   "articles": [
+    {
+      "title": "[인터뷰] 민선9기 민경선 고양시장 시정 운영 방향",
+      "url": "http://www.metroseoul.co.kr/article/20260907500208",
+      "date": "2026.09.07",
+      "source": "metroseoul.co.kr",
+      "thumbnail": null
+    },
+    {
+      "title": "\"40만 흥행에도···\" 장기수 천안시장, K-컬처박람회 '일몰' 꺼냈다",
+      "url": "https://www.ggilbo.com/news/articleView.html?idxno=1180081",
+      "date": "2026.09.07",
+      "source": "ggilbo.com",
+      "thumbnail": "https://cdn.ggilbo.com/news/photo/202609/1180081_1032552_0358.jpg"
+    },
     {
       "title": "[천안 24시] 천안시, 78회 충남도민체전 5연패 달성…당진 2위, 아산 3위",
       "url": "https://www.sisajournal.com/news/articleView.html?idxno=386222",
@@ -20,7 +34,7 @@
       "url": "https://www.heraldmuse.com/article/10864945?ref=naver",
       "date": "2026.09.07",
       "source": "heraldmuse.com",
-      "thumbnail": "https://wimg.heraldcorp.com/news/cms/2026/09/07/news-p.v1.20260907.33776ef0424447ab83f09eedc215c502_T1.jpg"
+      "thumbnail": null
     },
     {
       "title": "가을 제철 식재료 품은 커피 프랜차이즈 신메뉴 풍성",
@@ -65,18 +79,25 @@
       "thumbnail": "https://wimg.heraldcorp.com/news/cms/2026/09/07/news-p.v1.20260907.22209bc7bb5242168396e5dc8608c0e9_T1.jpg"
     },
     {
-      "title": "[포토] 리센느 원이 ‘사랑스런 파이리’",
-      "url": "https://www.heraldmuse.com/article/10864926?ref=naver",
+      "title": "[포토] 키키 키야 ‘인형 같은 외모’",
+      "url": "https://www.heraldmuse.com/article/10864925?ref=naver",
       "date": "2026.09.07",
       "source": "heraldmuse.com",
-      "thumbnail": "https://wimg.heraldcorp.com/news/cms/2026/09/07/news-p.v1.20260907.ea67565706164c0bba76e9a372fc94ce_T1.jpg"
+      "thumbnail": "https://wimg.heraldcorp.com/news/cms/2026/09/07/news-p.v1.20260907.8196710f10ab45a98c3ebd3073f2f105_T1.jpg"
     },
     {
-      "title": "[포토] 리센느 미나미 ‘예쁨은 덤’",
-      "url": "https://www.heraldmuse.com/article/10864928?ref=naver",
+      "title": "[포토]리센느 메이 ‘귀요미 볼콕’",
+      "url": "https://www.heraldmuse.com/article/10864929?ref=naver",
       "date": "2026.09.07",
       "source": "heraldmuse.com",
-      "thumbnail": "https://wimg.heraldcorp.com/news/cms/2026/09/07/news-p.v1.20260907.2fddfccf60d94437ae5c86d19c81736e_T1.jpg"
+      "thumbnail": null
+    },
+    {
+      "title": "[포토]리센느 리브 ‘청순한 볼 하트’",
+      "url": "https://www.heraldmuse.com/article/10864931?ref=naver",
+      "date": "2026.09.07",
+      "source": "heraldmuse.com",
+      "thumbnail": "https://wimg.heraldcorp.com/news/cms/2026/09/07/news-p.v1.20260907.977596f9b33e482f81287c8784b9f779_T1.jpg"
     },
     {
       "title": "[포토] 리센느 제나 ‘엉증맞은 볼하트’",
@@ -86,25 +107,18 @@
       "thumbnail": "https://wimg.heraldcorp.com/news/cms/2026/09/07/news-p.v1.20260907.905ce228959f4bd194d648d75a65033c_T1.jpg"
     },
     {
-      "title": "[포토]리센느 리브 ‘청순한 볼 하트’",
-      "url": "https://www.heraldmuse.com/article/10864931?ref=naver",
+      "title": "[포토] 리센느 미나미 ‘예쁨은 덤’",
+      "url": "https://www.heraldmuse.com/article/10864928?ref=naver",
       "date": "2026.09.07",
       "source": "heraldmuse.com",
-      "thumbnail": null
+      "thumbnail": "https://wimg.heraldcorp.com/news/cms/2026/09/07/news-p.v1.20260907.2fddfccf60d94437ae5c86d19c81736e_T1.jpg"
     },
     {
-      "title": "[포토]리센느 메이 ‘귀요미 볼콕’",
-      "url": "https://www.heraldmuse.com/article/10864929?ref=naver",
+      "title": "[포토] 리센느 원이 ‘사랑스런 파이리’",
+      "url": "https://www.heraldmuse.com/article/10864926?ref=naver",
       "date": "2026.09.07",
       "source": "heraldmuse.com",
-      "thumbnail": "https://wimg.heraldcorp.com/news/cms/2026/09/07/news-p.v1.20260907.251d6dfae738483eb7aaf30e70f03949_T1.jpg"
-    },
-    {
-      "title": "[포토] 키키 키야 ‘인형 같은 외모’",
-      "url": "https://www.heraldmuse.com/article/10864925?ref=naver",
-      "date": "2026.09.07",
-      "source": "heraldmuse.com",
-      "thumbnail": null
+      "thumbnail": "https://wimg.heraldcorp.com/news/cms/2026/09/07/news-p.v1.20260907.ea67565706164c0bba76e9a372fc94ce_T1.jpg"
     },
     {
       "title": "[포토] ‘단발 머리가 잘어리는’ 키키 지유",
@@ -114,25 +128,11 @@
       "thumbnail": "https://wimg.heraldcorp.com/news/cms/2026/09/07/news-p.v1.20260907.6c43932492c1418e9939ea4a21911574_T1.jpg"
     },
     {
-      "title": "[포토] 키키 이솔 ‘세련된 외모’",
-      "url": "https://www.heraldmuse.com/article/10864924?ref=naver",
+      "title": "[포토] 키키 하음 ‘물오른 미모’",
+      "url": "https://www.heraldmuse.com/article/10864922?ref=naver",
       "date": "2026.09.07",
       "source": "heraldmuse.com",
-      "thumbnail": "https://wimg.heraldcorp.com/news/cms/2026/09/07/news-p.v1.20260907.c183cca011334c7e806f2f5b61d3e56d_T1.jpg"
-    },
-    {
-      "title": "[포토]키키 수이 ‘섹시한 입술’",
-      "url": "https://www.heraldmuse.com/article/10864923?ref=naver",
-      "date": "2026.09.07",
-      "source": "heraldmuse.com",
-      "thumbnail": "https://wimg.heraldcorp.com/news/cms/2026/09/07/news-p.v1.20260907.bd7b39b623e1485b89bf44011d99a843_T1.jpg"
-    },
-    {
-      "title": "[포토]빌리 시윤 ‘시크한 눈빛’",
-      "url": "https://www.heraldmuse.com/article/10864920?ref=naver",
-      "date": "2026.09.07",
-      "source": "heraldmuse.com",
-      "thumbnail": null
+      "thumbnail": "https://wimg.heraldcorp.com/news/cms/2026/09/07/news-p.v1.20260907.fac950d7ac2b47e1a96901efc39da80c_T1.jpg"
     },
     {
       "title": "서울시관광협회(STA), '2026 살람서울 페스티벌' 개최… 아·중동 문화 교...",
