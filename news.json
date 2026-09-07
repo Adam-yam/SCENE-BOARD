@@ -1,40 +1,110 @@
 {
-  "updated": "2026-09-07T00:00:52Z",
+  "updated": "2026-09-07T01:00:42Z",
   "articles": [
     {
-      "title": "[포토] 리센느 리브 '신비로운 냉미녀'",
-      "url": "https://www.slist.kr/news/articleView.html?idxno=764167",
-      "date": "2026.09.06",
+      "title": "민호·영케이…'2026 KGMA' 2차 라인업",
+      "url": "https://www.newsis.com/view/NISX20260907_0003778672",
+      "date": "2026.09.07",
+      "source": "newsis.com",
+      "thumbnail": "https://img1.newsis.com/2026/09/07/NISI20260907_0002231835_web.jpg"
+    },
+    {
+      "title": "'2026 천안 K-컬처박람회' 40만명 이상 관람객 방문 '성료'",
+      "url": "http://www.dtnews24.com/news/articleView.html?idxno=814951",
+      "date": "2026.09.07",
+      "source": "dtnews24.com",
+      "thumbnail": "https://cdn.dtnews24.com/news/thumbnail/202609/814951_439485_426_v150.jpg"
+    },
+    {
+      "title": "2026 천안 K-컬처박람회 40만명 몰렸다",
+      "url": "https://www.ccdailynews.com/news/articleView.html?idxno=2438860",
+      "date": "2026.09.07",
+      "source": "ccdailynews.com",
+      "thumbnail": "https://cdn.ccdailynews.com/news/thumbnail/202609/2438860_875282_3920_v150.jpg"
+    },
+    {
+      "title": "최예나·유나 합류…'2026 KGMA' 2차 라인업 베일 벗었다",
+      "url": "https://star.ytn.co.kr/_sn/0117_202609070938025106",
+      "date": "2026.09.07",
+      "source": "star.ytn.co.kr",
+      "thumbnail": "https://image.ytn.co.kr/general/jpg/2026/0907/202609070938025106_t.jpg"
+    },
+    {
+      "title": "샤이니 민호·데이식스 영케이·루시 등 10팀, '2026 KGMA' 2차 라인업 합...",
+      "url": "https://www.nc.press/news/articleView.html?idxno=625832",
+      "date": "2026.09.07",
+      "source": "nc.press",
+      "thumbnail": "https://cdn.nc.press/news/photo/202609/625832_858069_3514.jpg"
+    },
+    {
+      "title": "천안 K-컬처박람회에 40만명 몰려…작년보다 4만5천명 늘어",
+      "url": "https://www.yna.co.kr/view/AKR20260907042100063?input=1195m",
+      "date": "2026.09.07",
+      "source": "yna.co.kr",
+      "thumbnail": "https://img8.yna.co.kr/etc/inner/KR/2026/09/07/AKR20260907042100063_01_i_P4.jpg"
+    },
+    {
+      "title": "천안 K-컬처박람회 40만명 방문…K-콘텐츠·체험관 등 흥행 견인",
+      "url": "https://www.nocutnews.co.kr/news/6573823?utm_source=naver&utm_medium=article&utm_campaign=20260907092628",
+      "date": "2026.09.07",
+      "source": "nocutnews.co.kr",
+      "thumbnail": "https://file2.nocutnews.co.kr/newsroom/image/2026/09/07/202609070923196806_0.jpg"
+    },
+    {
+      "title": "바이오던스, 리센느 원이 캠페인 효과… 굿즈 완판·유튜브 1000만뷰",
+      "url": "https://www.fashionbiz.co.kr/article/229247",
+      "date": "2026.09.07",
+      "source": "fashionbiz.co.kr",
+      "thumbnail": "https://www.fashionbiz.co.kr/images/articleImg/mainImg/1788739846667-%EB%B0%94%EC%9D%B4%EC%98%A4%EB%8D%98%EC%8A%A4X%EB%B3%B4%EB%8F%84%EC%9E%90%EB%A3%8C%20(1).jpg"
+    },
+    {
+      "title": "앤더블, ‘2026 SKA’ 5관왕 휩쓸었다…본상·신인상 동시 수상",
+      "url": "https://isplus.com/article/view/isp202609070041",
+      "date": "2026.09.07",
+      "source": "isplus.com",
+      "thumbnail": "https://isplus.com/data/isp/image/2026/09/07/isp20260907000052.800x.0.jpg"
+    },
+    {
+      "title": "‘시청’에서 ‘노출’로…유튜브 개편이 바꾼 아이돌 자컨 성적표 [가...",
+      "url": "https://www.dailian.co.kr/news/view/1686994/?sc=Naver",
+      "date": "2026.09.07",
+      "source": "dailian.co.kr",
+      "thumbnail": null
+    },
+    {
+      "title": "민호·영케이·유나부터 장민호까지…'2026 KGMA' 2차 라인업",
+      "url": "https://www.gpkorea.com/news/articleView.html?idxno=146437",
+      "date": "2026.09.07",
+      "source": "gpkorea.com",
+      "thumbnail": "https://cdn.gpkorea.com/news/photo/202609/146437_311125_1338.jpg"
+    },
+    {
+      "title": "‘2026 KGMA’ 2차 라인업 다영·민호·영케이·유나·최예나 등 총출동",
+      "url": "https://enter.etoday.co.kr/news/view/302066",
+      "date": "2026.09.07",
+      "source": "enter.etoday.co.kr",
+      "thumbnail": "https://img.etoday.co.kr/pto_db/2026/09/600/20260907090646_2383999_1080_1532.jpg"
+    },
+    {
+      "title": "[포토] 리센느 미나미 '상큼발랄 비타민 미소'",
+      "url": "https://www.slist.kr/news/articleView.html?idxno=764174",
+      "date": "2026.09.07",
       "source": "slist.kr",
-      "thumbnail": "https://cdn.slist.kr/news/thumbnail/202609/764167_1170030_5642_v150.jpg"
+      "thumbnail": "https://cdn.slist.kr/news/thumbnail/202609/764174_1170046_413_v150.jpg"
+    },
+    {
+      "title": "다영·민호·영케이·유나·최예나…'2026 KGMA' 2차 라인업 합류",
+      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16185171",
+      "date": "2026.09.07",
+      "source": "topstarnews.net",
+      "thumbnail": "https://cdn.topstarnews.net/news/photo/202609/16185171_2017367_045_crop.jpg"
     },
     {
       "title": "도미노피자, 1334세대 공략…SKT 제휴·리센느 앞세워 할인 경쟁",
       "url": "https://www.viva100.com/article/20260907500125",
       "date": "2026.09.06",
       "source": "viva100.com",
-      "thumbnail": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/09/07/.cache/512/20260907500113.jpg?v=20260907090045"
-    },
-    {
-      "title": "앤더블, '2026 SPOTV K-POP AWARDS'서 팀·개인 합산 5관왕",
-      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16185143",
-      "date": "2026.09.06",
-      "source": "topstarnews.net",
-      "thumbnail": "https://cdn.topstarnews.net/news/photo/202609/16185143_2017305_5040_crop.jpg"
-    },
-    {
-      "title": "'러브 어택' 역주행하더니…리센느, SKA 2관왕",
-      "url": "https://www.gpkorea.com/news/articleView.html?idxno=146429",
-      "date": "2026.09.06",
-      "source": "gpkorea.com",
-      "thumbnail": "https://cdn.gpkorea.com/news/photo/202609/146429_311112_4013.jpg"
-    },
-    {
-      "title": "민호·영케이→루시·박지현…‘2026 KGMA’ 2차 라인업",
-      "url": "https://www.newsen.com/news_view.php?uid=202609070839122410",
-      "date": "2026.09.06",
-      "source": "newsen.com",
-      "thumbnail": "https://photo.newsen.com/news_photo/2026/09/07/202609070839122410_1.jpg"
+      "thumbnail": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/09/07/.cache/512/20260907500113.jpg?v=20260907100040"
     },
     {
       "title": "‘국민 걸그룹’ 리센느 ‘2026 SKA’ 2관왕 달성",
@@ -44,25 +114,11 @@
       "thumbnail": null
     },
     {
-      "title": "리센느, ‘2026 SKA’ 2관왕",
-      "url": "https://www.bntnews.co.kr/article/view/bnt202609070062",
-      "date": "2026.09.06",
-      "source": "bntnews.co.kr",
-      "thumbnail": "https://www.bntnews.co.kr/data/bnt/image/2026/09/07/bnt202609070072.jpg"
-    },
-    {
-      "title": "다영·민호·영케이·유나·최예나·루시·터치드·노벨브라이트·박지현...",
-      "url": "https://isplus.com/article/view/isp202609040026",
-      "date": "2026.09.06",
-      "source": "isplus.com",
-      "thumbnail": "https://isplus.com/data/isp/image/2026/09/06/isp20260906000104.800x.0.jpg"
-    },
-    {
       "title": "[패트롤] 성남시-수원시-용인시-화성시",
       "url": "https://www.ekn.kr/web/view.php?key=20260907028151292",
       "date": "2026.09.06",
       "source": "ekn.kr",
-      "thumbnail": null
+      "thumbnail": "https://www.ekn.kr/mnt/file/202609/news-p.v1.20260907.64f30191e1544b39b5044e5d1b48681b_R.jpeg"
     },
     {
       "title": "[포토] Full of SKA 2026 레드카펫 현장",
@@ -84,34 +140,6 @@
       "date": "2026.09.06",
       "source": "enews.imbc.com",
       "thumbnail": "https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2026/09/06/f5c8aab4-ac1e-481c-848c-d29b3edde446.jpg"
-    },
-    {
-      "title": "[포토] 리센느 원이, 리자몽이 될래요",
-      "url": "http://enews.imbc.com/News/RetrieveNewsInfo/517349",
-      "date": "2026.09.06",
-      "source": "enews.imbc.com",
-      "thumbnail": "https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2026/09/06/1dee43ae-b69a-4c7a-909b-5685d68ba6d3.jpg"
-    },
-    {
-      "title": "수원시 홍보대사 걸 그룹 리센느(RESCENE) '홍보어사' 위촉",
-      "url": "https://www.newspim.com/news/view/20260906000068",
-      "date": "2026.09.06",
-      "source": "newspim.com",
-      "thumbnail": "https://img.newspim.com/news/2026/09/06/2609061418015940_t1.jpg"
-    },
-    {
-      "title": "[TD포토] 리센느 미나미 '볼 콕~'",
-      "url": "http://www.tvdaily.co.kr/read.php3?aid=17886822251801056017",
-      "date": "2026.09.06",
-      "source": "tvdaily.co.kr",
-      "thumbnail": "http://image.tvdaily.co.kr/upimages/gisaimg/202609/1788682225_1801056.jpg"
-    },
-    {
-      "title": "[포토] 리센느 원이, 파이리 향을 물들여~",
-      "url": "http://enews.imbc.com/News/RetrieveNewsInfo/517348",
-      "date": "2026.09.06",
-      "source": "enews.imbc.com",
-      "thumbnail": "https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2026/09/06/16e71a9b-d8be-49d4-9e3b-ca1c2d256a36.jpg"
     }
   ]
 }
