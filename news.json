@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-07T20:00:47Z",
+  "updated": "2026-09-07T21:00:49Z",
   "articles": [
+    {
+      "title": "\"알록달록 가을이 왔다\" 카페업계, 신메뉴에 계절감 입힌다",
+      "url": "https://www.newsis.com/view/NISX20260907_0003779375",
+      "date": "2026.09.07",
+      "source": "newsis.com",
+      "thumbnail": "https://img1.newsis.com/2026/09/07/NISI20260907_0002232364_web.jpg"
+    },
     {
       "title": "‘살 쏙 빠진’ 리센느 미나미, “챙겨 먹은 다이어트 음식 있어”… 대...",
       "url": "https://health.chosun.com/site/data/html_dir/2026/09/07/2026090702425.html",
@@ -83,7 +90,7 @@
       "url": "http://www.joseilbo.com/news/news_read.php?uid=575221&class=17&grp=",
       "date": "2026.09.07",
       "source": "joseilbo.com",
-      "thumbnail": "https://www.joseilbo.com/gisa_img/17887565921788756592_min0212su.jpg"
+      "thumbnail": null
     },
     {
       "title": "천안 K-컬처박람회 40만명 몰렸다…K-콘텐츠·체험형 콘텐츠 '흥행 견인...",
@@ -133,13 +140,6 @@
       "date": "2026.09.07",
       "source": "insight.co.kr",
       "thumbnail": "https://img.insight.co.kr/static/2026/09/07/1200/img_20260907140441_z9e21vw9.jpg"
-    },
-    {
-      "title": "여배우 뺨치는 자태… 이동국 딸 재시가 선택한 이 드레스",
-      "url": "https://www.insight.co.kr/news/572336",
-      "date": "2026.09.07",
-      "source": "insight.co.kr",
-      "thumbnail": "https://img.insight.co.kr/static/2026/09/07/1200/img_20260907164112_za1655fc.jpg"
     }
   ]
 }
