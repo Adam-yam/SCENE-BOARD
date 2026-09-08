@@ -1,12 +1,19 @@
 {
-  "updated": "2026-09-08T21:00:54Z",
+  "updated": "2026-09-08T22:00:49Z",
   "articles": [
+    {
+      "title": "[전국 톡톡] LH 분리해도 본사는 진주‥경남 한숨 돌려",
+      "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6850540_37012.html",
+      "date": "2026.09.08",
+      "source": "imnews.imbc.com",
+      "thumbnail": "https://image.imnews.imbc.com/replay/2026/nwtoday/article/__icsFiles/afieldfile/2026/09/09/today_20260909_063428_2_3_Large.jpg"
+    },
     {
       "title": "‘김종국 옆 주우재’만 노린 비겁한 日 어깨빵, ‘부츠카리’",
       "url": "https://www.segye.com/newsView/20260901518022?OutUrl=naver",
       "date": "2026.09.08",
       "source": "segye.com",
-      "thumbnail": "https://www.segye.com/content/image/2026/09/02/20260902505288.jpg"
+      "thumbnail": null
     },
     {
       "title": "리센느 리트와 메트, 아이스바 패키지까지 등장",
@@ -16,18 +23,18 @@
       "thumbnail": "https://cdn.ggilbo.com/news/photo/202609/1180159_1032641_1522.jpg"
     },
     {
-      "title": "“수학여행 맞아?”…리센느가 반한 동해시의 매력",
-      "url": "https://www.kwnews.co.kr/article/20260908501216",
-      "date": "2026.09.08",
-      "source": "kwnews.co.kr",
-      "thumbnail": "https://kbhvfnyo14945.edge.naverncp.com/data2/content/image/2026/09/08/.cache/512/20260908501198.jpg"
-    },
-    {
       "title": "걸그룹 리센느, 동해시 낭만 즐기며 '특별한 수학여행'",
       "url": "https://www.kado.net/news/articleView.html?idxno=2071436",
       "date": "2026.09.08",
       "source": "kado.net",
       "thumbnail": "https://cdn.kado.net/news/photo/202609/2071436_880210_2825.jpg"
+    },
+    {
+      "title": "“수학여행 맞아?”…리센느가 반한 동해시의 매력",
+      "url": "https://www.kwnews.co.kr/article/20260908501216",
+      "date": "2026.09.08",
+      "source": "kwnews.co.kr",
+      "thumbnail": "https://kbhvfnyo14945.edge.naverncp.com/data2/content/image/2026/09/08/.cache/512/20260908501198.jpg"
     },
     {
       "title": "리센느, 4명 몸무게 도합 180kg 안 돼 충격..도대체 얼마나 마른 거야(‘...",
@@ -86,18 +93,18 @@
       "thumbnail": null
     },
     {
-      "title": "리센느, 얼마나 말랐길래…\"넷이 합쳐 180kg 안 된다\" [마데핫리뷰]",
-      "url": "https://www.mydaily.co.kr/page/view/2026090818492537977",
-      "date": "2026.09.08",
-      "source": "mydaily.co.kr",
-      "thumbnail": "https://mydaily.co.kr/photos/2026/09/08/2026090818571404717_l.png"
-    },
-    {
       "title": "[수해 피해 지역 복구 점검] 활기찬 시장, 더딘 지하상권… 거제 회복 온...",
       "url": "https://www.knnews.co.kr/news/articleView.php?idxno=1550428",
       "date": "2026.09.08",
       "source": "knnews.co.kr",
       "thumbnail": "https://cdn.knnews.co.kr/edb/nimages/2026/09/2026090819224310056.jpg"
+    },
+    {
+      "title": "리센느, 얼마나 말랐길래…\"넷이 합쳐 180kg 안 된다\" [마데핫리뷰]",
+      "url": "https://www.mydaily.co.kr/page/view/2026090818492537977",
+      "date": "2026.09.08",
+      "source": "mydaily.co.kr",
+      "thumbnail": "https://mydaily.co.kr/photos/2026/09/08/2026090818571404717_l.png"
     },
     {
       "title": "\"리센느 보느라 잠 못 자\" 고준희도 빠졌다..수산시장서 '야호~'",
@@ -133,13 +140,6 @@
       "date": "2026.09.08",
       "source": "cbci.co.kr",
       "thumbnail": "https://www.cbci.co.kr/news/thumbnail/202609/604930_415091_5227_v150.jpg"
-    },
-    {
-      "title": "690만뷰 터진 리센느 먹방…“맛 궁금해” 매출 대박난 음식 정체",
-      "url": "https://www.joongang.co.kr/article/25460113",
-      "date": "2026.09.08",
-      "source": "joongang.co.kr",
-      "thumbnail": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202609/08/606f2c32-26d7-4c9b-bebd-d32b6a4a7609.jpg"
     }
   ]
 }
