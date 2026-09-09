@@ -1,6 +1,34 @@
 {
-  "updated": "2026-09-09T04:00:48Z",
+  "updated": "2026-09-09T05:00:50Z",
   "articles": [
+    {
+      "title": "[의령 24시] 의령 '농촌에서 살아보기' 1기 참가 5가구 전입…2기 시작",
+      "url": "https://www.sisajournal.com/news/articleView.html?idxno=386554",
+      "date": "2026.09.09",
+      "source": "sisajournal.com",
+      "thumbnail": "https://cdn.sisajournal.com/news/thumbnail/202609/386554_394740_5416_v150.jpg"
+    },
+    {
+      "title": "'거제야호' 다음은 동해... 리센느, MZ세대 겨냥 관광 홍보 나섰다",
+      "url": "https://www.insight.co.kr/news/572596",
+      "date": "2026.09.09",
+      "source": "insight.co.kr",
+      "thumbnail": "https://img.insight.co.kr/static/2026/09/09/1200/img_20260909094626_3des85oq.jpg"
+    },
+    {
+      "title": "“음방 다닐 때 들고 다녔다”… 리센느 미나미, 늘씬 몸매 비결 ‘이 ...",
+      "url": "https://kormedi.com/?p=2861929",
+      "date": "2026.09.09",
+      "source": "kormedi.com",
+      "thumbnail": "https://kormedi.com/wp-content/uploads/2026/09/unnamed-file-97-edited.jpg"
+    },
+    {
+      "title": "리센느, 빅뱅 꺾고 아차랭킹 1위…역시 대세 걸그룹",
+      "url": "https://www.mydaily.co.kr/page/view/2026090910414842209",
+      "date": "2026.09.09",
+      "source": "mydaily.co.kr",
+      "thumbnail": "https://mydaily.co.kr/photos/2026/09/09/2026090910443501205_l.jpg"
+    },
     {
       "title": "[단독]지창욱, '비서진' 또 뜬다…이서진X김광규 '스캔들' 제작발표회 포...",
       "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1006513",
@@ -34,7 +62,7 @@
       "url": "http://www.newsprime.co.kr/news/article.html?no=747018",
       "date": "2026.09.09",
       "source": "newsprime.co.kr",
-      "thumbnail": "https://www.newsprime.co.kr/data/photos/cdn/20260937/art_747018_1788918898.jpg"
+      "thumbnail": null
     },
     {
       "title": "서울-아중동, K팝·패션쇼·전통공연으로 통했다…살람서울 페스티벌 성...",
@@ -90,7 +118,7 @@
       "url": "https://www.sportsworldi.com/newsView/20260909507386",
       "date": "2026.09.09",
       "source": "sportsworldi.com",
-      "thumbnail": "https://www.sportsworldi.com/content/image/2026/09/09/20260909507383.jpg"
+      "thumbnail": "https://www.sportsworldi.com/content/image/2026/09/09/20260909510471.jpg"
     },
     {
       "title": "‘유퀴즈’ 73세 윙슈터→85세 순정만화가…‘끝인 줄 알았지’ 특집",
@@ -107,39 +135,11 @@
       "thumbnail": "https://cdn.slist.kr/news/thumbnail/202609/764746_1170832_337_v150.jpg"
     },
     {
-      "title": "리센느, \"아차랭킹 1위\" 8월 5주차 총점 2만 점 돌파",
-      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16187523",
-      "date": "2026.09.09",
-      "source": "topstarnews.net",
-      "thumbnail": "https://cdn.topstarnews.net/news/photo/202609/16187523_2020128_2811_crop.jpg"
-    },
-    {
-      "title": "고윤정·이준호·이채민·차준환… '2026 KGMA' 시상자 39인 공개",
-      "url": "https://www.edaily.co.kr/News/Read?newsId=03217686645578480&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-      "date": "2026.09.09",
-      "source": "edaily.co.kr",
-      "thumbnail": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/09/PS26090900553.jpg"
-    },
-    {
       "title": "“피자 먹고 사인앨범 받고, 햄버거 먹고 5㎞ 뛴다”…유통업계, MZ ‘놀...",
       "url": "https://www.segye.com/newsView/20260909506199?OutUrl=naver",
       "date": "2026.09.09",
       "source": "segye.com",
       "thumbnail": "https://www.segye.com/content/image/2026/09/09/20260909506211.png"
-    },
-    {
-      "title": "리센느빵 나온다…포켓몬빵처럼 품절대란 벌어질까?",
-      "url": "https://sports.khan.co.kr/article/202609090924003?pt=nv",
-      "date": "2026.09.09",
-      "source": "sports.khan.co.kr",
-      "thumbnail": null
-    },
-    {
-      "title": "KGMA, 고윤정·이선빈·이준호·이채민·차준환·한선화 등…시상자 라인...",
-      "url": "https://www.sportsseoul.com/news/read/1633866?ref=naver",
-      "date": "2026.09.09",
-      "source": "sportsseoul.com",
-      "thumbnail": "https://file.sportsseoul.com/news/cms/2026/09/09/news-p.v1.20260909.c930143ed81246c798c1c0f6c256219c_T1.jpg"
     }
   ]
 }
