@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09T07:10:28Z",
+  "updated": "2026-09-09T08:10:30Z",
   "videos": [
     {
       "id": "Tl8f4RWJnUc",
@@ -50,6 +50,14 @@
       "type": "long"
     },
     {
+      "id": "AQCci-VrGC0",
+      "title": "#JULIE #NATTY 선배님과 어디서나 당당하게 걷기 🎀",
+      "url": "https://www.youtube.com/shorts/AQCci-VrGC0",
+      "thumbnail": "https://i.ytimg.com/vi/AQCci-VrGC0/mqdefault.jpg",
+      "date": "2026.09.09",
+      "type": "short"
+    },
+    {
       "id": "QSsZ8Y1JpYg",
       "title": "#장하오 님과 어디서나 당당하게 걷기 🎀",
       "url": "https://www.youtube.com/shorts/QSsZ8Y1JpYg",
@@ -87,14 +95,6 @@
       "url": "https://www.youtube.com/shorts/S-qvrhCGZOQ",
       "thumbnail": "https://i.ytimg.com/vi/S-qvrhCGZOQ/mqdefault.jpg",
       "date": "2026.09.06",
-      "type": "short"
-    },
-    {
-      "id": "AyOziYkJiv8",
-      "title": "Lost in those eyes",
-      "url": "https://www.youtube.com/shorts/AyOziYkJiv8",
-      "thumbnail": "https://i.ytimg.com/vi/AyOziYkJiv8/mqdefault.jpg",
-      "date": "2026.09.05",
       "type": "short"
     }
   ]
