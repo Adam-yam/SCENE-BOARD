@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09T06:10:28Z",
+  "updated": "2026-09-09T07:10:28Z",
   "videos": [
     {
       "id": "Tl8f4RWJnUc",
@@ -34,20 +34,28 @@
       "type": "long"
     },
     {
-      "id": "WAO9dDGcCsA",
-      "title": "까엉이와 애봉이의 치트키 먹방🍽",
-      "url": "https://www.youtube.com/watch?v=WAO9dDGcCsA",
-      "thumbnail": "https://i.ytimg.com/vi/WAO9dDGcCsA/mqdefault.jpg",
-      "date": "2026.08.30",
-      "type": "long"
-    },
-    {
       "id": "oO2aZKOWbdk",
       "title": "리브🤍🤍",
       "url": "https://www.youtube.com/watch?v=oO2aZKOWbdk",
       "thumbnail": "https://i.ytimg.com/vi/oO2aZKOWbdk/mqdefault.jpg",
       "date": "2026.08.24",
       "type": "long"
+    },
+    {
+      "id": "QDkBLWkwqhw",
+      "title": "까엉까엉이🩷🩷",
+      "url": "https://www.youtube.com/watch?v=QDkBLWkwqhw",
+      "thumbnail": "https://i.ytimg.com/vi/QDkBLWkwqhw/mqdefault.jpg",
+      "date": "2026.08.22",
+      "type": "long"
+    },
+    {
+      "id": "QSsZ8Y1JpYg",
+      "title": "#장하오 님과 어디서나 당당하게 걷기 🎀",
+      "url": "https://www.youtube.com/shorts/QSsZ8Y1JpYg",
+      "thumbnail": "https://i.ytimg.com/vi/QSsZ8Y1JpYg/mqdefault.jpg",
+      "date": "2026.09.09",
+      "type": "short"
     },
     {
       "id": "dz17X7T7jz4",
@@ -87,14 +95,6 @@
       "url": "https://www.youtube.com/shorts/AyOziYkJiv8",
       "thumbnail": "https://i.ytimg.com/vi/AyOziYkJiv8/mqdefault.jpg",
       "date": "2026.09.05",
-      "type": "short"
-    },
-    {
-      "id": "jGyDVoKfmOY",
-      "title": "[티저] 느닷없이 나타나서 당황하셨다고요? | 리센느닷없이 Teaser | RESCENE (리센느)",
-      "url": "https://www.youtube.com/watch?v=jGyDVoKfmOY",
-      "thumbnail": "https://i.ytimg.com/vi/jGyDVoKfmOY/mqdefault.jpg",
-      "date": "2026.09.04",
       "type": "short"
     }
   ]
