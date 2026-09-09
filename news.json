@@ -1,6 +1,20 @@
 {
-  "updated": "2026-09-09T13:00:52Z",
+  "updated": "2026-09-09T14:00:47Z",
   "articles": [
+    {
+      "title": "\"이게…나?\" 유재석, 85세 민애니 작가 그림에 '깜짝' (유퀴즈) [TV나우]",
+      "url": "http://www.tvdaily.co.kr/read.php3?aid=17889602071801648019",
+      "date": "2026.09.09",
+      "source": "tvdaily.co.kr",
+      "thumbnail": "http://image.tvdaily.co.kr/upimages/gisaimg/202609/1788960207_1801648.jpg"
+    },
+    {
+      "title": "리센느 픽으로 피자 먹고 사인 CD까지, 외식 업계 팬덤&체험 마케팅 박...",
+      "url": "https://www.ppss.kr/news/articleView.html?idxno=309705",
+      "date": "2026.09.09",
+      "source": "ppss.kr",
+      "thumbnail": "https://cdn.ppss.kr/news/photo/202609/309705_130869_939.jpg"
+    },
     {
       "title": "BTS 리센느 그린 85세 작가, 유재석도 그렸다‥로판 남주 재질에 “카톡...",
       "url": "https://www.newsen.com/news_view.php?uid=202609091902246110",
@@ -93,18 +107,18 @@
       "thumbnail": "https://pimg.mk.co.kr/news/cms/202609/09/news-p.v1.20260909.2017628826744e93a4ef26773dd15b29_R.jpg"
     },
     {
-      "title": "임영웅, 신보로 다시 쓴 '히어로'의 기록",
-      "url": "http://www.sportsq.co.kr/news/articleView.html?idxno=498146",
-      "date": "2026.09.09",
-      "source": "sportsq.co.kr",
-      "thumbnail": "http://www.sportsq.co.kr/news/thumbnail/202609/498146_576863_4941_v150.jpg"
-    },
-    {
       "title": "'거제 야호' 리센느, 연예인 최초 명예시민 됐다...거제와 특별한 인연",
       "url": "https://www.mhns.co.kr/news/articleView.html?idxno=759648",
       "date": "2026.09.09",
       "source": "mhns.co.kr",
       "thumbnail": "https://cdn.mhns.co.kr/news/thumbnail/202609/759648_893651_452_v150.jpg"
+    },
+    {
+      "title": "임영웅, 신보로 다시 쓴 '히어로'의 기록",
+      "url": "http://www.sportsq.co.kr/news/articleView.html?idxno=498146",
+      "date": "2026.09.09",
+      "source": "sportsq.co.kr",
+      "thumbnail": "http://www.sportsq.co.kr/news/thumbnail/202609/498146_576863_4941_v150.jpg"
     },
     {
       "title": "[유통가 NOW] 롯데웰푸드 찰떡아이스 우주떡집 품귀·CJ프레시웨이 자원...",
@@ -118,7 +132,7 @@
       "url": "https://www.sedaily.com/article/20089077?ref=naver",
       "date": "2026.09.09",
       "source": "sedaily.com",
-      "thumbnail": null
+      "thumbnail": "https://wimg.sedaily.com/news/cms/2026/09/09/news-p.v1.20260909.9cd8eda9f7c842869ad33ebd4a0212b5_Z1.jpg"
     },
     {
       "title": "\"거제 야호\" 걸그룹 리센느, 이제는 '거제 명예시민'",
@@ -126,20 +140,6 @@
       "date": "2026.09.09",
       "source": "yonhapnewstv.co.kr",
       "thumbnail": "https://media.yonhapnewstv.co.kr/article/AKR/20260909/AKR202609091745389Eo_01_i.jpg"
-    },
-    {
-      "title": "리센느, 아이돌차트 8월 5주차 아차랭킹 1위..2위 빅뱅·3위 에스파",
-      "url": "http://www.breaknews.com/1235409",
-      "date": "2026.09.09",
-      "source": "breaknews.com",
-      "thumbnail": "https://www.breaknews.com/imgdata/breaknews_com/202608/2026081014324448.jpg"
-    },
-    {
-      "title": "Drink Diplo's tea, try Riize's snacks at Spotify's 'Best Place to Be a Fa...",
-      "url": "https://www.koreajoongangdaily.com/entertainment/drink-diplos-tea-try-riizes-snacks-at-spotifys-best-place-to-be-a-fan/12868105",
-      "date": "2026.09.09",
-      "source": "koreajoongangdaily.com",
-      "thumbnail": "https://image.koreajoongangdaily.com/12868323.jpg?imageId=12868323&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
     }
   ]
 }
