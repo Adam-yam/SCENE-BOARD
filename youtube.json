@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09T12:10:29Z",
+  "updated": "2026-09-09T13:10:27Z",
   "videos": [
     {
       "id": "Tl8f4RWJnUc",
@@ -50,6 +50,14 @@
       "type": "long"
     },
     {
+      "id": "pshafIOggx4",
+      "title": "불협화음(?) 리센느닷없이 | 리센느닷없이 | RESCENE (리센느)",
+      "url": "https://www.youtube.com/shorts/pshafIOggx4",
+      "thumbnail": "https://i.ytimg.com/vi/pshafIOggx4/mqdefault.jpg",
+      "date": "2026.09.09",
+      "type": "short"
+    },
+    {
       "id": "fmz1znE6-iA",
       "title": "아~니 돈 봉투가 없어?! | 리센느닷없이 | RESCENE (리센느)",
       "url": "https://www.youtube.com/watch?v=fmz1znE6-iA",
@@ -87,14 +95,6 @@
       "url": "https://www.youtube.com/shorts/szmtGOdxwPo",
       "thumbnail": "https://i.ytimg.com/vi/szmtGOdxwPo/mqdefault.jpg",
       "date": "2026.09.08",
-      "type": "short"
-    },
-    {
-      "id": "B2H9WKx-0wo",
-      "title": "리마인 ❤️‍🔥",
-      "url": "https://www.youtube.com/shorts/B2H9WKx-0wo",
-      "thumbnail": "https://i.ytimg.com/vi/B2H9WKx-0wo/mqdefault.jpg",
-      "date": "2026.09.06",
       "type": "short"
     }
   ]
