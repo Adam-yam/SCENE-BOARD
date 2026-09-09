@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09T18:00:52Z",
+  "updated": "2026-09-09T19:00:54Z",
   "articles": [
     {
       "title": "리센느, 연예인 최초 거제 명예시민 된다",
@@ -23,18 +23,18 @@
       "thumbnail": "https://cdn.ppss.kr/news/photo/202609/309705_130869_939.jpg"
     },
     {
-      "title": "BTS 리센느 그린 85세 작가, 유재석도 그렸다‥로판 남주 재질에 “카톡...",
-      "url": "https://www.newsen.com/news_view.php?uid=202609091902246110",
-      "date": "2026.09.09",
-      "source": "newsen.com",
-      "thumbnail": "https://photo.newsen.com/news_photo/2026/09/09/202609091902246110_1.jpg"
-    },
-    {
       "title": "“유재석도 로판 남주로”…85세 순정만화가 민애니, 직접 그린 모습 공...",
       "url": "https://isplus.com/article/view/isp202609090172",
       "date": "2026.09.09",
       "source": "isplus.com",
       "thumbnail": "https://isplus.com/data/isp/image/2026/09/09/isp20260909000273.800x.0.png"
+    },
+    {
+      "title": "BTS 리센느 그린 85세 작가, 유재석도 그렸다‥로판 남주 재질에 “카톡...",
+      "url": "https://www.newsen.com/news_view.php?uid=202609091902246110",
+      "date": "2026.09.09",
+      "source": "newsen.com",
+      "thumbnail": "https://photo.newsen.com/news_photo/2026/09/09/202609091902246110_1.jpg"
     },
     {
       "title": "동국대 영캠프, 1만 청년 참여 '수계·축제의 장'으로",
@@ -132,14 +132,14 @@
       "url": "https://www.ekn.kr/web/view.php?key=20260909021122709",
       "date": "2026.09.09",
       "source": "ekn.kr",
-      "thumbnail": "https://www.ekn.kr/mnt/file/202609/news-p.v1.20260909.136402f6830040c5ab6f4fca8cce48aa_R.png"
+      "thumbnail": null
     },
     {
       "title": "대학 캠퍼스가 거대한 영화 세트장…‘시네마 캠퍼스’로 부상한 계명대",
       "url": "https://www.sedaily.com/article/20089077?ref=naver",
       "date": "2026.09.09",
       "source": "sedaily.com",
-      "thumbnail": "https://wimg.sedaily.com/news/cms/2026/09/09/news-p.v1.20260909.9cd8eda9f7c842869ad33ebd4a0212b5_Z1.jpg"
+      "thumbnail": null
     }
   ]
 }
