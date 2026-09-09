@@ -1,6 +1,34 @@
 {
-  "updated": "2026-09-09T21:00:50Z",
+  "updated": "2026-09-09T22:01:25Z",
   "articles": [
+    {
+      "title": "'51초 만에 마감!'...동국대 '영캠프', 청년 불자 1만 명 수계",
+      "url": "https://news.bbsi.co.kr/news/articleView.html?idxno=4105677",
+      "date": "2026.09.09",
+      "source": "news.bbsi.co.kr",
+      "thumbnail": "https://cdn.news.bbsi.co.kr/news/thumbnail/202609/4105677_762509_811_v150.jpg"
+    },
+    {
+      "title": "[SC인터뷰]\"삼촌 이동욱에 키스신 자랑\"…총칼 내려놓은 김혜준, '최애의...",
+      "url": "https://www.sportschosun.com/entertainment/2026-09-09/202609090100065140004179",
+      "date": "2026.09.09",
+      "source": "sportschosun.com",
+      "thumbnail": "https://www.sportschosun.com/article/html/2026/09/09/2026090901000651400041791_w.jpg"
+    },
+    {
+      "title": "유재석이 순정 만화+K-팝 주인공?, 85세 민애니 작가의 매직",
+      "url": "https://www.mediafine.co.kr/news/articleView.html?idxno=89325",
+      "date": "2026.09.09",
+      "source": "mediafine.co.kr",
+      "thumbnail": "https://cdn.mediafine.co.kr/news/photo/202609/89325_127564_3848.jpg"
+    },
+    {
+      "title": "유재석, 85세 순정만화가 손에서 ‘로판 남주’ 됐다…“프로필 사진 하...",
+      "url": "https://www.tenasia.co.kr/article/2026090949364",
+      "date": "2026.09.09",
+      "source": "tenasia.co.kr",
+      "thumbnail": "https://img.tenasia.co.kr/photo/202609/BF.45624435.1.jpg"
+    },
     {
       "title": "BTS 리센느 그린 85세 만화가, 독립운동가 민영환 후예였다 “父 애국심...",
       "url": "https://www.newsen.com/news_view.php?uid=202609091903186110",
@@ -55,7 +83,7 @@
       "url": "http://www.kjdaily.com/article.php?aid=1788949738686477062",
       "date": "2026.09.09",
       "source": "kjdaily.com",
-      "thumbnail": null
+      "thumbnail": "http://www.kjdaily.com/upimages/gisaimg/202609/10-686477.jpg"
     },
     {
       "title": "영화가 사랑한 계명대, 120편의 기록",
@@ -107,39 +135,11 @@
       "thumbnail": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/09/PS26090901195.jpg"
     },
     {
-      "title": "홍보대사 위촉되더니…리센느 원이 고향서 들려온 기쁜 소식",
-      "url": "https://www.mk.co.kr/article/12148637",
+      "title": "Inside Spotify House Seoul ? 3 floors built around the listener",
+      "url": "https://www.koreatimes.co.kr/path/A2026090916500001338",
       "date": "2026.09.09",
-      "source": "mk.co.kr",
-      "thumbnail": "https://pimg.mk.co.kr/news/cms/202609/09/news-p.v1.20260909.2017628826744e93a4ef26773dd15b29_R.jpg"
-    },
-    {
-      "title": "임영웅, 신보로 다시 쓴 '히어로'의 기록",
-      "url": "http://www.sportsq.co.kr/news/articleView.html?idxno=498146",
-      "date": "2026.09.09",
-      "source": "sportsq.co.kr",
-      "thumbnail": "http://www.sportsq.co.kr/news/thumbnail/202609/498146_576863_4941_v150.jpg"
-    },
-    {
-      "title": "'거제 야호' 리센느, 연예인 최초 명예시민 됐다...거제와 특별한 인연",
-      "url": "https://www.mhns.co.kr/news/articleView.html?idxno=759648",
-      "date": "2026.09.09",
-      "source": "mhns.co.kr",
-      "thumbnail": "https://cdn.mhns.co.kr/news/thumbnail/202609/759648_893651_452_v150.jpg"
-    },
-    {
-      "title": "[유통가 NOW] 롯데웰푸드 찰떡아이스 우주떡집 품귀·CJ프레시웨이 자원...",
-      "url": "https://www.ekn.kr/web/view.php?key=20260909021122709",
-      "date": "2026.09.09",
-      "source": "ekn.kr",
-      "thumbnail": "https://www.ekn.kr/mnt/file/202609/news-p.v1.20260909.136402f6830040c5ab6f4fca8cce48aa_R.png"
-    },
-    {
-      "title": "Drink Diplo's tea, try Riize's snacks at Spotify's 'Best Place to Be a Fa...",
-      "url": "https://www.koreajoongangdaily.com/entertainment/drink-diplos-tea-try-riizes-snacks-at-spotifys-best-place-to-be-a-fan/12868105",
-      "date": "2026.09.09",
-      "source": "koreajoongangdaily.com",
-      "thumbnail": "https://image.koreajoongangdaily.com/12868323.jpg?imageId=12868323&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+      "source": "koreatimes.co.kr",
+      "thumbnail": null
     }
   ]
 }
