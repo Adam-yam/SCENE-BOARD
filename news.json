@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-09T20:00:50Z",
+  "updated": "2026-09-09T21:00:50Z",
   "articles": [
+    {
+      "title": "BTS 리센느 그린 85세 만화가, 독립운동가 민영환 후예였다 “父 애국심...",
+      "url": "https://www.newsen.com/news_view.php?uid=202609091903186110",
+      "date": "2026.09.09",
+      "source": "newsen.com",
+      "thumbnail": "https://photo.newsen.com/news_photo/2026/09/09/202609091903186110_1.jpg"
+    },
     {
       "title": "리센느, 연예인 최초 거제 명예시민 된다",
       "url": "https://enter.etoday.co.kr/news/view/302200",
@@ -28,13 +35,6 @@
       "date": "2026.09.09",
       "source": "isplus.com",
       "thumbnail": "https://isplus.com/data/isp/image/2026/09/09/isp20260909000273.800x.0.png"
-    },
-    {
-      "title": "BTS 리센느 그린 85세 작가, 유재석도 그렸다‥로판 남주 재질에 “카톡...",
-      "url": "https://www.newsen.com/news_view.php?uid=202609091902246110",
-      "date": "2026.09.09",
-      "source": "newsen.com",
-      "thumbnail": "https://photo.newsen.com/news_photo/2026/09/09/202609091902246110_1.jpg"
     },
     {
       "title": "동국대 영캠프, 1만 청년 참여 '수계·축제의 장'으로",
@@ -114,18 +114,18 @@
       "thumbnail": "https://pimg.mk.co.kr/news/cms/202609/09/news-p.v1.20260909.2017628826744e93a4ef26773dd15b29_R.jpg"
     },
     {
-      "title": "'거제 야호' 리센느, 연예인 최초 명예시민 됐다...거제와 특별한 인연",
-      "url": "https://www.mhns.co.kr/news/articleView.html?idxno=759648",
-      "date": "2026.09.09",
-      "source": "mhns.co.kr",
-      "thumbnail": "https://cdn.mhns.co.kr/news/thumbnail/202609/759648_893651_452_v150.jpg"
-    },
-    {
       "title": "임영웅, 신보로 다시 쓴 '히어로'의 기록",
       "url": "http://www.sportsq.co.kr/news/articleView.html?idxno=498146",
       "date": "2026.09.09",
       "source": "sportsq.co.kr",
       "thumbnail": "http://www.sportsq.co.kr/news/thumbnail/202609/498146_576863_4941_v150.jpg"
+    },
+    {
+      "title": "'거제 야호' 리센느, 연예인 최초 명예시민 됐다...거제와 특별한 인연",
+      "url": "https://www.mhns.co.kr/news/articleView.html?idxno=759648",
+      "date": "2026.09.09",
+      "source": "mhns.co.kr",
+      "thumbnail": "https://cdn.mhns.co.kr/news/thumbnail/202609/759648_893651_452_v150.jpg"
     },
     {
       "title": "[유통가 NOW] 롯데웰푸드 찰떡아이스 우주떡집 품귀·CJ프레시웨이 자원...",
@@ -135,11 +135,11 @@
       "thumbnail": "https://www.ekn.kr/mnt/file/202609/news-p.v1.20260909.136402f6830040c5ab6f4fca8cce48aa_R.png"
     },
     {
-      "title": "대학 캠퍼스가 거대한 영화 세트장…‘시네마 캠퍼스’로 부상한 계명대",
-      "url": "https://www.sedaily.com/article/20089077?ref=naver",
+      "title": "Drink Diplo's tea, try Riize's snacks at Spotify's 'Best Place to Be a Fa...",
+      "url": "https://www.koreajoongangdaily.com/entertainment/drink-diplos-tea-try-riizes-snacks-at-spotifys-best-place-to-be-a-fan/12868105",
       "date": "2026.09.09",
-      "source": "sedaily.com",
-      "thumbnail": "https://wimg.sedaily.com/news/cms/2026/09/09/news-p.v1.20260909.9cd8eda9f7c842869ad33ebd4a0212b5_Z1.jpg"
+      "source": "koreajoongangdaily.com",
+      "thumbnail": "https://image.koreajoongangdaily.com/12868323.jpg?imageId=12868323&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
     }
   ]
 }
