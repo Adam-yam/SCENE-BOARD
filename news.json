@@ -1,6 +1,20 @@
 {
-  "updated": "2026-09-10T08:00:50Z",
+  "updated": "2026-09-10T09:00:50Z",
   "articles": [
+    {
+      "title": "2026년 8월 써클차트, 리센느·스트레이 키즈·헌트릭스 활약..빛나는 인...",
+      "url": "http://www.breaknews.com/1235839",
+      "date": "2026.09.10",
+      "source": "breaknews.com",
+      "thumbnail": "https://www.breaknews.com/imgdata/breaknews_com/202609/2026091043553117.jpg"
+    },
+    {
+      "title": "\"최신 트렌드·핫 브랜드 한자리에\"… 현대백화점, 130개 팝업 대잔치 연...",
+      "url": "http://www.economytalk.kr/news/articleView.html?idxno=424037",
+      "date": "2026.09.10",
+      "source": "economytalk.kr",
+      "thumbnail": "https://cdn.economytalk.kr/news/photo/202609/424037_231637_1921.png"
+    },
     {
       "title": "'리센느' 빵 나온다...CU, 리센느와 협업한 베이커리 5종 순차 출시",
       "url": "https://www.livebiz.today/news/articleView.html?idxno=204771",
@@ -41,14 +55,7 @@
       "url": "http://www.tvdaily.co.kr/read.php3?aid=17890218001801712010",
       "date": "2026.09.10",
       "source": "tvdaily.co.kr",
-      "thumbnail": null
-    },
-    {
-      "title": "KBS 레이-MBC 리센느-SBS 배성재…日아시안게임, 방송3사 승부수는 [MD포...",
-      "url": "https://www.mydaily.co.kr/page/view/2026091015444193504",
-      "date": "2026.09.10",
-      "source": "mydaily.co.kr",
-      "thumbnail": "https://mydaily.co.kr/photos/2026/09/10/2026091015440588387_l.png"
+      "thumbnail": "http://image.tvdaily.co.kr/upimages/gisaimg/202609/101801712.jpg"
     },
     {
       "title": "올해 의령리치페스티벌에 대세 걸그룹 ‘리센느’ 출동",
@@ -58,11 +65,18 @@
       "thumbnail": "https://cdn.knnews.co.kr/edb/nimages/2026/09/2026091009294312501.jpeg"
     },
     {
+      "title": "KBS 레이-MBC 리센느-SBS 배성재…日아시안게임, 방송3사 승부수는 [MD포...",
+      "url": "https://www.mydaily.co.kr/page/view/2026091015444193504",
+      "date": "2026.09.10",
+      "source": "mydaily.co.kr",
+      "thumbnail": "https://mydaily.co.kr/photos/2026/09/10/2026091015440588387_l.png"
+    },
+    {
       "title": "리센느, 멤버 전원 거제시 명예시민 위촉 \"연예인 최초\"",
       "url": "http://www.stoo.com/article.php?aid=108819264830",
       "date": "2026.09.10",
       "source": "stoo.com",
-      "thumbnail": null
+      "thumbnail": "https://www.stoo.com/upimages/gisaimg/202609/1789021910_20260830184216-9206.jpg"
     },
     {
       "title": "\"거제 야호\" 리센느, 거제 홍보대사 넘어 명예시민 됐다",
@@ -72,13 +86,6 @@
       "thumbnail": "https://newsimg.hankookilbo.com/2026/09/10/cd8696b7-7786-4b3b-b7df-8c7b231c0e90.jpg"
     },
     {
-      "title": "“거제 야호!” 리센느, 결국 연예인 최초 ‘명예시민’ 됐다",
-      "url": "https://www.mk.co.kr/article/12149382",
-      "date": "2026.09.10",
-      "source": "mk.co.kr",
-      "thumbnail": "https://pimg.mk.co.kr/news/cms/202609/10/news-p.v1.20260910.04848316af6444ae801323251e37deee_R.jpeg"
-    },
-    {
       "title": "리센느, '연예인 최초' 기록 세웠다…홍보대사 위촉 4개월 만→'거제 명...",
       "url": "https://www.tvreport.co.kr/entertainment/article/1074768/",
       "date": "2026.09.10",
@@ -86,11 +93,18 @@
       "thumbnail": "https://d3h3k01ny8mjr.cloudfront.net/tv-report/2026/09/10152315/CP-2022-0227-39637680-thumb.jpg"
     },
     {
+      "title": "“거제 야호!” 리센느, 결국 연예인 최초 ‘명예시민’ 됐다",
+      "url": "https://www.mk.co.kr/article/12149382",
+      "date": "2026.09.10",
+      "source": "mk.co.kr",
+      "thumbnail": "https://pimg.mk.co.kr/news/cms/202609/10/news-p.v1.20260910.04848316af6444ae801323251e37deee_R.jpeg"
+    },
+    {
       "title": "리센느 멤버 전원 거제시 '명예 시민' 됐다…67명 중 '최초'",
       "url": "https://mhnse.com/news/articleView.html?idxno=1534624",
       "date": "2026.09.10",
       "source": "mhnse.com",
-      "thumbnail": "https://cdn.mhnse.com/mhnsports/2026/09/10150741/thumb_ccms_55616.jpg"
+      "thumbnail": null
     },
     {
       "title": "‘거제 야호’로 흥한 리센느, 연예인 최초 ‘거제 명예시민’ 됐다",
@@ -114,20 +128,6 @@
       "thumbnail": "https://photo.newsen.com/news_photo/2026/09/10/202609101432562510_1.jpg"
     },
     {
-      "title": "리센느, '거제 야호' 인연 이어 '연예인 1호' 거제 명예시민 선정",
-      "url": "http://www.starnewsk.com/news/articleView.html?idxno=58934",
-      "date": "2026.09.10",
-      "source": "starnewsk.com",
-      "thumbnail": "https://cdn.starnewsk.com/news/thumbnail/202609/58934_85546_2848_v150.jpg"
-    },
-    {
-      "title": "'로컬힙' 리센느·'그루비 힙' 스키즈…8월 써클차트, '정체성' 강자 두...",
-      "url": "https://www.nc.press/news/articleView.html?idxno=626184",
-      "date": "2026.09.10",
-      "source": "nc.press",
-      "thumbnail": "https://cdn.nc.press/news/photo/202609/626184_858936_3017.jpg"
-    },
-    {
       "title": "Spotify House Seoul returns with Diplo, bringing the streaming experience...",
       "url": "https://www.koreaherald.com/article/10869265?ref=naver",
       "date": "2026.09.10",
@@ -135,11 +135,11 @@
       "thumbnail": "https://wimg.heraldcorp.com/news/cms/2026/09/10/news-p.v1.20260910.14f97e1bfcb84b4cbcfe69661d681c68_T1.jpg"
     },
     {
-      "title": "Rescene becomes first K-pop group named honorary citizens of Geoje",
-      "url": "https://www.koreaherald.com/article/10869258?ref=naver",
+      "title": "리센느, '거제 야호' 인연 이어 '연예인 1호' 거제 명예시민 선정",
+      "url": "http://www.starnewsk.com/news/articleView.html?idxno=58934",
       "date": "2026.09.10",
-      "source": "koreaherald.com",
-      "thumbnail": "https://wimg.heraldcorp.com/news/cms/2026/09/10/news-p.v1.20260910.f451f3604895463eb1ffdb1cd2849220_T1.jpg"
+      "source": "starnewsk.com",
+      "thumbnail": "https://cdn.starnewsk.com/news/thumbnail/202609/58934_85546_2848_v150.jpg"
     }
   ]
 }
