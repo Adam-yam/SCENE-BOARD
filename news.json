@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-10T16:00:57Z",
+  "updated": "2026-09-10T17:00:56Z",
   "articles": [
+    {
+      "title": "'부자 기운' 성지 의령으로 오세요",
+      "url": "https://www.kidshankook.kr/news/articleView.html?idxno=18228",
+      "date": "2026.09.10",
+      "source": "kidshankook.kr",
+      "thumbnail": "https://cdn.kidshankook.kr/news/thumbnail/202609/18228_45593_2051_v150.jpg"
+    },
     {
       "title": "“제2의 리센느는 누구?” 드림어스 플로(FLO), ‘이미 뜬 아티스트’ 아...",
       "url": "https://sports.khan.co.kr/article/202609110017003?pt=nv",
@@ -9,18 +16,18 @@
       "thumbnail": null
     },
     {
-      "title": "\"당근 라페 야호\"…리센느 미나미의 다이어트 식단, 어떻게 만드나",
-      "url": "https://www.newsis.com/view/NISX20260910_0003783601",
-      "date": "2026.09.10",
-      "source": "newsis.com",
-      "thumbnail": "https://img1.newsis.com/2026/07/21/NISI20260721_0021372487_web.jpg"
-    },
-    {
       "title": "별 하나를 떠난 보낸 아이유, 유인나·유애나의 영원한 솔메이트",
       "url": "https://www.newsis.com/view/NISX20260910_0003784953",
       "date": "2026.09.10",
       "source": "newsis.com",
       "thumbnail": "https://img1.newsis.com/2026/09/08/NISI20260908_0002233026_web.jpg"
+    },
+    {
+      "title": "\"당근 라페 야호\"…리센느 미나미의 다이어트 식단, 어떻게 만드나",
+      "url": "https://www.newsis.com/view/NISX20260910_0003783601",
+      "date": "2026.09.10",
+      "source": "newsis.com",
+      "thumbnail": "https://img1.newsis.com/2026/07/21/NISI20260721_0021372487_web.jpg"
     },
     {
       "title": "[스타家] 리센느 ③ㅣ '거제야호' 넘어 전국구로…지자체·유통가 사로...",
@@ -133,13 +140,6 @@
       "date": "2026.09.10",
       "source": "stoo.com",
       "thumbnail": null
-    },
-    {
-      "title": "“거제 야호!” 리센느, 결국 연예인 최초 ‘명예시민’ 됐다",
-      "url": "https://www.mk.co.kr/article/12149382",
-      "date": "2026.09.10",
-      "source": "mk.co.kr",
-      "thumbnail": "https://pimg.mk.co.kr/news/cms/202609/10/news-p.v1.20260910.04848316af6444ae801323251e37deee_R.jpeg"
     }
   ]
 }
