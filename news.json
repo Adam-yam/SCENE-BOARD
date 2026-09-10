@@ -1,6 +1,20 @@
 {
-  "updated": "2026-09-10T11:01:04Z",
+  "updated": "2026-09-10T12:01:00Z",
   "articles": [
+    {
+      "title": "놀유니버스 ‘NOL FESTIVAL’(놀 페스티벌) 10월 17일 개막···코르티스...",
+      "url": "https://sports.khan.co.kr/article/202609102030003?pt=nv",
+      "date": "2026.09.10",
+      "source": "sports.khan.co.kr",
+      "thumbnail": null
+    },
+    {
+      "title": "동국인 1만명 참여하는 '영캠프' 준비 박차",
+      "url": "http://www.ibulgyo.com/news/articleView.html?idxno=442205",
+      "date": "2026.09.10",
+      "source": "ibulgyo.com",
+      "thumbnail": "https://cdn.ibulgyo.com/news/thumbnail/202609/442205_478149_2352_v150.jpg"
+    },
     {
       "title": "계명대, 120여 작품 담은 '시네마 캠퍼스'…K-팝 촬영도 잇따라",
       "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4083899",
@@ -72,18 +86,18 @@
       "thumbnail": "http://image.tvdaily.co.kr/upimages/gisaimg/202609/101801712.jpg"
     },
     {
-      "title": "KBS 레이-MBC 리센느-SBS 배성재…日아시안게임, 방송3사 승부수는 [MD포...",
-      "url": "https://www.mydaily.co.kr/page/view/2026091015444193504",
-      "date": "2026.09.10",
-      "source": "mydaily.co.kr",
-      "thumbnail": "https://mydaily.co.kr/photos/2026/09/10/2026091015440588387_l.png"
-    },
-    {
       "title": "올해 의령리치페스티벌에 대세 걸그룹 ‘리센느’ 출동",
       "url": "https://www.knnews.co.kr/news/articleView.php?idxno=1550592",
       "date": "2026.09.10",
       "source": "knnews.co.kr",
       "thumbnail": "https://cdn.knnews.co.kr/edb/nimages/2026/09/2026091009294312501.jpeg"
+    },
+    {
+      "title": "KBS 레이-MBC 리센느-SBS 배성재…日아시안게임, 방송3사 승부수는 [MD포...",
+      "url": "https://www.mydaily.co.kr/page/view/2026091015444193504",
+      "date": "2026.09.10",
+      "source": "mydaily.co.kr",
+      "thumbnail": "https://mydaily.co.kr/photos/2026/09/10/2026091015440588387_l.png"
     },
     {
       "title": "리센느, 멤버 전원 거제시 명예시민 위촉 \"연예인 최초\"",
@@ -104,7 +118,7 @@
       "url": "https://www.mk.co.kr/article/12149382",
       "date": "2026.09.10",
       "source": "mk.co.kr",
-      "thumbnail": null
+      "thumbnail": "https://pimg.mk.co.kr/news/cms/202609/10/news-p.v1.20260910.04848316af6444ae801323251e37deee_R.jpeg"
     },
     {
       "title": "리센느, '연예인 최초' 기록 세웠다…홍보대사 위촉 4개월 만→'거제 명...",
@@ -121,25 +135,11 @@
       "thumbnail": "https://cdn.mhnse.com/mhnsports/2026/09/10150741/thumb_ccms_55616.jpg"
     },
     {
-      "title": "‘거제 야호’로 흥한 리센느, 연예인 최초 ‘거제 명예시민’ 됐다",
-      "url": "https://www.busan.com/view/busan/view.php?code=2026090919542605750",
-      "date": "2026.09.10",
-      "source": "busan.com",
-      "thumbnail": "https://www.busan.com/nas/wcms/wcms_data/photos/2026/08/20/2026082009353621680_l.jpg"
-    },
-    {
-      "title": "\"취향 소비 잡는다\"..현대百, 전국 점포에 130여개 팝업",
-      "url": "http://www.4th.kr/news/articleView.html?idxno=2117826",
-      "date": "2026.09.10",
-      "source": "4th.kr",
-      "thumbnail": "https://cdn.4th.kr/news/thumbnail/202609/2117826_216689_348_v150.jpg"
-    },
-    {
       "title": "Spotify House Seoul returns with Diplo, bringing the streaming experience...",
       "url": "https://www.koreaherald.com/article/10869265?ref=naver",
       "date": "2026.09.10",
       "source": "koreaherald.com",
-      "thumbnail": null
+      "thumbnail": "https://wimg.heraldcorp.com/news/cms/2026/09/10/news-p.v1.20260910.14f97e1bfcb84b4cbcfe69661d681c68_T1.jpg"
     }
   ]
 }
