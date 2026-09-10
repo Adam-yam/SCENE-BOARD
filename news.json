@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-10T10:00:59Z",
+  "updated": "2026-09-10T11:01:04Z",
   "articles": [
+    {
+      "title": "계명대, 120여 작품 담은 '시네마 캠퍼스'…K-팝 촬영도 잇따라",
+      "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4083899",
+      "date": "2026.09.10",
+      "source": "kyongbuk.co.kr",
+      "thumbnail": "https://cdn.kyongbuk.co.kr/news/photo/202609/4083899_820432_0342.jpg"
+    },
     {
       "title": "'리센느 삼촌' 이선민 \"숭실대 벤처중소기업학과 3학년 때부터 학점 4점...",
       "url": "https://www.news1.kr/entertain/celebrity-topic/6286802",
@@ -97,7 +104,7 @@
       "url": "https://www.mk.co.kr/article/12149382",
       "date": "2026.09.10",
       "source": "mk.co.kr",
-      "thumbnail": "https://pimg.mk.co.kr/news/cms/202609/10/news-p.v1.20260910.04848316af6444ae801323251e37deee_R.jpeg"
+      "thumbnail": null
     },
     {
       "title": "리센느, '연예인 최초' 기록 세웠다…홍보대사 위촉 4개월 만→'거제 명...",
@@ -133,13 +140,6 @@
       "date": "2026.09.10",
       "source": "koreaherald.com",
       "thumbnail": null
-    },
-    {
-      "title": "리센느, '거제 야호' 인연 이어 '연예인 1호' 거제 명예시민 선정",
-      "url": "http://www.starnewsk.com/news/articleView.html?idxno=58934",
-      "date": "2026.09.10",
-      "source": "starnewsk.com",
-      "thumbnail": "https://cdn.starnewsk.com/news/thumbnail/202609/58934_85546_2848_v150.jpg"
     }
   ]
 }
