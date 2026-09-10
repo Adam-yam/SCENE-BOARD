@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10T05:10:34Z",
+  "updated": "2026-09-10T06:10:28Z",
   "videos": [
     {
       "id": "Tl8f4RWJnUc",
@@ -50,6 +50,14 @@
       "type": "long"
     },
     {
+      "id": "hXtUcbHIsOk",
+      "title": "🫶",
+      "url": "https://www.youtube.com/shorts/hXtUcbHIsOk",
+      "thumbnail": "https://i.ytimg.com/vi/hXtUcbHIsOk/mqdefault.jpg",
+      "date": "2026.09.10",
+      "type": "short"
+    },
+    {
       "id": "pshafIOggx4",
       "title": "불협화음(?) 리센느닷없이 | 리센느닷없이 | RESCENE (리센느)",
       "url": "https://www.youtube.com/shorts/pshafIOggx4",
@@ -86,14 +94,6 @@
       "title": "뚜루뚜뚜뚜 🤍",
       "url": "https://www.youtube.com/shorts/dz17X7T7jz4",
       "thumbnail": "https://i.ytimg.com/vi/dz17X7T7jz4/mqdefault.jpg",
-      "date": "2026.09.08",
-      "type": "short"
-    },
-    {
-      "id": "szmtGOdxwPo",
-      "title": "𝟺 𝚆𝚊𝚕𝚕𝚜",
-      "url": "https://www.youtube.com/shorts/szmtGOdxwPo",
-      "thumbnail": "https://i.ytimg.com/vi/szmtGOdxwPo/mqdefault.jpg",
       "date": "2026.09.08",
       "type": "short"
     }
