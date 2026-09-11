@@ -326,8 +326,8 @@ header {
   flex-shrink: 0; font: 800 11px/1 var(--font-mono); color: var(--accent);
   font-variant-numeric: tabular-nums; letter-spacing: -0.01em;
 }
-.sched-title-text { font: 700 13.5px/1.45 var(--font-kr); color: var(--ink); }
-.sched-detail { font: 500 11.5px/1.55 var(--font-kr); color: var(--ink3); margin-top: 3px; }
+.sched-title-text { font: 700 13.5px/1.45 var(--font-kr); color: var(--ink); word-break: keep-all; overflow-wrap: break-word; }
+.sched-detail { font: 500 11.5px/1.55 var(--font-kr); color: var(--ink3); margin-top: 3px; word-break: keep-all; overflow-wrap: break-word; }
 .type-badge {
   flex-shrink: 0; font: 700 10px/1 var(--font-kr);
   padding: 4px 10px; border-radius: 999px; white-space: nowrap;
@@ -365,7 +365,7 @@ header {
 }
 .news-content { flex: 1; min-width: 0; display: flex; flex-direction: column; justify-content: center; }
 .news-source { font: 700 10px/1 var(--font-mono); color: var(--accent); margin-bottom: 3px; text-transform: uppercase; letter-spacing: .06em; }
-.news-title { font: 600 12px/1.45 var(--font-kr); color: var(--ink); display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+.news-title { font: 600 12px/1.45 var(--font-kr); color: var(--ink); display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; word-break: keep-all; overflow-wrap: break-word; }
 .news-date { font: 500 10px/1 var(--font-kr); color: var(--ink3); margin-top: 4px; }
 
 .social-panel-body {
@@ -457,6 +457,7 @@ header {
 .yt-title {
   font: 600 10px/1.4 var(--font-kr); color: var(--ink);
   display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;
+  word-break: keep-all; overflow-wrap: break-word;
 }
 .yt-date { font: 500 9px/1 var(--font-kr); color: var(--ink3); margin-top: 3px; }
 
@@ -593,8 +594,8 @@ header {
   justify-content: center; gap: 10px; padding: 40px 20px;
   color: var(--ink3); text-align: center;
 }
-.state-box p { font: 500 12px/1.6 var(--font-kr); color: var(--ink2); }
-.x-state { font: 500 11px/1.6 var(--font-kr); color: var(--ink3); text-align: center; }
+.state-box p { font: 500 12px/1.6 var(--font-kr); color: var(--ink2); word-break: keep-all; overflow-wrap: break-word; }
+.x-state { font: 500 11px/1.6 var(--font-kr); color: var(--ink3); text-align: center; word-break: keep-all; overflow-wrap: break-word; }
 .spinner {
   width: 22px; height: 22px;
   border: 2.5px solid var(--rule); border-top-color: var(--accent);
@@ -646,11 +647,15 @@ header {
   color: var(--ink);
   letter-spacing: -0.01em;
   margin-bottom: 12px;
+  word-break: keep-all;
+  overflow-wrap: break-word;
 }
 .notice-body {
   font: 400 13.5px/1.65 var(--font-kr);
   color: var(--ink2);
   margin-bottom: 14px;
+  word-break: keep-all;
+  overflow-wrap: break-word;
 }
 .notice-body a {
   color: var(--accent);
@@ -665,6 +670,8 @@ header {
   border-radius: var(--radius-xs);
   padding: 12px 14px;
   margin-bottom: 20px;
+  word-break: keep-all;
+  overflow-wrap: break-word;
 }
 .notice-devnote b {
   display: block;
@@ -676,7 +683,6 @@ header {
   color: var(--accent);
   text-decoration: none;
   font-weight: 600;
-  word-break: break-all;
 }
 .notice-actions {
   display: flex; gap: 8px;
@@ -708,7 +714,7 @@ header {
   <div class="notice-card">
     <div class="notice-title">SCENE-Board 서비스 종료 예정</div>
     <div class="notice-body">
-      SCENE-Board는 2026년 9월 25일부로 서비스를 종료합니다. SCENE-Board에서 확인 가능한 모든 정보와 데이터는 <a href="https://adam-yam.github.io/SCENE-FLIX/" target="_blank" rel="noreferrer">SCENE-FLIX</a>에서 확인 가능합니다.
+      SCENE-Board는 2026년 9월 18일부로 서비스를 종료합니다. SCENE-Board에서 확인 가능한 모든 정보와 데이터는 <a href="https://adam-yam.github.io/SCENE-FLIX/" target="_blank" rel="noreferrer">SCENE-FLIX</a>에서 확인 가능합니다.
     </div>
     <div class="notice-devnote">
       <b>개발자의 말</b>
