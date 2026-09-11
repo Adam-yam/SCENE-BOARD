@@ -619,9 +619,107 @@ header {
   .header-date { font-size: 11px; white-space: nowrap; }
 }
 
+.notice-overlay {
+  position: fixed; inset: 0; z-index: 999;
+  background: rgba(23,23,29,0.42);
+  -webkit-backdrop-filter: blur(6px);
+  backdrop-filter: blur(6px);
+  display: flex; align-items: center; justify-content: center;
+  padding: 20px;
+  opacity: 0; pointer-events: none;
+  transition: opacity .25s ease;
+}
+.notice-overlay.open { opacity: 1; pointer-events: auto; }
+.notice-card {
+  width: 100%; max-width: 420px;
+  background: var(--panel);
+  border-radius: var(--radius);
+  border: 1px solid var(--glass-border);
+  box-shadow: 0 24px 60px rgba(35,25,60,0.28);
+  padding: 26px 24px 20px;
+  transform: translateY(14px) scale(.98);
+  transition: transform .25s cubic-bezier(.2,.8,.2,1);
+}
+.notice-overlay.open .notice-card { transform: translateY(0) scale(1); }
+.notice-title {
+  font: 800 17px/1.35 var(--font-ui);
+  color: var(--ink);
+  letter-spacing: -0.01em;
+  margin-bottom: 12px;
+}
+.notice-body {
+  font: 400 13.5px/1.65 var(--font-kr);
+  color: var(--ink2);
+  margin-bottom: 14px;
+}
+.notice-body a {
+  color: var(--accent);
+  font-weight: 600;
+  text-decoration: none;
+  border-bottom: 1px solid color-mix(in srgb, var(--accent) 40%, transparent);
+}
+.notice-devnote {
+  font: 400 12.5px/1.65 var(--font-kr);
+  color: var(--ink3);
+  background: var(--bg);
+  border-radius: var(--radius-xs);
+  padding: 12px 14px;
+  margin-bottom: 20px;
+}
+.notice-devnote b {
+  display: block;
+  font-weight: 700;
+  color: var(--ink2);
+  margin-bottom: 4px;
+}
+.notice-devnote a {
+  color: var(--accent);
+  text-decoration: none;
+  font-weight: 600;
+  word-break: break-all;
+}
+.notice-actions {
+  display: flex; gap: 8px;
+}
+.notice-actions button {
+  flex: 1;
+  border: none;
+  border-radius: 999px;
+  padding: 11px 0;
+  font: 700 13px/1 var(--font-ui);
+  cursor: pointer;
+  transition: transform .15s cubic-bezier(.4,0,.2,1), opacity .15s;
+}
+.notice-actions button:active { transform: scale(.97); }
+.notice-btn-close {
+  background: var(--accent);
+  color: #fff;
+}
+.notice-btn-mute {
+  background: var(--bg);
+  color: var(--ink2);
+}
+
 </style>
 </head>
 <body>
+
+<div class="notice-overlay" id="noticeOverlay">
+  <div class="notice-card">
+    <div class="notice-title">SCENE-Board 서비스 종료 예정</div>
+    <div class="notice-body">
+      SCENE-Board는 2026년 9월 25일부로 서비스를 종료합니다. SCENE-Board에서 확인 가능한 모든 정보와 데이터는 <a href="https://adam-yam.github.io/SCENE-FLIX/" target="_blank" rel="noreferrer">SCENE-FLIX</a>에서 확인 가능합니다.
+    </div>
+    <div class="notice-devnote">
+      <b>개발자의 말</b>
+      센보드의 기능들을 센플릭스로 이동 완료하였고, 개선작업도 끝났습니다. 그래서 더이상 센보드의 필요가 없어졌다고 판단되었습니다. 더욱 더 간단하게 센보드의 정보를 보고 싶으신 분들이라면 <a href="https://github.com/Adam-yam/SceneGets" target="_blank" rel="noreferrer">SceneGets</a>도 확인해보세요. 감사합니다.
+    </div>
+    <div class="notice-actions">
+      <button class="notice-btn-mute" onclick="closeNotice(true)">24시간동안 닫기</button>
+      <button class="notice-btn-close" onclick="closeNotice(false)">닫기</button>
+    </div>
+  </div>
+</div>
 
 <header>
   <div class="logo"><span style="letter-spacing:-0.02em">SCENE<span style="color:var(--accent-2)">-BOARD</span></span><span class="by">by May_</span></div>
@@ -1229,6 +1327,25 @@ if ('serviceWorker' in navigator) {
     navigator.serviceWorker.register('./service-worker.js');
   });
 }
+</script>
+<script>
+(function () {
+  const MUTE_KEY = "sceneboard_notice_muted_until";
+  const overlay = document.getElementById("noticeOverlay");
+  if (!overlay) return;
+
+  const mutedUntil = Number(localStorage.getItem(MUTE_KEY) || 0);
+  if (Date.now() < mutedUntil) return;
+
+  requestAnimationFrame(() => overlay.classList.add("open"));
+
+  window.closeNotice = function (mute) {
+    if (mute) {
+      localStorage.setItem(MUTE_KEY, String(Date.now() + 24 * 60 * 60 * 1000));
+    }
+    overlay.classList.remove("open");
+  };
+})();
 </script>
 </body>
 </html>
