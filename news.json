@@ -1,6 +1,27 @@
 {
-  "updated": "2026-09-11T21:00:51Z",
+  "updated": "2026-09-11T22:00:46Z",
   "articles": [
+    {
+      "title": "리센느, '중소돌'이기에 가능했던 기적",
+      "url": "https://www.mediaus.co.kr/news/articleView.html?idxno=318131",
+      "date": "2026.09.11",
+      "source": "mediaus.co.kr",
+      "thumbnail": "https://cdn.mediaus.co.kr/news/thumbnail/202609/318131_233082_5023_v150.jpg"
+    },
+    {
+      "title": "재생 버튼서 나와 덕질 판으로…스포티파이·멜론 ‘팬덤’ 잡는 오프라...",
+      "url": "https://www.newsen.com/news_view.php?uid=202609111804402610",
+      "date": "2026.09.11",
+      "source": "newsen.com",
+      "thumbnail": "https://photo.newsen.com/news_photo/2026/09/11/202609111804402610_1.jpg"
+    },
+    {
+      "title": "‘최애’ 이름으로 돈 뿌린다…네팔·거제 휩쓰는 ‘착한 덕질’",
+      "url": "https://www.joongang.co.kr/article/25461256",
+      "date": "2026.09.11",
+      "source": "joongang.co.kr",
+      "thumbnail": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202609/12/3bf8e6cd-06f1-48a0-a2b2-a046611771be.jpg"
+    },
     {
       "title": "BTS 정국, 리센느에 꽂혔다…미나미 이어 단체 무대까지 '샤라웃' [★해...",
       "url": "https://www.xportsnews.com/article/2194742",
@@ -20,14 +41,14 @@
       "url": "https://sports.donga.com/ent/article/all/20260912/134654138/1",
       "date": "2026.09.11",
       "source": "sports.donga.com",
-      "thumbnail": null
+      "thumbnail": "https://dimg.donga.com/wps/SPORTS/IMAGE/2026/09/12/134654139.1.png"
     },
     {
       "title": "리센느 미나미, '20kg 감량설' 해명…\"18kg 뺐다, 청바지 안 올라가 눈물...",
       "url": "https://mhnse.com/news/articleView.html?idxno=1539128",
       "date": "2026.09.11",
       "source": "mhnse.com",
-      "thumbnail": "https://cdn.mhnse.com/mhnsports/2026/09/11234720/thumb_ccms_57058.jpg"
+      "thumbnail": null
     },
     {
       "title": "걸그룹 ‘리센느’ 거제 명예시민 등록…연예인 최초",
@@ -119,27 +140,6 @@
       "date": "2026.09.11",
       "source": "starnewskorea.com",
       "thumbnail": null
-    },
-    {
-      "title": "임영웅, ‘AAA 2026 스타킹’ 수상 확정…3주 연속 1위로 막강한 투표 화...",
-      "url": "https://swtvnews.com/news/newsview.php?ncode=1065594264801793",
-      "date": "2026.09.11",
-      "source": "swtvnews.com",
-      "thumbnail": "https://swtvnews.com/news/data/20260911/p1065594264801793_786_thum.jpg"
-    },
-    {
-      "title": "임영웅 ‘AAA 2026 스타킹’ 수상 확정",
-      "url": "https://sports.khan.co.kr/article/202609111525003?pt=nv",
-      "date": "2026.09.11",
-      "source": "sports.khan.co.kr",
-      "thumbnail": null
-    },
-    {
-      "title": "임영웅, 'AAA 2026 스타킹' 최종 수상…3주 연속 1위로 증명한 팬덤 힘",
-      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16189964",
-      "date": "2026.09.11",
-      "source": "topstarnews.net",
-      "thumbnail": "https://cdn.topstarnews.net/news/photo/202609/16189964_2023074_1820_crop.jpg"
     }
   ]
 }
