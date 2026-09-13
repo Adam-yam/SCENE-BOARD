@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T07:10:27Z",
+  "updated": "2026-09-13T08:10:34Z",
   "videos": [
     {
       "id": "ijkXse3qPG4",
@@ -50,6 +50,14 @@
       "type": "long"
     },
     {
+      "id": "CxSi1E41V3M",
+      "title": "#지수 님과 익숙한 deja vu 🌱",
+      "url": "https://www.youtube.com/shorts/CxSi1E41V3M",
+      "thumbnail": "https://i.ytimg.com/vi/CxSi1E41V3M/mqdefault.jpg",
+      "date": "2026.09.13",
+      "type": "short"
+    },
+    {
       "id": "hXtUcbHIsOk",
       "title": "🫶",
       "url": "https://www.youtube.com/shorts/hXtUcbHIsOk",
@@ -87,14 +95,6 @@
       "url": "https://www.youtube.com/shorts/QSsZ8Y1JpYg",
       "thumbnail": "https://i.ytimg.com/vi/QSsZ8Y1JpYg/mqdefault.jpg",
       "date": "2026.09.09",
-      "type": "short"
-    },
-    {
-      "id": "dz17X7T7jz4",
-      "title": "뚜루뚜뚜뚜 🤍",
-      "url": "https://www.youtube.com/shorts/dz17X7T7jz4",
-      "thumbnail": "https://i.ytimg.com/vi/dz17X7T7jz4/mqdefault.jpg",
-      "date": "2026.09.08",
       "type": "short"
     }
   ]
