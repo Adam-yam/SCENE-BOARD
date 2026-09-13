@@ -1,6 +1,27 @@
 {
-  "updated": "2026-09-13T04:00:45Z",
+  "updated": "2026-09-13T05:00:47Z",
   "articles": [
+    {
+      "title": "K-팝 생태계 건전성",
+      "url": "http://www.jeollailbo.com/news/articleView.html?idxno=810873",
+      "date": "2026.09.13",
+      "source": "jeollailbo.com",
+      "thumbnail": "https://cdn.jeollailbo.com/news/thumbnail/202609/810873_198443_4321_v150.jpg"
+    },
+    {
+      "title": "'2026 의령리치리치페스티벌' 라인업 공개... 김희재부터 리센느·우원재...",
+      "url": "https://www.ggilbo.com/news/articleView.html?idxno=1180686",
+      "date": "2026.09.13",
+      "source": "ggilbo.com",
+      "thumbnail": "https://cdn.ggilbo.com/news/photo/202609/1180686_1033166_4722.jpg"
+    },
+    {
+      "title": "김선태 근황 “하루하루 버텨”",
+      "url": "https://www.segye.com/newsView/20260913504055?OutUrl=naver",
+      "date": "2026.09.13",
+      "source": "segye.com",
+      "thumbnail": "https://www.segye.com/content/image/2026/09/13/20260913504066.png"
+    },
     {
       "title": "\"고소는 추해\"…김선태, 탈모약 먹으며 버티는 근황",
       "url": "http://www.tvdaily.co.kr/read.php3?aid=17892649891802023002",
@@ -90,7 +111,7 @@
       "url": "https://www.sportsseoul.com/news/read/1634644?ref=naver",
       "date": "2026.09.12",
       "source": "sportsseoul.com",
-      "thumbnail": "https://file.sportsseoul.com/news/cms/2026/09/13/news-p.v1.20260913.eb6cb3d0ed244210b8bdde23a566706a_T1.png"
+      "thumbnail": null
     },
     {
       "title": "인플루언서가 곧 권력이 되는 지금, 우리는 뭘 해야할까?",
@@ -114,32 +135,11 @@
       "thumbnail": "https://cdn.topstarnews.net/news/photo/202609/16191277_2024205_1644_crop.jpeg"
     },
     {
-      "title": "밤·홍시·흑임자 다 모였다…카페업계 가을 메뉴 ‘제철 전쟁’",
-      "url": "https://www.segye.com/newsView/20260913501850?OutUrl=naver",
-      "date": "2026.09.12",
-      "source": "segye.com",
-      "thumbnail": null
-    },
-    {
-      "title": "변우석 미담 터졌다…백지영도 감동한 사진 매너 \"너무 착해\"",
-      "url": "https://www.xportsnews.com/article/2195140",
-      "date": "2026.09.12",
-      "source": "xportsnews.com",
-      "thumbnail": "https://image.xportsnews.com/contents/images/upload/article/2026/0913/1789243909887135.webp"
-    },
-    {
       "title": "리센느 미나미 \"돼지는 왜 살을 안 뺄까\"…극단적 다이어트가 남긴 위험...",
       "url": "https://www.fnnews.com/news/202609122101241515",
       "date": "2026.09.12",
       "source": "fnnews.com",
       "thumbnail": "https://image.fnnews.com/resource/media/image/2026/09/12/202609122250594867_e.jpg"
-    },
-    {
-      "title": "'예능 자진하차' 김선태, 심상찮은 근황…\"성수기인데 추워, 회사 문 닫...",
-      "url": "https://www.xportsnews.com/article/2195068",
-      "date": "2026.09.12",
-      "source": "xportsnews.com",
-      "thumbnail": "https://image.xportsnews.com/contents/images/upload/article/2026/0912/1789212786405482.webp"
     }
   ]
 }
