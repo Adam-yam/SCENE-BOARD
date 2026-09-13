@@ -1,12 +1,33 @@
 {
-  "updated": "2026-09-13T15:00:55Z",
+  "updated": "2026-09-13T16:00:56Z",
   "articles": [
+    {
+      "title": "전시까지 '안녕즈'…안유진·장원영에 기대는 스타쉽의 선택 [가요 뷰]",
+      "url": "https://www.dailian.co.kr/news/view/1689619/?sc=Naver",
+      "date": "2026.09.13",
+      "source": "dailian.co.kr",
+      "thumbnail": null
+    },
+    {
+      "title": "편의점 빵, ‘수천 원짜리 굿즈’가 되다",
+      "url": "https://www.chosun.com/economy/industry-company/2026/09/14/74OZJBPJD5CJFG6NRDFHD26RRA/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+      "date": "2026.09.13",
+      "source": "chosun.com",
+      "thumbnail": "https://www.chosun.com/resizer/v2/AT57IDL7BJBS7ENZ45HSNRS5ZQ.jpg?auth=c1e76a454364820900b5d0bf81da3784f3fa2048435796c16592e0100629cc91&amp;width=1200&amp;height=630&amp;smart=true"
+    },
+    {
+      "title": "가을밤처럼 그윽했던 존박 \"스스로 만든 틀 깨고팠죠\"",
+      "url": "https://www.yna.co.kr/view/AKR20260912046400005?input=1195m",
+      "date": "2026.09.13",
+      "source": "yna.co.kr",
+      "thumbnail": "https://img7.yna.co.kr/etc/inner/KR/2026/09/12/AKR20260912046400005_01_i_P4.jpg"
+    },
     {
       "title": "'충주맨' 유튜버 김선태 \"일감 줄어 버티고 있다\" 경영난 토로",
       "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000064957",
       "date": "2026.09.13",
       "source": "jnilbo.com",
-      "thumbnail": "https://cdn.jnilbo.com/news/photo/202609/90000064957_585603_5030.jpg"
+      "thumbnail": null
     },
     {
       "title": "김선태, '리센느' 논란 후 근황 \"일감 없어⋯직원도 퇴사\"",
@@ -90,7 +111,7 @@
       "url": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000550166",
       "date": "2026.09.13",
       "source": "ichannela.com",
-      "thumbnail": "https://image.ichannela.com/images/channela/2026/09/13/000003133232/00000313323220260913144326389.webp"
+      "thumbnail": null
     },
     {
       "title": "K-팝 생태계 건전성",
@@ -119,27 +140,6 @@
       "date": "2026.09.13",
       "source": "tvdaily.co.kr",
       "thumbnail": "http://image.tvdaily.co.kr/upimages/gisaimg/202609/1789264989_1802023.jpg"
-    },
-    {
-      "title": "\"직원마저 관두겠다고\"…'165만 유튜버' 김선태의 씁쓸한 근황",
-      "url": "https://www.hankyung.com/article/2026091308997",
-      "date": "2026.09.13",
-      "source": "hankyung.com",
-      "thumbnail": "https://img.hankyung.com/photo/202609/02.43283946.1.jpg"
-    },
-    {
-      "title": "\"원현주 사랑해, 양루아 사랑해, 양홍원 금연해\"…화제의 가족 [엑's 이...",
-      "url": "https://www.xportsnews.com/article/2195160",
-      "date": "2026.09.13",
-      "source": "xportsnews.com",
-      "thumbnail": "https://image.xportsnews.com/contents/images/upload/article/2026/0913/1789263093717524.webp"
-    },
-    {
-      "title": "“직원도 퇴사, 일감 없다”…잘 나가던 김선태, ‘리센느 논란’ 타격...",
-      "url": "https://www.mk.co.kr/article/12151265",
-      "date": "2026.09.13",
-      "source": "mk.co.kr",
-      "thumbnail": "https://pimg.mk.co.kr/news/cms/202609/13/news-p.v1.20260913.9ef98ca0a27c43ffa3cc323004bdb82f_R.jpeg"
     }
   ]
 }
