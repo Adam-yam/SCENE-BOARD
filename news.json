@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-13T22:01:01Z",
+  "updated": "2026-09-13T23:01:00Z",
   "articles": [
+    {
+      "title": "[뮤직100] 소연 '퇴사할게여' 429점 급증해 43위…코르티스 'REDRED' 2위",
+      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16192161",
+      "date": "2026.09.13",
+      "source": "topstarnews.net",
+      "thumbnail": "https://cdn.topstarnews.net/news/photo/202609/16192161_2024873_511_crop.jpg"
+    },
     {
       "title": "블랙핑크도 제쳤다…리센느, 9월 걸그룹 브랜드평판 깜짝 1위",
       "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=486562",
@@ -48,7 +55,7 @@
       "url": "https://www.yna.co.kr/view/AKR20260912046400005?input=1195m",
       "date": "2026.09.13",
       "source": "yna.co.kr",
-      "thumbnail": "https://img7.yna.co.kr/etc/inner/KR/2026/09/12/AKR20260912046400005_01_i_P4.jpg"
+      "thumbnail": null
     },
     {
       "title": "'충주맨' 유튜버 김선태 \"일감 줄어 버티고 있다\" 경영난 토로",
@@ -128,18 +135,11 @@
       "thumbnail": "https://mydaily.co.kr/photos/2026/09/13/2026091313484519683_l.png"
     },
     {
-      "title": "“함께 올라가자”…이즈나·리센느, 떡볶이집서 확인한 신인들의 우정",
-      "url": "https://sports.donga.com/ent/article/all/20260913/134657513/1",
+      "title": "돌풍의 주역 리센느 블랙핑크 아이브 제치고 걸그룹 브랜드평판 1위 등...",
+      "url": "https://www.gpkorea.com/news/articleView.html?idxno=146639",
       "date": "2026.09.13",
-      "source": "sports.donga.com",
-      "thumbnail": "https://dimg.donga.com/wps/SPORTS/IMAGE/2026/09/13/134657620.1.jpg"
-    },
-    {
-      "title": "옛 ‘충주맨’ 김선태, ‘돈선태’ 폐지 이후 근황 “일감이 없어”",
-      "url": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000550166",
-      "date": "2026.09.13",
-      "source": "ichannela.com",
-      "thumbnail": null
+      "source": "gpkorea.com",
+      "thumbnail": "https://cdn.gpkorea.com/news/photo/202609/146639_311573_2259.jpg"
     }
   ]
 }
