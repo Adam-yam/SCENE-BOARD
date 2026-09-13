@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-13T17:00:59Z",
+  "updated": "2026-09-13T18:00:52Z",
   "articles": [
+    {
+      "title": "리센느, 연예인 최초 거제 명예시민 됐다",
+      "url": "https://www.ggilbo.com/news/articleView.html?idxno=1181014",
+      "date": "2026.09.13",
+      "source": "ggilbo.com",
+      "thumbnail": "https://cdn.ggilbo.com/news/photo/202609/1181014_1033462_587.jpg"
+    },
     {
       "title": "전시까지 '안녕즈'…안유진·장원영에 기대는 스타쉽의 선택 [가요 뷰]",
       "url": "https://www.dailian.co.kr/news/view/1689619/?sc=Naver",
@@ -20,7 +27,7 @@
       "url": "https://www.yna.co.kr/view/AKR20260912046400005?input=1195m",
       "date": "2026.09.13",
       "source": "yna.co.kr",
-      "thumbnail": "https://img7.yna.co.kr/etc/inner/KR/2026/09/12/AKR20260912046400005_01_i_P4.jpg"
+      "thumbnail": null
     },
     {
       "title": "'충주맨' 유튜버 김선태 \"일감 줄어 버티고 있다\" 경영난 토로",
@@ -48,7 +55,7 @@
       "url": "https://biz.heraldcorp.com/article/10871740?ref=naver",
       "date": "2026.09.13",
       "source": "biz.heraldcorp.com",
-      "thumbnail": null
+      "thumbnail": "https://wimg.heraldcorp.com/news/cms/2026/09/13/news-p.v1.20260913.d2158b4aee774d62a146c1b74dadfacf_T1.jpg"
     },
     {
       "title": "\"촌스러운 옷 누가 사\" 무시했는데…이젠 없어서 못 산다 [김기자의 알...",
@@ -111,7 +118,7 @@
       "url": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000550166",
       "date": "2026.09.13",
       "source": "ichannela.com",
-      "thumbnail": null
+      "thumbnail": "https://image.ichannela.com/images/channela/2026/09/13/000003133232/00000313323220260913144326389.webp"
     },
     {
       "title": "K-팝 생태계 건전성",
@@ -121,13 +128,6 @@
       "thumbnail": "https://cdn.jeollailbo.com/news/thumbnail/202609/810873_198443_4321_v150.jpg"
     },
     {
-      "title": "'2026 의령리치리치페스티벌' 라인업 공개... 김희재부터 리센느·우원재...",
-      "url": "https://www.ggilbo.com/news/articleView.html?idxno=1180686",
-      "date": "2026.09.13",
-      "source": "ggilbo.com",
-      "thumbnail": "https://cdn.ggilbo.com/news/photo/202609/1180686_1033166_4722.jpg"
-    },
-    {
       "title": "김선태 근황 “하루하루 버텨”",
       "url": "https://www.segye.com/newsView/20260913504055?OutUrl=naver",
       "date": "2026.09.13",
@@ -135,11 +135,11 @@
       "thumbnail": "https://www.segye.com/content/image/2026/09/13/20260913504066.png"
     },
     {
-      "title": "\"고소는 추해\"…김선태, 탈모약 먹으며 버티는 근황",
-      "url": "http://www.tvdaily.co.kr/read.php3?aid=17892649891802023002",
+      "title": "돌풍의 주역 리센느 블랙핑크 아이브 제치고 걸그룹 브랜드평판 1위 등...",
+      "url": "https://www.gpkorea.com/news/articleView.html?idxno=146639",
       "date": "2026.09.13",
-      "source": "tvdaily.co.kr",
-      "thumbnail": "http://image.tvdaily.co.kr/upimages/gisaimg/202609/1789264989_1802023.jpg"
+      "source": "gpkorea.com",
+      "thumbnail": "https://cdn.gpkorea.com/news/photo/202609/146639_311573_2259.jpg"
     }
   ]
 }
