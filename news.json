@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-14T12:00:55Z",
+  "updated": "2026-09-14T13:01:00Z",
   "articles": [
+    {
+      "title": "\"불확실할수록 법치주의 중요\"… 로아시아 60주년 서울 총회 개막",
+      "url": "https://news.koreanbar.or.kr/news/articleView.html?idxno=36132",
+      "date": "2026.09.14",
+      "source": "news.koreanbar.or.kr",
+      "thumbnail": "https://cdn.news.koreanbar.or.kr/news/thumbnail/202609/36132_29464_540_v150.jpg"
+    },
     {
       "title": "공주시, 제72회 백제문화제 10월 3일 개막…46개 프로그램 선보여",
       "url": "https://www.newstnt.com/news/articleView.html?idxno=718273",
@@ -51,18 +58,18 @@
       "thumbnail": "https://dj.breaknews.com/imgdata/dj_breaknews_com/202609/2026091416515969.jpeg"
     },
     {
-      "title": "잘나가던 김선태, 어쩌다…'수척 근황' 이어 \"일감 많이 없다\" [엑's 이슈...",
-      "url": "https://www.xportsnews.com/article/2195473",
-      "date": "2026.09.14",
-      "source": "xportsnews.com",
-      "thumbnail": "https://image.xportsnews.com/contents/images/upload/article/2026/0914/1789369061947712.webp"
-    },
-    {
       "title": "박수홍 논란 3주만 컴백→박위는 침묵…김선태는 “일감 없다” 정면돌...",
       "url": "https://www.newsen.com/news_view.php?uid=202609141730050310",
       "date": "2026.09.14",
       "source": "newsen.com",
       "thumbnail": "https://photo.newsen.com/news_photo/2026/09/14/202609141730050310_1.jpg"
+    },
+    {
+      "title": "잘나가던 김선태, 어쩌다…'수척 근황' 이어 \"일감 많이 없다\" [엑's 이슈...",
+      "url": "https://www.xportsnews.com/article/2195473",
+      "date": "2026.09.14",
+      "source": "xportsnews.com",
+      "thumbnail": "https://image.xportsnews.com/contents/images/upload/article/2026/0914/1789369061947712.webp"
     },
     {
       "title": "웅진백제의 역사적 가치 되새기다",
@@ -125,7 +132,7 @@
       "url": "https://www.mk.co.kr/article/12152277",
       "date": "2026.09.14",
       "source": "mk.co.kr",
-      "thumbnail": "https://pimg.mk.co.kr/news/cms/202609/14/news-p.v1.20260914.f64d331bebb64759960dde6559b0a0a7_R.jpg"
+      "thumbnail": null
     },
     {
       "title": "스타트렌드 K-POP 여자 그룹 1위 리센느, 피프티피프티 앞서 선두",
@@ -133,13 +140,6 @@
       "date": "2026.09.14",
       "source": "stardailynews.co.kr",
       "thumbnail": "https://cdn.stardailynews.co.kr/news/thumbnail/202609/550051_582529_349_v150.jpg"
-    },
-    {
-      "title": "리센느 미나미, 다이어트 스트레스 고백 \"18kg 빼…옷이 골반부터 안들...",
-      "url": "https://www.news1.kr/entertain/celebrity-topic/6289896",
-      "date": "2026.09.14",
-      "source": "news1.kr",
-      "thumbnail": null
     }
   ]
 }
