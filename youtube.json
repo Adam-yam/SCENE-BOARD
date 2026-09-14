@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T10:10:27Z",
+  "updated": "2026-09-14T11:10:26Z",
   "videos": [
     {
       "id": "ijkXse3qPG4",
@@ -50,6 +50,14 @@
       "type": "long"
     },
     {
+      "id": "ABzdMhErbNo",
+      "title": "노래가 너무 신나는데 어떡하라고~🎧 | 리센느닷없이 | RESCENE (리센느)",
+      "url": "https://www.youtube.com/shorts/ABzdMhErbNo",
+      "thumbnail": "https://i.ytimg.com/vi/ABzdMhErbNo/mqdefault.jpg",
+      "date": "2026.09.14",
+      "type": "short"
+    },
+    {
       "id": "CxSi1E41V3M",
       "title": "#지수 님과 익숙한 deja vu 🌱",
       "url": "https://www.youtube.com/shorts/CxSi1E41V3M",
@@ -86,14 +94,6 @@
       "title": "#JULIE #NATTY 선배님과 어디서나 당당하게 걷기 🎀",
       "url": "https://www.youtube.com/shorts/AQCci-VrGC0",
       "thumbnail": "https://i.ytimg.com/vi/AQCci-VrGC0/mqdefault.jpg",
-      "date": "2026.09.09",
-      "type": "short"
-    },
-    {
-      "id": "QSsZ8Y1JpYg",
-      "title": "#장하오 님과 어디서나 당당하게 걷기 🎀",
-      "url": "https://www.youtube.com/shorts/QSsZ8Y1JpYg",
-      "thumbnail": "https://i.ytimg.com/vi/QSsZ8Y1JpYg/mqdefault.jpg",
       "date": "2026.09.09",
       "type": "short"
     }
