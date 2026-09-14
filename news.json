@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-14T16:01:01Z",
+  "updated": "2026-09-14T17:00:49Z",
   "articles": [
+    {
+      "title": "할리스, 간편하고 든든한 베이커리 라인업 확대",
+      "url": "https://sports.khan.co.kr/article/202609150102003?pt=nv",
+      "date": "2026.09.14",
+      "source": "sports.khan.co.kr",
+      "thumbnail": null
+    },
     {
       "title": "[뉴미디어 민심] 한동훈 유튜브 주간 약3천만뷰 폭발...대중문화 역주행...",
       "url": "https://www.ppss.kr/news/articleView.html?idxno=310688",
@@ -79,18 +86,18 @@
       "thumbnail": "https://dj.breaknews.com/imgdata/dj_breaknews_com/202609/2026091416515969.jpeg"
     },
     {
-      "title": "잘나가던 김선태, 어쩌다…'수척 근황' 이어 \"일감 많이 없다\" [엑's 이슈...",
-      "url": "https://www.xportsnews.com/article/2195473",
-      "date": "2026.09.14",
-      "source": "xportsnews.com",
-      "thumbnail": "https://image.xportsnews.com/contents/images/upload/article/2026/0914/1789369061947712.webp"
-    },
-    {
       "title": "박수홍 논란 3주만 컴백→박위는 침묵…김선태는 “일감 없다” 정면돌...",
       "url": "https://www.newsen.com/news_view.php?uid=202609141730050310",
       "date": "2026.09.14",
       "source": "newsen.com",
       "thumbnail": "https://photo.newsen.com/news_photo/2026/09/14/202609141730050310_1.jpg"
+    },
+    {
+      "title": "잘나가던 김선태, 어쩌다…'수척 근황' 이어 \"일감 많이 없다\" [엑's 이슈...",
+      "url": "https://www.xportsnews.com/article/2195473",
+      "date": "2026.09.14",
+      "source": "xportsnews.com",
+      "thumbnail": "https://image.xportsnews.com/contents/images/upload/article/2026/0914/1789369061947712.webp"
     },
     {
       "title": "웅진백제의 역사적 가치 되새기다",
@@ -133,13 +140,6 @@
       "date": "2026.09.14",
       "source": "ibabynews.com",
       "thumbnail": "https://www.ibabynews.com/news/photo/202609/154504_121759_597.png"
-    },
-    {
-      "title": "[영상클립] 잘나가던 '충주맨' 김선태, 돌연 \"일감 많이 없다\"…KBS 하차...",
-      "url": "https://www.newsworker.co.kr/news/articleView.html?idxno=504288",
-      "date": "2026.09.14",
-      "source": "newsworker.co.kr",
-      "thumbnail": "https://cdn.newsworker.co.kr/news/photo/202609/504288_505489_3117.jpg"
     }
   ]
 }
