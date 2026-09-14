@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T12:10:29Z",
+  "updated": "2026-09-14T14:10:32Z",
   "videos": [
     {
       "id": "ijkXse3qPG4",
@@ -50,6 +50,14 @@
       "type": "long"
     },
     {
+      "id": "pnTroDNdsuM",
+      "title": "너 진짜 혼나볼래?! | 리센느닷없이 | RESCENE (리센느)",
+      "url": "https://www.youtube.com/watch?v=pnTroDNdsuM",
+      "thumbnail": "https://i.ytimg.com/vi/pnTroDNdsuM/mqdefault.jpg",
+      "date": "2026.09.14",
+      "type": "short"
+    },
+    {
       "id": "ABzdMhErbNo",
       "title": "노래가 너무 신나는데 어떡하라고~🎧 | 리센느닷없이 | RESCENE (리센느)",
       "url": "https://www.youtube.com/shorts/ABzdMhErbNo",
@@ -86,14 +94,6 @@
       "title": "아~니 돈 봉투가 없어?! | 리센느닷없이 | RESCENE (리센느)",
       "url": "https://www.youtube.com/watch?v=fmz1znE6-iA",
       "thumbnail": "https://i.ytimg.com/vi/fmz1znE6-iA/mqdefault.jpg",
-      "date": "2026.09.09",
-      "type": "short"
-    },
-    {
-      "id": "AQCci-VrGC0",
-      "title": "#JULIE #NATTY 선배님과 어디서나 당당하게 걷기 🎀",
-      "url": "https://www.youtube.com/shorts/AQCci-VrGC0",
-      "thumbnail": "https://i.ytimg.com/vi/AQCci-VrGC0/mqdefault.jpg",
       "date": "2026.09.09",
       "type": "short"
     }
