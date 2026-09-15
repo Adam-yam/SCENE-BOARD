@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T15:05:27Z",
+  "updated": "2026-09-15T16:05:23Z",
   "events": [
     {
       "date": "2026-07-06",
@@ -532,15 +532,15 @@
     {
       "date": "2026-09-17",
       "time": null,
-      "title": "동국대학교 축제",
+      "title": "서울대학교 축제",
       "detail": "",
       "type": "기타",
       "source": "mnetplus"
     },
     {
       "date": "2026-09-17",
-      "time": null,
-      "title": "서울대학교 축제",
+      "time": "19:00",
+      "title": "동국대학교 축제",
       "detail": "",
       "type": "기타",
       "source": "mnetplus"
@@ -555,7 +555,7 @@
     },
     {
       "date": "2026-09-18",
-      "time": null,
+      "time": "19:00",
       "title": "수원대학교 축제",
       "detail": "",
       "type": "기타",
@@ -578,6 +578,14 @@
       "source": "mnetplus"
     },
     {
+      "date": "2026-09-22",
+      "time": null,
+      "title": "한국외국어대학교 글로벌캠퍼스 축제",
+      "detail": "",
+      "type": "기타",
+      "source": "mnetplus"
+    },
+    {
       "date": "2026-09-27",
       "time": "19:00",
       "title": "Objet K-pop Festa 2026",
@@ -594,6 +602,14 @@
       "source": "mnetplus"
     },
     {
+      "date": "2026-09-29",
+      "time": null,
+      "title": "한양대학교 ERICA 축제",
+      "detail": "",
+      "type": "기타",
+      "source": "mnetplus"
+    },
+    {
       "date": "2026-10-03",
       "time": null,
       "title": "2026 입크페스티벌",
@@ -605,6 +621,14 @@
       "date": "2026-10-03",
       "time": null,
       "title": "공주 백제문화제",
+      "detail": "",
+      "type": "기타",
+      "source": "mnetplus"
+    },
+    {
+      "date": "2026-10-09",
+      "time": null,
+      "title": "연수 능허대 문화 축제",
       "detail": "",
       "type": "기타",
       "source": "mnetplus"
